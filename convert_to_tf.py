@@ -76,26 +76,74 @@ api.makeAvailableIn(globals())
 verse_node = T.nodeFromSection(('Genesis', 1, 1))
 book_node = L.u(verse_node, otype='book')[0]
 tf_words = []
+tf_references = []
 for w in L.d(book_node, otype='word'):
 	if F.g_cons_utf8.v(w) != "":
 		tf_words.append(F.g_cons_utf8.v(w))
+		tf_references.append(str(T.sectionFromNode(w)))
+
+offset_counter = 0
+def increment_offset_counter(offset_counter):
+	offset_counter += 1
+	# if offset_counter % 2500 == 0:
+	# 	print("offsets: ", offset_counter)
+	return offset_counter
 
 final_chars = set('ךםןףץ')
 
 counter = 0
 print("sdbh units: ", len(sdbh_words))
 print("  tf units: ", len(tf_words))
+offset_sdbh = 0
+offset_tf = 0
 for i in range(len(min(sdbh_words, tf_words))):
-	if unicodedata.normalize("NFKD", sdbh_words[i]) == unicodedata.normalize("NFKD", tf_words[i]):
+	if unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf]):
+		# if offset_tf > 1 or offset_sdbh:
+		# 	print("offset help!")
 		continue
-	if sdbh_words[i] in final_chars:
+
+	# just assume that if it's just a final character, it's been wrongly converted
+	if sdbh_words[i - offset_sdbh] in final_chars:
 		continue
-	print(sdbh_words_references[i], ": ", sdbh_words[i], "=!=", tf_words[i])
+
+	#detect offsets
+	if unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh - 1]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf]):
+		offset_sdbh += 1
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+	elif unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf - 1]):
+		offset_tf += 1
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+	elif unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh - 2]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf]):
+		offset_sdbh += 2
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+	elif unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf - 2]):
+		offset_tf += 2
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+	elif unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh - 3]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf]):
+		offset_sdbh += 3
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+	elif unicodedata.normalize("NFKD", sdbh_words[i - offset_sdbh]) == unicodedata.normalize("NFKD", tf_words[i - offset_tf - 3]):
+		offset_tf += 3
+		offset_counter = increment_offset_counter(offset_counter)
+		continue
+
+	print(sdbh_words_references[i - offset_sdbh], ":SD: ", sdbh_words[i - offset_sdbh], "=!=", tf_words[i - offset_tf], " :TF:", tf_references[i - offset_tf])
+
 	counter += 1
 	if counter > 100:
 		print("TOO MANY ISSUES - EXITING")
 		exit()
 
+print(offset_sdbh)
+print(offset_tf)
 
 if len(sdbh_words) != len(tf_words):
+	print("\nlast 5 words:")
+	print("sdbh_words: ", " ".join(sdbh_words[len(sdbh_words) - 5:]), sdbh_words_references[-1])
+	print("  tf_words: ", " ".join(tf_words[len(tf_words) - 5:]), tf_references[-1])
 	print("WARNING: lists of unequal length, not all data has been compared")
