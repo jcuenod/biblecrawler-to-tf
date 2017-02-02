@@ -1,0 +1,1 @@
+sqlite3 -header -csv biblecrawler.s3db "select RecordId, HebrewText, SDBH, LexDomain, HebrewText from mtmorph;" > ~/out.csv
