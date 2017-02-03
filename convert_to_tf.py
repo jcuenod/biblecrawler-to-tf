@@ -117,10 +117,9 @@ def get_tf(book_abbreviation):
 	tf_references = []
 	tf_ids = []
 	for w in L.d(book_node, otype='word'):
-		if F.g_cons_utf8.v(w) != "":
-			tf_words.append(F.g_cons_utf8.v(w))
-			tf_references.append(str(T.sectionFromNode(w)))
-			tf_ids.append(w)
+		tf_words.append(F.g_cons_utf8.v(w))
+		tf_references.append(str(T.sectionFromNode(w)))
+		tf_ids.append(w)
 	return tf_words, tf_references, tf_ids
 
 def replace_finals(word):
@@ -141,7 +140,7 @@ def normalised_compare(w1, w2):
 node_data = []
 domains_to_ignore = ["Negators", "Identifiers"]
 do_print = True
-# for book_abbreviation in ["Ps"]:
+# for book_abbreviation in ["Gen"]:
 for book_abbreviation in sdbh_books:
 	tf_words, tf_references, tf_ids = get_tf(book_abbreviation)
 	sdbh_words, sdbh_references, sdbh_ids = get_sdbh(book_abbreviation)
@@ -178,8 +177,11 @@ for book_abbreviation in sdbh_books:
 				temp_offset += 1
 				to_test += tf_words[i + temp_offset]
 			if normalised_compare(sdbh_words[i + offset_sdbh], to_test):
-				for j in range(temp_offset - offset_tf):
-					node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
+				for j in range(temp_offset - offset_tf + 1):
+					if tf_words[i + offset_tf + j] == "":
+						node_data.append(("","",""))
+					else:
+						node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
 				offset_tf = temp_offset
 				# if do_print:
 				# 	print("  tf fix:", sdbh_references[i + offset_sdbh], ":SD: ", sdbh_words[i + offset_sdbh], "==", to_test, " :TF:", tf_references[i + offset_tf], "OFFSETS (tf, sdbh):", offset_tf, offset_sdbh)
@@ -247,11 +249,14 @@ for book_abbreviation in sdbh_books:
 				offset_sdbh = temp_offset
 				continue
 
-		# if do_print:
-		# 	print(sdbh_references[i + offset_sdbh], ":SD: ", sdbh_words[i + offset_sdbh], "=!=", tf_words[i + offset_tf], " :TF:", tf_references[i + offset_tf], "OFFSETS (tf, sdbh):", offset_tf, offset_sdbh)
+		if do_print:
+			print(sdbh_references[i + offset_sdbh], ":SD: ", sdbh_words[i + offset_sdbh], "=!=", tf_words[i + offset_tf], " :TF:", tf_references[i + offset_tf], "OFFSETS (tf, sdbh):", offset_tf, offset_sdbh)
+		# Having tested, I'm fairly confident that there aren't any of these that mess up alignment:
+		print("Guess I'll just append whatever...")
+		node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
 
 		counter += 1
-		if counter > 100:
+		if counter > 10:
 			print("TOO MANY ISSUES - EXITING")
 			exit()
 
@@ -262,7 +267,7 @@ for book_abbreviation in sdbh_books:
 			print("  tf_words: ", " ".join(tf_words[len(tf_words) - 5:]), tf_references[-1])
 			print("WARNING: lists of unequal length, not all data has been compared")
 		else:
-			print("success")
+			print("success ({0} nodes)".format(str(len(node_data))))
 
 
 filename = "sdbh.tf"

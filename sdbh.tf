@@ -1,7 +1,7 @@
 @node
 @valueType=str
 @writtenBy=James Cuénod & SDBH
-@dateWritten=2017-02-03T05:30:37Z
+@dateWritten=2017-02-03T14:54:32Z
 
 
 Time
@@ -64,8 +64,10 @@ Dark
 Speak
 Deities
 
+
 Light
 Time
+
 
 
 Dark
@@ -110,6 +112,7 @@ Relations of Description
 
 
 
+
 Universe
 
 
@@ -119,6 +122,7 @@ Relations of Description
 
 Relations of Location
 
+
 Universe
 
 Exist; Happen
@@ -126,6 +130,7 @@ Adverb
 
 Speak
 Deities
+
 
 Universe
 Universe
@@ -160,6 +165,7 @@ Adverb
 
 Speak
 Deities
+
 
 Land
 Land
@@ -327,7 +333,9 @@ Land
 Relations of Involvement
 Control
 
+
 Time
+
 
 
 Time
@@ -423,10 +431,12 @@ Identifiers
 Identifiers
 Liquids
 
+
 Water; Direction
 
 Identifiers
 Birds
+
 
 
 Land
@@ -507,6 +517,7 @@ Water; Direction
 Birds
 Identifiers
 Universe
+
 
 
 Wild Animals
@@ -679,6 +690,7 @@ Universe
 Non-Happen
 Deities
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -687,6 +699,7 @@ Relations of Description
 Serve
 
 Non-Happen
+
 
 Time
 Identifiers
@@ -741,6 +754,7 @@ Identifiers
 Land
 Adverb of time
 Exist; Happen
+
 
 Land
 
@@ -1264,6 +1278,7 @@ Relations of Perception
 Wish
 Participants
 Relations of Involvement
+
 Parts: Body
 
 Wish
@@ -1310,6 +1325,7 @@ Names of Supernatural Beings
 Deities
 Act
 
+
 Products
 
 Time
@@ -1346,6 +1362,7 @@ Speak
 Identifiers
 Perception; Sounds
 Hear
+
 
 Products
 
@@ -1395,6 +1412,7 @@ Ingest
 Speak
 Names of Supernatural Beings
 Deities
+
 
 People
 
@@ -1760,6 +1778,7 @@ Relations of Occurrence
 Negators
 
 
+
 Constructions.Parts
 Sin
 Stance
@@ -1780,6 +1799,7 @@ Kinship
 Exist; Happen
 
 Exist; Happen
+
 
 Land
 
@@ -1851,6 +1871,7 @@ Involvement.Waver
 Involvement.Waver
 Exist; Happen
 
+
 Land
 
 Speak
@@ -1880,6 +1901,7 @@ Exist; Happen
 Involvement.Waver
 
 Involvement.Waver
+
 
 Land
 
@@ -2624,6 +2646,7 @@ Negators
 People
 Body.Parts
 
+
 People
 
 Time
@@ -2643,8 +2666,10 @@ Identifiers
 People
 Exist; Happen
 
+
 Land
 Move
+
 Time
 Identifiers
 Participant Referents
@@ -2682,6 +2707,7 @@ Evil
 Identifiers
 People
 
+
 Land
 
 Modification.Complete
@@ -2701,6 +2727,7 @@ Serve
 Identifiers
 Identifiers
 People
+
 
 Land
 
@@ -2844,6 +2871,7 @@ Kinship / Construction
 
 Orientation: Attachment
 
+
 Bitumen
 
 Identifiers
@@ -2865,6 +2893,7 @@ Dimension
 Dimension
 Parts: Constructions
 Serve
+
 
 Containers/Ships
 
@@ -2911,6 +2940,7 @@ Identifiers
 Universe
 Modification.Complete
 Relations of Description
+
 
 Land
 Attribute
@@ -3027,6 +3057,7 @@ Containers/Ships
 Identifiers
 Description
 Just
+
 
 
 
@@ -3208,6 +3239,7 @@ Quantity; Frequency
 Alive
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -3216,7 +3248,9 @@ Quantity; Frequency
 
 Time
 
+
 Time
+
 
 Time
 Identifiers
@@ -3426,10 +3460,13 @@ Move
 Identifiers
 Land
 
+
 Birds
 
 
+
 Wild Animals
+
 
 
 Animals
@@ -3457,6 +3494,7 @@ Parts: Creatures
 
 Modification.Complete
 Relations of Description
+
 
 Land
 Dead
@@ -3495,6 +3533,7 @@ Names
 Relations of Description
 Relations of Association
 
+
 Containers/Ships
 
 Attribute (Action)
@@ -3524,6 +3563,7 @@ Identifiers
 Wild Animals
 Relations of Description
 Relations of Association
+
 
 Containers/Ships
 
@@ -3578,6 +3618,7 @@ Space
 Identifiers
 Containers/Ships
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -3585,6 +3626,7 @@ Quantity; Frequency
 Quantity; Frequency
 
 Time
+
 
 Time
 
@@ -3605,7 +3647,9 @@ Quantity
 
 
 
+
 Quantity
+
 
 Time
 Position
@@ -3764,9 +3808,11 @@ Quantity; Frequency
 Quantity; Frequency
 Time
 
+
 Quantity
 
 Quantity
+
 
 Time
 Dry
@@ -3793,6 +3839,7 @@ Identifiers
 Land
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -3801,6 +3848,7 @@ Quantity; Frequency
 
 Quantity
 Time
+
 
 Time
 Dry
@@ -3835,7 +3883,9 @@ Relations of Association
 Modification.Complete
 
 
+
 Birds
+
 
 
 Wild Animals
@@ -3853,6 +3903,7 @@ Move
 Relations of Association
 
 Move
+
 
 Land
 
@@ -3918,6 +3969,7 @@ Pure
 
 Move
 Sacrifice
+
 
 Altars
 
@@ -4090,6 +4142,7 @@ Parts: Creatures
 Identifiers
 People
 
+
 People
 Parts: Creatures
 Wounds
@@ -4107,6 +4160,7 @@ Good
 
 Abundant
 Move
+
 
 Land
 
@@ -4143,7 +4197,9 @@ Alive
 Relations of Description
 Relations of Association
 
+
 Birds
+
 
 Wild Animals
 
@@ -4214,6 +4270,7 @@ Identifiers
 Universe
 Possess
 
+
 Clouds
 
 Exist; Happen
@@ -4237,6 +4294,7 @@ Land
 Position
 Identifiers
 Universe
+
 
 
 
@@ -4271,6 +4329,7 @@ Modification.Complete
 Exist; Happen
 Identifiers
 Universe
+
 
 Clouds
 
@@ -4377,6 +4436,7 @@ Speak
 
 Quantity; Frequency
 Kinship
+
 
 Orientation: Attachment
 
@@ -4582,6 +4642,7 @@ Occurrence
 Relations of Involvement
 Exist; Happen
 Strong
+
 
 Land
 Participants
@@ -4902,6 +4963,7 @@ Apart
 Identifiers
 People
 
+
 Land
 Space
 Identifiers
@@ -4956,6 +5018,7 @@ Paint
 Exist; Happen
 
 
+
 Sand
 
 Speak
@@ -4967,6 +5030,7 @@ Towns
 Constructions; Fortifications
 
 Land; Universe; Water; Elevations; Constructi
+
 
 Universe
 
@@ -5532,6 +5596,7 @@ Land
 Move
 Names of People
 
+
 Land
 
 Space
@@ -5543,6 +5608,7 @@ Names of Geographical Objects
 Identifiers
 Names
 Adverb
+
 
 Land
 
@@ -5613,6 +5679,7 @@ Names
 Exist; Happen
 Ingest
 
+
 Land
 
 Move
@@ -5624,6 +5691,7 @@ Referents of Location
 
 
 Identifiers
+
 
 
 Land
@@ -5822,9 +5890,12 @@ Names of People
 
 Intense
 
+
 Possess
 
+
 Minerals; Metal
+
 
 
 Metal
@@ -5845,6 +5916,7 @@ Exist; Happen
 Referents of Location
 Tents
 
+
 Time
 
 Names of Locations
@@ -5859,6 +5931,7 @@ Altars
 Relations of Description
 Serve
 Referents of Location
+
 
 Quantity
 
@@ -5921,6 +5994,7 @@ Identifiers
 Names of Groups
 Adverb
 Space
+
 
 Land
 
@@ -6110,6 +6184,7 @@ People: Community
 Estimate
 Stance
 Act
+
 
 Land
 
@@ -6609,6 +6684,7 @@ Location
 Names of People
 
 
+
 Relations of Involvement
 Speak
 Negators
@@ -6761,6 +6837,7 @@ Identifiers
 Detach
 Identifiers
 
+
 Location
 
 Possess
@@ -6888,6 +6965,7 @@ Identifiers
 Parts
 Identifiers
 Identifiers
+
 
 Time
 Identifiers
@@ -7094,6 +7172,7 @@ Water
 Identifiers
 Liquids
 
+
 Land
 
 Identifiers
@@ -7173,6 +7252,7 @@ Wild Animals
 People
 
 
+
 Modification.Complete
 
 
@@ -7206,7 +7286,9 @@ Names of Locations
 
 Speak
 
+
 Depressions; Water
+
 
 Presentative deictic
 
@@ -7615,8 +7697,10 @@ Relations of Association
 Names
 
 
+
 Identifiers
 Identifiers
+
 
 Time
 Identifiers
@@ -7884,6 +7968,7 @@ People
 Speak
 Presentative deictic
 
+
 Tents
 Happen
 Speak
@@ -7891,6 +7976,7 @@ Direction
 
 Location
 Relations of Description
+
 
 Happen
 
@@ -7915,6 +8001,7 @@ Names
 Leaders
 Move
 
+
 Time
 Happen
 Relations of Association
@@ -7923,6 +8010,7 @@ Relations of Involvement
 
 Roads; Act
 Relations of Description
+
 People
 
 Sounds
@@ -7964,9 +8052,11 @@ Names of Supernatural Beings
 Speak
 Happen
 
+
 Direction
 Location
 Relations of Description
+
 
 Happen
 
@@ -8132,6 +8222,7 @@ Move
 Negators
 Free
 
+
 Space
 
 Quantity; Frequency
@@ -8145,6 +8236,7 @@ Event Markers
 Relations of Involvement
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -8156,8 +8248,10 @@ Evil
 
 Exist; Happen
 Relations of Description
+
 Just
 Relations of Description
+
 Evil
 
 
@@ -8339,6 +8433,7 @@ Identifiers
 Deities
 Names
 
+
 Time
 
 Names of People
@@ -8381,6 +8476,7 @@ Move
 
 Speak
 Negators
+
 
 
 Roads
@@ -8481,10 +8577,12 @@ Happen
 Serve
 
 Move
+
 Well
 
 
 Focus particle
+
 
 People
 
@@ -8519,6 +8617,7 @@ Relations of Involvement
 
 
 Ask
+
 
 People
 
@@ -8558,6 +8657,7 @@ Identifiers
 Kinship / Construction
 Impact
 
+
 Blind
 
 Quantity
@@ -8588,6 +8688,7 @@ Kinship
 
 Modification.Complete
 Relations of Description
+
 
 
 Towns
@@ -8702,6 +8803,7 @@ Space
 
 Orientation: Attachment
 
+
 Towns
 
 Exist; Happen
@@ -8799,6 +8901,7 @@ Merciful
 
 Focus particle
 
+
 Speak
 Identifiers
 Identifiers
@@ -8891,6 +8994,7 @@ Minerals
 Time
 Names of People
 
+
 Time
 Location
 Identifiers
@@ -8966,6 +9070,7 @@ Names of Locations
 
 Space
 
+
 Elevations
 
 Quantity; Frequency
@@ -8979,6 +9084,7 @@ Space
 Names of Locations
 
 Space
+
 
 Elevations
 Participants
@@ -8996,6 +9102,7 @@ Kinship
 Old
 
 People
+
 
 
 Land
@@ -9025,6 +9132,7 @@ Ingest
 Identifiers
 Kinship
 Kinship
+
 
 Time
 Participants
@@ -9077,6 +9185,7 @@ People: Community
 
 Ingest
 Focus particle
+
 
 Time
 Identifiers
@@ -9296,6 +9405,7 @@ Relations of Description
 Time
 Names of People
 
+
 Time
 
 Speak
@@ -9369,6 +9479,7 @@ modal word
 
 Happen
 Deities
+
 
 Space
 Identifiers
@@ -9448,6 +9559,7 @@ Speak
 Names of People
 discourse particle
 Land
+
 
 
 
@@ -9538,6 +9650,7 @@ Names of People
 Kinship
 
 Attribute.Old
+
 
 
 Relations of Description
@@ -9718,6 +9831,7 @@ Participants
 Time
 Names of People
 
+
 Time
 
 Possess
@@ -9744,6 +9858,7 @@ Move
 Move
 
 Land
+
 
 
 Non-Exist
@@ -9873,6 +9988,7 @@ Great
 
 Space
 
+
 Land
 
 Exist; Happen
@@ -9893,6 +10009,7 @@ Land
 Names
 
 Exist; Happen
+
 
 
 Identifiers
@@ -9932,6 +10049,7 @@ Kinship
 
 Kinship
 Relations of Description
+
 Faithful
 Relations of Description
 Serve
@@ -10055,9 +10173,11 @@ Names of Locations
 
 Speak
 
+
 Space
 Identifiers
 Participants
+
 
 
 Referents of Location
@@ -10066,6 +10186,7 @@ Quantity; Frequency
 Names of Locations
 Associate
 Covenant
+
 
 
 
@@ -10083,6 +10204,7 @@ Names
 Trees
 Names of Locations
 Identifiers
+
 
 
 
@@ -10156,6 +10278,7 @@ Location
 Time
 Names of People
 
+
 Time
 
 Cover
@@ -10187,6 +10310,7 @@ Speak
 
 Identifiers
 Deities
+
 
 Time
 Identifiers
@@ -10334,6 +10458,7 @@ Direction
 
 
 
+
 Location
 Names of People
 Identifiers
@@ -10402,6 +10527,7 @@ discourse particle
 Domestic Animals
 Space
 Grasp
+
 
 Plants
 
@@ -10484,6 +10610,7 @@ Identifiers
 Universe
 
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -10522,8 +10649,10 @@ Move
 Location
 
 
+
 Space
 Names of People
+
 
 
 Happen
@@ -10895,12 +11024,14 @@ Weight
 
 Move
 
+
 Exchange
 
 Stance
 Land
 Names
 Relations of Description
+
 
 Names of Locations
 Relations of Description
@@ -10919,6 +11050,7 @@ Modification.Complete
 Identifiers
 Trees
 Relations of Description
+
 
 Land
 Relations of Description
@@ -10983,12 +11115,14 @@ Names of People
 Old
 Move
 
+
 Time
 
 Names of Supernatural Beings
 Praise
 Identifiers
 Names of People
+
 
 Modification.Complete
 
@@ -11203,6 +11337,7 @@ Identifiers
 Animals
 
 Orientation: Attachment
+
 
 Towns
 Location
@@ -11499,6 +11634,7 @@ Leaders
 Participant Referents
 
 
+
 Move
 Names of Supernatural Beings
 Kinship / Construction
@@ -11514,6 +11650,7 @@ Speak
 Kinship / Construction
 Kinship
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -11585,6 +11722,7 @@ Names of Supernatural Beings
 
 Stance//Space
 
+
 Orientation: Attachment
 
 Participant Referents
@@ -11593,6 +11731,7 @@ Identifiers
 Kinship / Construction
 
 Space
+
 
 Animals
 Move
@@ -11611,6 +11750,7 @@ Foliage
 
 Food
 Relations of Involvement
+
 Animals
 
 Liquids
@@ -12054,6 +12194,7 @@ Dwell
 
 Stance
 
+
 Time
 
 Speak
@@ -12092,6 +12233,7 @@ Leaders
 
 Speak
 Speak
+
 
 People
 
@@ -12179,6 +12321,7 @@ Move
 Move
 
 
+
 Participants
 Space
 
@@ -12190,6 +12333,7 @@ Move
 Names of People
 Relations of Involvement
 Move
+
 
 Land
 Relations of Involvement
@@ -12228,8 +12372,10 @@ Classes; Officials; Serve
 Identifiers
 People
 
+
 Identifiers
 Move
+
 
 Land
 Relations of Involvement
@@ -12461,6 +12607,7 @@ Names of People
 
 
 
+
 Identifiers
 Kinship
 Names of People
@@ -12585,6 +12732,7 @@ Kinship
 Names of People
 Identifiers
 Names of Groups
+
 
 
 Kinship
@@ -12773,6 +12921,7 @@ Speak
 Names
 Exchange
 Relations of Description
+
 Time
 Identifiers
 Possess
@@ -12796,6 +12945,7 @@ Names
 Vow
 
 Relations of Description
+
 Time
 
 
@@ -12833,6 +12983,7 @@ Possess
 Exist; Happen
 Ingest
 
+
 Land
 
 
@@ -12865,11 +13016,13 @@ Move
 Names
 Dwell
 
+
 Land
 Relations of Description
 Speak
 Location
 Fight
+
 
 Land
 Identifiers
@@ -13053,6 +13206,7 @@ Speak
 Identifiers
 Touch
 
+
 People
 Identifiers
 Identifiers
@@ -13065,11 +13219,13 @@ Dead
 Space
 Names of People
 
+
 Land
 Identifiers
 
 
 Search; Know
+
 
 Time
 Identifiers
@@ -13176,6 +13332,7 @@ Speak
 
 Relations of Description
 
+
 Relations of Description
 Speak
 
@@ -13184,6 +13341,7 @@ Kinship
 Open
 Stage
 Names of People
+
 
 Water
 
@@ -13251,6 +13409,7 @@ Names of Supernatural Beings
 
 Good
 
+
 Land
 Names of Locations
 Move
@@ -13258,9 +13417,11 @@ Move
 Referents of Location
 
 
+
 Position
 Location
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -13388,6 +13549,7 @@ Ingest
 
 Time
 
+
 Time
 
 Vow
@@ -13405,6 +13567,7 @@ Relations of Association
 Intact
 Move
 Exist; Happen
+
 
 Time
 Identifiers
@@ -13436,6 +13599,7 @@ Names
 
 Identifiers
 Towns
+
 
 Relations of Time
 Identifiers
@@ -13718,6 +13882,7 @@ Identifiers
 Good
 Relations of Description
 Identifiers
+
 
 Kinship / Construction
 
@@ -14358,6 +14523,7 @@ Names
 Names of Groups
 Move
 
+
 Kinship / Construction
 Names of People
 Kinship
@@ -14416,6 +14582,7 @@ Names
 
 Move
 
+
 Location
 Names of People
 Kinship
@@ -14439,6 +14606,7 @@ Names
 Praise
 Move
 Identifiers
+
 
 Relations of Involvement
 Possess
@@ -14472,6 +14640,7 @@ Kinship
 Move
 
 
+
 Perception
 Names
 Relations of Perception
@@ -14508,10 +14677,12 @@ Names
 
 
 
+
 Move
 Names of Locations
 Move
 Meet
+
 
 Space
 
@@ -14532,6 +14703,7 @@ Space
 Location
 
 Stance
+
 
 
 Identifiers
@@ -14647,6 +14819,7 @@ Modality
 Existential particle
 Names of Supernatural Beings
 
+
 Space
 Identifiers
 Identifiers
@@ -14678,6 +14851,7 @@ Universe
 
 Time
 Names
+
 
 Time
 
@@ -14713,6 +14887,7 @@ Names of Locations
 Identifiers
 Towns
 
+
 Quantity
 
 Vow
@@ -14726,6 +14901,7 @@ Deities
 
 
 Safe
+
 
 
 Identifiers
@@ -14789,6 +14965,7 @@ Position; Connection
 
 discourse particle
 Depressions; Water
+
 
 Land
 
@@ -15181,6 +15358,7 @@ Ingest
 Move
 Exist; Happen
 
+
 Time
 
 Possess
@@ -15207,6 +15385,7 @@ Kinship
 
 
 Exist; Happen
+
 
 Time
 
@@ -15609,6 +15788,7 @@ Crops
 Search; Know
 Fruits
 
+
 Land
 
 Move
@@ -15660,6 +15840,7 @@ Names
 Identifiers
 Land
 Move
+
 Time
 
 Move
@@ -15678,6 +15859,7 @@ Fruits
 Kinship
 
 Sex
+
 
 
 Time
@@ -15931,9 +16113,11 @@ Modification.Complete
 
 Color
 
+
 Domestic Animals
 
 Color
+
 
 
 
@@ -15961,9 +16145,11 @@ Color
 
 Color
 
+
 Domestic Animals
 
 Color
+
 
 Domestic Animals
 Oppress
@@ -15979,6 +16165,7 @@ Relations of Description
 Speak
 
 Apart
+
 
 Time
 Identifiers
@@ -16008,6 +16195,7 @@ Color
 
 Modification.Complete
 Color
+
 
 Domestic Animals
 
@@ -16062,6 +16250,7 @@ Identifiers
 Parts: Trees
 Relations of Description
 Move
+
 
 Containers
 
@@ -16149,7 +16338,9 @@ Relations of Involvement
 Identifiers
 Domestic Animals
 
+
 Containers
+
 
 
 
@@ -16514,6 +16705,7 @@ Relations of Description
 
 
 
+
 Relations of Involvement
 Move
 Location
@@ -16578,6 +16770,7 @@ Speak
 Relations of Association
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -16636,6 +16829,7 @@ Names
 Attach
 Identifiers
 Tents
+
 
 Elevations
 
@@ -16937,11 +17131,13 @@ Oppress
 Time
 Exist; Happen
 
+
 Time
 Impact
 Heat
 
 Frost; Rain; Cold
+
 
 Time
 
@@ -17084,6 +17280,7 @@ Relations of Association
 Names of People
 
 
+
 Names
 Speak
 Relations of Association
@@ -17218,6 +17415,7 @@ Dead
 Names
 Products: Food
 
+
 Elevations
 
 Speak
@@ -17232,10 +17430,12 @@ Ingest
 
 Dwell
 
+
 Elevations
 
 Time
 Names of People
+
 
 Time
 
@@ -17504,6 +17704,7 @@ Move
 Dwell
 Referents of Location
 
+
 Time
 Identifiers
 Participants
@@ -17633,6 +17834,7 @@ Domestic Animals
 Relations of Involvement
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -17652,6 +17854,7 @@ Space
 
 Speak
 Merciful
+
 
 
 Give; Sacrifice
@@ -17677,13 +17880,16 @@ Give; Sacrifice
 Participants
 Dwell
 
+
 Time
 Identifiers
 Participants
 
+
 Towns
 
 Stance
+
 
 Time
 Participants
@@ -18168,6 +18374,7 @@ Leaders
 
 Direction
 
+
 Time
 Identifiers
 Participants
@@ -18207,6 +18414,7 @@ Land
 Names
 
 Move
+
 
 
 
@@ -18326,6 +18534,7 @@ Kinship
 Exist; Happen
 Relations of Association
 Possess
+
 
 Land
 
@@ -18601,6 +18810,7 @@ Identifiers
 
 Space
 
+
 Land
 
 Move
@@ -18687,6 +18897,7 @@ Towns
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -18760,10 +18971,12 @@ Domestic Animals
 Identifiers
 Relations of Description
 
+
 Towns
 
 Identifiers
 Relations of Description
+
 
 Land
 Possess
@@ -18786,6 +18999,7 @@ Identifiers
 Modification.Complete
 Relations of Description
 
+
 Kinship / Construction
 
 Speak
@@ -18804,7 +19018,9 @@ Space
 Identifiers
 Land
 
+
 Names
+
 
 
 Names of Groups
@@ -18845,6 +19061,7 @@ Referents of Location
 Serve
 
 Altars
+
 
 Deities
 Identifiers
@@ -18889,6 +19106,7 @@ Serve
 Referents of Location
 Altars
 
+
 Deities
 Identifiers
 Utter
@@ -18898,6 +19116,7 @@ Time
 Distress
 
 Exist; Happen
+
 
 
 
@@ -18973,6 +19192,7 @@ Altars
 
 Speak
 
+
 Space
 Deities
 Names of Locations
@@ -19014,6 +19234,7 @@ Names of Groups
 adverb
 
 Move
+
 
 
 
@@ -19088,6 +19309,7 @@ Move
 
 Deities
 
+
 Space
 Relations of Description
 Speak
@@ -19096,6 +19318,7 @@ Relations of Association
 Stance; Space
 Names
 Constructions
+
 
 Space
 Relations of Description
@@ -19217,6 +19440,7 @@ Exist; Happen
 Dwell
 Names
 
+
 Land
 Identifiers
 
@@ -19279,6 +19503,7 @@ Names of Groups
 Names
 Relations of Description
 Birth
+
 
 
 
@@ -19705,6 +19930,7 @@ Identifiers
 Identifiers
 Domestic Animals
 
+
 Land
 
 Ingest
@@ -19961,6 +20187,7 @@ Exist; Happen
 Ingest
 Relations of Association
 Kinship
+
 
 Domestic Animals
 Move
@@ -20223,6 +20450,7 @@ People
 discourse particle
 Move
 
+
 Land
 
 Ask
@@ -20290,6 +20518,7 @@ Leaders
 Identifiers
 Vision
 
+
 Move
 
 Text deictic
@@ -20339,6 +20568,7 @@ Constructions
 Identifiers
 Identifiers
 Relations of Description
+
 
 Land
 
@@ -20437,6 +20667,7 @@ Move
 People
 Exchange
 
+
 Names of Groups
 
 
@@ -20469,6 +20700,7 @@ Exchange
 Identifiers
 Names of People
 
+
 Names of Groups
 
 Quantity
@@ -20488,6 +20720,7 @@ Constructions
 discourse particle
 
 Names of People
+
 
 Constructions
 
@@ -20522,6 +20755,7 @@ Space
 Identifiers
 Identifiers
 Clothing
+
 
 Parts: Creatures
 Move
@@ -20614,6 +20848,7 @@ Identifiers
 Soldiers
 
 Exist; Happen
+
 
 
 Identifiers
@@ -20837,6 +21072,7 @@ Lose
 
 Cover
 
+
 Clothing
 
 
@@ -20986,6 +21222,7 @@ Speak
 Referents of Location
 Identifiers
 Prostitutes
+
 
 
 Names of Locations
@@ -21286,7 +21523,9 @@ Relations of Description
 Markers of Existence
 
 
+
 Kinship / Construction
+
 
 
 Land
@@ -21351,6 +21590,7 @@ Know
 Relations of Association
 
 
+
 Kinship / Construction
 
 Modification.Complete
@@ -21362,6 +21602,7 @@ Possess
 
 
 Great
+
 
 Kinship / Construction
 Identifiers
@@ -21432,6 +21673,7 @@ People
 Identifiers
 Kinship / Construction
 Referents of Location
+
 
 Kinship / Construction
 
@@ -21526,6 +21768,7 @@ Move
 Speak
 Location
 Relations of Description
+
 Speak
 Move
 Identifiers
@@ -21572,6 +21815,7 @@ Location
 Relations of Involvement
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -21772,6 +22016,7 @@ Move
 Location
 Names of People
 
+
 Time
 
 Connection
@@ -21835,6 +22080,7 @@ Vision
 
 Presentative or sentence deictic
 Plants
+
 
 
 
@@ -21907,6 +22153,7 @@ Leaders; Titles
 Parts: Creatures
 Relations of Description
 
+
 Identifiers
 Quantity
 Relations of Description
@@ -21953,6 +22200,7 @@ Serve
 Space
 Identifiers
 
+
 Scenery
 
 Perception
@@ -21977,6 +22225,7 @@ Containers
 Food
 
 Parts: Creatures; People; Animals
+
 
 
 Containers
@@ -22037,6 +22286,7 @@ Parts: Creatures
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -22133,6 +22383,7 @@ Fat
 Parts: Creatures
 
 Ingest
+
 
 Plants
 
@@ -22232,6 +22483,7 @@ Presentative or sentence deictic
 Vision
 
 Exist; Happen
+
 
 Time
 
@@ -22431,6 +22683,7 @@ Attribute
 
 Ingest
 
+
 Plants
 Poor
 Presentative or sentence deictic
@@ -22455,6 +22708,7 @@ Relations of Description
 Modification.Complete
 Land
 Names
+
 
 Wrong
 
@@ -22490,6 +22744,7 @@ See
 Wrong
 Relations of Description
 Relations of Description
+
 
 Time
 
@@ -22655,6 +22910,7 @@ Know
 Identifiers
 Quantity
 
+
 Land
 
 
@@ -22742,6 +22998,7 @@ Crops
 Leaders; Titles
 Food
 
+
 Towns
 
 Safe
@@ -22751,6 +23008,7 @@ Identifiers
 Food
 
 Apart
+
 
 Land
 
@@ -22768,6 +23026,7 @@ Negators
 Dead
 Identifiers
 Land
+
 
 
 Happen
@@ -22983,6 +23242,7 @@ Names
 Possess
 Food
 
+
 Towns
 Food
 Land
@@ -23111,6 +23371,7 @@ Identifiers
 Groups
 Location
 Leaders; Titles
+
 
 Bread
 
@@ -23455,6 +23716,7 @@ Speak
 Location
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -23542,6 +23804,7 @@ Speak
 Negators
 Sin
 
+
 People
 
 Negators
@@ -23608,6 +23871,7 @@ Products
 
 
 
+
 Serve
 
 Adverb
@@ -23632,6 +23896,7 @@ Possess
 Food
 
 Domestic Animals
+
 
 Dwell
 
@@ -23864,6 +24129,7 @@ Meet
 Hard
 
 
+
 Relations of Description
 Move
 
@@ -23877,6 +24143,7 @@ Universe
 
 Identifiers
 Ingest
+
 
 
 Land
@@ -23958,6 +24225,7 @@ Sin
 
 
 Speak
+
 
 People
 
@@ -24072,6 +24340,7 @@ Land
 Artifacts
 
 Move
+
 
 People
 Give; Sacrifice
@@ -24199,6 +24468,7 @@ Ingest
 Identifiers
 People
 
+
 Existence
 Move
 Serve
@@ -24235,6 +24505,7 @@ Identifiers
 Direction
 
 Containers
+
 
 Time
 Participant Referents
@@ -24275,6 +24546,7 @@ Speak
 Occurrence
 Leaders
 Move
+
 
 
 Time
@@ -24374,6 +24646,7 @@ Give; Sacrifice
 Relations of Occurrence
 Move
 Names of People
+
 
 Existence
 Relations of Perception
@@ -24496,6 +24769,7 @@ Apart
 
 
 Apart
+
 
 
 Names
@@ -24680,6 +24954,7 @@ Event Markers
 Speak
 Leaders
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -24689,6 +24964,7 @@ Classes; Officials; Serve
 Relations of Involvement
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -24761,8 +25037,10 @@ Containers
 
 Sensation
 
+
 Great
 Occurrence
+
 
 
 Young
@@ -25169,6 +25447,7 @@ Identifiers
 
 
 
+
 Wrong
 Relations of Description
 Search; Know
@@ -25303,6 +25582,7 @@ Relations of Involvement
 Space
 
 Exist
+
 
 Land
 
@@ -25580,9 +25860,11 @@ Possess
 Products
 
 
+
 Relations of Association
 Modification.Complete
 Possess
+
 
 
 Set
@@ -25624,6 +25906,7 @@ Kinship
 
 
 
+
 Location
 Identifiers
 Kinship
@@ -25634,6 +25917,7 @@ Speak
 Location
 Negators
 Shake
+
 
 
 Move
@@ -25721,6 +26005,7 @@ Relations of Description
 Move
 
 
+
 Dead
 Products: Food
 
@@ -25782,6 +26067,7 @@ Names
 
 
 
+
 Carry
 Kinship
 Names
@@ -25794,6 +26080,7 @@ Kinship; Classes
 
 Identifiers
 People
+
 
 Vehicles
 Relations of Description
@@ -25937,6 +26224,7 @@ Relations of Description
 Birth
 Relations of Association
 Names
+
 
 
 
@@ -26335,11 +26623,13 @@ Leaders; Titles
 Relations of Involvement
 Fight
 
+
 Land
 Move
 
 
 Land
+
 
 Domestic Animals
 Relations of Description
@@ -26557,6 +26847,7 @@ Names
 Land
 Names
 
+
 Crops
 Relations of Description
 Participant Referents
@@ -26623,6 +26914,7 @@ Relations of Association
 Names of People
 Bread
 
+
 Domestic Animals
 
 
@@ -26634,6 +26926,7 @@ Domestic Animals
 
 Identifiers
 Domestic Animals
+
 
 
 Domestic Animals
@@ -26642,7 +26935,9 @@ Involvement.Support
 
 
 
+
 Modification.Complete
+
 
 
 Time
@@ -26657,6 +26952,7 @@ Identifiers
 
 Move
 Location
+
 
 
 Identifiers
@@ -26702,6 +26998,7 @@ Identifiers
 
 Identifiers
 Land
+
 
 Bread
 
@@ -26757,6 +27054,7 @@ Groups
 Move
 Identifiers
 
+
 Towns
 
 Location
@@ -26773,6 +27071,7 @@ Negators
 Possess
 
 Quantity
+
 
 
 
@@ -26818,6 +27117,7 @@ Identifiers
 Land
 
 Exist; Happen
+
 
 Crops
 
@@ -26878,6 +27178,7 @@ Names
 
 Leaders; Titles
 Relations of Association
+
 Quantity
 Focus particle
 Land
@@ -27132,6 +27433,7 @@ Land
 Move
 Land
 Names
+
 
 
 
@@ -27414,6 +27716,7 @@ People
 
 Praise
 
+
 Time
 Identifiers
 Participants
@@ -27518,6 +27821,7 @@ Great
 Strong
 Attribute.Flowing
 Relations of Description
+
 Liquids
 Negators
 Great
@@ -27619,14 +27923,17 @@ Names of People
 Groups
 Attach
 
+
 Plants
 Towns
+
 
 
 Foliage
 Kinship
 Domestic Animals
 Purify
+
 
 Liquids; Wine; Crops
 Clothing
@@ -27818,9 +28125,11 @@ Names of People
 Wild Animals
 Impact; Dead
 
+
 Time
 Ingest
 Possess
+
 
 
 Time
@@ -27870,6 +28179,7 @@ Land
 Names
 Identifiers
 Names of Groups
+
 
 Elevations
 Relations of Description
@@ -28117,6 +28427,7 @@ Move
 Names of Locations
 Identifiers
 Identifiers
+Identifiers
 Relations of Description
 
 Direction
@@ -28147,6 +28458,7 @@ Names
 Identifiers
 Identifiers
 Grief
+
 
 
 
@@ -28328,6 +28640,7 @@ Well
 
 Serve
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -28445,6 +28758,7 @@ Time
 
 Intact
 Identifiers
+
 
 
 
@@ -28632,6 +28946,7 @@ Parts: Constructions
 Modification.Complete
 Serve
 
+
 Land
 Identifiers
 Modification.Complete
@@ -28645,6 +28960,7 @@ Fight
 Speak
 Leaders
 Names
+
 
 Birth
 Identifiers
@@ -28709,6 +29025,7 @@ Speak
 Leaders
 Happen
 
+
 Birth
 
 Speak
@@ -28733,6 +29050,7 @@ Leaders; Titles
 
 Negators
 Relations of Description
+
 People
 Identifiers
 Names
@@ -28752,6 +29070,7 @@ Birth
 
 Right
 Deities
+
 
 Birth
 
@@ -28836,7 +29155,9 @@ Plants
 
 Cover
 
+
 Paint
+
 
 
 Bitumen
@@ -28848,6 +29169,7 @@ Identifiers
 People
 
 Space
+
 
 Plants
 
@@ -29009,6 +29331,7 @@ Move
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participant Referents
@@ -29050,9 +29373,11 @@ Names
 
 Hide
 
+
 Sand
 
 Move
+
 
 Time
 Identifiers
@@ -29065,6 +29390,7 @@ Names
 Fight
 
 Speak
+
 
 Evil
 
@@ -29245,6 +29571,7 @@ Modification
 
 Exist; Happen
 
+
 Time
 Identifiers
 Abundant
@@ -29342,6 +29669,7 @@ discourse particle
 Identifiers
 
 Burn
+
 
 Fire
 
@@ -29753,6 +30081,7 @@ Move
 Quantity; Frequency
 Time
 
+
 Land
 
 Dead
@@ -29948,6 +30277,7 @@ discourse particle
 Parts: Creatures
 Wounds
 Relations of Description
+
 Rain
 
 Speak
@@ -30033,6 +30363,7 @@ Exist; Happen
 
 Parts: Creatures
 
+
 Land
 Titles
 Speak
@@ -30070,6 +30401,7 @@ Names of Supernatural Beings
 Location
 
 Space
+
 
 
 People
@@ -30344,6 +30676,8 @@ Exist; Happen
 
 
 
+
+
 Dwell
 
 Meet
@@ -30378,6 +30712,7 @@ Adverb
 Speak
 Kinship
 Parts: Creatures
+
 
 Impact
 
@@ -30495,6 +30830,7 @@ Groups
 Festivals
 
 
+
 Land
 
 Speak
@@ -30532,6 +30868,7 @@ Move
 Quantity; Frequency
 Time
 
+
 Land
 
 Dead
@@ -30541,7 +30878,9 @@ Deities
 
 Meet
 
+
 Weak
+
 
 
 Attribute
@@ -30581,12 +30920,14 @@ Carry
 Speak
 Leaders; Titles
 
+
 Time
 Identifiers
 Participants
 Identifiers
 Identifiers
 Serve
+
 
 Groups
 
@@ -30600,6 +30941,7 @@ Relations of Involvement
 Possess
 Foliage
 Relations of Involvement
+
 Groups
 
 Exist
@@ -30703,6 +31045,7 @@ Names
 Relations of Involvement
 Gather
 Parts: Plants
+
 
 Foliage
 Act
@@ -30878,6 +31221,7 @@ Speak
 
 Sin
 
+
 Groups
 Identifiers
 Identifiers
@@ -30895,6 +31239,7 @@ Speak
 
 
 Sin
+
 
 Groups
 Identifiers
@@ -31631,7 +31976,9 @@ Speak
 Focus particle
 Leaders; Titles
 
+
 Wise
+
 
 
 Divination
@@ -31687,6 +32034,7 @@ Move
 Location
 Leaders; Titles
 
+
 Time
 discourse marker
 Move
@@ -31727,6 +32075,7 @@ Groups
 
 Serve
 
+
 Land
 
 Discourse particle
@@ -31747,6 +32096,7 @@ discourse marker
 Participant Referents
 Impact
 
+
 Tools
 Relations of Description
 
@@ -31755,6 +32105,7 @@ Parts: Creatures
 Identifiers
 Liquids
 Relations of Description
+
 
 Names of Geographical Objects
 
@@ -31765,6 +32116,7 @@ Parts: Creatures
 Identifiers
 Aquatic Animals
 Relations of Description
+
 
 Names of Geographical Objects
 Dead
@@ -31821,7 +32173,9 @@ Land
 
 
 
+
 Trees
+
 
 
 Stone
@@ -31838,6 +32192,7 @@ Names of Supernatural Beings
 
 Carry
 
+
 Tools
 
 Impact
@@ -31845,6 +32200,7 @@ Identifiers
 Identifiers
 Liquids
 Relations of Description
+
 
 Names of Geographical Objects
 
@@ -31861,6 +32217,7 @@ Identifiers
 Liquids
 Relations of Description
 
+
 Names of Geographical Objects
 
 Parts: Creatures
@@ -31868,6 +32225,7 @@ Parts: Creatures
 Identifiers
 Aquatic Animals
 Relations of Description
+
 
 Names of Geographical Objects
 Dead
@@ -31986,6 +32344,7 @@ Impact
 Identifiers
 Modification.Complete
 Scenery
+
 
 Aquatic Animals
 
@@ -32151,6 +32510,7 @@ Aquatic Animals
 Kinship / Construction
 Focus particle
 
+
 Names of Geographical Objects
 Exist
 
@@ -32183,6 +32543,7 @@ Classes; Officials; Serve
 
 Groups
 Focus particle
+
 
 Names of Geographical Objects
 Exist
@@ -32301,7 +32662,9 @@ Exist; Happen
 Identifiers
 Swarming Creatures
 
+
 People
+
 
 
 Wild Animals
@@ -32335,7 +32698,9 @@ Exist; Happen
 Identifiers
 Swarming Creatures
 
+
 People
+
 
 
 Wild Animals
@@ -32366,6 +32731,7 @@ Names of Supernatural Beings
 Location
 Names
 Time
+
 
 Time
 
@@ -32424,6 +32790,7 @@ Participant Referents
 
 
 Apart
+
 
 Time
 Identifiers
@@ -32504,6 +32871,7 @@ Dead
 
 Deities
 
+
 Land
 
 Speak
@@ -32535,6 +32903,7 @@ Quantity; Frequency
 Time
 Move
 
+
 Land
 
 Dead
@@ -32556,6 +32925,7 @@ Dead
 Relations of Association
 Names of Supernatural Beings
 Deities
+
 
 Land
 conjunctive adverb
@@ -32642,6 +33012,7 @@ Identifiers
 Parts: Creatures
 Focus particle
 
+
 Time
 Identifiers
 Identifiers
@@ -32691,15 +33062,21 @@ Exist; Happen
 Possess
 Relations of Description
 
+
 Land
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 Animals
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -32738,6 +33115,7 @@ Identifiers
 Speak
 Identifiers
 Identifiers
+
 
 Land
 Happen
@@ -32855,7 +33233,9 @@ Wounds
 Body
 Stage
 
+
 People
+
 
 
 Wild Animals
@@ -32876,6 +33256,7 @@ Wounds
 
 Exist; Happen
 Identifiers
+
 
 
 Priests; Magicians
@@ -32906,6 +33287,7 @@ Location
 Names
 Time
 
+
 Time
 
 Space
@@ -32926,6 +33308,7 @@ Identifiers
 Groups
 
 Serve
+
 
 
 Time
@@ -32966,6 +33349,7 @@ Identifiers
 Identifiers
 Groups
 
+
 Weak
 
 Non-Exist
@@ -33002,6 +33386,7 @@ discourse marker
 Attribute.Wet
 Relations of Description
 
+
 Referents of Time
 Rain
 
@@ -33032,6 +33417,7 @@ Modification.Complete
 Relations of Description
 
 
+
 Land
 Modification.Complete
 Identifiers
@@ -33041,6 +33427,7 @@ Identifiers
 Wild Animals
 Relations of Description
 Search
+
 
 
 
@@ -33087,6 +33474,7 @@ Classes; Officials; Serve
 
 Identifiers
 Possess
+
 
 Land
 
@@ -33184,6 +33572,7 @@ Names
 Identifiers
 Modification.Complete
 Relations of Description
+
 
 Land
 
@@ -33683,6 +34072,7 @@ Stance
 Land
 Names
 
+
 Swarming Creatures
 
 Move
@@ -33715,6 +34105,7 @@ Names of Supernatural Beings
 Move
 Time
 Wind
+
 
 Land
 Modification.Complete
@@ -33798,6 +34189,7 @@ Negators
 Exist
 Modification.Complete
 Color
+
 
 
 
@@ -34327,7 +34719,9 @@ Names
 Relations of Involvement
 Speak
 
+
 Quantity
+
 
 Time
 
@@ -34340,6 +34734,7 @@ Domestic Animals
 
 Kinship / Construction
 Communities
+
 
 
 Kinship / Construction
@@ -34397,6 +34792,7 @@ Quantity; Frequency
 
 Time
 
+
 Time
 Identifiers
 Identifiers
@@ -34438,6 +34834,7 @@ Identifiers
 Identifiers
 Parts: Creatures
 
+
 Time
 Identifiers
 Identifiers
@@ -34455,6 +34852,7 @@ Ingest
 
 Hot
 Wet
+
 
 Liquids
 
@@ -34479,6 +34877,7 @@ Exist
 
 
 Time
+
 
 Fire
 Burn
@@ -34509,6 +34908,7 @@ Move
 
 Land
 Names
+
 
 Time
 Identifiers
@@ -34593,6 +34993,7 @@ Bread
 Ingest
 
 
+
 Time
 Identifiers
 Quantity
@@ -34622,11 +35023,13 @@ Identifiers
 Quantity; Frequency
 
 
+
 Time
 Identifiers
 Quantity
 Gather
 Pure
+
 
 
 Time
@@ -34682,13 +35085,16 @@ Groups; Kinship
 Laws
 Time
 
+
 Quantity
 
 Quantity; Frequency
 
 Time
 
+
 Time
+
 
 Time
 Ingest
@@ -34700,7 +35106,9 @@ Quantity
 
 Quantity
 
+
 Time
+
 
 
 Quantity; Frequency
@@ -34723,6 +35131,7 @@ Identifiers
 
 Groups
 Names
+
 
 Classes
 
@@ -34767,8 +35176,10 @@ Plants
 
 Space
 
+
 Parts: Creatures
 Relations of Description
+
 
 Containers
 
@@ -34785,6 +35196,7 @@ Parts: Constructions
 Identifiers
 Parts: Creatures
 Relations of Description
+
 
 Containers
 
@@ -35307,7 +35719,9 @@ Laws
 Quantity
 Exist; Happen
 
+
 Classes
+
 
 
 Classes
@@ -35367,7 +35781,9 @@ Parts: Creatures
 Kinship
 Names
 
+
 People
+
 
 
 Wild Animals
@@ -35454,6 +35870,7 @@ Serve
 Identifiers
 Identifiers
 
+
 Time
 Identifiers
 Identifiers
@@ -35461,6 +35878,7 @@ Quantity; Frequency
 Time
 Ingest
 Bread
+
 
 
 Time
@@ -35492,6 +35910,7 @@ Scenery
 Speak
 Relations of Involvement
 Kinship
+
 
 Time
 Identifiers
@@ -35854,6 +36273,7 @@ Names
 Think
 Participant Referents
 
+
 Land
 Close
 
@@ -36018,6 +36438,7 @@ Possess
 Relations of Involvement
 Dead
 
+
 Land
 
 Identifiers
@@ -36053,6 +36474,7 @@ Identifiers
 
 
 Dead
+
 
 Land
 
@@ -36129,6 +36551,7 @@ Names
 
 Location
 Identifiers
+
 
 
 Land
@@ -36253,6 +36676,7 @@ Identifiers
 Identifiers
 
 
+
 Land
 
 Detach
@@ -36266,6 +36690,7 @@ Names
 Location
 Identifiers
 Water; Direction
+
 
 Land
 
@@ -36412,6 +36837,7 @@ Identifiers
 Move
 Space
 
+
 Water; Direction
 Negators
 Exist
@@ -36422,6 +36848,7 @@ Quantity
 Kinship
 Names
 Move
+
 
 Land
 
@@ -36441,6 +36868,7 @@ Direction
 
 Help |Save
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -36515,6 +36943,7 @@ Domestic Animals
 Move
 
 
+
 Water; Direction
 Attribute
 Identifiers
@@ -36544,6 +36973,7 @@ Leaders; Titles
 People
 Move
 
+
 Water; Direction
 
 Apart
@@ -36563,6 +36993,7 @@ Direction
 Names of Supernatural Beings
 Great
 
+
 Attribute
 Direction
 Names of Supernatural Beings
@@ -36578,6 +37009,7 @@ Occurrence
 Angry
 Non-Exist
 Relations of Description
+
 Parts: Plants
 
 
@@ -36613,6 +37045,7 @@ Cover
 Water; Direction
 Move
 Relations of Description
+
 Metal
 
 Liquids
@@ -36620,11 +37053,13 @@ Great
 Identifiers
 
 
+
 Deities
 Names of Supernatural Beings
 
 
 Great
+
 
 Pure
 Afraid
@@ -36676,6 +37111,7 @@ Afraid
 Parts: Creatures
 
 Relations of Description
+
 Stone
 
 Move
@@ -36717,6 +37153,7 @@ Vehicles
 
 Soldiers
 
+
 Water; Direction
 
 Move
@@ -36730,6 +37167,7 @@ Identifiers
 Kinship
 Names
 Move
+
 
 Land
 
@@ -36774,6 +37212,7 @@ Domestic Animals
 
 
 
+
 Water; Direction
 
 Move
@@ -36792,6 +37231,7 @@ Land
 Move
 Quantity; Frequency
 Time
+
 
 
 
@@ -36932,6 +37372,7 @@ Quantity; Frequency
 
 Time
 Relations of Involvement
+
 Time
 Identifiers
 Quantity; Frequency
@@ -36951,6 +37392,7 @@ Names
 
 
 Names of People
+
 
 Land
 
@@ -36995,6 +37437,7 @@ People
 Identifiers
 Identifiers
 
+
 Ingest
 
 Speak
@@ -37028,6 +37471,7 @@ Relations of Occurrence
 Negators
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -37091,12 +37535,14 @@ Possess
 Names of Supernatural Beings
 Relations of Involvement
 
+
 Time
 Parts: Creatures
 Relations of Involvement
 Ingest
 
 Bread
+
 
 Time
 
@@ -37159,6 +37605,7 @@ Deities
 Names of Supernatural Beings
 Position
 
+
 Clouds
 
 Speak
@@ -37183,6 +37630,7 @@ Ingest
 Parts: Creatures
 
 
+
 Time
 Satisfaction
 Bread
@@ -37194,6 +37642,7 @@ Names of Supernatural Beings
 Deities
 
 Exist; Happen
+
 
 Time
 
@@ -37207,12 +37656,14 @@ Identifiers
 Towns
 
 
+
 Time
 Exist; Happen
 Cover
 Identifiers
 Rain
 Location
+
 
 Towns
 
@@ -37230,6 +37681,7 @@ Thin // Soft
 Attribute
 Thin // Soft
 Relations of Description
+
 Frost
 
 Identifiers
@@ -37277,6 +37729,7 @@ Gather
 Ingest
 Capacity
 
+
 People
 Quantity
 People
@@ -37300,6 +37753,7 @@ Identifiers
 Quantity
 
 Measure
+
 
 Capacity
 
@@ -37351,7 +37805,9 @@ Names
 Gather
 Identifiers
 
+
 Time
+
 
 Time
 
@@ -37367,6 +37823,7 @@ Weak
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -37377,6 +37834,7 @@ Quantity; Frequency
 Identifiers
 Capacity
 Relations of Association
+
 Quantity
 
 Move
@@ -37457,10 +37915,12 @@ Time
 Negators
 Search; Know
 
+
 Land
 Quantity; Frequency
 Time
 Gather
+
 
 
 Time
@@ -37472,6 +37932,7 @@ Exist; Happen
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -37511,6 +37972,7 @@ Participants
 Possess
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -37525,6 +37987,7 @@ Move
 
 Space
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -37532,6 +37995,7 @@ Quantity; Frequency
 Non-Happen
 Identifiers
 Groups
+
 
 Time
 Identifiers
@@ -37580,6 +38044,7 @@ Bread
 Relations of Description
 Ingest
 Identifiers
+
 
 Land
 
@@ -37714,6 +38179,7 @@ Referents of Location
 Identifiers
 Groups
 
+
 Liquids
 
 Complain
@@ -37738,6 +38204,7 @@ Kinship
 Identifiers
 Possess
 
+
 Sense
 
 Lament
@@ -37748,6 +38215,7 @@ Relations of Involvement
 Speak
 
 Serve
+
 
 Groups
 Identifiers
@@ -37797,6 +38265,7 @@ Elevations
 Names of Geographical Objects
 
 Impact
+
 
 Elevations
 
@@ -37970,6 +38439,7 @@ Cognition.Write
 Identifiers
 Think
 Cognition
+
 
 
 Space
@@ -38162,6 +38632,7 @@ Search; Know
 
 
 
+
 Move
 Names of Supernatural Beings
 
@@ -38214,6 +38685,7 @@ Names of Supernatural Beings
 Modification.Complete
 Identifiers
 Deities
+
 
 
 Speak
@@ -38281,6 +38753,7 @@ Relations of Description
 Participants
 Serve
 
+
 Groups
 
 Speak
@@ -38292,6 +38765,7 @@ Identifiers
 Relations of Description
 Participant Referents
 Serve
+
 
 
 
@@ -38389,6 +38863,7 @@ Deities
 Exist; Happen
 Participant Referents
 Contend
+
 Groups
 Relations of Existence
 Identifiers
@@ -38580,6 +39055,7 @@ Move
 Location
 Land
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -38590,6 +39066,7 @@ Names
 
 Land
 Names
+
 
 Time
 Identifiers
@@ -38607,6 +39084,7 @@ Land
 Names
 
 Dwell
+
 
 
 
@@ -38800,9 +39278,11 @@ Clothing
 Exist; Happen
 Faithful
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 Time
@@ -38830,6 +39310,7 @@ Safe
 Relations of Involvement
 Move
 
+
 Elevations
 
 Touch
@@ -38837,6 +39318,7 @@ Touch
 Location
 Modification.Complete
 Identifiers
+
 
 
 Elevations
@@ -38864,6 +39346,7 @@ Identifiers
 Parts: Creatures
 Participant Referents
 Move
+
 
 Elevations
 
@@ -38900,6 +39383,7 @@ People
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -38929,6 +39413,7 @@ Modification.Complete
 Identifiers
 Groups
 Relations of Description
+
 
 Towns
 
@@ -38961,6 +39446,7 @@ Relations of Description
 Move
 
 Names of Supernatural Beings
+
 
 Fire
 
@@ -39022,6 +39508,7 @@ Location
 Names
 Move
 Speak
+
 
 Groups
 
@@ -39147,11 +39634,13 @@ Modification.Complete
 Designs
 Relations of Description
 
+
 Universe
 
 Direction
 
 Relations of Description
+
 
 Land
 
@@ -39159,7 +39648,9 @@ Land
 
 Relations of Description
 
+
 Liquids
+
 
 
 
@@ -39206,6 +39697,7 @@ Identifiers
 Names of Supernatural Beings
 Deities
 
+
 Worthless
 
 Negators
@@ -39215,6 +39707,7 @@ Identifiers
 Relations of Description
 
 Identifiers
+
 
 
 Worthless
@@ -39281,6 +39774,7 @@ Relations of Description
 
 
 Inactive
+
 
 Time
 Identifiers
@@ -39539,8 +40033,10 @@ Time
 Serve
 
 
+
 Quantity; Frequency
 Move
+
 
 Association
 Cognition
@@ -39619,6 +40115,7 @@ Impact
 Leaders
 Identifiers
 Parts: Creatures
+
 
 Tools
 
@@ -39782,6 +40279,7 @@ Stance
 
 Act
 
+
 Orientation: Attachment
 
 Artifacts
@@ -39804,6 +40302,7 @@ Classes; Officials; Serve
 
 Identifiers
 Classes
+
 
 Tools
 
@@ -39895,6 +40394,7 @@ Classes
 
 Impact
 
+
 Association
 Location
 
@@ -39907,6 +40407,7 @@ Classes; Officials; Serve
 Parts: Creatures.Parts
 Classes
 Move
+
 
 Association
 Location
@@ -39984,6 +40485,7 @@ Attachment.Pierce
 Kinship
 
 Relations of Description
+
 
 Identifiers
 Identifiers
@@ -40112,6 +40614,7 @@ Domestic Animals
 Identifiers
 
 Relations of Occurrence
+
 
 Open
 Search
@@ -40400,6 +40903,7 @@ Dead
 Dead
 Dead
 Relations of Association
+
 Deities
 Apart
 Negators
@@ -40444,6 +40948,7 @@ Angry
 
 Dead
 Identifiers
+
 
 Attribute
 
@@ -40534,6 +41039,7 @@ Exist; Happen
 
 Kinship
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -40547,10 +41053,12 @@ Exist; Happen
 
 Parts: Creatures
 
+
 Land
 Impact; Dead
 Negators
 Ingest
+
 
 Domestic Animals
 Move
@@ -40704,6 +41212,7 @@ Serve
 Happen
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -40740,6 +41249,7 @@ Hear
 Quantity; Frequency
 Quantity
 Festivals
+
 
 
 Time
@@ -40779,6 +41289,7 @@ Happen
 Relations of Description
 Space
 
+
 Land
 
 Festivals
@@ -40797,6 +41308,7 @@ Identifiers
 
 Quantity; Frequency
 Time
+
 
 Time
 Connection
@@ -40841,6 +41353,7 @@ Relations of Involvement
 
 Relations of Involvement
 Safe
+
 
 
 
@@ -41134,6 +41647,7 @@ Names
 
 Speak
 
+
 Groups
 Identifiers
 Modification.Complete
@@ -41169,6 +41683,7 @@ Speak
 Names of Supernatural Beings
 
 Time
+
 
 Time
 
@@ -41210,6 +41725,7 @@ Identifiers
 Parts: Creatures
 Scenery: Constructio
 Space
+
 
 Containers
 
@@ -41414,6 +41930,7 @@ Speak
 Location
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -41451,6 +41968,7 @@ Elevations
 
 Exist; Happen
 Names
+
 
 Elevations
 Quantity; Frequency
@@ -41519,6 +42037,7 @@ Trees
 Plants
 Liquids
 
+
 Light
 Trees
 
@@ -41535,6 +42054,8 @@ Gemstones
 
 Gemstones
 Priests
+
+
 
 
 
@@ -41641,6 +42162,7 @@ Move
 Identifiers
 Identifiers
 Foliage
+
 
 Parts: Constructions
 
@@ -41963,6 +42485,7 @@ Parts: Furnishings
 Containers
 Shape
 Parts: Furnishings
+
 Parts: Artifacts
 Identifiers
 Quantity
@@ -41972,6 +42495,7 @@ Parts: Furnishings
 
 Quantity; Frequency
 Containers
+
 
 
 Parts: Artifacts
@@ -41991,6 +42515,7 @@ Move
 Identifiers
 Lamps
 Parts: Furnishings
+
 
 Lamps
 Quantity; Frequency
@@ -42080,6 +42605,7 @@ Relations of Description
 Participant Referents
 
 
+
 Elevations
 
 Identifiers
@@ -42111,10 +42637,12 @@ Quantity
 
 Quantity
 
+
 Dimension
 
 Dimension
 Quantity; Frequency
+
 
 Dimension
 Identifiers
@@ -42155,6 +42683,7 @@ Quantity
 
 Location
 
+
 Attach
 
 Adverb
@@ -42166,12 +42695,14 @@ Furnishings
 Identifiers
 Orientation: Attachment
 
+
 Attach
 Identifiers
 Quantity; Frequency
 Quantity; Frequency
 Cords
 Serve
+
 
 Furnishings
 Identifiers
@@ -42185,6 +42716,7 @@ Location
 Identifiers
 Furnishings
 Relations of Description
+
 
 Attach
 Identifiers
@@ -42208,6 +42740,7 @@ Furnishings
 People
 Location
 Kinship
+
 
 Artifacts
 
@@ -42236,10 +42769,12 @@ Identifiers
 Quantity
 Quantity; Frequency
 
+
 Dimension
 
 Dimension
 Quantity; Frequency
+
 
 Dimension
 Identifiers
@@ -42292,6 +42827,7 @@ Quantity
 Identifiers
 Orientation: Attachment
 
+
 Attach
 
 Quantity; Frequency
@@ -42314,6 +42850,7 @@ Move
 Identifiers
 Identifiers
 Artifacts
+
 
 Cords
 
@@ -42352,6 +42889,7 @@ Identifiers
 Dimension
 
 Identifiers
+
 
 Quantity
 
@@ -42376,6 +42914,7 @@ Cover
 Serve
 Cover
 
+
 Tents
 Parts: Creatures
 Domestic Animals
@@ -42392,6 +42931,7 @@ Serve
 Identifiers
 Identifiers
 Parts: Tents
+
 
 Tents
 Trees
@@ -42416,6 +42956,7 @@ Quantity
 Quantity; Frequency
 Artifacts
 
+
 Parts: Tents
 Identifiers
 Quantity
@@ -42435,6 +42976,7 @@ Serve
 Identifiers
 Identifiers
 Parts: Tents
+
 
 Tents
 Quantity
@@ -42522,6 +43064,7 @@ Parts: Constructions
 Identifiers
 Tents
 
+
 Location
 
 Exist; Happen
@@ -42606,6 +43149,7 @@ Parts
 Identifiers
 Tents
 
+
 Location
 Water; Direction
 
@@ -42637,6 +43181,7 @@ Serve
 Metal
 Kinship / Construction
 
+
 Constructions.Parts
 
 Cover
@@ -42653,6 +43198,7 @@ Relations of Description
 
 Relations of Description
 Description
+
 
 Elevations
 
@@ -42702,6 +43248,7 @@ Referents of Location
 Kinship / Construction
 
 
+
 Identifiers
 Containers
 Identifiers
@@ -42739,6 +43286,7 @@ Identifiers
 Furnishings
 
 Orientation: Attachment
+
 
 Furnishings
 
@@ -42780,6 +43328,7 @@ Happen
 Professions
 
 Serve
+
 
 Cover
 Quantity; Frequency
@@ -42890,6 +43439,7 @@ Scenery: Constructio
 Serve
 Apart
 
+
 Altars
 Foliage
 Trees
@@ -42903,6 +43453,7 @@ Move
 Identifiers
 Apart
 Scenery: Constructio
+
 Parts: Constructions
 
 Exist; Happen
@@ -42925,6 +43476,7 @@ Relations of Description
 Description
 Identifiers
 
+
 Elevations
 Adverb
 Serve
@@ -42940,13 +43492,16 @@ Names
 Direction
 Furnishings
 
+
 Parts: Constructions
 Cloth
 Attach
 Quantity; Frequency
 
+
 Dimension
 Dimension
+
 
 Parts: Objects
 
@@ -42969,6 +43524,7 @@ Adverb
 
 Parts: Objects
 Direction
+
 
 Dimension
 Furnishings
@@ -43018,12 +43574,14 @@ Quantity; Frequency
 Dimension
 Furnishings
 
+
 Parts: Constructions
 Constructions.Parts
 Quantity; Frequency
 
 Parts: Constructions
 Quantity; Frequency
+
 
 
 Parts: Constructions
@@ -43078,6 +43636,7 @@ Identifiers
 Parts: Constructions
 Quantity; Frequency
 
+
 Dimension
 
 Dimension
@@ -43124,6 +43683,7 @@ Trees
 Purify
 Press
 Relations of Involvement
+
 Light
 
 Move
@@ -43134,6 +43694,7 @@ Tents
 Tents
 
 Orientation: Attachment
+
 
 Furnishings
 Relations of Description
@@ -43965,6 +44526,7 @@ Altars
 Relations of Involvement
 Serve
 
+
 Pure
 
 Negators
@@ -44009,11 +44571,13 @@ Bread
 Bread
 Attribute.Wet
 
+
 Liquids
 
 Food
 Bread
 Attachment.Anoint
+
 
 Liquids
 Crops
@@ -44029,6 +44593,7 @@ Quantity
 
 Space
 Identifiers
+
 
 Containers
 
@@ -44054,6 +44619,7 @@ Tents
 
 Purify
 Identifiers
+
 
 Liquids
 
@@ -44249,9 +44815,11 @@ Identifiers
 Body Products
 Burn
 
+
 Fire
 
 Orientation: Attachment
+
 
 Towns
 Sacrifice
@@ -44650,6 +45218,7 @@ Tents
 Relations of Involvement
 Serve
 
+
 Pure
 People
 Identifiers
@@ -44678,6 +45247,7 @@ Identifiers
 Identifiers
 Bread
 Relations of Description
+
 
 Containers
 Constructions.Parts
@@ -44723,6 +45293,7 @@ Identifiers
 Identifiers
 Exist
 
+
 Fire
 Negators
 Ingest
@@ -44750,6 +45321,7 @@ Sacrifice
 Domestic Animals
 Scenery: Constructio
 Serve
+
 
 Time
 
@@ -44787,6 +45359,7 @@ Modification.Complete
 Identifiers
 Touch
 
+
 Altars
 Apart
 Scenery: Constructio
@@ -44801,6 +45374,7 @@ Kinship
 Time
 Quantity; Frequency
 
+
 Time
 Permanent
 Identifiers
@@ -44809,6 +45383,7 @@ Domestic Animals
 Identifiers
 Quantity
 Serve
+
 
 Time
 
@@ -44837,6 +45412,7 @@ Quantity; Frequency
 Identifiers
 Capacity
 Liquids; Wine; Crops
+
 
 Domestic Animals
 Identifiers
@@ -45054,7 +45630,9 @@ Names of People
 Spices
 Spices
 
+
 Time
+
 
 Time
 
@@ -45102,6 +45680,7 @@ Names of People
 Parts: Furnishings
 Quantity
 
+
 Time
 
 Parts: Creatures
@@ -45109,6 +45688,7 @@ Sacrifice
 Identifiers
 Purify
 Quantity
+
 
 
 
@@ -45623,10 +46203,13 @@ Think
 Relations of Involvement
 Serve
 
+
 Metal
 
 
+
 Minerals; Metal
+
 
 
 Metal
@@ -45678,6 +46261,7 @@ Tents
 Identifiers
 Identifiers
 Containers
+
 
 Laws
 
@@ -45761,6 +46345,7 @@ Spices
 Identifiers
 Spices
 
+
 Pure
 Relations of Description
 Modification.Complete
@@ -45833,6 +46418,7 @@ Exist
 Serve
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -45888,6 +46474,7 @@ Universe
 Identifiers
 Identifiers
 Land
+
 
 
 Time
@@ -46003,6 +46590,7 @@ Possess
 
 Exist
 Identifiers
+
 
 Tools
 
@@ -46172,6 +46760,7 @@ Relations of Involvement
 Dead
 Identifiers
 
+
 Elevations
 Angry
 
@@ -46301,6 +46890,7 @@ Names
 
 Fight
 
+
 Towns
 Modification
 Speak
@@ -46358,6 +46948,7 @@ Relations of Description
 
 
 Burn
+
 
 Fire
 
@@ -46447,6 +47038,7 @@ Possess
 
 Move
 
+
 Fire
 
 Move
@@ -46510,6 +47102,7 @@ Parts: Constructions
 
 
 
+
 Towns
 
 Dead
@@ -46536,6 +47129,7 @@ Move
 
 Identifiers
 Groups
+
 
 Time
 Identifiers
@@ -46754,6 +47348,7 @@ Non-Exist
 
 
 
+
 Hear
 Identifiers
 Groups
@@ -46824,6 +47419,7 @@ Shape
 
 Orientation: Attachment
 
+
 Towns
 Location
 
@@ -46846,6 +47442,7 @@ Tents
 Relations of Description
 
 Orientation: Attachment
+
 
 Towns
 
@@ -47179,6 +47776,7 @@ Quantity; Frequency
 Scrolls
 Stone
 Relations of Description
+
 Quantity
 
 Cognition.Write
@@ -47201,9 +47799,11 @@ Impact
 Exist; Happen
 Faithful
 
+
 Time
 
 Move
+
 
 Time
 Location
@@ -47251,10 +47851,12 @@ Quantity; Frequency
 Scrolls
 Stone
 Relations of Description
+
 Quantity
 
 Time
 Names
+
 
 Time
 
@@ -47277,6 +47879,7 @@ Stone
 
 Move
 Names of Supernatural Beings
+
 
 Clouds
 
@@ -47310,6 +47913,7 @@ Faithful
 Faithful
 Safe
 Faithful
+
 
 Quantity; Frequency
 Free
@@ -47594,12 +48198,15 @@ Time
 Serve
 
 
+
 Time
 Identifiers
 Quantity; Frequency
 Non-Happen
 
+
 Impact
+
 
 
 Food
@@ -47621,6 +48228,7 @@ Identifiers
 Time
 Quantity; Frequency
 Time
+
 
 Time
 Connection
@@ -47659,6 +48267,7 @@ Deities
 Quantity; Frequency
 Time
 
+
 Time
 Negators
 Dead
@@ -47669,6 +48278,7 @@ Products: Food
 
 Negators
 Dwell
+
 
 Time
 Products: Food
@@ -47806,6 +48416,7 @@ Modification.Complete
 Identifiers
 Leaders
 
+
 Groups
 
 Speak
@@ -47917,6 +48528,7 @@ Exist
 Serve
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -48003,6 +48615,7 @@ Plants
 
 Liquids
 
+
 Light
 
 Trees
@@ -48021,6 +48634,8 @@ Gemstones
 
 Gemstones
 Priests
+
+
 
 
 
@@ -48187,6 +48802,7 @@ Identifiers
 Cloth
 Relations of Association
 Serve
+
 
 Pure
 Identifiers
@@ -48377,6 +48993,8 @@ Priests
 
 
 
+
+
 Clothing
 
 Identifiers
@@ -48468,10 +49086,13 @@ Think
 Relations of Involvement
 Serve
 
+
 Metal
 
 
+
 Minerals; Metal
+
 
 
 Metal
@@ -48519,14 +49140,17 @@ Think
 
 Professions
 
+
 Cloth
 Think
+
 
 Cloth
 
 
 
 Color
+
 
 
 Cloth
@@ -48632,7 +49256,9 @@ Location
 adverb
 Sacrifice
 
+
 Time
+
 
 Time
 
@@ -48670,6 +49296,7 @@ Quantity
 Identifiers
 Serve
 Relations of Involvement
+
 Serve
 Relations of Description
 Speak
@@ -48683,6 +49310,7 @@ Names
 
 Move
 Perception; Sounds
+
 
 Towns
 Relations of Involvement
@@ -48755,10 +49383,12 @@ Quantity
 
 Quantity
 
+
 Dimension
 
 Dimension
 Quantity; Frequency
+
 
 Dimension
 Identifiers
@@ -48800,6 +49430,7 @@ Quantity
 
 Location
 
+
 Attach
 Adverb
 Serve
@@ -48810,12 +49441,14 @@ Furnishings
 Identifiers
 Orientation: Attachment
 
+
 Attach
 Identifiers
 Quantity; Frequency
 Quantity; Frequency
 Cords
 Serve
+
 
 Furnishings
 Identifiers
@@ -48829,6 +49462,7 @@ Location
 Identifiers
 Furnishings
 Relations of Description
+
 
 Attach
 Identifiers
@@ -48853,6 +49487,7 @@ Quantity
 Location
 Quantity
 
+
 Artifacts
 
 Exist; Happen
@@ -48879,6 +49514,7 @@ Furnishings
 Identifiers
 Quantity
 Quantity; Frequency
+
 
 Dimension
 
@@ -48921,6 +49557,7 @@ Furnishings
 Identifiers
 Orientation: Attachment
 
+
 Attach
 
 Quantity; Frequency
@@ -48951,6 +49588,7 @@ Quantity
 Serve
 Cover
 
+
 Tents
 Parts: Creatures
 Domestic Animals
@@ -48967,6 +49605,7 @@ Serve
 Identifiers
 Identifiers
 Parts: Tents
+
 
 Tents
 Trees
@@ -48991,6 +49630,7 @@ Quantity
 Quantity; Frequency
 Artifacts
 
+
 Parts: Tents
 Identifiers
 Quantity
@@ -49010,6 +49650,7 @@ Serve
 Identifiers
 Identifiers
 Parts: Tents
+
 
 Tents
 Quantity
@@ -49097,6 +49738,7 @@ Serve
 Parts: Constructions
 Identifiers
 Tents
+
 
 Location
 
@@ -49174,6 +49816,7 @@ Parts: Tents
 Identifiers
 Tents
 
+
 Location
 Water; Direction
 
@@ -49207,6 +49850,7 @@ Parts: Constructions
 Serve
 Metal
 Kinship / Construction
+
 
 Constructions.Parts
 
@@ -49360,6 +50004,7 @@ Move
 Identifiers
 Identifiers
 Foliage
+
 
 Parts: Constructions
 
@@ -49516,6 +50161,7 @@ Identifiers
 Parts: Constructions
 Kinship / Construction
 Relations of Involvement
+
 Foliage
 
 Carry
@@ -49610,6 +50256,7 @@ Parts: Furnishings
 Containers
 Shape
 Parts: Furnishings
+
 Parts: Artifacts
 Identifiers
 Quantity
@@ -49637,6 +50284,7 @@ Move
 Identifiers
 Lamps
 Parts: Furnishings
+
 
 Lamps
 Quantity; Frequency
@@ -49858,6 +50506,7 @@ Metal
 Scenery: Constructio
 Serve
 
+
 Altars
 Artifacts
 Happen
@@ -49884,6 +50533,7 @@ Identifiers
 Metal
 Kinship / Construction
 
+
 Foliage
 
 Serve
@@ -49901,6 +50551,7 @@ Move
 Identifiers
 Identifiers
 Foliage
+
 
 Parts: Constructions
 
@@ -49950,6 +50601,7 @@ Cloth
 Attach
 Quantity; Frequency
 
+
 Dimension
 Constructions.Parts
 Quantity
@@ -49968,6 +50620,7 @@ Minerals; Metal
 Parts: Objects
 Direction
 Quantity; Frequency
+
 
 Dimension
 Constructions.Parts
@@ -49988,6 +50641,7 @@ Parts: Objects
 Water; Direction
 Furnishings
 Quantity; Frequency
+
 
 Dimension
 Constructions.Parts
@@ -50020,6 +50674,7 @@ Quantity; Frequency
 
 Parts: Constructions
 Quantity; Frequency
+
 
 
 Parts: Constructions
@@ -50053,6 +50708,7 @@ Attach
 
 Identifiers
 Parts: Constructions
+
 
 Constructions.Parts
 Metal
@@ -50125,7 +50781,9 @@ Modification.Complete
 Identifiers
 Tents
 
+
 Tents
+
 
 
 Parts: Constructions
@@ -50184,7 +50842,9 @@ Think
 
 Professions
 
+
 Cloth
+
 
 
 Cloth
@@ -50195,12 +50855,14 @@ Cloth
 Color
 
 
+
 Cloth
 Modification.Complete
 Identifiers
 Metal
 Identifiers
 Serve
+
 
 Serve
 
@@ -50250,6 +50912,7 @@ Identifiers
 Pure
 Weight
 Modification
+
 People
 Quantity
 Identifiers
@@ -50308,6 +50971,7 @@ Identifiers
 
 
 
+
 Parts: Constructions
 
 Identifiers
@@ -50323,6 +50987,7 @@ Quantity; Frequency
 Quantity; Frequency
 Serve
 Artifacts
+
 
 Constructions.Parts
 
@@ -50410,6 +51075,7 @@ Clothing
 Cloth
 Relations of Association
 Serve
+
 
 Pure
 
@@ -51145,6 +51811,7 @@ Cloth
 Relations of Association
 Serve
 
+
 Pure
 Identifiers
 Clothing
@@ -51212,6 +51879,7 @@ Quantity
 
 Quantity
 
+
 Time
 Stance
 Identifiers
@@ -51270,6 +51938,7 @@ Identifiers
 Cover
 Identifiers
 Constructions.Parts
+
 
 Tents
 Scenery: Constructio
@@ -51386,6 +52055,7 @@ Tents
 Purify
 Identifiers
 
+
 Liquids
 
 Dress
@@ -51448,15 +52118,18 @@ Serve
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity
+
 
 Time
 Identifiers
 Quantity; Frequency
 
 Quantity
+
 
 Time
 Stance
@@ -51579,6 +52252,7 @@ Direction
 
 Orientation: Attachment
 
+
 Furnishings
 
 Space
@@ -51653,6 +52327,7 @@ Identifiers
 Cover
 Identifiers
 Constructions.Parts
+
 
 Tents
 Scenery: Constructio
@@ -51737,7 +52412,9 @@ Identifiers
 Parts: Constructions
 Location
 
+
 Tents
+
 
 
 Altars
@@ -51999,6 +52676,7 @@ Body
 Parts: Creatures.Parts
 Scenery: Constructio
 
+
 Liquids
 
 Sacrifice
@@ -52091,6 +52769,7 @@ Identifiers
 Parts: Creatures.Parts
 Purify
 Scenery: Constructio
+
 Liquids
 
 Space
@@ -52279,11 +52958,13 @@ Bread
 Bread
 Attribute.Wet
 
+
 Liquids
 
 Food
 Bread
 Attachment.Anoint
+
 
 Liquids
 
@@ -52295,6 +52976,7 @@ Containers
 Give; Sacrifice
 Crops
 Attribute.Wet
+
 
 Liquids
 Bread
@@ -52314,6 +52996,7 @@ Give; Sacrifice
 Containers
 Give; Sacrifice
 Crops
+
 
 Liquids
 Exist
@@ -52414,6 +53097,7 @@ Modification.Complete
 Give; Sacrifice
 Give; Sacrifice
 
+
 Minerals
 
 
@@ -52439,6 +53123,7 @@ Relations of Association
 Names of Supernatural Beings
 Parts: Plants
 Cook
+
 
 Fire
 Crops
@@ -52934,6 +53619,7 @@ Priests
 Identifiers
 Parts: Creatures
 
+
 Parts: Creatures
 
 Scatter
@@ -53082,6 +53768,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Location
 Space
@@ -53095,6 +53782,7 @@ Burn
 Identifiers
 
 Trees
+
 
 Fire
 
@@ -53249,6 +53937,7 @@ Altars
 
 Serve
 
+
 Domestic Animals
 Relations of Description
 Relations of Description
@@ -53276,6 +53965,7 @@ Domestic Animals
 Location
 
 Orientation: Attachment
+
 
 Towns
 
@@ -53786,6 +54476,7 @@ Space
 Identifiers
 Relations of Description
 
+
 Sacrifice
 Quantity
 
@@ -53812,6 +54503,7 @@ Altars
 Identifiers
 Exist
 
+
 Parts: Creatures
 Move
 Location
@@ -53827,6 +54519,7 @@ Quantity; Frequency
 Serve
 Sacrifice
 Relations of Description
+
 
 
 Purify
@@ -53920,7 +54613,9 @@ Forgive
 Exist; Happen
 
 
+
 Relations of Description
+
 Give; Sacrifice
 
 Speak
@@ -53977,6 +54672,7 @@ Quantity; Frequency
 
 Possess
 Identifiers
+
 
 Priests
 
@@ -54143,6 +54839,7 @@ Relations of Description
 Vow
 
 
+
 False
 
 Exchange
@@ -54287,6 +54984,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Location
 Space
@@ -54308,7 +55006,9 @@ Identifiers
 Priests
 Trees
 
+
 Time
+
 
 Time
 
@@ -54406,9 +55106,11 @@ Pure
 
 
 Relations of Description
+
 Sacrifice
 
 Relations of Description
+
 Sacrifice
 Modification.Complete
 People
@@ -54456,13 +55158,16 @@ Give; Sacrifice
 Permanent
 Quantity
 
+
 Time
+
 
 
 
 Time
 
 Containers
+
 
 Liquids
 Exist
@@ -54587,9 +55292,11 @@ Wet
 
 
 
+
 Liquids
 Modification.Complete
 People
+
 
 Priests
 Ingest
@@ -54610,9 +55317,11 @@ Tents
 Relations of Involvement
 Purify
 
+
 Pure
 Negators
 Ingest
+
 
 Fire
 Burn
@@ -54702,6 +55411,7 @@ Participants
 Modification.Complete
 People
 
+
 Priests
 Ingest
 
@@ -54712,8 +55422,10 @@ Pure
 
 Participants
 Relations of Description
+
 Sacrifice
 Relations of Description
+
 Sacrifice
 Laws
 Quantity
@@ -54741,6 +55453,7 @@ Relations of Description
 
 
 
+
 Exist; Happen
 
 Modification.Complete
@@ -54748,15 +55461,18 @@ Give; Sacrifice
 Relations of Description
 Cook
 
+
 Constructions
 
 Modification.Complete
 Exist
 
+
 Containers
 
 
 Containers
+
 
 Priests
 
@@ -54768,6 +55484,7 @@ Exist; Happen
 Modification.Complete
 Give; Sacrifice
 Attribute.Wet
+
 
 Liquids
 
@@ -54804,11 +55521,13 @@ Bread
 Bread
 Attribute.Wet
 
+
 Liquids
 
 Food
 Bread
 Attachment.Anoint
+
 
 Liquids
 
@@ -54816,6 +55535,7 @@ Crops
 Mix
 Bread
 Attribute.Wet
+
 
 Liquids
 
@@ -54838,6 +55558,7 @@ Give; Sacrifice
 Sacrifice
 Relations of Association
 Names of Supernatural Beings
+
 
 Priests
 Identifiers
@@ -54891,9 +55612,11 @@ Parts: Creatures
 Identifiers
 Products: Food
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Fire
 Burn
@@ -54905,6 +55628,7 @@ Ingest
 Parts: Creatures
 Products: Food
 Sacrifice
+
 
 Time
 Identifiers
@@ -54937,6 +55661,7 @@ Modification.Complete
 Unclean
 People
 Ingest
+
 
 Fire
 Burn
@@ -55074,7 +55799,9 @@ Ingest
 Modification.Complete
 Dwell
 
+
 Birds
+
 
 
 Wild Animals
@@ -55167,6 +55894,7 @@ Identifiers
 Direction
 Possess
 Sacrifice
+
 
 Priests
 
@@ -55266,15 +55994,20 @@ Identifiers
 Identifiers
 Laws
 
+
 Sacrifice
+
 
 Give; Sacrifice
 
 
+
 Sacrifice
 
 
+
 Sacrifice
+
 
 
 Priests
@@ -55396,6 +56129,7 @@ Kinship
 Purify
 Identifiers
 
+
 Liquids
 
 Possess
@@ -55407,6 +56141,7 @@ Clothing
 Dress
 Identifiers
 Clothing
+
 Clothing
 
 Dress
@@ -55657,9 +56392,11 @@ Identifiers
 Body Products
 Burn
 
+
 Fire
 
 Orientation: Attachment
+
 
 Towns
 Relations of Description
@@ -55727,6 +56464,7 @@ Identifiers
 Identifiers
 Parts: Creatures.Parts
 Purify
+
 
 Liquids
 
@@ -56059,10 +56797,13 @@ People
 Identifiers
 Exist
 
+
 Parts: Creatures
 
 
+
 Bread
+
 
 Fire
 Burn
@@ -56089,6 +56830,7 @@ Identifiers
 Relations of Description
 Relations of Description
 Serve
+
 
 Time
 Identifiers
@@ -56138,6 +56880,7 @@ Names of Supernatural Beings
 Names
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -56209,6 +56952,7 @@ Names of Supernatural Beings
 
 Give; Sacrifice
 Attribute.Wet
+
 
 Liquids
 
@@ -56314,6 +57058,7 @@ Scenery: Constructio
 Space
 Parts: Creatures
 
+
 Parts: Creatures
 Scenery: Constructio
 Possess
@@ -56367,9 +57112,11 @@ Identifiers
 Parts: Creatures
 Burn
 
+
 Fire
 
 Orientation: Attachment
+
 
 Towns
 
@@ -56440,10 +57187,12 @@ Relations of Description
 
 
 
+
 Dead
 
 Sacrifice
 Relations of Description
+
 Quantity
 
 Space
@@ -56453,6 +57202,7 @@ Sacrifice
 
 Serve
 Relations of Description
+
 
 
 Space
@@ -56488,6 +57238,7 @@ Identifiers
 Sacrifice
 Relations of Description
 Scenery: Constructio
+
 Groups
 
 Search
@@ -56729,6 +57480,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 
 Space
@@ -56739,6 +57491,7 @@ Clothing
 Location
 
 Orientation: Attachment
+
 
 Towns
 Relations of Description
@@ -57049,6 +57802,7 @@ Ingest
 Identifiers
 
 
+
 Relations of Description
 Relations of Description
 Speak
@@ -57130,6 +57884,7 @@ Elevations
 Parts: Creatures
 Move
 Parts
+
 
 Wild Animals
 Identifiers
@@ -57231,6 +57986,7 @@ Ingest
 Modification.Complete
 Relations of Description
 
+
 Liquids
 Modification.Complete
 Relations of Description
@@ -57239,9 +57995,12 @@ Parts: Creatures
 
 Parts: Creatures
 
+
 Liquids
 
+
 Water; Direction
+
 
 
 Water
@@ -57256,8 +58015,10 @@ Parts: Creatures
 
 Parts: Creatures
 
+
 Water; Direction
 Alive
+
 
 Water
 
@@ -57272,6 +58033,7 @@ Modification.Complete
 Identifiers
 Alive
 Relations of Description
+
 
 Liquids
 Wrong
@@ -57296,6 +58058,7 @@ Relations of Description
 Parts: Creatures
 
 Parts: Creatures
+
 
 Liquids
 Wrong
@@ -57569,6 +58332,7 @@ Identifiers
 Identifiers
 Unclean
 
+
 Swarming Creatures
 Identifiers
 Move
@@ -57642,6 +58406,7 @@ Modification.Complete
 Relations of Description
 Exist
 Serve
+
 
 
 Liquids
@@ -57909,6 +58674,7 @@ Alive
 Identifiers
 Move
 
+
 Liquids
 
 
@@ -57970,6 +58736,7 @@ Sin
 Excrete
 Unclean
 People
+
 
 Time
 Identifiers
@@ -58069,7 +58836,9 @@ Laws
 Identifiers
 Birth
 
+
 People
+
 
 
 People
@@ -58159,6 +58928,7 @@ Parts: Creatures
 Parts: Creatures
 People
 
+
 Move
 Color
 
@@ -58213,6 +58983,7 @@ Perception; Description
 Identifiers
 Priests
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -58226,6 +58997,7 @@ Stance//Space
 Negators
 Intense
 Identifiers
+
 
 
 Parts: Creatures
@@ -58242,6 +59014,7 @@ Identifiers
 Priests
 Identifiers
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -58255,6 +59028,7 @@ Impact
 Negators
 Intense
 Identifiers
+
 
 
 Parts: Creatures
@@ -58275,6 +59049,7 @@ Intense
 Intense
 Identifiers
 Weak
+
 
 Parts: Creatures
 Space
@@ -58299,6 +59074,7 @@ discourse particle
 Intense
 Identifiers
 Weak
+
 
 Parts: Creatures
 
@@ -58327,6 +59103,7 @@ discourse particle
 Wounds
 Stage
 People
+
 Parts: Creatures
 Stage
 
@@ -58337,6 +59114,7 @@ Color
 Stage
 Parts: Creatures
 Stage
+
 
 Wounds
 People
@@ -58360,6 +59138,7 @@ Stage
 Stage
 Identifiers
 Wounds
+
 
 Parts: Creatures
 
@@ -58517,6 +59296,7 @@ Impact
 Wounds
 
 
+
 Wounds
 Stage
 
@@ -58549,6 +59329,7 @@ Time
 Relations of Occurrence
 Intense
 Intense
+
 
 Parts: Creatures
 
@@ -58603,6 +59384,7 @@ Change
 Parts: Creatures
 Color
 
+
 Wounds
 
 See
@@ -58611,6 +59393,7 @@ Hide
 Identifiers
 Parts: Creatures
 Wounds
+
 
 
 Wounds
@@ -58630,6 +59413,7 @@ Identifiers
 Priests
 
 discourse particle
+
 
 
 Wounds
@@ -58655,12 +59439,14 @@ Perception; Description
 Identifiers
 Priests
 
+
 Time
 Identifiers
 Quantity; Frequency
 Relations of Occurrence
 Intense
 Intense
+
 
 Parts: Creatures
 
@@ -58679,6 +59465,7 @@ Identifiers
 Wounds
 Negators
 Intense
+
 
 Parts: Creatures
 
@@ -58783,6 +59570,7 @@ Identifiers
 Identifiers
 Impact
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -58833,6 +59621,7 @@ Identifiers
 Identifiers
 Weak
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -58842,6 +59631,7 @@ Negators
 Intense
 Identifiers
 Weak
+
 
 Parts: Creatures
 
@@ -58868,6 +59658,7 @@ Intense
 Identifiers
 Weak
 
+
 Parts: Creatures
 Space
 Pure
@@ -58881,10 +59672,12 @@ Intense
 Identifiers
 Weak
 
+
 Parts: Creatures
 Negators
 Hear
 Identifiers
+
 
 
 Parts: Creatures
@@ -58942,6 +59735,7 @@ Participants
 Stage
 
 
+
 Pure
 Participants
 
@@ -58968,7 +59762,9 @@ Participants
 
 Exist; Happen
 
+
 Body
+
 
 
 Attribute
@@ -59053,6 +59849,7 @@ Space
 
 Orientation: Attachment
 
+
 Towns
 Dwell
 
@@ -59077,7 +59874,9 @@ Cloth
 
 Cloth
 
+
 Cloth
+
 
 
 Cloth
@@ -59097,13 +59896,17 @@ Color
 
 Color
 
+
 Clothing
+
 
 
 Parts: Creatures
 
 
+
 Cloth
+
 
 
 Cloth
@@ -59140,6 +59943,7 @@ Identifiers
 Identifiers
 Impact
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -59148,13 +59952,17 @@ Intense
 Identifiers
 
 
+
 Clothing
 
 
+
 Cloth
 
 
+
 Cloth
+
 
 
 Parts: Creatures
@@ -59186,7 +59994,9 @@ Identifiers
 Identifiers
 Cloth
 
+
 Cloth
+
 
 
 Cloth
@@ -59206,6 +60016,7 @@ Wounds
 Impact
 
 
+
 Fire
 Burn
 
@@ -59220,10 +60031,13 @@ Intense
 Identifiers
 Impact
 
+
 Clothing
 
 
+
 Cloth
+
 
 
 Cloth
@@ -59273,6 +60087,7 @@ Intense
 Unclean
 Participants
 
+
 Fire
 Burn
 
@@ -59318,10 +60133,13 @@ Relations of Occurrence
 Position
 adverb
 
+
 Clothing
 
 
+
 Cloth
+
 
 
 Cloth
@@ -59331,6 +60149,7 @@ Modification.Complete
 Artifacts
 Parts: Creatures
 Stage
+
 
 
 Fire
@@ -59419,6 +60238,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 
 Perception; Description
@@ -59439,6 +60259,7 @@ Identifiers
 Priests
 
 Possess
+
 
 Pure
 Quantity; Frequency
@@ -59548,6 +60369,7 @@ Parts: Creatures
 
 Purify
 
+
 Liquids
 
 Pure
@@ -59568,6 +60390,7 @@ Time
 Detach
 Exist; Happen
 Parts: Creatures
+
 Time
 Identifiers
 Quantity; Frequency
@@ -59598,9 +60421,11 @@ Purify
 Identifiers
 Parts: Creatures
 
+
 Liquids
 
 Pure
+
 
 
 Time
@@ -59622,6 +60447,7 @@ Quantity; Frequency
 Crops
 Give; Sacrifice
 Attribute.Wet
+
 
 Liquids
 
@@ -59695,10 +60521,12 @@ Identifiers
 Pure
 
 Relations of Description
+
 Sacrifice
 Identifiers
 Sacrifice
 Participants
+
 
 Priests
 
@@ -59817,6 +60645,7 @@ Sacrifice
 Identifiers
 Exist
 
+
 Liquids
 Relations of Description
 
@@ -59900,6 +60729,7 @@ Crops
 Quantity
 Attribute.Wet
 
+
 Liquids
 
 Give; Sacrifice
@@ -59927,6 +60757,7 @@ Sacrifice
 
 Move
 Identifiers
+
 
 Time
 Identifiers
@@ -60183,12 +61014,14 @@ Kinship / Construction
 
 Speak
 
+
 Priests
 
 Speak
 Relations of Description
 Impact
 Position
+
 
 
 Kinship / Construction
@@ -60216,6 +61049,7 @@ Negators
 Unclean
 Modification.Complete
 Relations of Description
+
 
 Kinship / Construction
 
@@ -60275,6 +61109,7 @@ Direction
 Identifiers
 Priests
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -60309,6 +61144,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Location
 Space
@@ -60331,6 +61167,7 @@ Detach
 Location
 
 Orientation: Attachment
+
 
 Towns
 Location
@@ -60363,6 +61200,7 @@ Impact
 
 Stage
 
+
 Kinship / Construction
 Space
 Detach
@@ -60390,9 +61228,11 @@ Intense
 Identifiers
 Impact
 
+
 Kinship / Construction
 Wounds
 Impact
+
 
 
 Kinship / Construction
@@ -60420,6 +61260,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Location
 Space
@@ -60442,6 +61283,7 @@ Time
 Identifiers
 Stance
 
+
 Kinship / Construction
 Purify
 Identifiers
@@ -60449,6 +61291,7 @@ Clothing
 
 Identifiers
 Ingest
+
 
 Kinship / Construction
 Purify
@@ -60468,6 +61311,7 @@ Negators
 Intense
 Identifiers
 Impact
+
 
 Kinship / Construction
 Space
@@ -60548,6 +61392,7 @@ Identifiers
 Dead
 
 
+
 Liquids
 Identifiers
 Stage
@@ -60569,9 +61414,11 @@ Identifiers
 Birds
 
 
+
 Liquids
 Identifiers
 Alive
+
 
 
 Birds
@@ -60582,6 +61429,7 @@ Stage
 Trees
 Identifiers
 Trees
+
 
 
 Plants
@@ -60600,6 +61448,7 @@ Alive
 Location
 
 Orientation: Attachment
+
 
 Towns
 Location
@@ -60623,6 +61472,7 @@ Identifiers
 Wounds
 
 
+
 Weak
 
 
@@ -60631,13 +61481,17 @@ Identifiers
 Clothing
 
 
+
 Kinship / Construction
+
 
 
 Wounds
 
 
+
 Weak
+
 
 
 Wounds
@@ -60728,6 +61582,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -60750,6 +61605,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -60768,6 +61624,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -60780,12 +61637,14 @@ Parts: Creatures Products
 Identifiers
 Weak
 
+
 Pure
 
 Purify
 Clothing
 
 Purify
+
 
 Liquids
 
@@ -60825,6 +61684,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -60843,12 +61703,14 @@ Parts: Creatures
 Negators
 Purify
 
+
 Liquids
 
 Purify
 Clothing
 
 Purify
+
 
 Liquids
 
@@ -60869,6 +61731,7 @@ Weak
 Modification.Complete
 
 Trees
+
 
 
 Liquids
@@ -60897,6 +61760,7 @@ Liquids
 Stage
 
 Pure
+
 
 
 Time
@@ -60955,6 +61819,7 @@ Parts
 
 Purify
 
+
 Liquids
 Identifiers
 Modification.Complete
@@ -60978,6 +61843,7 @@ Parts
 
 Purify
 
+
 Liquids
 
 
@@ -60994,6 +61860,7 @@ Sex
 Parts
 
 Purify
+
 
 Liquids
 
@@ -61050,6 +61917,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -61070,6 +61938,7 @@ Purify
 Clothing
 
 Purify
+
 
 Liquids
 
@@ -61185,6 +62054,7 @@ Clothing
 
 Purify
 
+
 Liquids
 
 
@@ -61204,6 +62074,7 @@ Time
 
 Space
 Pure
+
 
 
 Time
@@ -61294,7 +62165,9 @@ Weak
 Identifiers
 Body Products
 
+
 People
+
 
 
 People
@@ -61343,6 +62216,7 @@ Pure
 
 Kinship / Construction
 
+
 Furnishings
 Location
 
@@ -61355,6 +62229,7 @@ Containers
 
 Negators
 Dead
+
 
 
 Clouds
@@ -61404,6 +62279,7 @@ Clothing
 Participant Referents
 
 Purify
+
 
 Liquids
 Identifiers
@@ -61564,6 +62440,7 @@ Move
 
 Kinship / Construction
 
+
 Furnishings
 
 Possess
@@ -61627,6 +62504,7 @@ Identifiers
 Sacrifice
 Relations of Description
 
+
 Groups
 
 Move
@@ -61635,6 +62513,7 @@ Parts: Creatures
 Location
 
 Kinship / Construction
+
 
 Furnishings
 
@@ -61698,6 +62577,7 @@ Tents
 Move
 Relations of Involvement
 Purify
+
 
 Pure
 
@@ -61842,6 +62722,7 @@ Identifiers
 Identifiers
 
 
+
 Land
 
 Move
@@ -61869,6 +62750,7 @@ People
 Purify
 Identifiers
 Parts: Creatures
+
 
 Liquids
 
@@ -61919,6 +62801,7 @@ Purify
 Identifiers
 Parts: Creatures
 
+
 Liquids
 
 Space
@@ -61944,15 +62827,18 @@ Parts: Creatures
 Relations of Involvement
 Purify
 
+
 Pure
 People
 Location
 
 Orientation: Attachment
 
+
 Towns
 
 Burn
+
 
 Fire
 Identifiers
@@ -61974,6 +62860,7 @@ Purify
 Identifiers
 Parts: Creatures
 
+
 Liquids
 
 Space
@@ -61989,11 +62876,14 @@ Exist; Happen
 Laws
 Time
 
+
 Time
 Identifiers
 Quantity; Frequency
 
+
 Quantity
+
 
 Time
 Oppress
@@ -62013,6 +62903,7 @@ Identifiers
 Fight
 
 Location
+
 
 
 Time
@@ -62108,6 +62999,7 @@ Modification.Complete
 Sin
 Quantity
 
+
 Time
 
 Serve
@@ -62159,12 +63051,14 @@ Domestic Animals
 
 Domestic Animals
 
+
 Towns
 
 Relations of Description
 
 
 Orientation: Attachment
+
 
 Towns
 
@@ -62185,6 +63079,7 @@ Tents
 Names of Supernatural Beings
 Parts: Creatures
 Know
+
 
 People
 Identifiers
@@ -62261,6 +63156,7 @@ adverb
 Identifiers
 Products: Food
 Laws
+
 Deities
 Relations of Description
 Participant Referents
@@ -62337,6 +63233,7 @@ Possess
 
 
 
+
 Identifiers
 Ingest
 Identifiers
@@ -62353,6 +63250,7 @@ People
 Identifiers
 Parts: Creatures
 Scenery: Constructio
+
 Parts: Creatures
 
 
@@ -62370,6 +63268,7 @@ Purify
 Identifiers
 Parts: Creatures
 Participants
+
 
 
 
@@ -62424,6 +63323,7 @@ Parts: Creatures
 
 Cover
 
+
 Sand
 People
 
@@ -62461,7 +63361,9 @@ Parts: Creatures
 
 Impact; Dead
 
+
 Classes
+
 
 
 Classes
@@ -62470,6 +63372,7 @@ Purify
 Clothing
 
 Purify
+
 
 Liquids
 
@@ -62747,6 +63650,7 @@ Possess
 Relations of Involvement
 Move
 
+
 Names of Supernatural Beings
 
 Negators
@@ -62994,12 +63898,14 @@ Time
 Identifiers
 Quantity; Frequency
 
+
 Fire
 Burn
 
 Relations of Occurrence
 Ingest
 Ingest
+
 
 Time
 Identifiers
@@ -63052,7 +63958,9 @@ Land
 Negators
 Gather
 
+
 Classes
+
 
 
 Classes
@@ -63075,6 +63983,7 @@ Friends
 
 Negators
 Vow
+
 
 
 
@@ -63119,6 +64028,7 @@ Names of Supernatural Beings
 Negators
 Serve
 Wrong
+
 
 
 Negators
@@ -63284,6 +64194,7 @@ Negators
 Ingest
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -63294,6 +64205,7 @@ Pure
 
 Relations of Association
 Names of Supernatural Beings
+
 
 
 Time
@@ -63439,9 +64351,13 @@ Wrong
 
 
 
+
+
 Dimension
 
+
 Weight
+
 
 
 Capacity
@@ -63509,6 +64425,7 @@ Possess
 
 People
 
+
 Names of Supernatural Beings
 Dead
 Dead
@@ -63517,11 +64434,13 @@ Identifiers
 Land
 Dead
 
+
 Stone
 
 Participant Referents
 Possess
 Identifiers
+
 
 
 People
@@ -63538,6 +64457,7 @@ Groups
 People
 Possess
 Relations of Involvement
+
 Names of Supernatural Beings
 
 
@@ -63568,6 +64488,7 @@ Possess
 
 People
 
+
 Names of Supernatural Beings
 
 Negators
@@ -63577,6 +64498,7 @@ Identifiers
 Space
 Participant Referents
 Identifiers
+
 
 
 People
@@ -63620,6 +64542,7 @@ Space
 
 Possess
 Identifiers
+
 
 
 
@@ -63740,6 +64663,7 @@ People
 Identifiers
 Kinship
 Wrong
+
 
 
 Fire
@@ -63973,6 +64897,7 @@ Wild Animals
 Identifiers
 Pure
 
+
 Unclean
 
 
@@ -63981,6 +64906,7 @@ Birds
 Identifiers
 Unclean
 
+
 Pure
 
 Negators
@@ -63988,7 +64914,9 @@ Unclean
 Identifiers
 
 
+
 Wild Animals
+
 
 
 
@@ -64033,6 +64961,7 @@ Deities
 Prophets
 Dead
 Dead
+
 
 Stone
 Dead
@@ -64184,6 +65113,7 @@ Identifiers
 Kinship
 
 Attitude
+
 
 Fire
 Burn
@@ -64503,6 +65433,7 @@ Wounds
 
 
 
+
 Pure
 Negators
 Ingest
@@ -64561,6 +65492,7 @@ Pure
 Relations of Occurrence
 Purify
 Parts: Creatures
+
 
 Liquids
 
@@ -64693,6 +65625,7 @@ Quantity; Frequency
 
 Possess
 
+
 Priests
 Identifiers
 Identifiers
@@ -64775,9 +65708,12 @@ Satisfaction
 Just
 People
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
@@ -64808,7 +65744,9 @@ Vow
 
 Sacrifice
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -64957,6 +65895,7 @@ Names of Supernatural Beings
 Satisfaction
 Dead
 
+
 Time
 Identifiers
 Participants
@@ -65034,6 +65973,7 @@ Exist
 Serve
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -65063,6 +66003,7 @@ Identifiers
 
 
 
+
 Time
 Identifiers
 Quantity
@@ -65070,6 +66011,7 @@ Quantity
 Quantity; Frequency
 
 Relations of Association
+
 Time
 
 Identifiers
@@ -65083,6 +66025,7 @@ Quantity; Frequency
 
 Time
 Relations of Association
+
 Time
 Identifiers
 Identifiers
@@ -65095,6 +66038,7 @@ Quantity; Frequency
 Time
 Bread
 Ingest
+
 
 Time
 Identifiers
@@ -65115,6 +66059,7 @@ Relations of Association
 Names of Supernatural Beings
 Quantity; Frequency
 Time
+
 
 Time
 Identifiers
@@ -65201,6 +66146,7 @@ Quantity; Frequency
 Quantity
 Crops
 Attribute.Wet
+
 
 Liquids
 Sacrifice
@@ -65358,6 +66304,7 @@ Names of Supernatural Beings
 
 
 
+
 Speak
 
 People
@@ -65399,7 +66346,9 @@ Food
 Negators
 Gather
 
+
 Classes
+
 
 
 Classes
@@ -65422,11 +66371,13 @@ Names
 Relations of Involvement
 Speak
 
+
 Time
 Cognition
 Quantity; Frequency
 
 Quantity
+
 
 Time
 Exist; Happen
@@ -65455,7 +66406,9 @@ Relations of Involvement
 Speak
 restrictor>conjunctive adverb
 
+
 Quantity
+
 
 Time
 Identifiers
@@ -65564,7 +66517,9 @@ Identifiers
 
 Quantity; Frequency
 
+
 Time
+
 
 Time
 
@@ -65591,6 +66546,7 @@ Quantity; Frequency
 
 Time
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -65603,6 +66559,7 @@ Quantity; Frequency
 Time
 Relations of Association
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -65620,6 +66577,7 @@ Space
 Sacrifice
 Relations of Association
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -65695,6 +66653,7 @@ Quantity; Frequency
 
 Time
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -65711,10 +66670,12 @@ Names of Supernatural Beings
 Quantity; Frequency
 Time
 
+
 Time
 Identifiers
 Quantity
 Festivals
+
 
 
 Time
@@ -65723,6 +66684,7 @@ Quantity; Frequency
 Festivals
 
 Possess
+
 
 
 Time
@@ -65757,17 +66719,20 @@ Names of Supernatural Beings
 Quantity; Frequency
 Time
 
+
 Time
 Laws
 Time
 Relations of Association
 Groups; Kinship
 
+
 Time
 
 Quantity; Frequency
 Festivals
 Identifiers
+
 
 Tents
 Space
@@ -65782,9 +66747,11 @@ Space
 
 
 
+
 Know
 Groups; Kinship
 Relations of Perception
+
 
 Tents
 Dwell
@@ -65828,6 +66795,7 @@ Trees
 Purify
 Press
 Relations of Involvement
+
 Light
 
 Move
@@ -65912,6 +66880,7 @@ Purify
 
 Exist; Happen
 Relations of Association
+
 Bread
 
 Sacrifice
@@ -65976,6 +66945,7 @@ Names
 
 Fight
 
+
 Towns
 Kinship
 Identifiers
@@ -66013,6 +66983,7 @@ Names
 
 Space
 
+
 Prisons
 Relations of Involvement
 Know
@@ -66034,6 +67005,7 @@ Curse
 Location
 
 Orientation: Attachment
+
 
 Towns
 
@@ -66079,8 +67051,10 @@ Modification.Complete
 Identifiers
 Groups
 Relations of Description
+
 Classes
 Relations of Description
+
 Classes
 
 
@@ -66130,6 +67104,7 @@ Relations of Description
 Possess
 Handicap
 
+
 People
 Adverb
 Possess
@@ -66147,8 +67122,10 @@ Quantity
 Exist; Happen
 
 Relations of Description
+
 Classes
 Relations of Description
+
 Classes
 Exist; Happen
 
@@ -66169,6 +67146,7 @@ Curse
 Location
 
 Orientation: Attachment
+
 
 Towns
 
@@ -66233,6 +67211,7 @@ Identifiers
 Crops
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -66240,6 +67219,7 @@ Time
 Festivals
 Exist; Happen
 Relations of Association
+
 Land
 
 
@@ -66265,6 +67245,7 @@ Gather
 Time
 Festivals
 Exist; Happen
+
 
 Land
 
@@ -66296,6 +67277,7 @@ Fight
 Wild Animals
 
 Relations of Involvement
+
 Animals
 Relations of Description
 
@@ -66332,11 +67314,14 @@ Move
 Music
 Sounds; Shout
 
+
 Time
 Identifiers
 Quantity; Frequency
 
+
 Quantity
+
 
 Time
 
@@ -66358,6 +67343,7 @@ Quantity; Frequency
 
 Speak
 Free
+
 
 Land
 
@@ -66524,6 +67510,7 @@ Speak
 
 Ingest
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -66539,6 +67526,7 @@ Crops
 Speak
 Identifiers
 Praise
+
 
 
 Time
@@ -66601,6 +67589,7 @@ Possess
 Exchange
 Possess
 
+
 Land
 
 Poor
@@ -66646,6 +67635,7 @@ Identifiers
 Identifiers
 Quantity
 
+
 People
 Relations of Description
 Exchange
@@ -66676,6 +67666,7 @@ Identifiers
 Time
 
 Move
+
 
 
 
@@ -66715,10 +67706,13 @@ Identifiers
 Kinship / Construction
 Relations of Description
 
+
 Towns
 Relations of Description
 Negators
 Constructions
+
+
 
 
 
@@ -66728,6 +67722,7 @@ Identifiers
 Groups; Kinship
 Negators
 Move
+
 
 Time
 
@@ -66749,6 +67744,7 @@ Exist; Happen
 
 
 
+
 Time
 Move
 
@@ -66762,6 +67758,7 @@ Exchange
 Time
 Exist; Happen
 Relations of Association
+
 Names of Groups
 
 Relations of Description
@@ -66776,6 +67773,7 @@ Kinship / Construction
 
 Towns
 Possess
+
 
 Time
 
@@ -67076,6 +68074,7 @@ Relations of Occurrence
 adverb
 Abundant
 
+
 Time
 
 
@@ -67088,6 +68087,7 @@ Exchange
 Relations of Occurrence
 Frequency
 Exist
+
 
 Time
 
@@ -67234,6 +68234,7 @@ Land
 Possess
 Intact
 
+
 Land
 
 Stance
@@ -67262,6 +68263,7 @@ Move
 
 
 
+
 Attribute
 
 Pursue
@@ -67276,6 +68278,7 @@ Quantity
 
 Move
 Hate
+
 
 
 
@@ -67409,6 +68412,7 @@ Parts: Body
 
 Space
 
+
 Lazy
 Plants
 
@@ -67458,14 +68462,17 @@ Possess
 Identifiers
 Universe
 Relations of Description
+
 Minerals; Metal
 
 Identifiers
 Land
 Relations of Description
+
 Metal
 
 Non-Happen
+
 
 Lazy
 Attribute
@@ -67584,6 +68591,7 @@ Quantity
 Move
 
 
+
 Weight
 
 Ingest
@@ -67673,6 +68681,7 @@ Space
 
 
 Identifiers
+
 
 
 People
@@ -67772,6 +68781,7 @@ Exist; Happen
 Hate
 
 Non-Exist; Dead
+
 
 People
 
@@ -68033,6 +69043,7 @@ Quantity
 Weight
 
 
+
 People
 
 
@@ -68056,6 +69067,7 @@ Weight
 Minerals; Metal
 
 
+
 People
 
 Quantity; Frequency
@@ -68077,6 +69089,7 @@ Valuable
 Quantity; Frequency
 
 Weight
+
 
 
 People
@@ -68347,6 +69360,7 @@ Land
 
 Move
 
+
 Time
 Pure
 Relations of Association
@@ -68355,6 +69369,7 @@ Relations of Description
 
 Identifiers
 Apart
+
 
 Priests
 Exist; Happen
@@ -68389,6 +69404,7 @@ Time
 Possess
 Identifiers
 Identifiers
+
 
 
 Time
@@ -68449,6 +69465,7 @@ Names of Supernatural Beings
 Participants
 
 Relations of Occurrence
+
 
 Wild Animals
 Identifiers
@@ -68609,9 +69626,11 @@ Tents
 
 Quantity
 Relations of Involvement
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -68663,6 +69682,7 @@ Names of People
 
 Relations of Association
 Exist; Happen
+
 
 
 
@@ -68777,6 +69797,7 @@ Groups
 Association; Gather (Causative)
 
 Quantity
+
 
 Time
 Identifiers
@@ -69328,6 +70349,7 @@ Participant Referents
 Serve
 
 Location
+
 
 Tents
 Dwell
@@ -69823,6 +70845,7 @@ Quantity; Frequency
 Quantity; Frequency
 Quantity; Frequency
 
+
 Identifiers
 Move
 
@@ -70244,6 +71267,7 @@ Leaders
 Kinship / Construction
 Communities
 
+
 Object Referents
 Names of People
 Kinship
@@ -70668,6 +71692,7 @@ Quantity; Frequency
 Quantity; Frequency
 Weight
 
+
 People
 
 
@@ -70786,6 +71811,7 @@ Quantity; Frequency
 Modification.Complete
 Move
 Relations of Involvement
+
 Serve
 
 Serve
@@ -70964,6 +71990,7 @@ Identifiers
 
 Relations of Description
 Serve
+
 
 
 Pure
@@ -71356,6 +72383,7 @@ Modification.Complete
 Identifiers
 Move
 Relations of Involvement
+
 Serve
 
 Serve
@@ -71460,6 +72488,7 @@ Modification.Complete
 Identifiers
 Move
 
+
 Serve
 
 Serve
@@ -71523,6 +72552,7 @@ Modification.Complete
 Identifiers
 Move
 
+
 Serve
 
 Serve
@@ -71586,6 +72616,7 @@ Quantity; Frequency
 Modification.Complete
 Identifiers
 Move
+
 
 Serve
 
@@ -71729,6 +72760,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Location
 
@@ -71752,6 +72784,7 @@ Identifiers
 Location
 
 Orientation: Attachment
+
 
 Towns
 Relations of Description
@@ -71823,6 +72856,7 @@ Relations of Occurrence
 
 Relations of Involvement
 
+
 Kinship; Free
 Relations of Association
 Move
@@ -71835,6 +72869,7 @@ Identifiers
 Move
 
 Names of Supernatural Beings
+
 
 Priests
 
@@ -71858,6 +72893,7 @@ Names
 Relations of Description
 Space
 
+
 Priests
 
 Exist; Happen
@@ -71870,6 +72906,7 @@ Exist; Happen
 
 Relations of Description
 Possess
+
 
 Priests
 
@@ -72122,6 +73159,7 @@ Speak
 Identifiers
 
 
+
 People
 Possess
 Names of Supernatural Beings
@@ -72176,6 +73214,7 @@ Identifiers
 Identifiers
 Identifiers
 Priests
+
 
 
 
@@ -72508,10 +73547,12 @@ Parts: Creatures; People; Animals
 Time
 Pure
 
+
 Time
 Identifiers
 Quantity; Frequency
 Detach
+
 
 
 Time
@@ -72555,6 +73596,7 @@ Identifiers
 Pure
 Identifiers
 Parts: Creatures; People; Animals
+
 
 Time
 Identifiers
@@ -72632,11 +73674,13 @@ Crops
 Bread
 Attribute.Wet
 
+
 Liquids
 
 Food
 Bread
 Attachment.Anoint
+
 
 Liquids
 
@@ -72748,6 +73792,7 @@ Sacrifice
 Names of Supernatural Beings
 Pure
 Participants
+
 
 
 
@@ -73019,6 +74064,7 @@ Identifiers
 Pure
 
 
+
 Parts: Creatures
 Carry
 Scenery: Constructio
@@ -73051,9 +74097,11 @@ Names
 Leaders
 Quantity
 Pure
+
 Time
 Scenery: Constructio
 Quantity
+
 
 Time
 Space
@@ -73067,6 +74115,7 @@ Altars
 Exist; Happen
 Identifiers
 Space
+
 
 Time
 Identifiers
@@ -73102,6 +74151,7 @@ Capacity
 Crops
 Attribute.Wet
 
+
 Liquids
 
 Give; Sacrifice
@@ -73148,6 +74198,7 @@ Give; Sacrifice
 Names of People
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -73182,6 +74233,7 @@ Capacity
 Crops
 Attribute.Wet
 
+
 Liquids
 
 Give; Sacrifice
@@ -73229,6 +74281,7 @@ Names
 Kinship
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -73260,6 +74313,7 @@ Quantity; Frequency
 Capacity
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -73307,6 +74361,7 @@ Give; Sacrifice
 Names of People
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -73340,6 +74395,7 @@ Capacity
 Crops
 Attribute.Wet
 
+
 Liquids
 
 Give; Sacrifice
@@ -73387,6 +74443,7 @@ Names of People
 Kinship
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -73418,6 +74475,7 @@ Quantity; Frequency
 Capacity
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -73465,6 +74523,7 @@ Give; Sacrifice
 Names of People
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -73498,6 +74557,7 @@ Capacity
 Crops
 Attribute.Wet
 
+
 Liquids
 
 Give; Sacrifice
@@ -73544,6 +74604,7 @@ Give; Sacrifice
 Names of People
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -73577,163 +74638,6 @@ Capacity
 Crops
 Attribute.Wet
 
-Liquids
-
-Give; Sacrifice
-Parts: Creatures
-Quantity
-
-Metal
-Capacity
-Spices
-Domestic Animals
-Quantity
-Kinship
-Domestic Animals
-Domestic Animals
-Quantity
-Domestic Animals
-Quantity
-Kinship
-Time
-
-Sacrifice
-Domestic Animals
-Domestic Animals
-Quantity
-
-Sacrifice
-
-
-Dead
-Identifiers
-Sacrifice
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Kinship
-Time
-Quantity; Frequency
-Identifiers
-Give; Sacrifice
-Names of People
-Kinship
-Names of People
-
-Time
-Identifiers
-Quantity; Frequency
-Leaders
-
-Kinship
-Names
-Object Referents
-Kinship
-Names of People
-Give; Sacrifice
-Containers
-Minerals; Metal
-Quantity
-Quantity; Frequency
-
-Quantity; Frequency
-Weight
-Containers
-Quantity
-
-Quantity; Frequency
-Weight
-
-
-Identifiers
-Pure
-Quantity; Frequency
-Capacity
-Crops
-Attribute.Wet
-
-Liquids
-
-Give; Sacrifice
-Parts: Creatures
-Quantity
-
-Metal
-Capacity
-Spices
-Domestic Animals
-Quantity
-Kinship
-Domestic Animals
-Domestic Animals
-Quantity
-Domestic Animals
-Quantity
-Kinship
-Time
-
-Sacrifice
-Domestic Animals
-Domestic Animals
-Quantity
-
-Sacrifice
-
-
-Dead
-Identifiers
-Sacrifice
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Kinship
-Time
-Quantity; Frequency
-Identifiers
-Give; Sacrifice
-Object Referents
-Kinship
-Names of People
-
-Time
-Identifiers
-Quantity; Frequency
-Leaders
-
-Kinship
-Names of People
-Names of People
-Kinship
-Object Referents
-Give; Sacrifice
-Containers
-Minerals; Metal
-Quantity
-Quantity; Frequency
-
-Quantity; Frequency
-Weight
-Containers
-Quantity
-
-Quantity; Frequency
-Weight
-
-
-Identifiers
-Pure
-Quantity; Frequency
-Capacity
-Crops
-Attribute.Wet
 
 Liquids
 
@@ -73780,15 +74684,178 @@ Identifiers
 Give; Sacrifice
 Names of People
 Kinship
-Object Referents
+Names of People
+
 
 Time
 Identifiers
-Quantity
+Quantity; Frequency
 Leaders
 
 Kinship
 Names
+Object Referents
+Kinship
+Names of People
+Give; Sacrifice
+Containers
+Minerals; Metal
+Quantity
+Quantity; Frequency
+
+Quantity; Frequency
+Weight
+Containers
+Quantity
+
+Quantity; Frequency
+Weight
+
+
+Identifiers
+Pure
+Quantity; Frequency
+Capacity
+Crops
+Attribute.Wet
+
+
+Liquids
+
+Give; Sacrifice
+Parts: Creatures
+Quantity
+
+Metal
+Capacity
+Spices
+Domestic Animals
+Quantity
+Kinship
+Domestic Animals
+Domestic Animals
+Quantity
+Domestic Animals
+Quantity
+Kinship
+Time
+
+Sacrifice
+Domestic Animals
+Domestic Animals
+Quantity
+
+Sacrifice
+
+
+Dead
+Identifiers
+Sacrifice
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Kinship
+Time
+Quantity; Frequency
+Identifiers
+Give; Sacrifice
+Object Referents
+Kinship
+Names of People
+
+
+Time
+Identifiers
+Quantity; Frequency
+Leaders
+
+Kinship
+Names of People
+Names of People
+Kinship
+Object Referents
+Give; Sacrifice
+Containers
+Minerals; Metal
+Quantity
+Quantity; Frequency
+
+Quantity; Frequency
+Weight
+Containers
+Quantity
+
+Quantity; Frequency
+Weight
+
+
+Identifiers
+Pure
+Quantity; Frequency
+Capacity
+Crops
+Attribute.Wet
+
+
+Liquids
+
+Give; Sacrifice
+Parts: Creatures
+Quantity
+
+Metal
+Capacity
+Spices
+Domestic Animals
+Quantity
+Kinship
+Domestic Animals
+Domestic Animals
+Quantity
+Domestic Animals
+Quantity
+Kinship
+Time
+
+Sacrifice
+Domestic Animals
+Domestic Animals
+Quantity
+
+Sacrifice
+
+
+Dead
+Identifiers
+Sacrifice
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Kinship
+Time
+Quantity; Frequency
+Identifiers
+Give; Sacrifice
+Names of People
+Kinship
+Object Referents
+
+
+Time
+Identifiers
+Quantity
+Leaders
+
+Kinship
+Names
 Names of People
 Kinship
 Names of People
@@ -73813,6 +74880,7 @@ Quantity; Frequency
 Capacity
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -73893,6 +74961,7 @@ Quantity; Frequency
 Capacity
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -73973,6 +75042,7 @@ Quantity; Frequency
 Capacity
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -74094,6 +75164,7 @@ Quantity; Frequency
 Modification.Complete
 Identifiers
 Domestic Animals
+
 
 Sacrifice
 Quantity; Frequency
@@ -74233,6 +75304,7 @@ Parts: Furnishings
 Impact
 
 Relations of Description
+
 See
 Relations of Description
 Description
@@ -74292,6 +75364,7 @@ Domestic Animals
 Give; Sacrifice
 Crops
 Attribute.Wet
+
 
 Liquids
 
@@ -74463,7 +75536,9 @@ Kinship
 Kinship
 Names
 
+
 People
+
 
 
 Wild Animals
@@ -74544,6 +75619,7 @@ Groups
 Kinship
 Names
 Relations of Association
+
 Names of Groups
 Relations of Description
 Modification.Complete
@@ -74553,6 +75629,7 @@ Names of Supernatural Beings
 Identifiers
 Names
 Relations of Association
+
 Names of Groups
 Adverb
 Serve
@@ -74622,6 +75699,7 @@ Speak
 Identifiers
 Relations of Description
 Relations of Association
+
 Names of Groups
 
 Kinship
@@ -74670,6 +75748,7 @@ Serve
 
 Serve
 Relations of Association
+
 Names of Groups
 
 
@@ -74682,6 +75761,7 @@ Names
 Land
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -74690,6 +75770,7 @@ Move
 
 Land
 Names
+
 
 Time
 Identifiers
@@ -74709,6 +75790,7 @@ Festivals
 Quantity; Frequency
 
 Time
+
 
 Time
 Identifiers
@@ -74745,11 +75827,13 @@ Identifiers
 Identifiers
 Festivals
 
+
 Quantity
 
 Quantity; Frequency
 
 Time
+
 
 Time
 
@@ -74786,6 +75870,7 @@ Serve
 Identifiers
 Festivals
 
+
 Time
 Identifiers
 Participants
@@ -74798,6 +75883,7 @@ Names
 
 
 Names of People
+
 
 Time
 Identifiers
@@ -74872,6 +75958,7 @@ Serve
 Festivals
 
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -74970,6 +76057,7 @@ Exist; Happen
 Relations of Association
 
 
+
 Classes
 
 
@@ -74993,6 +76081,7 @@ Tents
 Tents
 Identifiers
 Laws
+
 
 
 Time
@@ -75117,6 +76206,7 @@ Time
 
 High
 Identifiers
+
 
 
 Time
@@ -75343,15 +76433,18 @@ Deities
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Time
 Identifiers
 
 
 Quantity
+
 
 Time
 High
@@ -75381,6 +76474,7 @@ Names of Locations
 
 Move
 
+
 Quantity
 
 
@@ -75394,6 +76488,7 @@ Artifacts
 Towns
 Kinship
 Names of Groups
+
 
 Quantity
 
@@ -75616,6 +76711,7 @@ Identifiers
 Know
 Dwell
 
+
 Land
 
 Exist; Happen
@@ -75835,13 +76931,16 @@ Gather
 
 Impact
 
+
 Artifacts
 
 Impact
 
 
 
+
 Hot
+
 
 Containers
 
@@ -76240,6 +77339,7 @@ Tents
 Move
 Names of Supernatural Beings
 
+
 Clouds
 
 Speak
@@ -76275,6 +77375,7 @@ Exist
 Quantity; Frequency
 
 
+
 Towns
 
 Identifiers
@@ -76293,6 +77394,7 @@ Cognition
 
 Participant Referents
 
+
 Cognition.Write
 
 Negators
@@ -76301,6 +77403,7 @@ Identifiers
 Tents
 
 Speak
+
 
 Towns
 
@@ -76317,6 +77420,7 @@ Names of People
 
 Names
 Speak
+
 
 Towns
 
@@ -76447,10 +77551,12 @@ Angry
 Names of Supernatural Beings
 Angry
 
+
 Groups
 
 Impact
 Names of Supernatural Beings
+
 
 
 Wounds
@@ -76583,9 +77689,11 @@ Exist; Happen
 Vision
 Names of Supernatural Beings
 
+
 Vision
 Location
 Know
+
 
 Vision
 Speak
@@ -76644,6 +77752,7 @@ discourse particle
 Names
 Wounds
 Relations of Description
+
 Rain
 
 Move
@@ -76674,6 +77783,7 @@ Negators
 
 Exist; Happen
 Divide
+
 Dead
 Relations of Description
 People
@@ -76719,6 +77829,7 @@ Time
 
 Orientation: Attachment
 
+
 Towns
 
 Space
@@ -76728,6 +77839,7 @@ Gather
 Names
 
 Orientation: Attachment
+
 
 Towns
 Quantity; Frequency
@@ -76913,6 +78025,7 @@ Location
 Move
 Identifiers
 
+
 Names
 
 Move
@@ -77013,9 +78126,11 @@ Names of Geographical Features
 Relations of Location
 Names
 
+
 Names of Locations
 
 Move
+
 
 Names
 
@@ -77057,6 +78172,7 @@ Quantity
 
 Carry
 
+
 Tools
 
 Quantity; Frequency
@@ -77068,6 +78184,7 @@ Trees/Fruit
 
 Identifiers
 Fruits
+
 
 Space
 Identifiers
@@ -77158,6 +78275,7 @@ Groups
 Identifiers
 Space
 
+
 Land
 
 Identifiers
@@ -77188,6 +78306,7 @@ Names of Groups
 Identifiers
 Names of Groups
 Space
+
 
 Elevations
 
@@ -77310,6 +78429,7 @@ Lament
 Identifiers
 Groups
 
+
 Time
 Identifiers
 Participants
@@ -77336,6 +78456,7 @@ Land
 Names
 
 
+
 Land
 Identifiers
 Identifiers
@@ -77353,6 +78474,7 @@ Identifiers
 Identifiers
 Relations of Involvement
 Move
+
 
 Attribute
 People
@@ -77485,6 +78607,7 @@ Relations of Involvement
 Dead
 Identifiers
 
+
 Stone
 
 Deities
@@ -77524,6 +78647,7 @@ Serve
 
 Association
 Impact
+
 
 Weak
 
@@ -77639,6 +78763,7 @@ Vow
 
 Dead
 
+
 Land
 Titles
 Text deictic
@@ -77692,6 +78817,7 @@ Relations of Description
 Free
 
 
+
 Identifiers
 Identifiers
 
@@ -77732,6 +78858,7 @@ Relations of Description
 Serve
 
 Names
+
 
 
 Land
@@ -77790,6 +78917,7 @@ Identifiers
 Names
 Space
 
+
 Depressions
 Referents of Time
 Move
@@ -77813,6 +78941,7 @@ Relations of Involvement
 Speak
 
 Referents of Time
+
 
 Groups
 Identifiers
@@ -77847,6 +78976,7 @@ Speak
 Parts: Creatures
 Adverb
 Serve
+
 
 
 Land
@@ -77915,6 +79045,7 @@ Parts: Creatures
 Participant Referents
 Move
 
+
 Land
 Identifiers
 Identifiers
@@ -77922,6 +79053,7 @@ Identifiers
 Kinship
 Exist; Happen
 Ingest
+
 
 Land
 Quantity; Frequency
@@ -77933,6 +79065,7 @@ Attitude.Unfaithful
 Relations of Occurrence
 Non-Exist
 Parts: Creatures
+
 
 
 
@@ -77948,8 +79081,10 @@ Quantity; Frequency
 Time
 Time
 
+
 Time
 Time
+
 
 
 Bear
@@ -77978,6 +79113,7 @@ Identifiers
 Identifiers
 Identifiers
 Gather
+
 
 
 Land
@@ -78021,6 +79157,7 @@ Move
 Meaning
 Identifiers
 Land
+
 
 
 Impact
@@ -78067,6 +79204,7 @@ Groups
 Intense
 
 Time
+
 
 Time
 
@@ -78127,6 +79265,7 @@ Referents of Location
 
 Move
 
+
 Attribute
 
 
@@ -78169,6 +79308,7 @@ Identifiers
 Names
 Identifiers
 Space
+
 
 Elevations
 Identifiers
@@ -78252,6 +79392,7 @@ Liquids
 
 Liquids; Wine; Crops
 
+
 Sacrifice
 Quantity; Frequency
 Identifiers
@@ -78262,11 +79403,14 @@ Identifiers
 Sacrifice
 
 
+
 Dead
+
 
 Domestic Animals
 Identifiers
 Quantity
+
 
 
 Domestic Animals
@@ -78277,6 +79421,7 @@ Quantity; Frequency
 Quantity
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Identifiers
@@ -78284,6 +79429,7 @@ Capacity
 
 Liquids; Wine; Crops
 Relations of Association
+
 Sacrifice
 Quantity; Frequency
 Identifiers
@@ -78320,6 +79466,7 @@ Quantity; Frequency
 Quantity
 Attribute.Wet
 
+
 Liquids
 Modification
 Identifiers
@@ -78328,6 +79475,7 @@ Modification
 Liquids; Wine; Crops
 Space
 Relations of Association
+
 Sacrifice
 Modification
 Identifiers
@@ -78340,28 +79488,35 @@ Names of Supernatural Beings
 
 Exist
 
-Domestic Animals
-Identifiers
-Quantity
-
 
 Domestic Animals
 Identifiers
 Quantity
 
 
-Domestic Animals
 
 Domestic Animals
+Identifiers
+Quantity
+
+
+
+Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
 Relations of Description
+
 Quantity
 Relations of Description
 Serve
 
 Serve
+
 
 Quantity
 Relations of Description
@@ -78410,6 +79565,7 @@ Quantity
 
 
 
+
 Classes
 Identifiers
 Fight
@@ -78419,6 +79575,7 @@ Time
 Groups; Kinship
 Relations of Description
 Relations of Description
+
 Classes
 Exist; Happen
 
@@ -78430,6 +79587,7 @@ Quantity
 
 Quantity
 Exist; Happen
+
 
 
 
@@ -78562,6 +79720,7 @@ Sacrifice
 Relations of Description
 
 
+
 Domestic Animals
 Domestic Animals
 Quantity
@@ -78604,6 +79763,7 @@ Modification.Complete
 Groups
 Kinship
 Names
+
 
 
 Classes
@@ -78661,6 +79821,7 @@ Kinship
 Names
 
 
+
 Classes
 Identifiers
 Fight
@@ -78669,6 +79830,7 @@ Location
 Laws
 Quantity
 Exist; Happen
+
 
 
 Serve
@@ -78723,6 +79885,7 @@ Exist; Happen
 Kinship
 Names
 
+
 Land
 
 Search; Know
@@ -78755,6 +79918,7 @@ Groups
 Space
 Identifiers
 
+
 Prisons
 
 Negators
@@ -78774,12 +79938,14 @@ Identifiers
 Dead
 Identifiers
 
+
 Stone
 Modification.Complete
 Identifiers
 Groups
 
 Orientation: Attachment
+
 
 Towns
 
@@ -78792,10 +79958,12 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 
 Dead
 Identifiers
+
 
 Stone
 
@@ -79133,6 +80301,7 @@ Liquids
 Dairy
 Relations of Involvement
 Dead
+
 
 Land
 
@@ -79622,6 +80791,7 @@ Impact
 Artifacts
 Metal
 
+
 Altars
 
 Space
@@ -79653,6 +80823,7 @@ Burn
 
 
 Metal
+
 
 Altars
 Cognition
@@ -79829,6 +81000,7 @@ Occurrence
 Identifiers
 Impact
 
+
 Groups
 
 Possess
@@ -79857,6 +81029,7 @@ Impact
 Exist; Happen
 Identifiers
 Dead
+
 
 Impact
 Quantity; Frequency
@@ -80285,6 +81458,7 @@ Modification
 
 Kinship / Construction
 
+
 Furnishings
 
 Serve
@@ -80449,7 +81623,9 @@ Space
 Kinship
 Names of Supernatural Beings
 
+
 People
+
 
 
 Wild Animals
@@ -80662,6 +81838,7 @@ Names of Supernatural Beings
 Sacrifice
 Possess
 Relations of Association
+
 Names of Groups
 
 Possess
@@ -80721,12 +81898,14 @@ Know
 
 Sacrifice
 Relations of Description
+
 Crops
 
 Identifiers
 Products
 
 Relations of Description
+
 Crops
 
 Identifiers
@@ -80781,6 +81960,7 @@ Good
 
 Know
 Relations of Association
+
 Names of Groups
 Relations of Description
 Crops
@@ -80879,6 +82059,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 
 Dead
@@ -80950,6 +82131,7 @@ Priests
 Purify
 Parts: Creatures
 
+
 Liquids
 
 Space
@@ -80971,10 +82153,12 @@ Identifiers
 People
 Clothing
 
+
 Liquids
 
 Purify
 Parts: Creatures
+
 
 Liquids
 
@@ -80994,6 +82178,7 @@ Domestic Animals
 Space
 
 Orientation: Attachment
+
 
 Towns
 
@@ -81034,6 +82219,7 @@ Kinship
 Names
 
 
+
 Classes
 Identifiers
 Fight
@@ -81058,9 +82244,11 @@ Participants
 Purify
 
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 Time
@@ -81072,9 +82260,11 @@ Relations of Occurrence
 Negators
 Purify
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 Time
@@ -81137,6 +82327,7 @@ Tents
 Modification.Complete
 Relations of Description
 
+
 Tents
 
 Quantity; Frequency
@@ -81181,6 +82372,7 @@ Possess
 
 
 
+
 Sand
 Stage
 Identifiers
@@ -81197,6 +82389,7 @@ Possess
 Plants
 
 Space
+
 
 Liquids
 
@@ -81223,13 +82416,17 @@ Referents of Location
 Identifiers
 Touch
 
+
 Parts: Creatures
+
 
 
 Attribute
 
 
+
 Dead
+
 
 
 Tombs
@@ -81241,9 +82438,11 @@ Pure
 Identifiers
 
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 Time
@@ -81251,6 +82450,7 @@ Identifiers
 Quantity; Frequency
 
 Purify
+
 
 Time
 Identifiers
@@ -81261,9 +82461,11 @@ Clothing
 
 Purify
 
+
 Liquids
 
 Pure
+
 
 Time
 
@@ -81346,6 +82548,7 @@ Groups
 Land
 Names of Geographical Features
 
+
 Time
 Identifiers
 Quantity
@@ -81366,6 +82569,7 @@ Space
 Negators
 Exist; Happen
 Liquids
+
 
 Groups
 
@@ -81713,6 +82917,7 @@ Move
 
 
 
+
 Attribute
 Move
 Relations of Involvement
@@ -81722,6 +82927,7 @@ Speak
 Location
 Kinship
 Names
+
 
 Roads
 Move
@@ -82010,6 +83216,7 @@ Groups
 
 
 
+
 Speak
 Identifiers
 Groups
@@ -82025,6 +83232,7 @@ Names
 
 Dead
 
+
 Land
 
 
@@ -82037,11 +83245,13 @@ Liquids
 Reject
 
 
+
 Identifiers
 Bad
 
 Location
 Names of Supernatural Beings
+
 
 Groups
 Identifiers
@@ -82157,6 +83367,7 @@ Dwell
 
 
 
+
 Land
 Relations of Description
 
@@ -82183,6 +83394,7 @@ Dwell
 Direction
 Names of Geographical Objects
 Relations of Description
+
 
 Land
 Identifiers
@@ -82476,6 +83688,7 @@ Flee
 
 Kinship
 
+
 Submit
 
 Leaders
@@ -82537,6 +83750,7 @@ Participants
 
 Modification.Complete
 Groups
+
 
 Fight
 Names of Locations
@@ -82619,6 +83833,7 @@ Relations of Description
 Serve
 Names
 Relations of Association
+
 Names of Groups
 
 Afraid
@@ -82666,6 +83881,7 @@ Names of People
 Leaders
 Relations of Association
 Names of Groups; Names of Locations
+
 
 
 Identifiers
@@ -82853,6 +84069,7 @@ Participants
 Stance
 Names of People
 
+
 Time
 
 Speak
@@ -83013,6 +84230,7 @@ Serve
 Stance
 Names of People
 
+
 Time
 
 Cover
@@ -83034,6 +84252,7 @@ Participants
 Space
 Deities
 Names of Supernatural Beings
+
 
 
 
@@ -83059,6 +84278,7 @@ Stance; Space
 
 
 
+
 Weapons
 
 
@@ -83072,6 +84292,7 @@ Identifiers
 
 
 Move
+
 
 Land
 
@@ -83162,6 +84383,7 @@ Identifiers
 Identifiers
 Domestic Animals
 
+
 Tools
 
 Function
@@ -83185,6 +84407,7 @@ Quantity
 
 Speak
 Names of People
+
 
 Domestic Animals
 
@@ -83240,6 +84463,7 @@ Identifiers
 Deities
 Names of Supernatural Beings
 Stance; Space
+
 
 
 
@@ -83315,6 +84539,7 @@ Participant Referents
 Stance; Space
 Relations of Involvement
 Meet
+
 
 
 
@@ -83438,12 +84663,14 @@ Relations of Association
 Names of People
 
 
+
 Leaders
 Relations of Description
 Relations of Association
 
 Exist; Happen
 Names of Locations
+
 Time
 
 Possess
@@ -83497,6 +84724,7 @@ Domestic Animals
 
 Domestic Animals
 
+
 Altars
 
 Speak
@@ -83541,6 +84769,7 @@ Move
 Domestic Animals
 
 Domestic Animals
+
 
 Altars
 
@@ -83618,6 +84847,7 @@ Groups
 
 Apart
 Dwell
+
 
 
 People
@@ -83715,6 +84945,7 @@ Move
 Domestic Animals
 
 Domestic Animals
+
 
 Altars
 
@@ -83846,6 +85077,7 @@ Identifiers
 Names
 Relations of Description
 
+
 Speak
 Relations of Association
 
@@ -83974,6 +85206,7 @@ Move
 Domestic Animals
 
 Domestic Animals
+
 
 Altars
 
@@ -84333,6 +85566,7 @@ Dwell
 
 Space
 
+
 Stone
 Constructions
 
@@ -84391,6 +85625,7 @@ Move
 Space
 Names
 
+
 Names
 
 Occurrence
@@ -84403,6 +85638,7 @@ Kinship
 Names of Groups; Names of Locations
 
 Speak
+
 
 Groups
 
@@ -84550,6 +85786,7 @@ Exist; Happen
 Identifiers
 Dead
 
+
 Impact
 Quantity; Frequency
 
@@ -84635,6 +85872,7 @@ Names of People
 Leaders
 Kinship / Construction
 Communities
+
 
 Names of Groups
 
@@ -85437,9 +86675,11 @@ Possess
 Quantity
 
 
+
 Abundant
 Abundant
 Possess
+
 
 
 Quantity
@@ -85647,6 +86887,7 @@ Names of Supernatural Beings
 Dead
 Dead
 
+
 Land
 
 Negators
@@ -85718,6 +86959,7 @@ Tents
 Speak
 Kinship
 Dead
+
 
 Land
 
@@ -85923,6 +87165,7 @@ Groups
 Relations of Involvement
 Holy
 
+
 Liquids
 
 
@@ -85972,6 +87215,7 @@ Exist; Happen
 Groups
 Names of Supernatural Beings
 Relations of Description
+
 Domestic Animals
 Relations of Description
 
@@ -86143,6 +87387,7 @@ Time
 Just
 Quantity; Frequency
 
+
 Time
 Sacrifice
 Permanent
@@ -86151,6 +87396,7 @@ Identifiers
 Domestic Animals
 Quantity
 Serve
+
 
 Time
 
@@ -86196,9 +87442,11 @@ Quantity; Frequency
 Identifiers
 Capacity
 
+
 Domestic Animals
 Identifiers
 Quantity
+
 
 
 Attachment.Pour
@@ -86246,6 +87494,7 @@ Crops
 Give; Sacrifice
 Attribute.Wet
 
+
 Liquids
 
 Sacrifice
@@ -86286,7 +87535,9 @@ Crops
 Give; Sacrifice
 Attribute.Wet
 
+
 Liquids
+
 
 Domestic Animals
 
@@ -86298,7 +87549,9 @@ Quantity; Frequency
 
 Attribute.Wet
 
+
 Liquids
+
 
 Domestic Animals
 
@@ -86310,7 +87563,9 @@ Crops
 Give; Sacrifice
 Attribute.Wet
 
+
 Liquids
+
 
 Domestic Animals
 
@@ -86328,17 +87583,20 @@ Identifiers
 Capacity
 Exist; Happen
 
-Domestic Animals
-
-Quantity; Frequency
-Identifiers
-Capacity
 
 Domestic Animals
 
 Quantity; Frequency
 Identifiers
 Capacity
+
+
+Domestic Animals
+
+Quantity; Frequency
+Identifiers
+Capacity
+
 
 Domestic Animals
 Liquids; Wine; Crops
@@ -86368,6 +87626,7 @@ Exist
 Sacrifice
 
 
+
 Time
 Identifiers
 Quantity
@@ -86376,6 +87635,7 @@ Quantity; Frequency
 
 Time
 Relations of Association
+
 Time
 Festivals
 
@@ -86386,6 +87646,7 @@ Quantity; Frequency
 
 Time
 
+
 Time
 Identifiers
 Identifiers
@@ -86394,6 +87655,7 @@ Quantity; Frequency
 Time
 Bread
 Ingest
+
 
 Time
 Identifiers
@@ -86431,13 +87693,16 @@ Give; Sacrifice
 Crops
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Quantity
 
+
 Domestic Animals
 
 Quantity; Frequency
+
 
 
 Domestic Animals
@@ -86445,6 +87710,7 @@ Serve
 Quantity
 
 Serve
+
 
 Domestic Animals
 Identifiers
@@ -86478,6 +87744,7 @@ Relations of Description
 Identifiers
 Serve
 
+
 Time
 Quantity; Frequency
 Time
@@ -86494,6 +87761,7 @@ Permanent
 Exist
 
 Sacrifice
+
 
 
 Time
@@ -86553,9 +87821,11 @@ Give; Sacrifice
 Crops
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Quantity
+
 
 Domestic Animals
 Identifiers
@@ -86563,10 +87833,12 @@ Quantity
 Quantity; Frequency
 
 
+
 Domestic Animals
 
 Quantity
 Quantity
+
 
 
 Domestic Animals
@@ -86598,11 +87870,13 @@ Exist; Happen
 Sacrifice
 
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 Quantity
+
 
 Time
 Gather
@@ -86642,18 +87916,22 @@ Give; Sacrifice
 Crops
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Quantity
 
+
 Domestic Animals
 Quantity; Frequency
 
 
+
 Domestic Animals
 
 Quantity
 Quantity
+
 
 Domestic Animals
 Identifiers
@@ -86696,7 +87974,9 @@ Sacrifice
 Names of Supernatural Beings
 
 
+
 Quantity
+
 
 Time
 Identifiers
@@ -86740,18 +88020,22 @@ Give; Sacrifice
 Crops
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Quantity
 
+
 Domestic Animals
 Quantity; Frequency
 
 
+
 Domestic Animals
 
 Quantity
 Quantity
+
 
 
 Domestic Animals
@@ -86784,6 +88068,7 @@ Sacrifice
 Quantity; Frequency
 
 Time
+
 
 Time
 Identifiers
@@ -86831,10 +88116,12 @@ Give; Sacrifice
 Crops
 Attribute.Wet
 
+
 Liquids
 Quantity; Frequency
 Quantity
 
+
 Domestic Animals
 
 Quantity
@@ -86843,6 +88130,7 @@ Quantity; Frequency
 
 Domestic Animals
 Quantity; Frequency
+
 
 
 Domestic Animals
@@ -86854,6 +88142,7 @@ Identifiers
 Domestic Animals
 
 Quantity
+
 
 
 Domestic Animals
@@ -86877,6 +88166,7 @@ Permanent
 Give; Sacrifice
 
 Sacrifice
+
 
 
 Time
@@ -86900,15 +88190,19 @@ Give; Sacrifice
 
 Sacrifice
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
 
 Quantity
 Relations of Description
+
 
 
 Domestic Animals
@@ -86925,6 +88219,7 @@ Permanent
 Give; Sacrifice
 
 Sacrifice
+
 
 
 Time
@@ -86946,15 +88241,19 @@ Give; Sacrifice
 
 Sacrifice
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
 
 Quantity
 Relations of Description
+
 
 
 Domestic Animals
@@ -86970,6 +88269,7 @@ Permanent
 Give; Sacrifice
 
 Sacrifice
+
 
 
 Time
@@ -86989,15 +88289,19 @@ Give; Sacrifice
 
 Sacrifice
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
 
 Quantity
 Relations of Description
+
 
 
 Domestic Animals
@@ -87014,92 +88318,6 @@ Give; Sacrifice
 
 Sacrifice
 
-
-Time
-Identifiers
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Kinship
-Time
-Quantity; Frequency
-
-Just
-
-Give; Sacrifice
-
-Sacrifice
-
-Domestic Animals
-
-Domestic Animals
-
-
-Domestic Animals
-
-Quantity
-Relations of Description
-
-
-Domestic Animals
-Sacrifice
-Quantity
-
-
-Apart
-Sacrifice
-Identifiers
-Permanent
-
-Give; Sacrifice
-
-Sacrifice
-
-
-Time
-Identifiers
-Quantity; Frequency
-Domestic Animals
-Quantity
-Domestic Animals
-Quantity; Frequency
-Domestic Animals
-Kinship
-Time
-Quantity; Frequency
-
-Just
-
-Give; Sacrifice
-
-Sacrifice
-
-Domestic Animals
-
-Domestic Animals
-
-
-Domestic Animals
-
-Quantity
-Relations of Description
-
-
-Domestic Animals
-Sacrifice
-Quantity
-
-
-Apart
-Sacrifice
-Identifiers
-Permanent
-Give; Sacrifice
-
-Sacrifice
 
 
 Time
@@ -87120,9 +88338,109 @@ Give; Sacrifice
 
 Sacrifice
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
+
+
+Domestic Animals
+
+Quantity
+Relations of Description
+
+
+
+Domestic Animals
+Sacrifice
+Quantity
+
+
+Apart
+Sacrifice
+Identifiers
+Permanent
+
+Give; Sacrifice
+
+Sacrifice
+
+
+
+Time
+Identifiers
+Quantity; Frequency
+Domestic Animals
+Quantity
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Kinship
+Time
+Quantity; Frequency
+
+Just
+
+Give; Sacrifice
+
+Sacrifice
+
+
+Domestic Animals
+
+
+Domestic Animals
+
+
+
+Domestic Animals
+
+Quantity
+Relations of Description
+
+
+
+Domestic Animals
+Sacrifice
+Quantity
+
+
+Apart
+Sacrifice
+Identifiers
+Permanent
+Give; Sacrifice
+
+Sacrifice
+
+
+
+Time
+Identifiers
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Quantity; Frequency
+Domestic Animals
+Kinship
+Time
+Quantity; Frequency
+
+Just
+
+Give; Sacrifice
+
+Sacrifice
+
+
+Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
@@ -87143,6 +88461,7 @@ Permanent
 Give; Sacrifice
 
 Sacrifice
+
 
 Time
 Identifiers
@@ -87176,15 +88495,19 @@ Give; Sacrifice
 
 Sacrifice
 
-Domestic Animals
 
 Domestic Animals
+
+
+Domestic Animals
+
 
 
 Domestic Animals
 
 Quantity
 Relations of Description
+
 
 
 Domestic Animals
@@ -87584,6 +88907,7 @@ Strong
 Relations of Association
 
 Relations of Involvement
+
 Fight
 
 Exist; Happen
@@ -87597,8 +88921,10 @@ Names of Supernatural Beings
 Names
 Quantity; Frequency
 
+
 Groups
 Quantity; Frequency
+
 
 Groups
 
@@ -87607,6 +88933,7 @@ Groups
 Names
 Move
 
+
 Fight
 
 
@@ -87614,6 +88941,7 @@ Fight
 Quantity; Frequency
 Names
 Quantity; Frequency
+
 
 Groups
 Quantity; Frequency
@@ -87627,7 +88955,9 @@ Identifiers
 Names
 Quantity; Frequency
 
+
 Groups
+
 
 Fight
 Identifiers
@@ -87638,6 +88968,7 @@ Kinship
 Names of People
 Identifiers
 Priests
+
 
 Fight
 
@@ -87695,6 +89026,7 @@ Kinship
 Names of People
 Dead
 
+
 Attribute
 
 Control
@@ -87731,6 +89063,7 @@ Modification.Complete
 Towns
 Burn
 
+
 Fire
 
 Possess
@@ -87744,7 +89077,9 @@ Modification.Complete
 Identifiers
 Possess
 
+
 People
+
 
 
 Wild Animals
@@ -87800,6 +89135,7 @@ Speak
 Location
 
 Orientation: Attachment
+
 
 Towns
 
@@ -87860,6 +89196,7 @@ Dead
 Modification.Complete
 People
 
+
 Kinship; Classes
 
 Modification.Complete
@@ -87874,6 +89211,7 @@ Dead
 Modification.Complete
 Identifiers
 Kinship; Classes
+
 
 People
 Relations of Description
@@ -87889,6 +89227,7 @@ Dwell
 
 Orientation: Attachment
 
+
 Towns
 Quantity; Frequency
 Time
@@ -87899,12 +89238,15 @@ Dead
 Modification.Complete
 Touch
 
+
 Attribute
 Purify
+
 
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 Time
@@ -87940,6 +89282,7 @@ Identifiers
 Laws
 Identifiers
 Move
+
 
 Fight
 Identifiers
@@ -87977,8 +89320,10 @@ Speak
 Relations of Description
 Move
 
+
 Fire
 Move
+
 
 Fire
 
@@ -87994,13 +89339,16 @@ Relations of Description
 Negators
 Move
 
+
 Fire
+
 
 
 Liquids
 
 Purify
 Clothing
+
 
 Time
 Identifiers
@@ -88027,7 +89375,9 @@ Possess
 Identifiers
 Submit
 
+
 People
+
 
 
 Wild Animals
@@ -88053,6 +89403,7 @@ Fight
 Identifiers
 Move
 
+
 Fight
 
 
@@ -88071,6 +89422,7 @@ Identifiers
 Fight
 Identifiers
 Move
+
 
 Fight
 Quantity
@@ -88137,6 +89489,7 @@ Wild Animals
 Possess
 Identifiers
 Relations of Association
+
 Names of Groups
 Uphold
 Uphold
@@ -88214,6 +89567,7 @@ Divide
 Identifiers
 Move
 
+
 Fight
 Quantity
 Identifiers
@@ -88379,6 +89733,7 @@ Wild Animals
 Possess
 Identifiers
 Relations of Association
+
 Names of Groups
 Uphold
 Uphold
@@ -88652,6 +90007,7 @@ Identifiers
 Kinship
 Move
 
+
 Fight
 
 Participant Referents
@@ -88717,6 +90073,7 @@ Angry
 Angry
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Participants
@@ -88777,6 +90134,7 @@ Names
 
 Shake
 
+
 Land
 Quantity; Frequency
 Time
@@ -88818,6 +90176,7 @@ Space
 adverb
 Relations of Involvement
 Space
+
 
 Land
 
@@ -88886,6 +90245,7 @@ Relations of Association
 
 Direction
 
+
 Names
 
 
@@ -88914,6 +90274,7 @@ Strong
 
 
 Names of Supernatural Beings
+
 
 Fight
 
@@ -89032,6 +90393,7 @@ Fight
 
 Names of Supernatural Beings
 
+
 Fight
 Relations of Description
 Relations of Description
@@ -89076,6 +90438,7 @@ Identifiers
 Names
 Modification.Complete
 Strong
+
 
 Fight
 
@@ -89140,6 +90503,7 @@ Possess
 Possess
 
 Direction
+
 
 Names
 
@@ -89342,6 +90706,7 @@ Move
 
 Names of Locations
 
+
 Time
 Identifiers
 Quantity
@@ -89349,6 +90714,7 @@ Quantity
 Quantity; Frequency
 
 Time
+
 
 Time
 Identifiers
@@ -89518,6 +90884,7 @@ Exist; Happen
 Referents of Location
 Liquids
 Relations of Involvement
+
 Groups
 
 Ingest
@@ -89745,11 +91112,13 @@ Names
 Land
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 Quantity
+
 
 Time
 
@@ -89776,6 +91145,7 @@ Names of Locations
 
 Participants
 Space
+
 
 Names
 
@@ -89960,10 +91330,12 @@ Products
 
 Groups
 
+
 Abundant
 Abundant
 Identifiers
 Possess
+
 
 
 Quantity
@@ -90159,6 +91531,7 @@ Identifiers
 Elevations
 Set
 
+
 Names of Locations
 
 Exist; Happen
@@ -90200,6 +91573,7 @@ Identifiers
 
 Names
 Relations of Association
+
 Names of Locations
 
 
@@ -90459,6 +91833,7 @@ Names
 
 Possess
 Relations of Association
+
 Names of Groups
 
 Possess
@@ -90469,9 +91844,11 @@ Space
 
 Land
 Relations of Involvement
+
 Towns
 Location
 Possess
+
 
 Names of Groups
 
@@ -90500,6 +91877,7 @@ Towns
 Relations of Description
 Possess
 Relations of Association
+
 Names of Groups
 
 Parts: Constructions
@@ -90515,11 +91893,13 @@ Measure
 
 Orientation: Attachment
 
+
 Towns
 Identifiers
 Parts: Objects
 Direction
 Quantity; Frequency
+
 
 Dimension
 
@@ -90528,12 +91908,14 @@ Parts: Objects
 Names
 Quantity; Frequency
 
+
 Dimension
 
 Identifiers
 Parts: Objects
 Water; Direction
 Quantity; Frequency
+
 
 Dimension
 
@@ -90542,10 +91924,12 @@ Parts: Objects
 Direction
 Quantity; Frequency
 
+
 Dimension
 
 Identifiers
 Towns
+
 
 Location
 Identifiers
@@ -90561,6 +91945,7 @@ Towns
 Relations of Description
 Possess
 Relations of Association
+
 Names of Groups
 Identifiers
 Quantity; Frequency
@@ -90587,6 +91972,7 @@ Towns
 Relations of Description
 Possess
 Relations of Association
+
 Names of Groups
 Quantity; Frequency
 
@@ -90626,6 +92012,7 @@ Possess
 
 Towns
 Relations of Association
+
 Names of Groups
 
 Speak
@@ -90688,6 +92075,7 @@ Groups
 
 
 
+
 Identifiers
 Towns
 Relations of Description
@@ -90704,6 +92092,7 @@ Towns
 Possess
 
 Direction
+
 
 Names
 
@@ -90723,7 +92112,9 @@ Kinship
 Names
 
 
+
 Classes
+
 
 
 Classes
@@ -91058,6 +92449,7 @@ Direction
 Relations of Involvement
 Space
 
+
 Land
 
 Universe
@@ -91082,9 +92474,11 @@ Identifiers
 Land
 
 
+
 Land
 Negators
 Purify
+
 
 Parts: Creatures
 Relations of Description
@@ -91265,6 +92659,7 @@ Names of People
 
 Speak
 
+
 Well
 
 
@@ -91419,8 +92814,10 @@ Direction
 Identifiers
 Names
 
+
 Land
 Names
+
 Land
 Relations of Location
 Names of Locations
@@ -91456,6 +92853,7 @@ Quantity; Frequency
 Time
 
 Quantity
+
 
 Time
 Speak
@@ -91522,6 +92920,7 @@ Abundant
 Relations of Involvement
 Space
 
+
 Elevations
 Identifiers
 Identifiers
@@ -91539,12 +92938,16 @@ Location
 Modification.Complete
 Classes
 
+
 Land
 
+
 Elevations
 
 
+
 Elevations
+
 
 
 Names
@@ -91601,6 +93004,7 @@ Space
 
 Speak
 Location
+
 
 
 Identifiers
@@ -91712,6 +93116,7 @@ Identifiers
 Think
 
 
+
 Identifiers
 
 Relations of Involvement
@@ -91735,9 +93140,12 @@ Know
 
 
 
+
 Relations of Description
+
 Quantity
 Relations of Description
+
 Great
 Hear
 Negators
@@ -91764,6 +93172,7 @@ Hear
 
 Speak
 Identifiers
+
 
 
 Identifiers
@@ -91891,6 +93300,7 @@ Quantity; Frequency
 
 Quantity
 
+
 Groups
 
 Move
@@ -91984,6 +93394,7 @@ Great
 
 
 
+
 Universe
 
 Focus particle
@@ -92020,6 +93431,7 @@ Names
 
 
 
+
 Land
 Relations of Description
 Position; Description
@@ -92048,6 +93460,7 @@ Identifiers
 Identifiers
 Happen
 
+
 Speak
 Identifiers
 Identifiers
@@ -92062,6 +93475,7 @@ Relations of Involvement
 
 
 
+
 Relations of Involvement
 Search
 Relations of Involvement
@@ -92069,14 +93483,17 @@ Space
 
 Dwell
 
+
 Fire
 Time
 
 
 
 
+
 Relations of Description
 Move
+
 
 
 
@@ -92095,6 +93512,7 @@ Vow
 Relations of Involvement
 Speak
 Relations of Occurrence
+
 
 
 
@@ -92283,6 +93701,7 @@ Names of Groups
 Identifiers
 Space
 
+
 Elevations
 Identifiers
 Participants
@@ -92327,6 +93746,7 @@ Names of Locations
 Time
 Abundant
 Relations of Description
+
 Time
 Relations of Description
 Space
@@ -92418,6 +93838,7 @@ Exchange
 
 Relations of Association
 
+
 Minerals; Metal
 
 Ingest
@@ -92427,6 +93848,7 @@ Liquids
 Exchange
 
 Relations of Association
+
 
 
 
@@ -92526,11 +93948,13 @@ Abundant
 High
 Relations of Description
 
+
 Names
 Know
 Markers of Addition
 Participant Referents
 Relations of Description
+
 
 
 Identifiers
@@ -92710,6 +94134,7 @@ High
 Relations of Description
 
 
+
 Non-Exist
 Names of Supernatural Beings
 
@@ -92837,6 +94262,8 @@ Land
 
 
 
+
+
 Move
 Negators
 Stance
@@ -92845,12 +94272,14 @@ Direction
 Direction
 Food
 
+
 Minerals; Metal
 Exchange
 
 Ingest
 
 Liquids
+
 
 
 Possess
@@ -92915,6 +94344,7 @@ Possess
 
 
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -92948,6 +94378,7 @@ Participants
 Modification.Complete
 Groups
 
+
 Fight
 Names of People
 
@@ -92971,6 +94402,7 @@ Grasp
 Identifiers
 Modification.Complete
 Towns
+
 
 
 Identifiers
@@ -93012,6 +94444,7 @@ Names of Geographical Objects
 Identifiers
 Towns
 Relations of Description
+
 
 
 
@@ -93072,6 +94505,7 @@ Participants
 
 Modification.Complete
 Groups
+
 
 Fight
 Names of Locations
@@ -93139,6 +94573,7 @@ Modification.Complete
 Towns
 
 
+
 Identifiers
 
 Negators
@@ -93156,6 +94591,7 @@ Land
 Names of Locations
 Groups
 Names of People
+
 
 Names
 Modification.Complete
@@ -93206,6 +94642,7 @@ Possess
 
 
 Possess
+
 
 
 Identifiers
@@ -93261,6 +94698,7 @@ Towns
 Groups
 Names of People
 
+
 Names
 
 Focus particle
@@ -93303,6 +94741,7 @@ Identifiers
 Divide
 
 
+
 Identifiers
 
 
@@ -93320,6 +94759,8 @@ Object Referents
 Towns
 Possess
 Relations of Association
+
+
 
 
 
@@ -93395,6 +94836,8 @@ Relations of Association
 
 
 
+
+
 Names of Groups
 Possess
 
@@ -93443,6 +94886,7 @@ Direction
 
 Speak
 Identifiers
+
 
 
 Identifiers
@@ -93524,6 +94968,7 @@ Names of People
 Speak
 
 
+
 Identifiers
 
 Relations of Involvement
@@ -93569,6 +95014,7 @@ Location
 Names of Supernatural Beings
 
 
+
 Identifiers
 
 Relations of Involvement
@@ -93592,7 +95038,9 @@ Relations of Description
 
 Deities
 
+
 Universe
+
 
 
 Land
@@ -93646,6 +95094,7 @@ Negators
 Speak
 Location
 adverb
+
 
 Speak
 Identifiers
@@ -93704,6 +95153,7 @@ Relations of Description
 
 Names of Locations
 Space
+
 
 Depressions
 Relations of Location
@@ -93976,6 +95426,7 @@ Identifiers
 Elevations
 Burn
 
+
 Fire
 
 Parts: Creatures
@@ -94028,6 +95479,7 @@ Speak
 Names of Supernatural Beings
 
 
+
 Identifiers
 
 Relations of Involvement
@@ -94039,6 +95491,7 @@ Laws
 Relations of Involvement
 Serve
 Identifiers
+
 
 Land
 Relations of Description
@@ -94086,6 +95539,7 @@ Modification.Complete
 Wild Animals
 Relations of Description
 
+
 Land
 Artifacts
 Modification.Complete
@@ -94094,10 +95548,12 @@ Parts: Creatures
 Relations of Description
 Move
 
+
 Universe
 Artifacts
 Modification.Complete
 Move
+
 
 Land
 
@@ -94105,7 +95561,9 @@ Modification.Complete
 Aquatic Animals
 Relations of Description
 
+
 Liquids
+
 
 
 
@@ -94173,6 +95631,7 @@ Exist; Happen
 Groups
 Possess
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -94208,6 +95667,7 @@ Possess
 
 Participant Referents
 Dead
+
 
 Land
 Identifiers
@@ -94267,6 +95727,7 @@ Kinship
 
 Space; Time
 
+
 Land
 
 Sin
@@ -94325,11 +95786,13 @@ Scatter
 Names of Supernatural Beings
 Identifiers
 
+
 Groups
 
 Exist
 People
 Quantity
+
 
 People
 Relations of Description
@@ -94378,6 +95841,7 @@ Parts: Creatures
 Modification.Complete
 
 Happen
+
 Distress
 
 
@@ -94454,6 +95918,7 @@ Universe
 Identifiers
 Exist; Happen
 Relations of Description
+
 Speak
 Identifiers
 Great
@@ -94602,6 +96067,7 @@ Identifiers
 Land
 Possess
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -94618,6 +96084,7 @@ Names of Supernatural Beings
 Participants
 Identifiers
 Deities
+
 
 Universe
 
@@ -94708,6 +96175,7 @@ Alive
 Identifiers
 Names of Locations
 
+
 Land
 
 Land
@@ -94716,17 +96184,22 @@ Scenery
 Relations of Association
 
 
+
 Identifiers
 Names of Locations
 
+
 Object Referents
 Relations of Association
+
 Names of Groups
 
 Identifiers
 Names of Locations
 
+
 Names
+
 
 
 
@@ -94763,6 +96236,7 @@ Names of Locations
 Direction
 Identifiers
 Names
+
 
 Depressions
 Relations of Location
@@ -94904,6 +96378,7 @@ Speak
 Names of Supernatural Beings
 
 
+
 Elevations
 
 Location
@@ -94913,6 +96388,7 @@ Participant Referents
 Stance//Space
 
 Names of Supernatural Beings
+
 
 
 
@@ -94934,6 +96410,7 @@ Fire
 
 Negators
 Move
+
 
 Elevations
 Relations of Involvement
@@ -94964,11 +96441,13 @@ Modification.Complete
 Designs
 Relations of Description
 
+
 Universe
 
 Direction
 
 Relations of Description
+
 
 Land
 
@@ -94976,7 +96455,9 @@ Land
 
 Relations of Description
 
+
 Liquids
+
 
 
 
@@ -95024,6 +96505,7 @@ Identifiers
 Names of Supernatural Beings
 Deities
 
+
 Worthless
 
 Negators
@@ -95033,6 +96515,7 @@ Identifiers
 Relations of Description
 
 Identifiers
+
 
 
 Worthless
@@ -95201,6 +96684,7 @@ Location
 Modification.Complete
 People
 
+
 Elevations
 
 Location
@@ -95240,6 +96724,7 @@ Dark
 Identifiers
 Elevations
 Burn
+
 
 Fire
 
@@ -95433,6 +96918,7 @@ Know
 
 Serve
 
+
 Land
 Relations of Description
 Participant Referents
@@ -95474,6 +96960,7 @@ Good
 Extent
 Time
 
+
 Land
 Relations of Description
 Possess
@@ -95495,6 +96982,7 @@ Know
 Identifiers
 Relations of Involvement
 Serve
+
 
 Land
 Relations of Description
@@ -95606,6 +97094,7 @@ Kinship / Construction
 
 
 Move
+
 
 
 
@@ -95751,6 +97240,7 @@ Names of Supernatural Beings
 Deities
 Relations of Description
 Relations of Description
+
 
 
 
@@ -96041,6 +97531,7 @@ Impact
 
 Artifacts
 Burn
+
 
 Fire
 
@@ -96469,6 +97960,7 @@ Artifacts
 Deities
 Burn
 
+
 Fire
 Negators
 Wish
@@ -96545,6 +98037,7 @@ Deities
 Identifiers
 Quantity; Frequency
 Time
+
 
 Land
 
@@ -96654,7 +98147,9 @@ Water
 Water
 Move
 
+
 Scenery
+
 
 
 Elevations
@@ -96776,6 +98271,7 @@ Classes; Officials; Serve
 Identifiers
 Move
 
+
 Land
 Identifiers
 Great
@@ -96802,6 +98298,7 @@ Stone
 Identifiers
 Ingest
 Food
+
 
 Land
 Relations of Description
@@ -96855,6 +98352,7 @@ Vow
 
 Kinship
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -96884,6 +98382,7 @@ Time
 Non-Exist; Dead
 Non-Exist; Dead
 Relations of Description
+
 People
 Relations of Description
 Names of Supernatural Beings
@@ -96919,6 +98418,7 @@ Strong
 
 Towns
 Great
+
 
 
 
@@ -97085,6 +98585,7 @@ Identifiers
 Names of Supernatural Beings
 Deities
 
+
 Land
 
 
@@ -97138,6 +98639,7 @@ Names of Supernatural Beings
 
 Space
 
+
 Elevations
 Quantity; Frequency
 Time
@@ -97173,6 +98675,7 @@ Speak
 Relations of Description
 Speak
 Names of Supernatural Beings
+
 
 
 Elevations
@@ -97281,6 +98784,7 @@ Identifiers
 Elevations
 Burn
 
+
 Fire
 
 Quantity; Frequency
@@ -97333,6 +98837,7 @@ Stance
 
 Names of Supernatural Beings
 Relations of Description
+
 Quantity
 Quantity; Frequency
 Time
@@ -97382,6 +98887,7 @@ Names of Supernatural Beings
 Location
 Focus particle
 
+
 Time
 Identifiers
 
@@ -97400,6 +98906,7 @@ Focus particle
 Names of People
 
 
+
 Identifiers
 
 
@@ -97414,6 +98921,7 @@ Possess
 
 Burn
 Identifiers
+
 
 Fire
 
@@ -97590,6 +99098,7 @@ Identifiers
 
 Dead
 
+
 Land
 
 Participant Referents
@@ -97609,6 +99118,7 @@ Identifiers
 Stance
 
 
+
 Identifiers
 
 Speak
@@ -97620,6 +99130,7 @@ Quantity; Frequency
 Scrolls
 Stone
 Relations of Description
+
 Quantity
 
 Move
@@ -97651,6 +99162,7 @@ Impact
 
 Space
 
+
 Containers
 
 Serve
@@ -97663,6 +99175,7 @@ Quantity; Frequency
 Scrolls
 Stone
 Relations of Description
+
 Quantity
 
 Move
@@ -97680,6 +99193,7 @@ Cognition.Write
 Identifiers
 Scrolls
 Relations of Description
+
 Scrolls
 Identifiers
 Quantity
@@ -97691,6 +99205,7 @@ Relations of Description
 Speak
 Names of Supernatural Beings
 Location
+
 
 Elevations
 
@@ -97717,6 +99232,7 @@ Space
 Identifiers
 Identifiers
 Scrolls
+
 
 Containers
 Relations of Description
@@ -97759,6 +99275,7 @@ Names of Locations
 Land
 Water
 Liquids
+
 
 
 Identifiers
@@ -97816,8 +99333,10 @@ Deities
 Participant Referents
 Stance//Space
 
+
 Elevations
 Relations of Description
+
 Time
 
 Quantity
@@ -97831,6 +99350,7 @@ Hear
 Names of Supernatural Beings
 Location
 Focus particle
+
 
 Time
 Identifiers
@@ -97954,6 +99474,7 @@ Modification.Complete
 Identifiers
 Groups
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -98168,6 +99689,7 @@ Identifiers
 
 Relations of Description
 Serve
+
 
 
 Land
@@ -98490,6 +100012,7 @@ Move
 
 
 
+
 Stance
 
 
@@ -98730,6 +100253,7 @@ Names
 Identifiers
 Space
 
+
 Land
 Relations of Location
 Identifiers
@@ -98791,6 +100315,7 @@ Safe
 Relations of Involvement
 Serve
 
+
 Land
 Relations of Description
 Possess
@@ -98851,6 +100376,7 @@ Constructions
 
 Deities
 Burn
+
 
 Fire
 
@@ -98978,6 +100504,7 @@ Names
 
 Space
 
+
 Land
 Relations of Description
 Names of Supernatural Beings
@@ -99072,6 +100599,7 @@ Perception
 
 Relations of Occurrence
 
+
 Space
 Relations of Description
 Apart
@@ -99115,9 +100643,11 @@ Identifiers
 Pure
 Ingest
 Relations of Description
+
 Wild Animals
 
 Relations of Description
+
 Wild Animals
 conjunctive adverb
 Identifiers
@@ -99129,6 +100659,7 @@ Identifiers
 Land
 Flow
 Relations of Description
+
 Liquids
 Negators
 ?
@@ -99164,6 +100695,7 @@ Relations of Occurrence
 Names of Supernatural Beings
 Deities
 Ingest
+
 
 Space
 Relations of Description
@@ -99316,6 +100848,7 @@ Identifiers
 Land
 Flow
 Relations of Description
+
 Liquids
 Negators
 Ingest
@@ -99480,6 +101013,7 @@ Kinship
 Identifiers
 Kinship
 Burn
+
 
 Fire
 
@@ -99660,6 +101194,7 @@ Relations of Description
 Relations of Description
 
 
+
 Cover
 Relations of Involvement
 Speak
@@ -99722,6 +101257,7 @@ Dead
 Exist; Happen
 
 
+
 Quantity
 Relations of Involvement
 Dead
@@ -99731,9 +101267,11 @@ Modification.Complete
 Identifiers
 Groups
 
+
 Identifiers
 
 Dead
+
 
 Stone
 
@@ -99766,6 +101304,7 @@ Negators
 Relations of Involvement
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Wrong
@@ -99863,6 +101402,7 @@ Location
 Roads
 
 Burn
+
 
 Fire
 Identifiers
@@ -100017,6 +101557,7 @@ Parts: Creatures
 Move
 Parts
 
+
 Wild Animals
 Identifiers
 Ingest
@@ -100087,6 +101628,7 @@ Ingest
 
 Modification.Complete
 Relations of Description
+
 
 Liquids
 Modification.Complete
@@ -100218,6 +101760,7 @@ Ingest
 Modification.Complete
 Parts: Creatures
 
+
 Classes
 Relations of Description
 
@@ -100260,6 +101803,7 @@ Relations of Involvement
 
 Names of Supernatural Beings
 Deities
+
 
 Space
 Relations of Description
@@ -100318,6 +101862,7 @@ Deities
 
 Possess
 
+
 Minerals; Metal
 
 Gather
@@ -100345,13 +101890,17 @@ Relations of Description
 Desire
 
 
+
 Domestic Animals
 
 
+
 Domestic Animals
+
 
 
 Liquids; Wine; Crops
+
 
 
 Liquids; Wine
@@ -100397,6 +101946,7 @@ Identifiers
 Modification.Complete
 Quantity
 Crops
+
 
 
 Identifiers
@@ -100496,6 +102046,7 @@ Classes
 Praise
 Praise
 Names of Supernatural Beings
+
 
 Land
 Relations of Description
@@ -100706,6 +102257,7 @@ Time
 
 
 
+
 Identifiers
 Quantity; Frequency
 Location
@@ -100790,6 +102342,7 @@ Possess
 Parts: Creatures
 
 
+
 Building.Parts
 
 Exist; Happen
@@ -100862,6 +102415,7 @@ Time
 
 
 
+
 Space
 Relations of Description
 Apart
@@ -100895,9 +102449,11 @@ Identifiers
 Pure
 
 Relations of Description
+
 Wild Animals
 
 Relations of Description
+
 Wild Animals
 conjunctive adverb
 Identifiers
@@ -100909,6 +102465,7 @@ Identifiers
 Land
 Flow
 Relations of Description
+
 Liquids
 Uphold
 Identifiers
@@ -100941,6 +102498,7 @@ Deities
 Domestic Animals
 
 Domestic Animals
+
 
 Space
 Relations of Description
@@ -100998,11 +102556,14 @@ Parts: Creatures
 Relations of Description
 Dead
 
+
 Time
+
 
 Time
 Identifiers
 Quantity
+
 
 Time
 Negators
@@ -101038,6 +102599,7 @@ Identifiers
 Identifiers
 Sacrifice
 
+
 Time
 Relations of Description
 Move
@@ -101052,6 +102614,7 @@ Hot
 
 Ingest
 
+
 Space
 Relations of Description
 Apart
@@ -101060,6 +102623,7 @@ Deities
 
 
 Move
+
 
 Time
 
@@ -101070,6 +102634,7 @@ Quantity; Frequency
 Time
 Ingest
 Bread
+
 
 
 Time
@@ -101089,6 +102654,7 @@ Relations of Involvement
 Relations of Involvement
 Occurrence
 Tools
+
 
 Crops
 Occurrence
@@ -101146,6 +102712,7 @@ Classes
 Relations of Description
 
 Association
+
 
 Space
 Relations of Description
@@ -101221,6 +102788,7 @@ Relations of Association
 Names of Supernatural Beings
 Deities
 
+
 Space
 Relations of Description
 Apart
@@ -101244,6 +102812,7 @@ Joy
 Quantity; Frequency
 Time
 
+
 Time
 Position
 Modification.Complete
@@ -101252,6 +102821,7 @@ Relations of Association
 
 Names of Supernatural Beings
 Deities
+
 
 Space
 Relations of Description
@@ -101425,7 +102995,9 @@ Stance
 
 
 
+
 Universe
+
 
 
 Universe
@@ -101493,6 +103065,7 @@ People
 
 Dead
 
+
 Stone
 
 Dead
@@ -101518,6 +103091,7 @@ Utter
 Exist; Happen
 
 
+
 Quantity
 Relations of Involvement
 Dead
@@ -101526,6 +103100,7 @@ Dead
 Modification.Complete
 Identifiers
 Groups
+
 
 Identifiers
 
@@ -101538,6 +103113,7 @@ Move
 Good
 
 Speak
+
 
 
 
@@ -101582,6 +103158,7 @@ Identifiers
 Leaders
 Relations of Description
 Contend
+
 
 Time
 Identifiers
@@ -101770,6 +103347,7 @@ Negators
 Move
 
 
+
 Identifiers
 Identifiers
 adverb
@@ -101878,6 +103456,7 @@ Names
 Negators
 Exist; Happen
 
+
 Priests
 Identifiers
 Names of Groups
@@ -101930,6 +103509,7 @@ Relations of Occurrence
 Domestic Animals
 
 Possess
+
 
 
 Identifiers
@@ -102054,6 +103634,7 @@ Move
 Kinship
 
 Kinship
+
 
 Fire
 Divination
@@ -102377,10 +103958,12 @@ Move
 Relations of Association
 Friends
 
+
 Scenery
 Relations of Involvement
 Attribute
 Trees
+
 
 
 
@@ -102609,6 +104192,7 @@ Possess
 Relations of Description
 Possess
 
+
 Land
 Relations of Description
 Names of Supernatural Beings
@@ -102678,6 +104262,7 @@ Leaders
 Relations of Description
 Exist; Happen
 
+
 Time
 Identifiers
 Participant Referents
@@ -102725,6 +104310,7 @@ Relations of Involvement
 Serve
 adverb
 Relations of Description
+
 Speak
 Identifiers
 Wrong
@@ -102753,6 +104339,7 @@ Quantity
 
 
 Move
+
 
 Fight
 
@@ -102802,6 +104389,7 @@ Participant Referents
 Location
 Identifiers
 Time
+
 
 Fight
 
@@ -102860,6 +104448,7 @@ Kinship / Construction
 
 Dead
 
+
 Fight
 
 
@@ -102883,6 +104472,7 @@ Kinship / Construction
 
 Dead
 
+
 Fight
 
 
@@ -102905,6 +104495,7 @@ Direction
 Kinship / Construction
 
 Dead
+
 
 Fight
 
@@ -103037,6 +104628,7 @@ Modification.Complete
 Relations of Description
 Exist; Happen
 
+
 Towns
 Modification.Complete
 Possess
@@ -103167,6 +104759,7 @@ Move
 
 
 
+
 Gather
 Focus particle
 Trees
@@ -103198,6 +104791,7 @@ Move
 Search
 Attribute
 
+
 Land
 Relations of Description
 Names of Supernatural Beings
@@ -103207,6 +104801,7 @@ Relations of Involvement
 
 Possess
 Move
+
 
 Land
 Negators
@@ -103283,6 +104878,7 @@ Identifiers
 
 
 
+
 Space
 Identifiers
 Priests
@@ -103330,6 +104926,7 @@ Identifiers
 Domestic Animals
 Identifiers
 Wounds
+
 
 Water
 
@@ -103388,6 +104985,7 @@ Names of Supernatural Beings
 
 Move
 
+
 Fight
 
 Hate
@@ -103402,6 +105000,7 @@ Control
 Submit
 
 Position; Connection
+
 
 Submit
 People
@@ -103475,6 +105074,7 @@ Exchange
 Negators
 
 
+
 Minerals; Metal
 Negators
 Oppress
@@ -103510,6 +105110,7 @@ Identifiers
 Kinship
 Identifiers
 Kinship
+
 
 Despise
 
@@ -103627,6 +105228,7 @@ Modification.Complete
 
 Towns
 
+
 Stone
 
 Dead
@@ -103666,6 +105268,7 @@ Trees
 
 Space
 Space
+
 
 Time
 Identifiers
@@ -103762,6 +105365,7 @@ Move
 
 
 
+
 Hide
 Relations of Involvement
 Stance
@@ -103790,6 +105394,7 @@ Identifiers
 Meet
 Constructions
 Birds
+
 
 
 
@@ -103967,6 +105572,7 @@ Kinship
 Possess
 
 
+
 Identifiers
 Identifiers
 
@@ -104053,6 +105659,7 @@ Identifiers
 Search
 People
 
+
 People
 
 Move
@@ -104067,6 +105674,7 @@ Kinship
 Dead
 
 Towns
+
 
 Stone
 
@@ -104125,6 +105733,7 @@ Associate
 Search; Know
 
 
+
 Towns
 
 Sex
@@ -104143,6 +105752,7 @@ Identifiers
 Dead
 Identifiers
 
+
 Stone
 
 Dead
@@ -104154,6 +105764,7 @@ Speak
 Relations of Description
 Negators
 Lament
+
 
 Towns
 
@@ -104175,6 +105786,7 @@ Wrong
 Move
 
 Relations of Occurrence
+
 
 Land
 Search; Know
@@ -104204,10 +105816,12 @@ Sex
 Apart
 Happen
 
+
 People
 Negators
 Serve
 Speak
+
 
 
 
@@ -104228,6 +105842,7 @@ Identifiers
 Contend
 Identifiers
 Identifiers
+
 
 
 Land
@@ -104344,10 +105959,13 @@ Negators
 Meet
 Identifiers
 
+
 Bread
 
 
+
 Liquids
+
 
 
 
@@ -104452,6 +106070,7 @@ Location
 
 Orientation: Attachment
 
+
 Towns
 Negators
 Move
@@ -104465,6 +106084,7 @@ Relations of Involvement
 Move
 Time
 Purify
+
 
 Liquids
 
@@ -104483,6 +106103,7 @@ Exist; Happen
 
 
 Orientation: Attachment
+
 
 Towns
 
@@ -104554,12 +106175,14 @@ Space
 
 Association
 
+
 Space
 Relations of Description
 Apart
 
 Quantity
 Parts: Constructions
+
 
 
 
@@ -104610,6 +106233,7 @@ Modification.Complete
 Speak
 Relations of Description
 Exchange
+
 
 Modification
 Exchange
@@ -104833,6 +106457,7 @@ Happen
 Negators
 Move
 
+
 Groups
 
 Negators
@@ -104926,6 +106551,7 @@ Names
 
 
 
+
 Move
 
 Names
@@ -104942,6 +106568,7 @@ Kinship / Construction
 Relations of Involvement
 Possess
 Possess
+
 
 Orientation: Attachment
 Stance//Space
@@ -105049,6 +106676,7 @@ Dead
 
 Kinship
 
+
 Bear
 Dead
 Negators
@@ -105095,14 +106723,18 @@ Know
 Bind
 
 
+
 Negators
 Direction
 Relations of Involvement
 Possess
 
-Classes
 
 Classes
+
+
+Classes
+
 
 
 Classes
@@ -105122,9 +106754,12 @@ Negators
 See
 Space
 
-Classes
 
 Classes
+
+
+Classes
+
 
 
 Classes
@@ -105136,9 +106771,12 @@ Negators
 Gather
 Space
 
-Classes
 
 Classes
+
+
+Classes
+
 
 
 Classes
@@ -105350,6 +106988,7 @@ Speak
 Exist
 
 
+
 Relations of Description
 Negators
 Exist
@@ -105462,10 +107101,12 @@ Names of Groups
 
 
 
+
 Move
 
 Names
 Relations of Description
+
 
 
 
@@ -105497,6 +107138,7 @@ Modification.Complete
 Hate
 
 Location
+
 
 Land
 Relations of Description
@@ -105555,6 +107197,7 @@ Possess
 
 Space
 
+
 Containers
 
 Move
@@ -105576,6 +107219,7 @@ Identifiers
 Priests
 Relations of Description
 Exist; Happen
+
 
 Time
 Identifiers
@@ -105779,6 +107423,7 @@ Modification.Complete
 Quantity
 Crops
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -105788,11 +107433,15 @@ Identifiers
 
 Possess
 
+
 Names of Groups
 
-Classes
 
 Classes
+
+
+Classes
+
 
 
 Classes
@@ -105818,12 +107467,16 @@ Kinship / Construction
 
 Possess
 
+
 Names of Groups
 
 
-Classes
 
 Classes
+
+
+Classes
+
 
 
 Classes
@@ -106028,6 +107681,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Relations of Description
 Move
@@ -106050,6 +107704,7 @@ Great
 
 Cover
 Identifiers
+
 
 Paint
 
@@ -106112,6 +107767,7 @@ Names of Geographical Objects
 
 Cover
 Identifiers
+
 
 Paint
 Scenery: Constructio
@@ -106219,6 +107875,7 @@ Identifiers
 Identifiers
 Groups
 
+
 Time
 Identifiers
 Participants
@@ -106296,6 +107953,7 @@ Professions
 
 Space
 
+
 Cover
 
 Utter
@@ -106329,6 +107987,7 @@ True
 Curse
 Move
 Blind
+
 
 
 
@@ -106404,6 +108063,7 @@ True
 Curse
 Impact
 Friends
+
 
 Cover
 
@@ -106495,10 +108155,12 @@ Deities
 Praise
 Participant Referents
 
+
 Towns
 
 Praise
 Participant Referents
+
 
 Land
 Praise
@@ -106565,6 +108227,7 @@ Modification.Complete
 
 
 Praise
+
 
 Land
 Relations of Description
@@ -106758,10 +108421,12 @@ Pursue; Attain
 Curse
 Participant Referents
 
+
 Towns
 
 Curse
 Participant Referents
+
 
 Land
 Curse
@@ -106841,22 +108506,29 @@ Possess
 Impact
 Attribute
 
+
 Weak
+
 
 
 Sick
 
 
+
 Weak
 
 
+
 Impact
+
 
 
 Heat
 
 
+
 Impact
+
 
 
 Impact
@@ -106944,10 +108616,13 @@ Wounds
 Names
 
 
+
 Wounds
 
 
+
 Weak
+
 
 
 Weak
@@ -106971,12 +108646,14 @@ Parts: Creatures
 Exist; Happen
 Touch
 
+
 Existence
 Relations of Description
 Relations of Description
 
 Identifiers
 Blind
+
 
 Time; Dark
 
@@ -107201,6 +108878,7 @@ Exist; Happen
 
 
 Move
+
 
 Submit
 Modification.Complete
@@ -107541,6 +109219,7 @@ Ingest
 Location
 Modification.Complete
 
+
 Cover
 
 Distress
@@ -107567,6 +109246,7 @@ Identifiers
 Identifiers
 Identifiers
 Cognition.Write
+
 
 
 Identifiers
@@ -107728,6 +109408,7 @@ Trees
 Stone
 
 
+
 People
 Identifiers
 Participant Referents
@@ -107771,11 +109452,13 @@ Trust
 
 Alive
 
+
 Time
 Speak
 
 Possess
 Time
+
 
 
 
@@ -107800,6 +109483,7 @@ Names of Supernatural Beings
 Names
 
 Ships
+
 
 
 Relations of Description
@@ -107924,6 +109608,7 @@ Identifiers
 Quantity; Frequency
 Time
 
+
 Land
 Negators
 Impact
@@ -107972,6 +109657,7 @@ Names
 Relations of Involvement
 Meet
 
+
 Fight
 
 Impact
@@ -107983,6 +109669,8 @@ Divide
 Possess
 Relations of Association
 Possess
+
+
 
 
 
@@ -108244,6 +109932,7 @@ Names of Supernatural Beings
 Angry
 
 
+
 Identifiers
 Participants
 
@@ -108254,6 +109943,7 @@ Identifiers
 Curse
 Identifiers
 Cognition.Write
+
 
 
 Identifiers
@@ -108367,6 +110057,7 @@ Serve
 Names of Supernatural Beings
 
 
+
 Land
 Identifiers
 Identifiers
@@ -108419,6 +110110,7 @@ Angry
 Angry
 Names of Supernatural Beings
 
+
 Land
 Identifiers
 
@@ -108431,6 +110123,7 @@ Identifiers
 Curse
 Identifiers
 Cognition.Write
+
 
 
 Identifiers
@@ -108456,6 +110149,7 @@ Location
 Land
 Identifiers
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -108739,6 +110433,7 @@ Dimension
 
 Negators
 
+
 Universe
 
 Relations of Involvement
@@ -108761,6 +110456,7 @@ Negators
 
 Direction
 Relations of Involvement
+
 Water; Direction
 
 
@@ -108845,6 +110541,7 @@ Praise
 Names of Supernatural Beings
 Deities
 
+
 Land
 Relations of Description
 Participant Referents
@@ -108918,6 +110615,7 @@ Identifiers
 Curse
 
 Apart
+
 
 Alive
 
@@ -109206,6 +110904,7 @@ Relations of Association
 Names of Supernatural Beings
 Deities
 
+
 Space
 Relations of Description
 Apart
@@ -109323,6 +111022,7 @@ Tents
 Description
 Names of Supernatural Beings
 
+
 Tents
 
 Shape
@@ -109378,6 +111078,7 @@ Angry
 Angry
 
 
+
 Time
 Identifiers
 Participants
@@ -109400,6 +111101,7 @@ Distress
 
 Speak
 
+
 Time
 
 Participants
@@ -109419,6 +111121,7 @@ Identifiers
 
 Participant Referents
 Hide
+
 
 
 
@@ -109547,6 +111250,7 @@ Identifiers
 Music
 Identifiers
 Identifiers
+
 
 Time
 Identifiers
@@ -109753,10 +111457,12 @@ Speak
 
 Stance
 Relations of Description
+
 Rain
 Know
 Attribute.Flowing
 Relations of Description
+
 Rain
 Speak
 Relations of Description
@@ -109959,6 +111665,7 @@ Modification
 Sin
 Angry
 Dead
+
 
 Deities
 Negators
@@ -110389,6 +112096,7 @@ Participants
 Alive
 
 
+
 Happen
 Identifiers
 Identifiers
@@ -110451,6 +112159,7 @@ Names
 Possess
 
 Dead
+
 
 Elevations
 Relations of Description
@@ -110555,6 +112264,7 @@ Quantity
 Pure
 
 Direction
+
 
 
 
@@ -110893,6 +112603,7 @@ Kinship
 
 Space
 
+
 Liquids
 Parts: Creatures
 Minerals; Metal
@@ -110905,6 +112616,7 @@ Time
 Strong
 
 Identifiers
+
 Deities
 Names of People
 Move
@@ -111077,6 +112789,7 @@ Names of Supernatural Beings
 Space
 Identifiers
 Names of Locations
+
 Depressions
 
 Land
@@ -111482,6 +113195,8 @@ Relations of Association
 
 
 
+
+
 Names of Groups
 
 Relations of Involvement
@@ -111522,6 +113237,7 @@ Kinship; Classes
 
 Possess
 Space
+
 
 Land
 Relations of Description
@@ -111753,6 +113469,7 @@ Parts: Constructions
 Relations of Involvement
 Close
 
+
 Dark
 
 Identifiers
@@ -111903,6 +113620,7 @@ Deities
 Participants
 Deities
 
+
 Universe
 
 Direction
@@ -111993,6 +113711,7 @@ Faithful
 
 Move
 
+
 Cords
 
 Identifiers
@@ -112003,6 +113722,7 @@ Kinship / Construction
 Parts: Constructions
 Identifiers
 Constructions
+
 
 
 Constructions
@@ -112050,6 +113770,7 @@ Vow
 Participant Referents
 Move
 
+
 Land
 Identifiers
 Cords
@@ -112059,6 +113780,7 @@ Color
 Identifiers
 Identifiers
 Attach
+
 
 Parts: Constructions
 Relations of Description
@@ -112104,6 +113826,7 @@ Relations of Description
 Exist; Happen
 Relations of Association
 
+
 Kinship / Construction
 Parts: Creatures
 
@@ -112141,6 +113864,7 @@ Identifiers
 Cords
 Identifiers
 Color
+
 
 Parts: Constructions
 
@@ -112221,6 +113945,7 @@ Land
 Time
 Names of People
 
+
 Time
 
 Move
@@ -112295,6 +114020,7 @@ Relations of Description
 Quantity; Frequency
 Dimension
 
+
 Dimension
 Negators
 Space
@@ -112311,6 +114037,7 @@ Move
 
 Negators
 Move
+
 
 
 
@@ -112406,6 +114133,7 @@ Liquids
 Identifiers
 Names
 
+
 Names
 Stance//Space
 
@@ -112475,6 +114203,7 @@ Move
 
 
 
+
 Names
 
 Text deictic
@@ -112490,6 +114219,7 @@ Names
 Quantity
 
 Quantity
+
 
 Groups
 
@@ -112632,6 +114362,7 @@ Containers
 Covenant
 Names of Supernatural Beings
 Land
+
 Land
 
 Location
@@ -112642,6 +114373,7 @@ Non-Move
 Modification.Complete
 Names
 Move
+
 
 Land
 Relations of Occurrence
@@ -112718,6 +114450,7 @@ Identifiers
 
 Space
 Identifiers
+
 
 Dwell
 Relations of Description
@@ -112804,6 +114537,7 @@ Covenant
 Names of Supernatural Beings
 
 Move
+
 
 Names
 Cognition
@@ -112981,10 +114715,12 @@ Move
 
 Names of Supernatural Beings
 
+
 Fight
 Location
 Land
 Names
+
 
 Time
 Identifiers
@@ -113085,13 +114821,16 @@ Move
 Identifiers
 Names
 
+
 Quantity
+
 
 Time
 Identifiers
 Quantity
 
 Dwell
+
 
 Object Referents
 
@@ -113113,6 +114852,7 @@ Identifiers
 Names
 Stance
 Names of People
+
 
 Object Referents
 
@@ -113141,6 +114881,7 @@ Identifiers
 Kinship
 Relations of Involvement
 Speak
+
 
 Land
 Move
@@ -113248,6 +114989,7 @@ Kinship
 
 
 
+
 Identifiers
 
 Speak
@@ -113302,7 +115044,9 @@ Identifiers
 Fight
 Dead
 
+
 Land
+
 
 
 
@@ -113324,7 +115068,9 @@ Identifiers
 Identifiers
 Birth
 
+
 Land
+
 
 
 
@@ -113339,6 +115085,7 @@ Time
 Move
 Kinship
 Names
+
 
 Land
 Relations of Occurrence
@@ -113400,6 +115147,7 @@ Identifiers
 
 
 
+
 Exist; Happen
 Relations of Description
 Relations of Description
@@ -113411,6 +115159,7 @@ Relations of Involvement
 Impact
 
 Space
+
 
 
 Towns
@@ -113447,6 +115196,7 @@ Dwell
 Kinship
 Names
 
+
 Object Referents
 
 Serve
@@ -113458,7 +115208,9 @@ Quantity; Frequency
 
 Time
 
+
 Time
+
 
 Time
 
@@ -113509,6 +115261,7 @@ Ingest
 Crops
 Land
 Names
+
 
 Time
 Identifiers
@@ -113664,6 +115417,7 @@ Identifiers
 Containers
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -113677,6 +115431,7 @@ Time
 Identifiers
 
 Sounds
+
 
 
 
@@ -113783,6 +115538,7 @@ Sounds
 
 
 
+
 Containers
 Covenant
 Names of Supernatural Beings
@@ -113809,6 +115565,7 @@ Containers
 Move
 
 Sounds
+
 
 
 
@@ -113856,10 +115613,12 @@ Towns
 
 Dwell
 
+
 Towns
 
 Time
 Names of People
+
 
 Time
 
@@ -113889,6 +115648,7 @@ Sounds
 
 
 
+
 Identifiers
 Strong
 Move
@@ -113907,10 +115667,12 @@ Sounds
 
 
 
+
 Move
 Identifiers
 Identifiers
 Towns
+
 
 Time
 Identifiers
@@ -113928,6 +115690,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -113944,11 +115707,13 @@ Identifiers
 Towns
 Relations of Description
 
+
 Identifiers
 Identifiers
 Quantity; Frequency
 Time
 Focus particle
+
 
 Time
 Identifiers
@@ -113962,12 +115727,14 @@ Quantity; Frequency
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 Sounds
 Identifiers
 Priests
+
 
 Music
 
@@ -114006,6 +115773,7 @@ Alive
 Modification.Complete
 Relations of Description
 Identifiers
+
 
 Kinship / Construction
 
@@ -114063,6 +115831,7 @@ Groups
 
 Sounds
 
+
 Music
 
 Exist; Happen
@@ -114103,6 +115872,7 @@ Non-Exist
 Identifiers
 Modification.Complete
 Relations of Description
+
 
 Towns
 
@@ -114200,6 +115970,7 @@ Identifiers
 Towns
 Burn
 
+
 Fire
 
 Modification.Complete
@@ -114265,6 +116036,7 @@ Vow
 Names of People
 
 
+
 Identifiers
 
 Relations of Involvement
@@ -114311,6 +116083,7 @@ Sin
 Kinship
 Names
 Sin
+
 
 Apart
 
@@ -114443,6 +116216,7 @@ Parts: Constructions
 
 Identifiers
 Scenery
+
 
 
 
@@ -114661,6 +116435,7 @@ Apart
 
 Space
 
+
 Time
 
 Groups
@@ -114673,6 +116448,7 @@ Grasp
 Names of Supernatural Beings
 Space
 
+
 Groups
 
 Identifiers
@@ -114682,6 +116458,7 @@ Relations of Description
 Names of Supernatural Beings
 
 
+
 Kinship / Construction
 
 Identifiers
@@ -114691,14 +116468,17 @@ Relations of Description
 Names of Supernatural Beings
 
 
+
 People
 
 Exist; Happen
 Identifiers
 Grasp
 
+
 Apart
 Burn
+
 
 Fire
 Identifiers
@@ -114722,6 +116502,7 @@ Names
 Time
 Names of People
 
+
 Time
 
 Space
@@ -114751,6 +116532,7 @@ Identifiers
 Identifiers
 Names
 
+
 People
 
 Grasp
@@ -114759,6 +116541,7 @@ Names of People
 Space
 Identifiers
 Kinship / Construction
+
 
 People
 
@@ -114823,6 +116606,7 @@ Serve
 
 Position; Connection
 
+
 Possess
 Clothing
 Names
@@ -114846,6 +116630,7 @@ Possess
 
 Presentative deictic
 Hide
+
 
 Land
 
@@ -114953,6 +116738,7 @@ Distress
 Distress
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Identifiers
@@ -114966,10 +116752,12 @@ Stone
 Burn
 Identifiers
 
+
 Fire
 
 Dead
 Identifiers
+
 
 Stone
 
@@ -115046,6 +116834,7 @@ Land
 
 Serve
 Relations of Association
+
 Names of Locations
 
 Relations of Association
@@ -115067,6 +116856,7 @@ Possess
 Space
 
 Hide
+
 
 Towns
 
@@ -115104,6 +116894,7 @@ Speak
 Participant Referents
 Hide
 
+
 Towns
 
 Space
@@ -115140,6 +116931,7 @@ Meet
 Relations of Description
 Relations of Description
 
+
 Quantity
 
 Flee
@@ -115161,6 +116953,7 @@ Flee
 
 Relations of Description
 Relations of Description
+
 
 Quantity
 
@@ -115196,6 +116989,7 @@ Identifiers
 Identifiers
 Towns
 
+
 Fire
 Relations of Description
 Speak
@@ -115223,10 +117017,12 @@ Names of Locations
 
 Water; Direction
 Relations of Association
+
 Names of Locations
 
 Dwell
 Names of People
+
 
 Time
 Identifiers
@@ -115238,6 +117034,7 @@ Groups
 
 Time
 Names of People
+
 
 Time
 
@@ -115278,6 +117075,7 @@ Dwell
 
 Direction
 Relations of Association
+
 Names of Locations
 
 Identifiers
@@ -115306,6 +117104,7 @@ Names of Locations
 
 Water; Direction
 
+
 Towns
 
 Space
@@ -115319,6 +117118,7 @@ Relations of Description
 
 Direction
 
+
 Towns
 
 Identifiers
@@ -115326,10 +117126,12 @@ Parts: Creatures
 
 Water; Direction
 
+
 Towns
 
 Move
 Names of People
+
 
 Time
 Identifiers
@@ -115358,11 +117160,13 @@ Relations of Involvement
 Meet
 Names
 
+
 Fight
 Participants
 
 Modification.Complete
 Groups
+
 
 
 
@@ -115400,6 +117204,7 @@ Identifiers
 Groups
 Relations of Description
 
+
 Towns
 Relations of Involvement
 Pursue
@@ -115416,6 +117221,7 @@ Towns
 
 Negators
 Exist
+
 
 
 Names of Locations
@@ -115443,6 +117249,7 @@ Location
 Names of People
 Stance
 
+
 Weapons
 Relations of Description
 
@@ -115457,6 +117264,7 @@ Possess
 
 
 Names of People
+
 
 Weapons
 Relations of Description
@@ -115490,6 +117298,7 @@ Burn
 Identifiers
 Identifiers
 Towns
+
 
 Fire
 
@@ -115569,6 +117378,7 @@ Exist; Happen
 Relations of Involvement
 Names
 
+
 Location
 Identifiers
 
@@ -115612,7 +117422,9 @@ Space
 Identifiers
 Names of Locations
 
+
 Land
+
 
 Land
 Relations of Description
@@ -115644,6 +117456,7 @@ Modification.Complete
 Identifiers
 Move
 
+
 Time
 Identifiers
 Participants
@@ -115666,6 +117479,7 @@ Negators
 Parts: Creatures
 Relations of Description
 Stance
+
 
 Weapons
 Relations of Occurrence
@@ -115778,6 +117592,7 @@ Identifiers
 Kinship
 Scenery: Constructio
 Relations of Description
+
 Cognition.Write
 
 Scrolls
@@ -115832,6 +117647,7 @@ Identifiers
 
 Identifiers
 
+
 Containers
 Location
 Identifiers
@@ -115843,8 +117659,10 @@ Containers
 Covenant
 Divide
 Relations of Description
+
 Classes
 Relations of Description
+
 Classes
 Divide
 Location
@@ -115869,6 +117687,7 @@ Praise
 Identifiers
 Identifiers
 Groups
+
 
 
 Quantity
@@ -115936,7 +117755,9 @@ Direction
 Identifiers
 Names
 
+
 Elevations
+
 
 
 Elevations
@@ -115990,6 +117811,7 @@ Relations of Association
 Names
 
 Relations of Association
+
 Names of Locations
 
 Serve
@@ -116159,6 +117981,7 @@ Products
 Relations of Involvement
 
 
+
 Move
 
 Meet
@@ -116273,6 +118096,7 @@ Names
 Move
 Location
 Towns
+
 
 Time
 Identifiers
@@ -116470,9 +118294,11 @@ discourse particle
 
 
 Relations of Description
+
 Well
 
 Relations of Description
+
 Right
 
 
@@ -116498,6 +118324,7 @@ Attribute
 Possess
 Names of People
 
+
 Time
 Identifiers
 Participants
@@ -116506,6 +118333,7 @@ Trees
 
 People
 Liquids
+
 
 Groups
 
@@ -116547,6 +118375,7 @@ Relations of Association
 Leaders
 Adverb
 Serve
+
 
 Names of Locations
 
@@ -116802,6 +118631,7 @@ Dead
 Kinship
 
 
+
 Attribute
 Adverb
 Speak
@@ -116872,6 +118702,7 @@ Just
 Negators
 Exist; Happen
 Relations of Description
+
 Time
 Identifiers
 Participants
@@ -116912,6 +118743,7 @@ Identifiers
 
 Hide
 
+
 Elevations
 
 Names of Locations
@@ -116926,6 +118758,7 @@ Quantity; Frequency
 Identifiers
 Leaders
 Hide
+
 
 Elevations
 
@@ -117199,6 +119032,7 @@ Names of Locations
 Grasp
 Names of People
 
+
 Time
 Identifiers
 Participants
@@ -117311,6 +119145,7 @@ Names
 
 Grasp
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -117371,6 +119206,7 @@ Fight
 
 Grasp
 
+
 Time
 Identifiers
 Participants
@@ -117385,6 +119221,7 @@ Modification.Complete
 Identifiers
 
 Relations of Description
+
 
 
 Time
@@ -117621,12 +119458,15 @@ Relations of Description
 
 Direction
 
+
 Elevations
+
 
 
 Land
 Names
 Names of Locations
+
 
 
 Elevations
@@ -117656,6 +119496,7 @@ Names of Groups
 Identifiers
 Names of Groups
 
+
 Elevations
 
 Identifiers
@@ -117676,6 +119517,7 @@ Association
 Groups
 Abundant
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -117722,6 +119564,7 @@ Afraid
 Referents of Time
 Relations of Description
 
+
 Identifiers
 Identifiers
 Participant Referents
@@ -117739,6 +119582,7 @@ Wounds
 Identifiers
 Vehicles
 Burn
+
 
 Fire
 
@@ -117803,10 +119647,12 @@ Identifiers
 Vehicles
 Burn
 
+
 Fire
 
 Direction
 Names of People
+
 
 
 Identifiers
@@ -117819,6 +119665,7 @@ Names of Locations
 Identifiers
 Leaders
 Impact
+
 
 Attribute
 
@@ -117852,6 +119699,7 @@ Parts: Creatures.Parts
 Identifiers
 Names of Locations
 Burn
+
 
 Fire
 
@@ -118047,6 +119895,7 @@ Identifiers
 Modification.Complete
 Possess
 
+
 Fight
 
 
@@ -118082,6 +119931,7 @@ Names
 
 Move
 Names of People
+
 
 
 Names of Locations
@@ -118311,6 +120161,8 @@ Relations of Association
 
 
 
+
+
 Names of Groups
 
 
@@ -118359,10 +120211,13 @@ Possess
 Relations of Description
 Apart
 Names of Locations
+
 Elevations
 
 
+
 Elevations
+
 
 
 Land
@@ -118371,7 +120226,10 @@ Land
 
 
 
+
+
 Land
+
 
 
 Names
@@ -118453,6 +120311,7 @@ Names of Locations
 Quantity
 Leaders
 
+
 Names
 Quantity
 Leaders
@@ -118478,6 +120337,7 @@ Names of Locations
 Quantity
 Leaders
 Names of Locations
+
 
 Names
 Quantity
@@ -118505,6 +120365,7 @@ Names of People
 Old
 Move
 
+
 Time
 
 Speak
@@ -118513,6 +120374,7 @@ Location
 Participant Referents
 Old
 Move
+
 
 Time
 
@@ -118549,6 +120411,7 @@ Scenery
 Names of Locations
 Direction
 
+
 Names
 Know
 Quantity; Frequency
@@ -118579,6 +120442,7 @@ Names
 Elevations
 Relations of Description
 
+
 Names of Groups
 Relations of Location
 Names of Locations
@@ -118603,6 +120467,7 @@ Universe
 
 Elevations
 Names of Geographical Objects
+
 
 
 Names of Locations
@@ -118737,6 +120602,7 @@ Modification.Complete
 Groups
 Names of People
 
+
 Names
 Relations of Description
 Control
@@ -118840,6 +120706,7 @@ Names of Locations
 Towns
 Relations of Description
 
+
 Scenery
 Names
 
@@ -118924,6 +120791,7 @@ Dead
 Kinship
 Names
 
+
 Attribute
 Location
 Attribute
@@ -118996,6 +120864,7 @@ Scenery
 
 Names of Locations
 Names of Locations
+
 Depressions
 
 
@@ -119068,6 +120937,7 @@ Names of Locations
 Relations of Description
 
 
+
 Quantity; Frequency
 Towns
 Divide
@@ -119081,6 +120951,7 @@ Names of Locations
 Towns
 Groups
 Divide
+
 
 Names
 
@@ -119184,7 +121055,9 @@ Groups
 
 Direction
 Relations of Association
+
 Names
+
 
 
 Names of Groups
@@ -119207,7 +121080,9 @@ Negators
 Possess
 Divide
 Relations of Association
+
 Names of Groups
+
 
 Land
 
@@ -119243,6 +121118,7 @@ Kinship
 Names of Groups
 Location
 Names of People
+
 
 Object Referents
 
@@ -119318,6 +121194,7 @@ Deities
 Vow
 Names
 
+
 Time
 Identifiers
 Participants
@@ -119374,6 +121251,7 @@ Relations of Description
 Move
 Names
 
+
 Land
 
 Text deictic
@@ -119405,6 +121283,7 @@ Relations of Description
 
 Adverb
 Relations of Involvement
+
 Fight
 
 Relations of Involvement
@@ -119425,12 +121304,14 @@ Relations of Description
 Speak
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Participants
 
 Participant Referents
 Hear
+
 
 Time
 Identifiers
@@ -119498,6 +121379,7 @@ Identifiers
 People
 Identifiers
 Great
+
 
 
 Participants
@@ -119650,6 +121532,7 @@ Relations of Description
 
 Names
 
+
 Water
 
 Move
@@ -119668,6 +121551,7 @@ Move
 Identifiers
 Scenery
 
+
 Location
 
 Identifiers
@@ -119685,6 +121569,7 @@ Land; Universe; Water; Elevations; Constructi
 Identifiers
 Elevations
 Relations of Description
+
 
 
 
@@ -119948,6 +121833,7 @@ Location
 Scenery
 Names of Groups
 
+
 Names
 Names of Locations
 
@@ -119994,6 +121880,7 @@ Names of Locations
 
 
 
+
 Names of Locations
 Names of Locations
 
@@ -120025,6 +121912,7 @@ Quantity
 Quantity; Frequency
 
 Towns
+
 
 Elevations
 Names of Locations
@@ -120152,6 +122040,7 @@ Scenery
 Scenery
 
 
+
 Elevations
 Names of Locations
 
@@ -120250,6 +122139,7 @@ Quantity; Frequency
 
 Towns
 Names of Locations
+
 Land
 
 Names of Locations
@@ -120311,6 +122201,7 @@ Land
 Move
 
 Names
+
 
 Elevations
 Names of Locations
@@ -120630,6 +122521,7 @@ Relations of Description
 
 Direction
 
+
 Names
 
 Kinship
@@ -120693,6 +122585,7 @@ Names of Geographical Objects
 Names
 Relations of Association
 
+
 Towns
 Identifiers
 Identifiers
@@ -120707,6 +122600,7 @@ Scenery
 
 
 Direction
+
 
 
 
@@ -120795,6 +122689,7 @@ Identifiers
 Names
 Relations of Involvement
 Space
+
 
 Land
 Identifiers
@@ -121014,6 +122909,7 @@ Possess
 Quantity; Frequency
 
 
+
 Groups
 
 Move
@@ -121021,6 +122917,7 @@ Move
 Stance
 
 Act
+
 
 Land
 
@@ -121077,6 +122974,7 @@ Deities
 
 Divide
 Relations of Association
+
 Names of Groups
 Divide
 Association
@@ -121098,6 +122996,7 @@ Possess
 
 Direction
 Relations of Association
+
 Names
 Direction
 Relations of Description
@@ -121129,6 +123028,7 @@ Move
 
 Act
 
+
 Land
 
 Cognition.Write
@@ -121153,9 +123053,11 @@ Identifiers
 
 Move
 
+
 Land
 
 Cognition.Write
+
 
 Towns
 
@@ -121234,6 +123136,7 @@ Names
 Direction
 Names of Locations
 Move
+
 
 Elevations
 Water; Direction
@@ -121329,11 +123232,13 @@ Relations of Description
 
 
 Names of Geographical Objects
+Names of Geographical Objects
 Relations of Description
 
 Depressions
 Identifiers
 Direction
+
 
 
 
@@ -121436,6 +123341,7 @@ Names
 
 
 
+
 Names of Locations
 
 
@@ -121450,6 +123356,7 @@ Identifiers
 Names
 
 Names
+
 
 
 
@@ -121485,6 +123392,7 @@ Names of People
 
 Names of Locations
 Names of Locations
+
 
 
 
@@ -121532,6 +123440,7 @@ Exist; Happen
 
 
 Possess
+
 
 
 Names of People
@@ -121587,6 +123496,7 @@ Identifiers
 Relations of Location
 
 
+
 Identifiers
 Possess
 Groups
@@ -121636,6 +123546,7 @@ Names
 Move
 Scenery
 
+
 Water; Direction
 
 Names
@@ -121680,6 +123591,8 @@ Direction
 
 
 
+
+
 Move
 Names
 Identifiers
@@ -121696,6 +123609,7 @@ Direction
 Names of Locations
 
 Exist; Happen
+
 
 
 Names of Locations
@@ -121847,6 +123761,7 @@ Meet
 
 Names of Locations
 Identifiers
+
 
 
 Direction
@@ -122077,6 +123992,7 @@ Names of Locations
 
 Names of Locations
 Identifiers
+
 
 
 
@@ -122335,6 +124251,7 @@ Referents of Time
 
 Space
 
+
 Towns
 Identifiers
 
@@ -122347,6 +124264,7 @@ Groups
 
 
 
+
 Universe
 Identifiers
 Priests
@@ -122354,6 +124272,7 @@ Identifiers
 Great
 Relations of Description
 Exist; Happen
+
 
 Time
 Identifiers
@@ -122380,6 +124299,7 @@ Referents of Location
 Holy
 Identifiers
 Names of Locations
+
 
 Object Referents
 Identifiers
@@ -122410,7 +124330,9 @@ Possess
 Identifiers
 Names of Locations
 
+
 Land
+
 
 Scenery
 
@@ -122420,6 +124342,7 @@ Names of Groups; Names of Locations
 Identifiers
 Names of Locations
 
+
 Object Referents
 
 Groups
@@ -122427,6 +124350,7 @@ Names of Groups; Names of Locations
 
 Identifiers
 Names of Locations
+
 
 Names
 
@@ -122443,6 +124367,7 @@ Kinship
 Names
 
 Relations of Involvement
+
 Classes
 Identifiers
 Fight
@@ -122524,6 +124449,7 @@ Possess
 Kinship
 Names
 Relations of Association
+
 Names of Groups
 
 Possess
@@ -122569,6 +124495,7 @@ Names of Groups
 Groups
 Names of People
 
+
 Products
 Towns
 Quantity; Frequency
@@ -122592,6 +124519,7 @@ Names
 Divide
 Groups
 Names
+
 
 Products
 Towns
@@ -122618,7 +124546,9 @@ Divide
 Groups
 Names
 
+
 Names
+
 
 Products
 Towns
@@ -122648,6 +124578,7 @@ Possess
 Kinship
 Names
 Relations of Association
+
 Names of Groups
 Identifiers
 Identifiers
@@ -122664,6 +124595,7 @@ Names of Supernatural Beings
 
 
 Names
+
 
 Products
 
@@ -122978,6 +124910,7 @@ Dead
 Identifiers
 Names of Locations
 
+
 Names
 
 Identifiers
@@ -123054,6 +124987,7 @@ Identifiers
 Dead
 Identifiers
 Identifiers
+
 
 Object Referents
 
@@ -123158,6 +125092,7 @@ Identifiers
 Dead
 Identifiers
 Names of Locations
+
 
 Object Referents
 
@@ -123307,6 +125242,8 @@ Relations of Association
 
 
 
+
+
 Names of Groups
 
 
@@ -123450,6 +125387,7 @@ Identifiers
 Names
 Possess
 Names
+
 
 Names
 
@@ -123629,6 +125567,7 @@ Kinship
 
 Relations of Involvement
 Move
+
 
 
 Fight
@@ -123828,6 +125767,7 @@ Kinship
 Names of People
 Sin
 Sin
+
 
 Apart
 
@@ -124223,6 +126163,7 @@ Relations of Involvement
 Move
 
 Relations of Involvement
+
 Fight
 
 Impact
@@ -124244,6 +126185,7 @@ Names of Groups; Names of Locations
 
 Kinship
 Names of Groups; Names of Locations
+
 
 Altars
 
@@ -124275,6 +126217,7 @@ Names of People
 Old
 Move
 
+
 Time
 
 Speak
@@ -124299,6 +126242,7 @@ Location
 Participant Referents
 Old
 Move
+
 
 Time
 
@@ -124405,6 +126349,7 @@ Direction
 
 Negators
 Move
+
 
 People
 Identifiers
@@ -124871,6 +126816,7 @@ Names
 
 Space
 
+
 Land
 Time
 Abundant
@@ -125303,7 +127249,9 @@ Associate
 Names of People
 Covenant
 
+
 Groups
+
 
 Time
 
@@ -125525,6 +127473,7 @@ Location
 Identifiers
 Names
 
+
 Time
 
 Fight
@@ -125553,6 +127502,7 @@ Relations of Association
 Products
 
 Fight
+
 
 Names
 
@@ -125668,6 +127618,7 @@ Identifiers
 Towns
 Occurrence
 
+
 Fire
 
 Space
@@ -125676,6 +127627,7 @@ Kinship
 Names of Groups
 Relations of Involvement
 Fight
+
 
 Names
 Space
@@ -126079,6 +128031,7 @@ Names
 Relations of Involvement
 Space
 
+
 Land
 Identifiers
 Identifiers
@@ -126218,6 +128171,7 @@ Negators
 Possess
 Relations of Involvement
 Move
+
 
 Depressions
 
@@ -126521,7 +128475,9 @@ Names of Supernatural Beings
 
 Serve
 Relations of Association
+
 Names of Supernatural Beings
+
 
 
 Names of Supernatural Beings
@@ -126818,6 +128774,7 @@ Elevations
 
 
 
+
 Names of Locations
 
 Exist; Happen
@@ -126959,6 +128916,7 @@ Identifiers
 Identifiers
 
 Move
+
 
 Fight
 
@@ -127318,6 +129276,7 @@ Move
 
 Sounds
 
+
 Music
 
 Elevations
@@ -127371,6 +129330,7 @@ Identifiers
 Names of Groups; Names of Locations
 
 
+
 Identifiers
 
 Relations of Description
@@ -127390,6 +129350,7 @@ People
 
 Humble
 Names of Groups; Names of Locations
+
 
 Time
 Identifiers
@@ -127495,6 +129456,7 @@ Identifiers
 Names
 
 
+
 Identifiers
 
 
@@ -127517,6 +129479,7 @@ Move
 Location
 Kinship
 Names
+
 
 
 
@@ -127839,6 +129802,7 @@ Tents
 
 Cover
 
+
 Furnishings
 
 Speak
@@ -127902,6 +129866,7 @@ Parts: Creatures
 Move
 Location
 
+
 Hide
 
 Impact
@@ -127912,6 +129877,7 @@ Tents
 Parts: Creatures
 
 Impact
+
 
 Land
 
@@ -127961,6 +129927,7 @@ Parts: Creatures
 Humble
 Deities
 
+
 Time
 Identifiers
 Participants
@@ -127998,6 +129965,7 @@ Names of People
 Names of People
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -128112,6 +130080,7 @@ Names
 Identifiers
 Accept
 
+
 Groups
 Praise
 Names of Supernatural Beings
@@ -128142,6 +130111,7 @@ Names
 Adverb
 Move
 
+
 Parts: Constructions
 Groups
 Names of Supernatural Beings
@@ -128166,6 +130136,7 @@ Exist
 Leaders
 Groups
 Names of Supernatural Beings
+
 
 
 
@@ -128201,6 +130172,7 @@ Names of Groups
 Adverb
 Names of People
 Know
+
 Depressions
 Move
 
@@ -128319,6 +130291,7 @@ Names of Supernatural Beings
 
 Names of Supernatural Beings
 
+
 Strong
 Praise
 
@@ -128328,6 +130301,7 @@ People
 Names of People
 Identifiers
 Names of Groups
+
 
 
 
@@ -128343,6 +130317,7 @@ Leaders
 Space
 Dairy
 Parts: Creatures
+
 
 Tents
 Location
@@ -128480,6 +130455,7 @@ Identifiers
 Depressions
 Relations of Description
 
+
 Elevations
 
 Identifiers
@@ -128537,6 +130513,7 @@ Move
 
 Tents
 Move
+Move
 Relations of Description
 Quantity
 Swarming Creatures
@@ -128551,6 +130528,7 @@ Animals
 Quantity
 
 Move
+
 
 Land
 
@@ -128667,10 +130645,12 @@ Beat
 
 
 
+
 Object Referents
 Kinship
 Beat
 Crops
+
 
 Constructions
 Relations of Association
@@ -128842,11 +130822,13 @@ Identifiers
 Parts: Creatures
 Space
 
+
 Containers
 
 Identifiers
 Food
 Space
+
 
 Containers
 
@@ -128879,6 +130861,7 @@ Identifiers
 Stone
 
 
+
 Identifiers
 Identifiers
 Food
@@ -128900,7 +130883,9 @@ Parts: Creatures
 
 Touch
 People
+
 Parts: Creatures
+
 
 
 Bread
@@ -128981,7 +130966,9 @@ Names
 
 
 
+
 Exist; Happen
+
 
 Time
 Identifiers
@@ -129032,6 +131019,7 @@ Identifiers
 Fortifications
 Identifiers
 Identifiers
+
 
 Arrange
 
@@ -129088,6 +131076,7 @@ Time
 
 Identifiers
 Scenery: Constructio
+
 
 Time
 
@@ -129176,6 +131165,7 @@ Identifiers
 Participant Referents
 
 
+
 Names of Supernatural Beings
 Relations of Occurrence
 Participant Referents
@@ -129200,6 +131190,7 @@ Altars
 
 Speak
 Relations of Involvement
+
 
 Time
 Identifiers
@@ -129240,6 +131231,7 @@ Identifiers
 Object Referents
 
 Sounds
+
 
 Music
 
@@ -129295,6 +131287,7 @@ Identifiers
 Parts
 Identifiers
 Cloth
+
 
 Scenery
 Relations of Occurrence
@@ -129365,6 +131358,7 @@ Focus particle
 Identifiers
 
 
+
 Parts
 Exist; Happen
 
@@ -129385,6 +131379,7 @@ Rain
 Serve
 Deities
 Adverb
+
 
 Time
 Identifiers
@@ -129430,6 +131425,7 @@ Direction
 Scenery
 Identifiers
 Names of Geographical Objects
+
 
 Depressions
 
@@ -129656,9 +131652,11 @@ Exist; Happen
 
 
 
+
 Depressions
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -129669,6 +131667,7 @@ Location
 Names of Supernatural Beings
 Stance
 Move
+
 
 Towns
 
@@ -129700,6 +131699,7 @@ Attitude (State/Process)
 
 Move
 
+
 Towns
 
 
@@ -129713,6 +131713,7 @@ Identifiers
 Quantity
 Relations of Description
 
+
 Towns
 
 Names
@@ -129724,8 +131725,10 @@ Kinship
 Names
 Move
 
+
 Depressions
 Relations of Description
+
 Swarming Creatures
 
 Abundant
@@ -129735,6 +131738,7 @@ Animals
 
 Quantity
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -129891,6 +131895,7 @@ Serve
 
 Sounds
 
+
 Music
 Participant Referents
 
@@ -129899,6 +131904,7 @@ Relations of Description
 Relations of Association
 
 Sounds
+
 
 
 Focus particle
@@ -129940,6 +131946,7 @@ Safe
 
 Sounds
 
+
 Music
 
 Scatter
@@ -129954,6 +131961,7 @@ Quantity; Frequency
 Identifiers
 Parts: Creatures; People; Animals
 
+
 Music
 
 Impact
@@ -129964,6 +131972,7 @@ Attachment (Action)
 
 Parts: Creatures
 Direction
+
 
 Lamps
 
@@ -129987,6 +131996,7 @@ Stance//Space
 
 
 Location
+
 
 Towns
 
@@ -130112,6 +132122,7 @@ Dead
 
 
 
+
 Pursue
 Location
 Names
@@ -130125,6 +132136,7 @@ Location
 Object Referents
 
 Direction
+
 
 Names
 
@@ -130223,6 +132235,7 @@ Possess
 
 Shape
 Bread
+
 
 Groups
 Relations of Description
@@ -130328,6 +132341,7 @@ Names of People
 
 
 
+
 Association
 
 Relations of Description
@@ -130358,6 +132372,7 @@ Object Referents
 
 Identifiers
 Dwell
+
 
 Tents
 
@@ -130564,6 +132579,7 @@ Meet
 
 
 Relations of Description
+
 
 Attribute
 
@@ -130801,6 +132817,7 @@ Names
 
 
 
+
 Exist; Happen
 Relations of Description
 Relations of Description
@@ -130983,6 +133000,7 @@ Names of Locations
 Modification.Complete
 
 
+
 Move
 
 Control
@@ -131035,6 +133053,7 @@ Leaders
 
 Speak
 
+
 Trees
 Control
 
@@ -131064,6 +133083,7 @@ Trees
 Speak
 Identifiers
 Trees
+
 
 Fruits
 Move
@@ -131095,6 +133115,7 @@ Trees
 Speak
 Identifiers
 Trees
+
 
 Plants
 Move
@@ -131282,11 +133303,13 @@ Names of Locations
 
 Identifiers
 
+
 Identifiers
 Move
 Fire
 
 Leaders
+
 
 
 
@@ -131378,6 +133401,7 @@ Identifiers
 Modification.Complete
 Relations of Description
 Move
+
 
 
 
@@ -131528,9 +133552,11 @@ Relations of Association
 
 Hide
 
+
 Land
 
 Exist; Happen
+
 
 Time
 
@@ -131628,6 +133654,7 @@ Position; Connection
 Relations of Description
 
 
+
 ?
 adverb
 Object Referents
@@ -131708,6 +133735,7 @@ Parts: Constructions
 Space
 Names of People
 
+
 Names of Locations
 
 Pursue
@@ -131748,6 +133776,7 @@ Parts: Creatures; People; Animals
 
 Hide
 
+
 Land
 
 Position; Connection
@@ -131787,12 +133816,14 @@ Parts: Creatures; People; Animals
 Modification.Complete
 Relations of Description
 
+
 Land
 
 Impact
 
 Names of People
 Fight
+
 
 Towns
 Modification.Complete
@@ -131826,6 +133857,7 @@ Names of Supernatural Beings
 Leaders
 
 
+
 Move
 Location
 Parts: Buildings
@@ -131839,6 +133871,7 @@ Names of People
 Gather
 Modification.Complete
 Leaders
+
 
 
 Move
@@ -131907,11 +133940,13 @@ Identifiers
 Identifiers
 Parts: Buildings
 
+
 Fire
 
 Dead
 Focus particle
 Modification.Complete
+
 
 
 Relations of Description
@@ -131978,6 +134013,7 @@ Identifiers
 Constructions; Fortifications
 Relations of Involvement
 Burn
+
 
 Fire
 
@@ -132219,6 +134255,7 @@ Identifiers
 Kinship
 Names
 
+
 Time
 Identifiers
 
@@ -132239,6 +134276,7 @@ Land
 Identifiers
 Names of Groups
 Relations of Description
+
 
 Object Referents
 
@@ -132399,6 +134437,7 @@ Names of Groups; Names of Locations
 
 Dwell
 
+
 Object Referents
 
 Gather
@@ -132406,6 +134445,7 @@ Kinship
 Names
 
 Dwell
+
 
 Names
 
@@ -132665,6 +134705,7 @@ Speak
 
 Names of Supernatural Beings
 
+
 Names
 
 Move
@@ -132757,6 +134798,7 @@ Names
 Move
 Names
 
+
 Land
 
 
@@ -132798,6 +134840,7 @@ Space
 Names of Locations
 
 Move
+
 
 Land
 
@@ -133013,6 +135056,7 @@ Time
 
 Negators
 Move
+
 
 
 Identifiers
@@ -133337,6 +135381,7 @@ Object Referents
 Quantity; Frequency
 Time
 
+
 Time
 
 Gather
@@ -133365,6 +135410,7 @@ Move
 
 Kinship / Construction
 Burn
+
 
 
 Fire
@@ -133504,6 +135550,7 @@ Identifiers
 Names
 
 Move
+
 
 
 Identifiers
@@ -133843,6 +135890,7 @@ Know
 
 Serve
 
+
 People
 Identifiers
 Birth
@@ -133865,6 +135913,7 @@ People
 
 
 Space
+
 
 Land
 
@@ -133892,6 +135941,7 @@ Identifiers
 
 Relations of Description
 Move
+
 
 Time
 Location
@@ -134154,6 +136204,7 @@ Identifiers
 
 Relations of Description
 
+
 Negators
 Hear
 Relations of Description
@@ -134283,6 +136334,7 @@ Names
 
 
 
+
 Identifiers
 
 Names
@@ -134340,6 +136392,7 @@ Serve
 Move
 
 Speak
+
 
 People
 
@@ -134509,6 +136562,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -134533,6 +136587,7 @@ Identifiers
 Identifiers
 Kinship / Construction
 Communities
+
 
 Fire
 
@@ -134592,6 +136647,7 @@ Ingest
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -134613,6 +136669,7 @@ Speak
 
 Identifiers
 Towns
+
 
 Time
 Identifiers
@@ -134773,10 +136830,12 @@ Quantity; Frequency
 Identifiers
 Parts: Creatures
 
+
 Location
 
 Burn
 Fire
+
 
 Lamps
 
@@ -134825,6 +136884,7 @@ Identifiers
 Identifiers
 Kinship
 
+
 Fire
 
 Speak
@@ -134866,6 +136926,7 @@ Dwell
 Names of Locations
 
 Scatter
+
 
 Names of Locations
 
@@ -134997,9 +137058,11 @@ Relations of Description
 
 Parts: Creatures
 Relations of Description
+
 Crops
 Relations of Description
 Burn
+
 
 Fire
 
@@ -135054,9 +137117,11 @@ Parts: Creatures
 
 Speak
 
+
 Space
 Identifiers
 Participants
+
 
 
 Sense
@@ -135083,6 +137148,7 @@ Identifiers
 Adverb
 Dead
 
+
 Sense
 
 Move
@@ -135097,6 +137163,7 @@ Identifiers
 Identifiers
 Parts: Creatures.Parts
 Relations of Description
+
 
 Parts: Creatures
 
@@ -135116,7 +137183,9 @@ Speak
 
 
 
+
 Relations of Description
+
 
 Names of Locations
 Relations of Time
@@ -135146,6 +137215,7 @@ Prostitutes
 Move
 Location
 Relations of Association
+
 
 Relations of Involvement
 Speak
@@ -135327,6 +137397,7 @@ Hide
 Space
 
 
+
 Parts: Constructions
 
 Speak
@@ -135412,6 +137483,7 @@ Identifiers
 Hide
 Space
 
+
 Parts: Constructions
 
 Impact
@@ -135419,6 +137491,7 @@ Impact
 
 Parts: Creatures
 Relations of Description
+
 Cords
 
 Speak
@@ -135452,6 +137525,7 @@ Identifiers
 Tools
 
 Attach
+
 
 Tools
 
@@ -135597,6 +137671,7 @@ Speak
 Relations of Involvement
 
 
+
 Detach
 Identifiers
 Quantity; Frequency
@@ -135651,6 +137726,7 @@ Identifiers
 Names
 Prisons
 Bind
+
 
 Metal
 
@@ -136016,6 +138092,7 @@ Quantity; Frequency
 
 Possess
 
+
 Professions
 
 Serve
@@ -136051,6 +138128,7 @@ Exist; Happen
 
 
 Priests
+
 
 Time
 Identifiers
@@ -136150,6 +138228,7 @@ Alive
 
 Minerals; Metal
 
+
 Time
 
 
@@ -136214,6 +138293,7 @@ Names of Groups
 
 Priests
 
+
 Time
 Identifiers
 Participant Referents
@@ -136221,6 +138301,7 @@ Participant Referents
 Leaders
 
 Names
+
 
 
 Time
@@ -136403,6 +138484,7 @@ Trust
 Shame
 Speak
 
+
 Land
 Possess
 Control
@@ -136484,6 +138566,7 @@ Modification.Complete
 Speak
 Relations of Description
 
+
 Land
 
 Move
@@ -136515,6 +138598,7 @@ Names of Locations
 
 
 Speak
+
 
 Space
 Identifiers
@@ -136560,6 +138644,7 @@ Clothing
 Know
 Relations of Perception
 Markers of Existence
+
 
 Kinship / Construction
 Identifiers
@@ -136773,6 +138858,7 @@ Identifiers
 
 Relations of Description
 
+
 Kinship / Construction
 Relations of Description
 
@@ -136899,6 +138985,7 @@ Identifiers
 Towns
 Burn
 
+
 Fire
 
 
@@ -136914,6 +139001,7 @@ Speak
 Relations of Association
 
 People
+
 
 
 
@@ -136949,6 +139037,7 @@ Names of Locations
 
 Identifiers
 Towns
+
 
 Quantity
 
@@ -136997,6 +139086,7 @@ Deities
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -137096,11 +139186,13 @@ Referents of Location
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 Time
+
 
 Time
 
@@ -137162,7 +139254,9 @@ Referents of Location
 
 Time
 
+
 Time
+
 
 Time
 Identifiers
@@ -137317,7 +139411,9 @@ Space
 
 Dwell
 
+
 Names of Locations
+
 
 
 Names
@@ -137343,6 +139439,7 @@ Relations of Involvement
 Move
 Relations of Involvement
 Dwell
+
 
 Names of Locations
 
@@ -137373,6 +139470,7 @@ Happen
 Identifiers
 Land
 
+
 Time
 
 Identifiers
@@ -137383,6 +139481,7 @@ Names of People
 
 Participants
 Fight
+
 
 Names of Locations
 
@@ -137470,6 +139569,7 @@ Markers of Existence
 Classes
 
 
+
 People
 
 Classes; Officials; Serve
@@ -137491,6 +139591,7 @@ Need
 
 conjunctive adverb
 
+
 Roads
 Negators
 Dwell
@@ -137498,6 +139599,7 @@ Dwell
 Move
 
 Kinship / Construction
+
 
 
 
@@ -137605,6 +139707,7 @@ Well
 
 
 
+
 Identifiers
 Identifiers
 Negators
@@ -137674,6 +139777,7 @@ Time
 
 Stance
 Leaders
+
 
 Time
 
@@ -137801,6 +139905,7 @@ Quantity
 Names
 
 Relations of Location
+
 
 
 Land
@@ -137958,12 +140063,14 @@ Speak
 Relations of Description
 Serve
 
+
 Names of Locations
 
 
 Products
 
 Possess
+
 
 
 
@@ -137975,15 +140082,18 @@ Names
 
 Quantity; Frequency
 Relations of Involvement
+
 Quantity; Frequency
 
 Quantity; Frequency
 Relations of Involvement
+
 Quantity
 Relations of Association
 Possess
 Products
 Relations of Involvement
+
 Groups
 
 Serve
@@ -138041,6 +140151,7 @@ Kinship
 Evil
 Relations of Description
 
+
 Names of Locations
 
 Dead
@@ -138052,6 +140163,7 @@ Names
 
 Negators
 Accept
+
 Names of People
 Relations of Involvement
 Hear
@@ -138072,6 +140184,7 @@ Names of Locations
 Relations of Involvement
 Move
 
+
 Fight
 
 Kinship
@@ -138080,6 +140193,7 @@ Names
 See
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -138121,6 +140235,7 @@ Direction
 Modification.Complete
 Identifiers
 Move
+
 
 Stone
 Location
@@ -138164,8 +140279,10 @@ Names
 Move
 
 
+
 Time
 Occurrence
+
 Fight
 
 Kinship
@@ -138177,9 +140294,11 @@ Names of Groups
 
 
 
+
 Stance
 Kinship
 Names
+
 
 Time
 
@@ -138191,6 +140310,7 @@ Names of Locations
 Move
 
 Names
+
 
 Fight
 
@@ -138216,6 +140336,7 @@ Impact
 
 Names
 
+
 Time
 Identifiers
 Participants
@@ -138237,10 +140358,12 @@ Relations of Involvement
 Space
 Fight
 
+
 Space
 Relations of Description
 
 Referents of Location
+
 
 Time
 Identifiers
@@ -138268,6 +140391,7 @@ Identifiers
 
 Space
 
+
 Fight
 
 Kinship
@@ -138286,6 +140410,7 @@ Location
 Kinship
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -138297,6 +140422,7 @@ Meet
 
 Identifiers
 Names of Locations
+
 
 Time
 Identifiers
@@ -138339,6 +140465,7 @@ Names of Supernatural Beings
 
 Ingest
 
+
 Time
 Identifiers
 Participants
@@ -138366,6 +140493,7 @@ Covenant
 Identifiers
 Deities
 
+
 Time
 Identifiers
 Participant Referents
@@ -138379,6 +140507,7 @@ Stance//Space
 Relations of Involvement
 
 
+
 Time
 Identifiers
 Participant Referents
@@ -138389,6 +140518,7 @@ Speak
 adverb
 
 Move
+
 
 Fight
 
@@ -138421,6 +140551,7 @@ Names
 Location
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -138459,6 +140590,7 @@ Time
 
 
 
+
 Roads
 Relations of Description
 Quantity
@@ -138467,6 +140599,7 @@ Names of Locations
 
 Quantity
 Names of Locations
+
 
 Land
 Relations of Description
@@ -138483,6 +140616,7 @@ Participant Referents
 
 
 Relations of Description
+
 
 Quantity
 
@@ -138523,6 +140657,7 @@ Move
 
 Location
 
+
 Names of Locations
 
 Quantity; Frequency
@@ -138558,6 +140693,7 @@ Kinship
 
 
 Names of People
+
 
 Time
 Identifiers
@@ -138642,6 +140778,7 @@ Move
 
 Names
 
+
 Fight
 
 Names of People
@@ -138664,6 +140801,7 @@ Participants
 
 
 Relations of Description
+
 
 Identifiers
 Quantity
@@ -138767,6 +140905,7 @@ Names
 
 Gather
 
+
 Roads
 Quantity; Frequency
 Quantity; Frequency
@@ -138795,6 +140934,7 @@ Quantity; Frequency
 People
 
 Weapons
+
 
 Time
 Identifiers
@@ -138853,11 +140993,13 @@ Identifiers
 
 Occurrence
 
+
 Fire
 
 
 Names
 Vow
+
 
 Names
 Relations of Association
@@ -138937,6 +141079,7 @@ Relations of Description
 Negators
 Move
 
+
 People
 
 Modification.Complete
@@ -138982,6 +141125,7 @@ Quantity
 Serve
 
 
+
 Exist
 
 People
@@ -139022,6 +141166,7 @@ Identifiers
 Towns
 
 
+
 Location
 Identifiers
 People
@@ -139036,6 +141181,7 @@ Referents of Location
 
 
 Space
+
 
 
 Move
@@ -139060,6 +141206,7 @@ Move
 Impact
 Identifiers
 Space
+
 
 
 
@@ -139089,6 +141236,7 @@ Object Referents
 Search; Know
 
 Space
+
 
 Quantity; Frequency
 Quantity; Frequency
@@ -139135,6 +141283,7 @@ Direction
 Names of People
 
 
+
 Identifiers
 
 
@@ -139146,6 +141295,7 @@ Relations of Description
 Alive
 
 People
+
 
 
 Negators
@@ -139172,6 +141322,7 @@ Identifiers
 Groups
 
 Serve
+
 
 Exist
 
@@ -139255,6 +141406,7 @@ Move
 
 Hide
 
+
 Land
 Turn
 Description
@@ -139266,6 +141418,7 @@ Kinship
 
 Relations of Involvement
 Turn
+
 
 Turn
 
@@ -139306,6 +141459,7 @@ Possess
 
 People
 
+
 Fight
 
 Negators
@@ -139313,6 +141467,7 @@ Participant Referents
 Possess
 
 Relations of Description
+
 
 Bear
 
@@ -139352,6 +141507,7 @@ Kinship
 Names
 
 
+
 Identifiers
 
 
@@ -139367,6 +141523,7 @@ Move
 
 
 Possess
+
 
 Time
 Identifiers
@@ -139747,6 +141904,7 @@ adverb
 
 Time
 
+
 Time
 
 Stance
@@ -140015,6 +142173,7 @@ Dress
 Strong; Confident
 Happen
 
+
 Bread
 Serve
 
@@ -140074,6 +142233,7 @@ Safe
 
 Evil
 
+
 Dark
 Non-Exist
 
@@ -140085,6 +142245,7 @@ Attribute (Action)
 Names of Supernatural Beings
 Strength
 Fight
+
 
 
 Universe
@@ -140161,13 +142322,17 @@ Parts: Creatures
 
 Impact
 
-Containers
-
 
 Containers
 
 
+
 Containers
+
+
+
+Containers
+
 
 
 Containers
@@ -140206,6 +142371,7 @@ Priests
 Speak
 Relations of Involvement
 
+
 Identifiers
 Dead
 People
@@ -140213,6 +142379,7 @@ Parts: Creatures
 
 Cook
 Stage
+
 
 
 Negators
@@ -140231,6 +142398,7 @@ Identifiers
 Sacrifice
 Sacrifice
 Relations of Description
+
 Time
 Participants
 Parts: Creatures
@@ -140385,6 +142553,7 @@ Speak
 
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -140715,6 +142884,7 @@ Names of Supernatural Beings
 Exist; Happen
 Valuable
 
+
 Time
 Identifiers
 Participant Referents
@@ -140723,6 +142893,7 @@ Vision
 Frequency
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -140827,6 +142998,7 @@ Names of Supernatural Beings
 Speak
 Names of People
 
+
 Quantity; Frequency
 
 Stance
@@ -140846,6 +143018,7 @@ Know
 
 Names of Supernatural Beings
 Speak
+
 
 People
 
@@ -140911,6 +143084,7 @@ Hear
 Hear
 Quantity; Frequency
 Parts: Creatures
+
 
 Time
 Identifiers
@@ -141076,6 +143250,7 @@ Names
 Relations of Location
 
 
+
 Faithful
 Names of People
 Relations of Association
@@ -141113,6 +143288,7 @@ Names
 Meet
 Names
 
+
 Fight
 
 Dwell
@@ -141142,7 +143318,9 @@ Names
 
 Impact
 
+
 Arrange
+
 
 Land
 Relations of Description
@@ -141311,6 +143489,7 @@ Names
 Modification.Complete
 Wounds
 
+
 Land
 Attitude (Action)
 
@@ -141320,6 +143499,7 @@ Relations of Association
 Names
 
 Serve
+
 
 Names
 Relations of Description
@@ -141379,6 +143559,7 @@ Arrange
 Move
 
 
+
 Time
 Identifiers
 Participants
@@ -141415,6 +143596,7 @@ Identifiers
 Move
 Relations of Involvement
 Speak
+
 
 Towns
 
@@ -141505,6 +143687,7 @@ correlative conjunction
 Impact
 Great
 Exist; Happen
+
 
 Groups
 
@@ -141611,6 +143794,7 @@ Parts: Creatures
 
 Speak
 Relations of Involvement
+
 People
 Names of People
 
@@ -141697,6 +143881,7 @@ Space
 
 Time
 
+
 Time
 
 Time
@@ -141760,6 +143945,7 @@ Impact
 
 Impact
 Identifiers
+
 
 Wounds
 Identifiers
@@ -141828,6 +144014,7 @@ Identifiers
 Exist; Happen
 
 Names of Supernatural Beings
+
 
 Towns
 Think
@@ -141928,6 +144115,7 @@ Negators
 Dead
 Impact
 
+
 Wounds
 
 Move
@@ -141949,7 +144137,9 @@ Time
 Speak
 Names
 Relations of Involvement
+
 Priests
+
 
 
 Divination
@@ -142099,6 +144289,7 @@ Identifiers
 Identifiers
 
 
+
 Vehicles
 
 Move
@@ -142128,6 +144319,7 @@ Move
 
 Sacrifice
 Space
+
 
 Containers
 
@@ -142181,11 +144373,13 @@ Suck
 
 Attach
 
+
 Vehicles
 
 Identifiers
 Kinship
 Attachment.Restrain
+
 
 Kinship / Construction
 
@@ -142219,6 +144413,7 @@ Domestic Animals
 
 
 
+
 Roads
 Quantity
 Move
@@ -142245,6 +144440,7 @@ Detach
 Food
 Crops
 
+
 Depressions
 
 See
@@ -142266,6 +144462,7 @@ Move
 Location
 Land
 Names of People
+
 
 
 
@@ -142322,6 +144519,7 @@ Sacrifice
 Dead
 Products: Food
 
+
 Time
 Identifiers
 Participants
@@ -142335,6 +144533,7 @@ Names
 
 Direction
 Names of Locations
+
 
 Time
 Identifiers
@@ -142406,6 +144605,7 @@ Land
 Names of People
 
 
+
 Names of Locations
 Impact
 
@@ -142416,6 +144616,7 @@ Position; Connection
 
 Containers
 Names of Supernatural Beings
+
 
 
 
@@ -142432,6 +144633,7 @@ Grief
 
 
 Names of Supernatural Beings
+
 
 
 Wounds
@@ -142491,6 +144693,7 @@ Identifiers
 Location
 Kinship / Construction
 Names of People
+
 
 Scenery
 
@@ -142615,6 +144818,7 @@ Names of Supernatural Beings
 
 Ingest
 
+
 Time
 Identifiers
 Participants
@@ -142630,6 +144834,7 @@ Names of People
 Identifiers
 Kinship
 Names
+
 
 
 
@@ -142707,6 +144912,7 @@ Sacrifice
 Names
 Space
 
+
 Fight
 
 Names
@@ -142716,6 +144922,7 @@ Names of Supernatural Beings
 
 Perception; Sounds
 Great
+
 
 Time
 Identifiers
@@ -142789,6 +144996,7 @@ Names
 Exist; Happen
 
 Names of Supernatural Beings
+
 
 Names
 Modification.Complete
@@ -142905,6 +145113,7 @@ Names of People
 Quantity
 Names of People
 Think
+
 
 
 
@@ -143185,6 +145394,7 @@ Classes; Officials; Serve
 
 Lament
 
+
 Time
 Identifiers
 Participants
@@ -143200,6 +145410,7 @@ Negators
 Utter
 Names of Supernatural Beings
 Identifiers
+
 
 Time
 Identifiers
@@ -143412,6 +145623,7 @@ discourse particle
 
 Deities
 
+
 Towns
 Identifiers
 Identifiers
@@ -143447,6 +145659,7 @@ Move
 
 Move
 Relations of Involvement
+
 
 
 Identifiers
@@ -143512,6 +145725,7 @@ Move
 
 Identifiers
 Prophets
+
 
 
 Prophets
@@ -143580,13 +145794,16 @@ Identifiers
 Time
 Move
 
+
 Towns
 
 Dead
 Identifiers
 Time
 
+
 Groups
+
 
 Elevations
 Relations of Description
@@ -143665,6 +145882,7 @@ Names of People
 
 Speak
 Relations of Description
+
 
 Referents of Time
 Move
@@ -143755,6 +145973,7 @@ Time
 
 Location
 
+
 Time
 
 Modification.Complete
@@ -143762,6 +145981,7 @@ Relations of Description
 
 Parts: Creatures
 Speak
+
 
 
 
@@ -143823,6 +146043,7 @@ Names of People
 Speak
 Location
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -143853,6 +146074,7 @@ Quantity; Frequency
 
 Speak
 Names of People
+
 
 Professions
 Possess
@@ -143895,6 +146117,7 @@ Ingest
 
 
 
+
 Safe
 
 
@@ -143907,6 +146130,7 @@ Ingest
 Names of People
 
 Names of People
+
 
 Time
 Identifiers
@@ -143969,6 +146193,7 @@ Location
 Names of People
 Speak
 
+
 People
 
 Move
@@ -143980,6 +146205,7 @@ Move
 Participant Referents
 Stance//Space
 Relations of Description
+
 Time
 
 Hear
@@ -144228,6 +146454,7 @@ Know
 Identifiers
 Identifiers
 
+
 Time
 Identifiers
 Participants
@@ -144284,6 +146511,7 @@ Names of People
 
 
 
+
 Utter
 
 
@@ -144301,6 +146529,7 @@ Compare
 
 Focus particle
 Names of People
+
 
 Prophets
 
@@ -144562,6 +146791,7 @@ Leaders
 
 Cognition.Write
 
+
 Scrolls
 
 Space
@@ -144620,6 +146850,7 @@ Identifiers
 Names of Groups
 
 Dwell
+
 
 
 
@@ -144718,6 +146949,7 @@ Speak
 Names of People
 
 
+
 Groups
 
 Lament
@@ -144806,11 +147038,13 @@ Quantity; Frequency
 
 Speak
 
+
 Deities
 Object Referents
 Move
 Adverb
 Speak
+
 
 
 
@@ -144915,6 +147149,7 @@ Negators
 Dead
 
 
+
 Time
 Identifiers
 Identifiers
@@ -144957,6 +147192,7 @@ Names of People
 
 
 Names of Supernatural Beings
+
 
 Object Referents
 
@@ -145164,6 +147400,7 @@ Kinship
 
 
 Dwell
+
 
 Space
 Identifiers
@@ -145393,6 +147630,7 @@ Perception; Sounds
 
 Rain
 
+
 Time
 Identifiers
 Participants
@@ -145610,6 +147848,7 @@ Names
 Names of People
 Sounds
 
+
 Music
 
 Modification.Complete
@@ -145634,6 +147873,7 @@ Names
 
 conjunctive adverb
 Hate
+
 
 
 Names
@@ -145662,6 +147902,7 @@ Soldiers
 
 Groups
 Relations of Description
+
 Sand
 Relations of Description
 Names of Locations
@@ -145694,16 +147935,21 @@ Hide
 Identifiers
 
 
+
 Elevations
+
 
 
 Plants
 
 
+
 Stone
 
 
+
 Parts: Buildings
+
 
 
 Constructions
@@ -145721,6 +147967,7 @@ Object Referents
 Names of People
 existential particle
 
+
 Object Referents
 
 Modification.Complete
@@ -145732,6 +147979,7 @@ Participants
 Delay
 Quantity; Frequency
 Time
+
 
 
 Relations of Description
@@ -145959,6 +148207,7 @@ See
 
 
 
+
 Identifiers
 Land
 
@@ -146005,7 +148254,9 @@ Identifiers
 Shape
 Weight
 Relations of Involvement
+
 Tools
+
 
 
 Tools
@@ -146082,6 +148333,7 @@ Names
 Relations of Description
 
 Direction
+
 
 
 
@@ -146381,7 +148633,9 @@ Land
 Exist; Happen
 
 
+
 Towns
+
 
 Land
 
@@ -146428,6 +148682,7 @@ Move
 Speak
 Names of People
 
+
 Groups
 Relations of Description
 Relations of Association
@@ -146462,6 +148717,7 @@ Exist; Happen
 Containers
 Identifiers
 Deities
+
 
 Time
 Identifiers
@@ -146526,12 +148782,14 @@ Identifiers
 Names
 Exist; Happen
 
+
 Names
 Relations of Description
 
 Time
 Relations of Description
 Move
+
 
 
 Towns
@@ -146567,11 +148825,13 @@ Focus particle
 Participant Referents
 Space
 
+
 Fight
 
 Help |Save
 Names of Supernatural Beings
 Names of Locations
+
 Time
 Identifiers
 Participants
@@ -146587,6 +148847,7 @@ Identifiers
 
 Names
 Distress
+
 
 Time
 Identifiers
@@ -146624,6 +148885,7 @@ Modification.Complete
 Identifiers
 Land
 Move
+
 
 Scenery
 
@@ -146758,13 +149020,16 @@ Negators
 Abundant
 Wounds
 
+
 Names
 
 Impact
 
+
 Time
 Identifiers
 Participants
+
 
 Names
 
@@ -146780,6 +149045,7 @@ Serve
 Identifiers
 Groups
 Location
+
 Possess
 
 Possess
@@ -146829,6 +149095,7 @@ Great
 Speak
 Names of People
 Scatter
+
 
 Groups
 
@@ -146937,6 +149204,7 @@ Names
 
 Negators
 Utter
+
 
 Time
 Identifiers
@@ -147171,6 +149439,7 @@ Leaders
 
 
 
+
 Names
 
 
@@ -147303,6 +149572,7 @@ Space
 
 
 
+
 Move
 
 Names
@@ -147352,6 +149622,7 @@ Groups
 
 See
 
+
 Names of Locations
 Quantity; Frequency
 Quantity; Frequency
@@ -147370,6 +149641,7 @@ Towns
 Names of Groups
 
 Hide
+
 
 Water
 
@@ -147516,6 +149788,7 @@ Names of People
 Relations of Association
 Meet
 Names of People
+
 
 Time
 
@@ -147699,6 +149972,7 @@ Names of Supernatural Beings
 Move
 
 
+
 Relations of Description
 
 Names of Supernatural Beings
@@ -147730,6 +150004,7 @@ Dead
 Relations of Involvement
 Names of Supernatural Beings
 Deities
+
 
 Object Referents
 
@@ -147954,6 +150229,7 @@ Names of People
 
 Names of Supernatural Beings
 
+
 Object Referents
 
 Move
@@ -148023,6 +150299,7 @@ Names of People
 
 
 
+
 Kinship
 
 Leaders
@@ -148055,6 +150332,7 @@ Move
 Speak
 Relations of Association
 Names of People
+
 
 Dead
 
@@ -148104,6 +150382,7 @@ Pure
 Move
 Identifiers
 
+
 Dead
 
 Pure
@@ -148114,6 +150393,7 @@ Relations of Association
 Kinship
 
 Speak
+
 
 
 Dead
@@ -148159,8 +150439,10 @@ Position; Connection
 
 
 
+
 Names of Supernatural Beings
 Position; Connection
+
 
 Parts: Creatures
 
@@ -148229,6 +150511,7 @@ Young
 
 Discourse particle
 Ingest
+
 
 Domestic Animals
 
@@ -148335,6 +150618,7 @@ Search; Ask
 Know
 Attachment.Perform
 
+
 Music
 
 Exist; Happen
@@ -148381,6 +150665,7 @@ Relations of Association
 Names of People
 
 
+
 Know
 Attachment.Perform
 
@@ -148412,6 +150697,7 @@ Identifiers
 Names of People
 Kinship
 Relations of Description
+
 
 Domestic Animals
 
@@ -148506,6 +150792,7 @@ Names
 Identifiers
 Association
 Relations of Association
+
 Fight
 
 Gather
@@ -148530,6 +150817,7 @@ Names
 Gather
 
 Dwell
+
 
 
 
@@ -148756,6 +151044,7 @@ Move
 Space
 Names of People
 
+
 Fight
 Kinship
 
@@ -148763,6 +151052,7 @@ Quantity; Frequency
 Kinship
 Relations of Description
 Move
+
 
 
 Names of People
@@ -148872,12 +151162,14 @@ Names
 
 
 
+
 Fight
 
 Names
 
 Time
 Names of People
+
 
 Time
 
@@ -148909,6 +151201,7 @@ Identifiers
 Arrange
 
 Shout
+
 
 Fight
 
@@ -148967,6 +151260,7 @@ Names
 
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -149046,11 +151340,13 @@ Speak
 
 
 
+
 Relations of Description
 Impact
 Identifiers
 Identifiers
 Names
+
 
 
 Move
@@ -149077,12 +151373,14 @@ Relations of Involvement
 Identifiers
 Groups
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
 
 Speak
 Adverb
+
 
 
 
@@ -149120,6 +151418,7 @@ Domestic Animals
 Identifiers
 Participant Referents
 
+
 Land
 Participant Referents
 Know
@@ -149155,6 +151454,7 @@ Identifiers
 
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -149164,6 +151464,7 @@ Identifiers
 Groups
 Speak
 Relations of Description
+
 
 Identifiers
 Quantity
@@ -149236,6 +151537,7 @@ Exist; Happen
 Classes; Officials; Serve
 
 Kinship
+
 
 Domestic Animals
 
@@ -149406,6 +151708,7 @@ Relations of Description
 
 
 
+
 Containers
 
 Weapons
@@ -149464,6 +151767,7 @@ Participant Referents
 Participant Referents
 Move
 Location
+
 
 Tools
 
@@ -149659,7 +151963,9 @@ Names of People
 Identifiers
 Names
 
+
 Weapons
+
 
 
 Stone
@@ -149854,6 +152160,7 @@ Names of People
 
 
 
+
 Exist; Happen
 Relations of Description
 Non-Happen
@@ -149876,6 +152183,7 @@ Relations of Description
 
 Possess
 Names of People
+
 
 Time
 Identifiers
@@ -150091,6 +152399,7 @@ Impact
 Names of People
 
 
+
 Parts: Constructions
 
 
@@ -150223,6 +152532,7 @@ Names
 Exist; Happen
 Kinship
 
+
 Leaders
 
 Exist; Happen
@@ -150296,6 +152606,7 @@ Speak
 Location
 Names of People
 
+
 Hide
 Relations of Involvement
 Speak
@@ -150311,6 +152622,7 @@ Love
 
 Text deictic
 Associate
+
 
 Leaders
 
@@ -150334,6 +152646,7 @@ Trivial
 
 Associate
 
+
 Leaders
 
 Participant Referents
@@ -150349,6 +152662,7 @@ Relations of Involvement
 
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -150364,6 +152678,7 @@ Names of People
 
 Involvement
 Relations of Involvement
+
 Leaders
 
 
@@ -150408,6 +152723,7 @@ Names of People
 Relations of Involvement
 Associate
 
+
 Leaders
 
 Negators
@@ -150425,6 +152741,7 @@ Participants
 
 Impact
 
+
 Names
 Quantity; Frequency
 
@@ -150436,9 +152753,11 @@ Parts: Creatures
 
 Must
 Relations of Association
+
 Leaders
 Relations of Involvement
 Associate
+
 
 Leaders
 
@@ -150540,9 +152859,11 @@ Text deictic
 Safe
 
 
+
 Time
 
 Space
+
 
 Cover
 
@@ -150556,6 +152877,7 @@ Stance//Space
 Object Relations
 Kinship
 Participants
+
 Land
 Relations of Description
 Participant Referents
@@ -150689,6 +153011,7 @@ Names of People
 
 Fight
 
+
 Names
 
 Impact
@@ -150726,11 +153049,13 @@ Names of People
 Relations of Involvement
 Impact
 
+
 Weapons
 
 Names of People
 Participants
 
+
 Parts: Constructions
 
 Flee
@@ -150743,12 +153068,14 @@ Identifiers
 Identifiers
 Weapons
 
+
 Parts: Constructions
 
 Names of People
 Flee
 
 Flee
+
 
 Time
 Participants
@@ -150764,6 +153091,7 @@ See
 
 Relations of Involvement
 Dead
+
 
 Time
 
@@ -150819,6 +153147,7 @@ Location
 
 Cover
 
+
 Clothing
 
 Move
@@ -150846,6 +153175,7 @@ Relations of Involvement
 Speak
 Move
 Identifiers
+
 
 Furnishings
 Location
@@ -150932,6 +153262,7 @@ Names of People
 
 Names
 
+
 Names
 
 Move
@@ -151003,6 +153334,7 @@ Relations of Description
 
 
 
+
 Ask
 
 Speak
@@ -151018,10 +153350,12 @@ Names
 
 
 
+
 Move
 Referents of Location
 Location
 Names
+
 
 Names
 
@@ -151040,6 +153374,7 @@ Speak
 Move
 
 Names
+
 
 
 
@@ -151073,12 +153408,14 @@ Speak
 Focus particle
 Names of People
 
+
 Prophets
 
 Flee
 Names of People
 
 Names
+
 
 Names
 
@@ -151201,6 +153538,7 @@ Relations of Involvement
 Ingest
 
 Location
+
 
 
 
@@ -151343,6 +153681,7 @@ Know
 Identifiers
 Kinship
 Relations of Description
+
 
 Referents of Time
 Identifiers
@@ -151523,6 +153862,7 @@ Speak
 Speak
 
 
+
 discourse marker
 Identifiers
 Weapons
@@ -151544,6 +153884,7 @@ Names of Supernatural Beings
 Relations of Occurrence
 
 Speak
+
 
 People
 Presentative deictic
@@ -151574,6 +153915,7 @@ Time
 
 
 Names of People
+
 
 Land
 
@@ -151620,6 +153962,7 @@ Names of People
 Negators
 Speak
 Names of People
+
 
 
 Time
@@ -151685,6 +154028,7 @@ Location
 
 Dead
 Groups
+
 
 
 Towns
@@ -151834,6 +154178,7 @@ Shame
 Kinship
 
 Exist; Happen
+
 
 Time
 
@@ -152159,6 +154504,7 @@ Apart
 
 
 
+
 Possess
 
 Identifiers
@@ -152193,6 +154539,7 @@ Referents of Location
 
 Classes; Officials; Serve
 Names of People
+
 
 Time
 Identifiers
@@ -152255,9 +154602,11 @@ Clothing
 
 
 
+
 Presentative deictic
 
 Cover
+
 
 Clothing
 Space
@@ -152286,6 +154635,7 @@ Stance
 Names of People
 
 Flee
+
 
 Time
 Identifiers
@@ -152316,6 +154666,7 @@ Negators
 Relations of Involvement
 Identifiers
 Sing
+
 
 Turn
 
@@ -152486,6 +154837,7 @@ Names of People
 
 
 
+
 Speak
 Names of People
 Identifiers
@@ -152494,6 +154846,7 @@ Location
 Names of People
 Negators
 Space
+
 
 
 Move
@@ -152523,10 +154876,12 @@ Relations of Association
 Names of People
 Space
 
+
 Names of Locations
 
 Identifiers
 Trees
+
 
 High
 
@@ -152600,6 +154955,7 @@ Classes; Officials; Serve
 
 Hide
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -152710,6 +155066,7 @@ Location
 
 Hide
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -152790,6 +155147,7 @@ Speak
 Identifiers
 Leaders
 
+
 Move
 Identifiers
 Stance; Space
@@ -152841,6 +155199,7 @@ Participant Referents
 
 Meet
 
+
 Priests
 
 
@@ -152853,8 +155212,10 @@ Participants
 
 
 
+
 Dead
 Clothing
+
 Time
 Identifiers
 Participants
@@ -152927,6 +155288,7 @@ Relations of Association
 Names of People
 Know
 
+
 Time
 Identifiers
 Participants
@@ -152992,6 +155354,7 @@ Move
 
 Impact
 
+
 Names
 Identifiers
 Identifiers
@@ -153001,6 +155364,7 @@ Names of Supernatural Beings
 Location
 Names of People
 Move
+
 
 
 
@@ -153059,6 +155423,7 @@ Names of People
 Names of Locations
 
 Fight
+
 
 Names
 
@@ -153123,6 +155488,7 @@ Modification.Complete
 Identifiers
 Participants
 Relations of Involvement
+
 Fight
 Relations of Involvement
 Move
@@ -153170,6 +155536,7 @@ Location
 Names of Locations
 Relations of Involvement
 Impact
+
 
 Towns
 
@@ -153251,11 +155618,14 @@ Move
 Space
 Names of People
 
+
 Land
 
 
 
+
 Space
+
 
 Elevations
 
@@ -153288,6 +155658,7 @@ Names of People
 
 Land
 Names
+
 
 Names of Locations
 
@@ -153345,6 +155716,7 @@ Names of Supernatural Beings
 Space
 Names of People
 
+
 Names of Locations
 
 Names of People
@@ -153364,6 +155736,8 @@ Speak
 Negators
 Names of People
 Hide
+
+
 
 
 
@@ -153452,6 +155826,7 @@ Exist; Happen
 Relations of Occurrence
 Existential particle
 
+
 Land
 
 Sensation
@@ -153475,6 +155850,7 @@ Names of People
 
 Land
 Names of Locations
+
 
 Land
 Location
@@ -153582,9 +155958,11 @@ Names
 
 Meet
 
+
 Space
 Identifiers
 Participants
+
 
 
 
@@ -153707,6 +156085,7 @@ Relations of Description
 Relations of Association
 Names of People
 
+
 Hide
 
 Exist; Happen
@@ -153759,6 +156138,7 @@ Names of People
 Identifiers
 
 
+
 Speak
 
 Negators
@@ -153775,6 +156155,7 @@ Identifiers
 Elevations
 
 Move
+
 
 
 
@@ -153836,6 +156217,7 @@ Possess
 Names of Supernatural Beings
 Identifiers
 Time
+
 
 
 
@@ -154114,6 +156496,7 @@ Space
 
 Kinship / Construction
 
+
 Names
 
 Stance
@@ -154129,6 +156512,7 @@ Names of Locations
 Names of Locations
 
 Happen
+
 
 Names
 
@@ -154150,6 +156534,7 @@ Exist; Happen
 Modification
 Identifiers
 Domestic Animals
+
 
 
 
@@ -154183,6 +156568,7 @@ Relations of Description
 Hear
 Names of People
 
+
 Land
 
 Modification
@@ -154197,6 +156583,7 @@ People
 
 Speak
 Names of People
+
 
 
 Move
@@ -154215,6 +156602,7 @@ Intact
 Happen
 Speak
 Adverb
+
 
 Happen
 
@@ -154251,6 +156639,7 @@ See
 Modification.Complete
 Time
 Exist; Happen
+
 
 Names
 Ask
@@ -154452,6 +156841,7 @@ Relations of Association
 
 Exist; Happen
 
+
 Land
 Confident
 Exist; Happen
@@ -154566,6 +156956,7 @@ Names of People
 Speak
 restrictor>modal word
 
+
 False
 Safe
 Identifiers
@@ -154573,6 +156964,7 @@ Modification.Complete
 Relations of Description
 
 Identifiers
+
 
 Land
 
@@ -154733,6 +157125,7 @@ Classes
 Leaders
 
 Possess
+
 
 People
 Identifiers
@@ -154981,6 +157374,7 @@ Time
 
 Exist; Happen
 
+
 Time
 
 Move
@@ -155221,6 +157615,7 @@ Identifiers
 Names of People
 Space
 
+
 Land
 
 Perception
@@ -155272,6 +157667,7 @@ Groups
 
 Names of People
 Stance
+
 
 Constructions
 
@@ -155326,10 +157722,12 @@ Names of People
 Stance
 Asleep
 
+
 Constructions
 
 Weapons
 Space
+
 
 Land
 Location
@@ -155358,7 +157756,9 @@ Text deictic
 Impact
 
 
+
 Weapons
+
 
 
 Land
@@ -155398,6 +157798,7 @@ Time
 Move
 
 Dead
+
 
 
 Fight
@@ -155680,6 +158081,7 @@ Pursue
 Identifiers
 Birds
 
+
 Elevations
 
 Speak
@@ -155729,6 +158131,7 @@ Possess
 
 Names of Supernatural Beings
 Move
+
 
 
 Identifiers
@@ -155931,6 +158334,7 @@ Possess
 Relations of Association
 Names of People
 
+
 Time
 Identifiers
 Participants
@@ -156097,6 +158501,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participant Referents
@@ -156106,6 +158511,7 @@ Names
 Identifiers
 Association
 Relations of Involvement
+
 Groups
 
 Fight
@@ -156121,6 +158527,7 @@ Know
 Relations of Perception
 Relations of Association
 Move
+
 
 Association
 Participant Referents
@@ -156162,6 +158569,7 @@ Names
 
 Space
 
+
 Names
 
 
@@ -156196,6 +158604,7 @@ Names
 
 Dwell
 
+
 Object Referents
 
 Position; Connection
@@ -156220,11 +158629,14 @@ Products
 Names of Supernatural Beings
 correlative conjunction
 
+
 Vision
 correlative conjunction
 
 
+
 correlative conjunction
+
 
 Prophets
 
@@ -156276,6 +158688,7 @@ Time
 
 Speak
 Divination
+
 
 
 
@@ -156332,6 +158745,7 @@ Names of Supernatural Beings
 Relations of Occurrence
 Happen
 Sin
+
 
 Speak
 Identifiers
@@ -156457,6 +158871,7 @@ correlative conjunction
 Identifiers
 Prophets
 correlative conjunction
+
 
 Vision
 
@@ -156642,6 +159057,7 @@ Move
 
 
 
+
 Reject
 
 Speak
@@ -156671,9 +159087,11 @@ Identifiers
 Furnishings
 
 
+
 People
 Domestic Animals
 Stalls
+
 
 Kinship / Construction
 
@@ -156704,6 +159122,7 @@ Stance
 
 Move
 
+
 Time
 Identifiers
 Participants
@@ -156717,6 +159136,7 @@ Names of Locations
 
 Names
 Dwell
+
 
 Water
 Relations of Description
@@ -156733,6 +159153,7 @@ Quantity; Frequency
 Quantity; Frequency
 
 Names of People
+
 
 
 
@@ -156810,6 +159231,7 @@ Negators
 Move
 
 
+
 Fight
 
 Negators
@@ -156817,6 +159239,7 @@ Exist; Happen
 
 
 Enemies
+
 
 
 
@@ -156841,6 +159264,7 @@ Names of People
 Relations of Description
 Sing
 Relations of Involvement
+
 
 Turn
 
@@ -156874,6 +159298,7 @@ Move
 
 Move
 Relations of Association
+
 
 Association
 
@@ -156971,10 +159396,12 @@ Negators
 Move
 
 
+
 Fight
 
 Text deictic
 Time
+
 
 Time
 
@@ -156983,6 +159410,7 @@ Leaders
 Relations of Description
 Move
 Relations of Association
+
 
 
 
@@ -157000,6 +159428,7 @@ Participants
 
 Relations of Involvement
 Move
+
 
 Time
 Relations of Involvement
@@ -157020,6 +159449,7 @@ Names of People
 
 Names of Locations
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -157038,6 +159468,7 @@ Names of Locations
 
 Burn
 Identifiers
+
 
 Fire
 
@@ -157072,6 +159503,7 @@ Towns
 
 discourse particle
 Burn
+
 
 Fire
 
@@ -157235,6 +159667,7 @@ Search; Know
 
 Names
 
+
 Land
 
 Possess
@@ -157324,6 +159757,7 @@ Names of Locations
 Identifiers
 Names of Locations
 Burn
+
 
 Fire
 
@@ -157596,6 +160030,7 @@ Move
 Hear
 
 
+
 Speak
 Identifiers
 Identifiers
@@ -157604,6 +160039,7 @@ Relations of Description
 Divide
 Identifiers
 Move
+
 
 Fight
 
@@ -157670,6 +160106,7 @@ Names of Locations
 
 
 Relations of Description
+
 
 
 
@@ -157795,6 +160232,7 @@ Identifiers
 Move
 
 
+
 Weapons
 
 
@@ -157868,6 +160306,7 @@ Carry
 Artifacts
 Focus particle or coordinating conjunction
 Modification.Complete
+
 
 
 Time
@@ -157977,6 +160416,7 @@ Hear
 Location
 Space
 
+
 Identifiers
 Relations of Description
 Serve
@@ -158049,6 +160489,7 @@ Time
 Quantity; Frequency
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -158284,6 +160725,7 @@ Names
 
 Move
 
+
 Attribute
 
 Speak
@@ -158411,6 +160853,7 @@ Identifiers
 Classes
 Elevations
 
+
 Object Referents
 Negators
 Rain
@@ -158429,6 +160872,7 @@ Strong
 Weapons
 Names of People
 Negators
+
 
 
 Liquids
@@ -158601,6 +161045,7 @@ Names of People
 Speak
 
 
+
 Relations of Description
 Space
 Identifiers
@@ -158610,6 +161055,7 @@ Move
 Names of People
 Deities
 Location
+
 
 
 
@@ -158852,6 +161298,7 @@ Move
 
 Speak
 
+
 Space
 Identifiers
 
@@ -158866,6 +161313,7 @@ Fight
 Hard
 Referents of Modification
 Intense
+
 
 Time
 Identifiers
@@ -158901,6 +161349,7 @@ Quantity
 Identifiers
 Wild Animals
 Relations of Description
+
 
 Land
 
@@ -159091,6 +161540,7 @@ Relations of Perception
 Ingest
 Exist; Happen
 
+
 Identifiers
 
 
@@ -159098,6 +161548,7 @@ Referents of Time
 Negators
 Speak
 Relations of Involvement
+
 Groups
 
 Direction
@@ -159129,6 +161580,7 @@ Kinship
 Sounds
 Names of People
 
+
 Music
 
 Stance//Space
@@ -159152,6 +161604,7 @@ Names of People
 
 
 Move
+
 
 Land
 Modification.Complete
@@ -159443,6 +161896,7 @@ Names
 Relations of Location
 
 
+
 Negators
 ?
 adverb
@@ -159823,6 +162277,7 @@ Identifiers
 
 
 
+
 Names of People
 Negators
 Know
@@ -159840,6 +162295,7 @@ Parts: Constructions
 Relations of Involvement
 Speak
 Relations of Association
+
 
 Confident
 
@@ -159896,9 +162352,11 @@ Wounds
 
 Attachment (Action)
 
+
 Tools
 
 Move
+
 
 Attribute
 
@@ -159920,6 +162378,7 @@ Names
 Kinship
 
 Object Referents
+
 
 Fight
 
@@ -160079,6 +162538,7 @@ Groups
 
 Modification.Complete
 Names
+
 
 Time
 Identifiers
@@ -160497,6 +162957,7 @@ Leaders
 
 Participant Referents
 Exist; Happen
+
 Move
 
 Identifiers
@@ -160630,6 +163091,7 @@ Names of People
 Speak
 Names of People
 
+
 Time
 Identifiers
 
@@ -160638,6 +163100,7 @@ Impact
 Names of Groups
 
 Touch
+
 
 Constructions
 
@@ -160665,6 +163128,7 @@ Kinship / Construction
 
 Space
 Names of People
+
 
 
 
@@ -161014,6 +163478,7 @@ Kinship / Construction
 Names of People
 Relations of Description
 
+
 Scenery
 
 Names
@@ -161032,6 +163497,7 @@ Carry
 Kinship / Construction
 Names of People
 Relations of Description
+
 
 Scenery
 
@@ -161077,6 +163543,7 @@ Music
 Names of Geographical Objects
 Move
 Relations of Location
+
 
 
 Location
@@ -161127,6 +163594,7 @@ Angry
 
 Speak
 
+
 Space
 Identifiers
 
@@ -161141,6 +163609,7 @@ Afraid
 Names of People
 Identifiers
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -161194,6 +163663,7 @@ Kinship / Construction
 
 Speak
 Relations of Involvement
+
 Leaders
 Names of People
 
@@ -161543,6 +164013,7 @@ Names of Supernatural Beings
 
 Exist; Happen
 
+
 Time
 Identifiers
 
@@ -161683,6 +164154,7 @@ Identifiers
 Great
 Relations of Description
 
+
 Land
 
 Space
@@ -161709,6 +164181,7 @@ Relations of Involvement
 Oppress
 Relations of Description
 Relations of Description
+
 
 Quantity
 
@@ -161947,6 +164420,7 @@ Names
 People
 Quantity
 
+
 Land
 Relations of Description
 Move
@@ -162146,6 +164620,7 @@ Names of Groups; Names of Locations
 
 Measure
 
+
 Cords
 Stance
 Identifiers
@@ -162188,6 +164663,7 @@ Move
 
 Names of Geographical Objects
 
+
 Grasp
 Names of People
 
@@ -162216,6 +164692,7 @@ Quantity; Frequency
 Names of Locations
 Move
 Names
+Names
 Relations of Association
 Help
 Relations of Involvement
@@ -162236,6 +164713,7 @@ Names
 Space
 Names of Groups
 Soldiers
+
 
 
 
@@ -162882,6 +165360,7 @@ Detach
 Identifiers
 Clothing
 
+
 Event Relations: Attribute
 
 Parts: Creatures
@@ -162929,8 +165408,10 @@ Names of Groups; Names of Locations
 Exchange
 Identifiers
 Identifiers
+Identifiers
 
 Identifiers
+
 
 Quantity
 Quantity; Frequency
@@ -162975,6 +165456,7 @@ Parts: Constructions
 
 
 
+
 Names
 
 
@@ -162983,6 +165465,7 @@ Names
 Names of Locations
 
 Apart
+
 
 Land
 
@@ -163071,6 +165554,7 @@ Names of People
 Identifiers
 Groups
 Relations of Description
+
 
 
 Fight
@@ -163296,6 +165780,7 @@ Names of People
 
 Search; Ask
 
+
 People
 
 Speak
@@ -163462,6 +165947,7 @@ Names
 Names of Groups
 Space
 
+
 Tents
 
 Leaders
@@ -163520,6 +166006,7 @@ Names of People
 
 Names
 
+
 Time
 Identifiers
 
@@ -163541,6 +166028,7 @@ Ingest
 
 Move
 
+
 Time
 
 Stance
@@ -163557,6 +166045,7 @@ Move
 
 Exist; Happen
 
+
 Time
 
 Cognition.Write
@@ -163571,6 +166060,7 @@ Location
 Names of People
 
 Cognition.Write
+
 
 
 Relations of Involvement
@@ -163903,6 +166393,7 @@ Domestic Animals
 Intense
 
 
+
 Humble|Meek
 
 Modification.Complete
@@ -163957,6 +166448,7 @@ Domestic Animals
 
 Serve
 
+
 Move
 Identifiers
 Move
@@ -163973,6 +166465,7 @@ Humble|Meek
 Serve
 
 
+
 Identifiers
 Move
 Location
@@ -163981,6 +166474,7 @@ Angry
 Angry
 Names of People
 Alive
+
 
 Intense
 
@@ -164089,6 +166583,7 @@ Identifiers
 Names of Groups
 Impact
 
+
 Attribute
 
 Identifiers
@@ -164161,6 +166656,7 @@ Identifiers
 Participant Referents
 Serve
 
+
 Cover
 
 Participant Referents
@@ -164203,6 +166699,7 @@ Despise
 Identifiers
 Hate
 Names of Supernatural Beings
+
 
 Speak
 Identifiers
@@ -164274,6 +166771,7 @@ Relations of Association
 Bread
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -164417,6 +166915,7 @@ Lament
 Speak
 Alive
 Know
+Merciful
 Merciful
 Names of Supernatural Beings
 
@@ -164587,6 +167086,7 @@ Move
 
 Space
 
+
 Tools
 
 
@@ -164601,6 +167101,7 @@ Minerals; Metal
 
 Move
 Identifiers
+
 
 
 
@@ -164687,7 +167188,9 @@ Kinship
 Identifiers
 Leaders
 
+
 Time
+
 
 Time
 
@@ -165084,6 +167587,7 @@ Space
 Identifiers
 Parts: Creatures
 
+
 Speak
 Identifiers
 Identifiers
@@ -165251,6 +167755,7 @@ Good
 Parts: Creatures
 Names of People
 
+
 Liquids; Wine; Crops
 
 Speak
@@ -165301,6 +167806,7 @@ Flee
 
 Exist; Happen
 Participant Referents
+
 
 
 
@@ -165567,6 +168073,7 @@ Leaders
 Speak
 Location
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -165623,6 +168130,7 @@ Kinship
 
 Fight
 Quantity; Frequency
+
 
 Land
 
@@ -165821,6 +168329,7 @@ Dead
 Dead
 
 Relations of Description
+
 Liquids
 Identifiers
 Attachment.Pour
@@ -166039,6 +168548,7 @@ Identifiers
 Modification.Complete
 Relations of Description
 
+
 Land
 
 Speak
@@ -166164,6 +168674,7 @@ Exist; Happen
 Non-Happen
 Time
 
+
 Time
 Relations of Description
 Detach
@@ -166256,6 +168767,7 @@ Move
 
 Burn
 
+
 Fire
 
 
@@ -166264,6 +168776,7 @@ Names of People
 Identifiers
 Identifiers
 Possess
+
 
 Fire
 
@@ -166285,6 +168798,7 @@ Identifiers
 Identifiers
 Possess
 Relations of Description
+
 
 
 Fire
@@ -166409,6 +168923,7 @@ Leaders
 
 
 
+
 Speak
 Names of People
 Location
@@ -166450,6 +168965,7 @@ Names of People
 Space
 Leaders
 
+
 Land
 
 
@@ -166486,6 +169002,7 @@ Embrace
 Serve
 Names of People
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -166494,6 +169011,7 @@ Modification.Complete
 Names
 Relations of Description
 Move
+
 
 
 Location
@@ -167084,6 +169602,7 @@ Relations of Involvement
 Speak
 Names of People
 
+
 Know
 
 Names of People
@@ -167294,6 +169813,7 @@ Ingest
 Identifiers
 Weak
 
+
 Land
 
 Speak
@@ -167375,6 +169895,7 @@ Move
 Curse
 
 Move
+
 
 Stone
 Identifiers
@@ -167550,6 +170071,7 @@ Names of People
 
 
 
+
 Names of People
 Move
 
@@ -167564,11 +170086,13 @@ Curse
 
 Move
 
+
 Stone
 
 Location
 
 Move
+
 
 Sand
 
@@ -167745,12 +170269,14 @@ Names of People
 Relations of Description
 Laws
 
+
 Time
 Identifiers
 Participant Referents
 Relations of Description
 Relations of Description
 Ask
+
 
 Speak
 Identifiers
@@ -167872,6 +170398,7 @@ Location
 Relations of Involvement
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -167898,6 +170425,7 @@ Relations of Description
 Laws
 Names of People
 
+
 Time
 Identifiers
 Identifiers
@@ -167921,6 +170449,7 @@ Participant Referents
 Relations of Description
 Wild Animals
 Lose
+
 
 Land
 
@@ -167952,6 +170481,7 @@ Relations of Description
 Move
 
 
+
 Time
 
 Hear
@@ -167961,6 +170491,7 @@ Hear
 Speak
 Exist; Happen
 Impact
+
 
 Groups
 Relations of Description
@@ -168003,7 +170534,9 @@ Names
 
 Relations of Location
 
+
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -168014,6 +170547,7 @@ Abundant
 
 
 Move
+
 
 Fight
 
@@ -168169,6 +170703,7 @@ Move
 
 
 
+
 Leaders
 
 
@@ -168197,6 +170732,7 @@ Move
 
 
 Relations of Involvement
+
 Leaders
 Names of People
 
@@ -168302,6 +170838,7 @@ Depressions; Water
 Move
 
 Speak
+
 
 Leaders
 Names of People
@@ -168495,6 +171032,7 @@ Relations of Association
 Names of People
 
 Relations of Involvement
+
 Groups
 Relations of Description
 Relations of Association
@@ -168509,6 +171047,7 @@ Sense
 Weak
 
 Sense
+
 
 Land
 
@@ -168651,6 +171190,7 @@ Relations of Involvement
 Lax
 
 
+
 People
 
 Names of People
@@ -168702,6 +171242,7 @@ Identifiers
 Impact
 Great
 
+
 Time
 Identifiers
 
@@ -168725,12 +171266,14 @@ Scenery
 Relations of Involvement
 Ingest
 
+
 Groups
 
 Relations of Description
 Ingest
 Identifiers
 Attribute
+
 
 Time
 Identifiers
@@ -168761,6 +171304,7 @@ Great
 
 Attachment (State/Process)
 Parts: Creatures; People; Animals
+
 
 Trees
 
@@ -168794,10 +171338,12 @@ Identifiers
 Names of People
 Attach
 
+
 Trees
 
 Speak
 Names of People
+
 
 
 Identifiers
@@ -168859,6 +171405,7 @@ Names of People
 Relations of Involvement
 Speak
 Safe
+
 
 
 People
@@ -168924,6 +171471,7 @@ Dead
 Sounds
 Names of People
 
+
 Music
 
 Direction
@@ -168946,6 +171494,7 @@ Names of People
 
 Move
 Identifiers
+
 
 Scenery
 Location
@@ -168993,6 +171542,7 @@ Cognition
 
 
 Speak
+
 
 Constructions
 
@@ -169051,6 +171601,7 @@ Negators
 Association.Advise
 
 
+
 Kinship
 Identifiers
 Leaders
@@ -169059,10 +171610,12 @@ Dead
 Speak
 Names of People
 
+
 Names of Groups
 Move
 Speak
 Relations of Association
+
 Leaders
 Relations of Description
 Position; Description
@@ -169162,6 +171715,7 @@ People
 
 Speak
 
+
 Leaders
 
 Speak
@@ -169245,6 +171799,7 @@ Intact
 
 Stance
 
+
 Leaders
 
 Parts: Creatures
@@ -169273,6 +171828,7 @@ Identifiers
 Leaders
 Intact
 Relations of Association
+
 People
 
 Names of People
@@ -169343,6 +171899,7 @@ Names of Groups
 Identifiers
 Intact
 Relations of Association
+
 People
 
 Names of People
@@ -169352,6 +171909,7 @@ Identifiers
 
 Exist; Happen
 Relations of Description
+
 
 Hate
 Leaders
@@ -169411,6 +171969,7 @@ Exist; Happen
 Identifiers
 Save
 
+
 Time
 Identifiers
 
@@ -169423,6 +171982,7 @@ Groups
 
 Hear
 Identifiers
+
 
 
 Time
@@ -169440,6 +172000,7 @@ Hide
 Identifiers
 Groups
 
+
 Time
 Identifiers
 
@@ -169456,6 +172017,7 @@ Identifiers
 Shame
 
 Flee
+
 
 Fight
 
@@ -169591,6 +172153,7 @@ Leaders
 
 Space
 
+
 Parts: Constructions
 
 Relations of Involvement
@@ -169604,6 +172167,7 @@ discourse particle
 Identifiers
 Leaders
 Space
+
 
 
 
@@ -169660,6 +172224,7 @@ Relations of Description
 Attachment.Anoint
 
 Dead
+
 
 Fight
 
@@ -169881,6 +172446,7 @@ Leaders
 
 
 
+
 Names
 
 Speak
@@ -169899,6 +172465,7 @@ Identifiers
 Relations of Description
 Sin
 Classes; Officials; Serve
+
 
 Time
 Relations of Description
@@ -170488,6 +173055,7 @@ Speak
 Quantity
 
 
+
 Leaders
 
 
@@ -170531,6 +173099,7 @@ Names of People
 Names of People
 
 Sounds
+
 
 Music
 
@@ -170756,6 +173325,7 @@ Names
 Negators
 See
 
+
 Weapons
 Relations of Description
 
@@ -170811,6 +173381,7 @@ Space
 
 Names
 Move
+
 
 Parts: Creatures
 
@@ -170875,6 +173446,7 @@ Names of Locations
 
 
 
+
 Modification.Complete
 Identifiers
 Names
@@ -170894,6 +173466,7 @@ Gather
 
 
 
+
 Flow
 Fortifications
 Location
@@ -170901,6 +173474,7 @@ Identifiers
 Towns
 
 Stance//Space
+
 
 Fortifications
 
@@ -170964,6 +173538,7 @@ Speak
 Speak
 Speak
 
+
 Quantity
 Relations of Involvement
 Speak
@@ -171020,6 +173595,7 @@ Names of People
 High
 
 
+
 Leaders
 
 Names of People
@@ -171069,6 +173645,7 @@ Location
 Names of People
 
 Sounds
+
 
 Music
 
@@ -171170,6 +173747,7 @@ Object Referents
 Speak
 Identifiers
 Leaders
+
 
 Object Referents
 
@@ -171360,6 +173938,7 @@ Identifiers
 
 
 
+
 Elevations
 
 
@@ -171375,7 +173954,9 @@ Occurrence
 Time
 Food
 
+
 Quantity
+
 Time
 Food
 Crops
@@ -171448,6 +174029,7 @@ Names of Locations
 Identifiers
 Names of Locations
 
+
 Relations of Description
 Oppress
 Relations of Association
@@ -171464,6 +174046,7 @@ Impact
 Names
 Identifiers
 Names of People
+
 
 Object Referents
 
@@ -171512,6 +174095,7 @@ Leaders
 Hear
 Deities
 
+
 Land
 Space
 
@@ -171519,6 +174103,7 @@ Space
 Exist; Happen
 adverb
 Fight
+
 
 Names
 Relations of Association
@@ -171536,6 +174121,7 @@ Names
 
 Weak
 Names of People
+
 
 
 
@@ -171586,6 +174172,7 @@ Move
 adverb
 Identifiers
 
+
 Fight
 
 Negators
@@ -171632,6 +174219,8 @@ Impact
 Names of People
 Kinship
 Identifiers
+Identifiers
+
 
 
 Identifiers
@@ -171772,6 +174361,7 @@ Happen
 Control
 Universe
 
+
 Distress
 
 Speak
@@ -171910,6 +174500,7 @@ Involvement.Support
 
 Move
 
+
 Large
 Identifiers
 Safe
@@ -172040,12 +174631,14 @@ Just
 Compare
 Speed
 Relations of Description
+
 Wild Animals
 
 
 Elevations
 Space
 Know
+
 
 
 Fight
@@ -172092,6 +174685,7 @@ People
 
 Dress
 Strong; Confident
+
 
 Fight
 Stance
@@ -172190,6 +174784,7 @@ Move
 Praise
 Names of Supernatural Beings
 
+
 People
 
 
@@ -172250,6 +174845,7 @@ Deities
 
 Control
 
+
 People
 Just
 
@@ -172283,6 +174879,7 @@ Time
 Space
 
 Space
+
 
 Modification.Complete
 
@@ -172318,9 +174915,11 @@ Trees
 Weapons
 
 
+
 Fire
 Burn
 Burn
+
 
 Inactive
 Identifiers
@@ -172330,6 +174929,8 @@ Strong
 Relations of Description
 Relations of Association
 Names of People
+
+
 
 
 Names
@@ -172356,15 +174957,18 @@ Kinship
 Names of Groups
 
 Quantity; Frequency
+
 Strong
 
 Names of People
 
 Shame
 
+
 Names
 Gather
 Referents of Location
+
 
 Fight
 
@@ -172375,6 +174979,7 @@ Names
 Stance
 
 Impact
+
 
 Names
 Relations of Occurrence
@@ -172392,6 +174997,7 @@ Serve
 Names of Supernatural Beings
 Save
 Great
+
 
 Time
 Identifiers
@@ -172413,6 +175019,7 @@ Names of Groups
 
 Gather
 Names
+
 
 Associate
 
@@ -172476,6 +175083,7 @@ Adverb
 Names of Locations
 
 
+
 Fortifications
 Names
 Adverb
@@ -172493,6 +175101,7 @@ Liquids
 
 Relations of Description
 
+
 Parts: Constructions
 
 Detach
@@ -172509,6 +175118,7 @@ Liquids
 
 
 Relations of Description
+
 
 Parts: Constructions
 
@@ -172572,6 +175182,7 @@ Weapons
 Quantity; Frequency
 Quantity; Frequency
 Attribute
+
 
 
 
@@ -172645,6 +175256,7 @@ Weapons
 Move
 Location
 
+
 Weapons
 
 Possess
@@ -172689,6 +175301,7 @@ Safe
 Names of Locations
 Kinship
 Names of People
+
 
 Quantity; Frequency
 Names of People
@@ -172757,6 +175370,7 @@ Names of Groups
 Names of People
 Kinship
 Names
+Names of Groups
 Names of Groups
 Names of People
 Kinship
@@ -172852,6 +175466,7 @@ Names
 Relations of Location
 
 
+
 See
 Identifiers
 Identifiers
@@ -172892,6 +175507,7 @@ Identifiers
 Leaders
 
 Involvement
+
 
 Speak
 Identifiers
@@ -172960,6 +175576,7 @@ Names
 Move
 
 
+
 Location
 Location
 Names of Locations
@@ -172980,6 +175597,7 @@ Move
 Location
 Names
 Names of Locations
+
 
 
 Move
@@ -173059,6 +175677,7 @@ Foolish
 
 Stance
 Names of People
+
 
 Time
 
@@ -173182,6 +175801,7 @@ Names
 
 
 
+
 Quantity; Frequency
 Quantity; Frequency
 
@@ -173203,7 +175823,9 @@ Evil
 Speak
 
 
+
 Identifiers
+
 
 
 Groups
@@ -173234,6 +175856,7 @@ Deities
 Identifiers
 Impact
 
+
 Groups
 
 Speak
@@ -173263,6 +175886,7 @@ Names of People
 Location
 Names of People
 Scenery: Constructio
+
 Time
 Identifiers
 
@@ -173307,6 +175931,7 @@ Move
 Names of People
 
 Stance
+
 
 Leaders
 Parts: Creatures
@@ -173363,6 +175988,7 @@ Perception
 Identifiers
 Domestic Animals
 
+
 Sacrifice
 
 Identifiers
@@ -173372,6 +175998,7 @@ Artifacts
 Identifiers
 Domestic Animals
 
+
 Trees
 Identifiers
 Modification.Complete
@@ -173379,6 +176006,7 @@ Possess
 Names of People
 Identifiers
 Leaders
+
 
 Leaders
 
@@ -173442,6 +176070,7 @@ Sacrifice
 Hear
 Names of Supernatural Beings
 
+
 Land
 
 Attachment.Restrain
@@ -173457,9 +176086,11 @@ Names of People
 Old
 Move
 
+
 Time
 
 Cover
+
 
 Clothing
 
@@ -173515,6 +176146,7 @@ Names of Groups
 Move
 Identifiers
 
+
 Leaders
 
 Identifiers
@@ -173524,6 +176156,7 @@ Referents of Modification
 Intense
 
 Exist; Happen
+
 
 Leaders
 
@@ -173627,6 +176260,7 @@ Wild Animals
 Domestic Animals
 
 Domestic Animals
+
 
 
 
@@ -173780,6 +176414,7 @@ Names
 
 Stance
 
+
 Leaders
 
 Speak
@@ -173904,6 +176539,7 @@ Move
 
 Speak
 Relations of Involvement
+
 Leaders
 
 Speak
@@ -173919,6 +176555,7 @@ Identifiers
 Leaders
 
 Stance
+
 
 Leaders
 
@@ -174102,6 +176739,7 @@ Land
 
 Stance
 
+
 Leaders
 
 Speak
@@ -174181,6 +176819,7 @@ Leaders
 Names
 
 Sounds
+
 
 Music
 
@@ -174304,6 +176943,7 @@ Identifiers
 Names of People
 
 Sounds
+
 
 Music
 
@@ -174579,6 +177219,7 @@ Speak
 Vow
 
 Relations of Description
+
 Time
 Identifiers
 Leaders
@@ -174587,6 +177228,7 @@ Relations of Occurrence
 Dead
 Identifiers
 Classes; Officials; Serve
+
 
 Attribute
 
@@ -174625,6 +177267,7 @@ Move
 
 Stance
 Relations of Association
+
 Leaders
 
 
@@ -174679,6 +177322,7 @@ Laws
 
 
 Relations of Description
+
 Cognition.Write
 
 Laws
@@ -174853,6 +177497,7 @@ Names of Supernatural Beings
 Speak
 Relations of Occurrence
 Dead
+
 
 Attribute
 
@@ -175223,6 +177868,7 @@ Universe
 Participant Referents
 Titles
 
+
 Time
 Identifiers
 Identifiers
@@ -175298,6 +177944,7 @@ Identifiers
 Altars
 
 Speak
+
 
 Leaders
 Names of People
@@ -175406,6 +178053,7 @@ Just
 
 Dead
 
+
 Attribute
 
 Kinship
@@ -175472,6 +178120,7 @@ Dead
 Space
 
 Kinship / Construction
+
 
 Land
 
@@ -175545,6 +178194,7 @@ Parts: Creatures; People; Animals
 
 Speak
 Names of People
+
 
 Leaders
 Just
@@ -175787,6 +178437,7 @@ Identifiers
 Groups
 Dead
 
+
 Elevations
 
 Negators
@@ -175812,6 +178463,7 @@ Laws
 Names of People
 Kinship
 conjunctive adverb
+
 
 Elevations
 Participants
@@ -175902,6 +178554,7 @@ Space
 
 Control
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -176058,6 +178711,7 @@ Exist; Happen
 
 
 
+
 Leaders
 Modification.Complete
 Time
@@ -176142,9 +178796,11 @@ Quantity
 Birth
 
 
+
 Kinship / Construction
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -176165,10 +178821,12 @@ Participant Referents
 
 Relations of Association
 
+
 Kinship / Construction
 
 Quantity; Frequency
 Participant Referents
+
 
 Kinship / Construction
 
@@ -176212,6 +178870,7 @@ Parts: People
 
 Stance
 
+
 Time
 Relations of Involvement
 Suck
@@ -176223,6 +178882,7 @@ Dead
 
 Know
 Location
+
 
 Time
 
@@ -176507,8 +179167,10 @@ Identifiers
 Kinship / Construction
 Time
 
+
 Time
 Exist; Happen
+
 
 Quantity
 Relations of Involvement
@@ -176516,6 +179178,7 @@ Strong
 Kinship
 Identifiers
 
+Names of People
 Names of People
 
 Elevations
@@ -176531,8 +179194,10 @@ Names
 
 
 Names of Locations
+Names of Locations
 Kinship
 Names of People
+
 
 Names of Locations
 Relations of Association
@@ -176583,17 +179248,20 @@ Names of People
 
 
 
+
 Towns
 Names of Locations
 Kinship
 Names
 Relations of Description
 
+
 Object Referents
 
 Land
 Names of Locations
 Relations of Description
+
 
 Names
 Quantity; Frequency
@@ -176657,12 +179325,14 @@ Leaders; Officials
 Quantity
 Relations of Description
 
+
 Land
 Names of Groups
 
 Names
 Abundant
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -176782,6 +179452,7 @@ Names
 
 Relations of Location
 
+
 Modification.Complete
 Time
 Names of People
@@ -176832,7 +179503,9 @@ Crops
 Identifiers
 Foliage
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -176860,6 +179533,7 @@ Intense
 Dimension
 Parts: Creatures
 Relations of Description
+
 Sand
 Relations of Description
 
@@ -176927,6 +179601,7 @@ Identifiers
 Trees
 Relations of Description
 
+
 Names of Geographical Objects
 
 
@@ -176934,6 +179609,7 @@ Identifiers
 Plants
 Relations of Description
 Move
+
 
 Parts: Constructions
 
@@ -177117,6 +179793,7 @@ Relations of Involvement
 
 Trees
 Relations of Description
+
 Names of Groups
 Names of People
 Exist; Happen
@@ -177181,6 +179858,7 @@ Water; Direction
 
 Participant Referents
 Space
+
 
 
 
@@ -177287,10 +179965,12 @@ Names of Geographical Objects
 
 Quantity; Frequency
 
+
 Time
 Exchange
 Time
 Exist; Happen
+
 
 Names of Geographical Objects
 Quantity; Frequency
@@ -177315,6 +179995,7 @@ Quantity
 Quantity; Frequency
 Impact
 
+
 Elevations
 Relations of Association
 Apart
@@ -177336,9 +180017,11 @@ Quantity; Frequency
 Identifiers
 Control
 
+
 Groups
 Identifiers
 Serve
+
 
 
 
@@ -177394,6 +180077,7 @@ Names
 
 Land
 Names
+
 
 
 Identifiers
@@ -177455,6 +180139,7 @@ Identifiers
 Kinship / Construction
 
 
+
 Dimension
 Dimension
 
@@ -177463,6 +180148,7 @@ Identifiers
 Kinship / Construction
 
 Serve
+
 
 Kinship / Construction
 Parts: Constructions
@@ -177482,7 +180168,9 @@ Identifiers
 Kinship / Construction
 Location
 
+
 Buildings
+
 
 
 Parts: Buildings
@@ -177496,25 +180184,29 @@ Identifiers
 Low
 Quantity; Frequency
 
-Dimension
-Dimension
-
-Identifiers
-
-Quantity; Frequency
 
 Dimension
 Dimension
 
 Identifiers
+
+Quantity; Frequency
+
+
+Dimension
+Dimension
+
+Identifiers
 Quantity; Frequency
 Quantity; Frequency
+
 
 Dimension
 Dimension
 
 
 Possess
+
 
 Kinship / Construction
 Location
@@ -177545,6 +180237,7 @@ Artifacts
 Minerals; Metal
 Negators
 Hear
+
 
 Kinship / Construction
 
@@ -177587,6 +180280,7 @@ Identifiers
 Identifiers
 Kinship / Construction
 Artifacts
+
 
 
 
@@ -177736,6 +180430,7 @@ Identifiers
 
 Quantity; Frequency
 
+
 Dimension
 Exist; Happen
 Identifiers
@@ -177842,11 +180537,13 @@ Identifiers
 Altars
 Relations of Description
 
+
 Parts: Buildings
 Cover
 Metal
 
 Serve
+
 
 Parts: Buildings
 Quantity; Frequency
@@ -177884,6 +180581,7 @@ Parts: Creatures
 
 
 
+
 Dimension
 Identifiers
 Supernatural Creatures
@@ -177903,6 +180601,7 @@ Identifiers
 Supernatural Creatures
 Identifiers
 Quantity
+
 
 
 Dimension
@@ -177935,6 +180634,7 @@ Parts: Creatures
 Identifiers
 Quantity
 
+
 Parts: Constructions
 
 Parts: Creatures
@@ -177942,6 +180642,7 @@ Identifiers
 
 Identifiers
 Quantity; Frequency
+
 
 
 Parts: Constructions
@@ -177984,6 +180685,7 @@ Parts: Plants
 
 
 
+
 Orientation: Attachment
 
 Identifiers
@@ -177992,6 +180694,7 @@ Identifiers
 Kinship / Construction
 Participants
 Metal
+
 
 
 
@@ -178103,6 +180806,7 @@ Arrange
 Constructions.Parts
 Trees
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -178112,6 +180816,7 @@ Names of Supernatural Beings
 
 Time
 Names of Times
+
 
 
 Time
@@ -178184,6 +180889,7 @@ Identifiers
 
 
 Cover
+
 
 Trees
 
@@ -178265,6 +180971,7 @@ Serve
 
 Cover
 
+
 Trees
 
 Identifiers
@@ -178283,8 +180990,10 @@ Identifiers
 
 Kinship / Construction
 
+
 Parts: Constructions
 Relations of Description
+
 Happen
 Identifiers
 Identifiers
@@ -178299,6 +181008,7 @@ Relations of Description
 Possess
 Names of People
 Relations of Description
+
 Parts: Constructions
 Identifiers
 Identifiers
@@ -178310,6 +181020,7 @@ Participants
 Dimension
 Parts: Constructions
 Detach
+
 
 Tools
 
@@ -178423,6 +181134,7 @@ Serve
 
 
 
+
 Move
 Location
 Identifiers
@@ -178493,6 +181205,7 @@ Traps
 
 Cords
 
+
 Parts: Constructions
 Relations of Description
 
@@ -178501,11 +181214,13 @@ Identifiers
 Constructions.Parts
 Quantity; Frequency
 
+
 Parts: Constructions
 Identifiers
 Quantity
 
 Quantity; Frequency
+
 
 Parts: Constructions
 Identifiers
@@ -178538,6 +181253,7 @@ Trees/Fruit
 Adverb
 Serve
 
+
 Parts: Constructions
 Identifiers
 Quantity; Frequency
@@ -178550,6 +181266,7 @@ Identifiers
 Constructions.Parts
 Happen
 Plants
+
 
 Parts: Constructions
 Quantity; Frequency
@@ -178571,6 +181288,7 @@ Parts: Construction
 Relations of Description
 
 Direction
+
 Traps
 
 Identifiers
@@ -178636,6 +181354,7 @@ Water
 Exist
 
 
+
 Dimension
 
 Parts.Edge
@@ -178646,11 +181365,13 @@ Location
 
 Quantity; Frequency
 
+
 Dimension
 Dimension
 
 
 Quantity; Frequency
+
 
 Dimension
 
@@ -178665,6 +181386,7 @@ Parts.Edge
 Location
 
 Identifiers
+
 
 
 Dimension
@@ -178734,6 +181456,7 @@ Identifiers
 Metal
 Quantity; Frequency
 
+
 Dimension
 Dimension
 Identifiers
@@ -178743,10 +181466,12 @@ Quantity
 
 Quantity; Frequency
 
+
 Dimension
 Dimension
 
 Quantity; Frequency
+
 
 Dimension
 Dimension
@@ -178788,6 +181513,7 @@ Direction
 Wild Animals
 
 
+
 Domestic Animals
 Parts: Buildings
 Happen
@@ -178796,6 +181522,7 @@ Direction
 Quantity; Frequency
 Parts: Vehicles
 Metal
+
 
 
 Identifiers
@@ -178807,6 +181534,7 @@ Vehicles.Parts
 Quantity; Frequency
 Time
 Involvement.Support
+
 
 
 
@@ -178824,10 +181552,12 @@ Parts: Buildings
 
 Kinship / Construction
 
+
 Parts: Constructions
 
 Direction
 Modification
+
 Dimension
 
 
@@ -178857,12 +181587,14 @@ Parts: Vehicles
 
 
 
+
 Parts.Edge
 
 Artifacts
 Identifiers
 Parts: Vehicles
 Modification
+
 
 
 Dimension
@@ -178976,6 +181708,7 @@ Identifiers
 Quantity
 Quantity; Frequency
 
+
 Dimension
 Identifiers
 Furnishings
@@ -179053,6 +181786,7 @@ Serve
 Relations of Description
 Serve
 
+
 Leaders
 Names of People
 Kinship / Construction
@@ -179097,6 +181831,7 @@ Identifiers
 Traps
 Quantity; Frequency
 Arrange
+
 
 
 Traps
@@ -179163,6 +181898,7 @@ Identifiers
 
 Relations of Description
 Serve
+
 
 
 Leaders
@@ -179289,6 +182025,7 @@ Building.Parts
 Identifiers
 Kinship / Construction
 
+
 Buildings
 Metal
 
@@ -179373,6 +182110,7 @@ Time
 Identifiers
 Names of Times
 
+
 Festivals
 Participants
 Identifiers
@@ -179407,6 +182145,7 @@ Artifacts
 Identifiers
 Pure
 Relations of Description
+
 
 Tents
 
@@ -179521,6 +182260,7 @@ Identifiers
 Identifiers
 
 
+
 Containers
 Focus particle
 Quantity; Frequency
@@ -179587,6 +182327,7 @@ Names of Supernatural Beings
 Speak
 Relations of Involvement
 Dwell
+
 
 Universe
 Exist
@@ -179758,6 +182499,7 @@ Space
 Referents of Location
 Space
 
+
 Containers
 Relations of Description
 
@@ -179797,6 +182539,7 @@ Names
 
 
 Deities
+
 
 Universe
 
@@ -179841,6 +182584,7 @@ Speak
 
 Must
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -180030,6 +182774,7 @@ Curse
 
 Altars
 
+
 Kinship / Construction
 Identifiers
 Identifiers
@@ -180083,6 +182828,7 @@ Ask
 
 Merciful
 Location
+
 
 Kinship / Construction
 Identifiers
@@ -180172,6 +182918,7 @@ Ingest
 
 Exist; Happen
 
+
 Land
 Weak
 
@@ -180233,6 +182980,7 @@ Forgive
 Serve
 
 Possess
+
 
 
 Relations of Description
@@ -180357,9 +183105,11 @@ Exist
 Move
 Groups
 
+
 Fight
 
 Hate
+
 
 
 Relations of Description
@@ -180424,6 +183174,7 @@ Location
 Direction
 Location
 Parts: Creatures
+
 
 Land
 Relations of Description
@@ -180739,6 +183490,7 @@ Relations of Involvement
 Uphold
 Laws
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -180787,6 +183539,7 @@ Leaders
 Modification.Complete
 Kinship
 Names
+
 
 Time
 Identifiers
@@ -180846,6 +183599,7 @@ Serve
 Names of People
 
 
+
 Move
 
 Identifiers
@@ -180857,6 +183611,7 @@ Names
 
 People
 Great
+
 
 
 Names of Locations
@@ -180875,6 +183630,7 @@ Time
 Quantity; Frequency
 
 Time
+
 
 Time
 Identifiers
@@ -181118,9 +183874,11 @@ Serve
 Names of Supernatural Beings
 
 
+
 Land
 Identifiers
 Identifiers
+
 
 
 Kinship / Construction
@@ -181198,6 +183956,7 @@ Trees
 Trees
 Names of People
 
+
 Metal
 Relations of Association
 Modification.Complete
@@ -181259,6 +184018,7 @@ Names of People
 Location
 
 
+
 Leaders
 Quantity; Frequency
 Participants
@@ -181313,11 +184073,13 @@ Burn
 
 
 
+
 Identifiers
 Identifiers
 Names
 Identifiers
 Space
+
 
 Towns
 Dead
@@ -181344,7 +184106,9 @@ Names of Locations
 Identifiers
 Names of People
 
+
 Land
+
 
 Land
 
@@ -181377,6 +184141,7 @@ Relations of Involvement
 Exist
 
 Names
+
 
 
 Names of Geographical Objects
@@ -181412,6 +184177,7 @@ Kinship
 Relations of Description
 Exist
 Space
+
 
 Land
 Relations of Description
@@ -181473,9 +184239,11 @@ Quantity; Frequency
 Identifiers
 Control
 
+
 Groups
 Identifiers
 Serve
+
 
 
 restrictor
@@ -181500,6 +184268,7 @@ Move
 Names of People
 Scenery: Constructio
 Time
+
 
 Time
 Sacrifice
@@ -181544,6 +184313,7 @@ Land
 Names of Groups
 Names of People
 Move
+
 
 
 Ships
@@ -181700,6 +184470,7 @@ Wise
 Negators
 Trust
 
+
 Speak
 Modification
 Relations of Description
@@ -181768,6 +184539,7 @@ Just
 
 Possess
 
+
 Leaders
 Quantity; Frequency
 
@@ -181784,6 +184556,7 @@ Valuable
 Negators
 Move
 Relations of Description
+
 Trees
 Identifiers
 Participants
@@ -181794,6 +184567,7 @@ Relations of Description
 Possess
 Leaders
 Names
+
 
 Leaders
 Names of People
@@ -181837,6 +184611,7 @@ Leaders
 Music
 
 Music
+
 
 Sing
 Negators
@@ -181978,10 +184753,12 @@ Pure
 Quantity; Frequency
 
 
+
 Furnishings
 
 Land; Universe; Water; Elevations; Constructi
 Shape
+
 
 Furnishings
 
@@ -182055,7 +184832,9 @@ Time
 Ships
 Names of People
 
+
 Leaders
+
 
 Water; Direction
 
@@ -182173,6 +184952,7 @@ Minerals; Metal
 
 Names
 Relations of Description
+
 Stone
 
 Identifiers
@@ -182180,8 +184960,10 @@ Identifiers
 Trees
 Possess
 Relations of Description
+
 Trees
 Relations of Description
+
 
 Elevations
 
@@ -182357,6 +185139,7 @@ Relations of Association
 Names of Deities
 Wrong
 Names of Groups; Names of Locations
+
 
 Elevations
 Relations of Description
@@ -182762,6 +185545,7 @@ Names of People
 Carry
 
 
+
 Leaders
 
 Identifiers
@@ -182769,6 +185553,7 @@ Identifiers
 Speak
 Relations of Description
 Carry
+
 
 
 Leaders
@@ -182811,6 +185596,7 @@ Names of People
 Exist; Happen
 
 
+
 Identifiers
 
 
@@ -182829,6 +185615,7 @@ Prophets
 
 
 
+
 Participants
 Cover
 
@@ -182839,10 +185626,12 @@ Quantity; Frequency
 
 Apart
 
+
 Land
 
 Grasp
 Names of People
+
 
 Clothing
 Identifiers
@@ -183287,6 +186076,7 @@ Time
 Exist; Happen
 Classes; Officials; Serve
 
+
 Groups
 Identifiers
 Identifiers
@@ -183367,6 +186157,7 @@ Speak
 Adverb
 Speak
 Relations of Involvement
+
 Groups
 Identifiers
 Identifiers
@@ -183408,11 +186199,13 @@ Kinship
 Control; Oppress
 Identifiers
 
+
 Weapons
 
 Participant Referents
 Control; Oppress
 Identifiers
+
 
 Swarming Creatures
 
@@ -183424,6 +186217,7 @@ Identifiers
 Groups
 Location
 Names
+
 
 Time
 Identifiers
@@ -183437,6 +186231,7 @@ Relations of Involvement
 Speak
 Direction
 Location
+
 
 Time
 Identifiers
@@ -183479,11 +186274,13 @@ Kinship
 Control; Oppress
 Identifiers
 
+
 Weapons
 
 Participant Referents
 Control; Oppress
 Identifiers
+
 
 Swarming Creatures
 
@@ -183597,6 +186394,7 @@ Names
 Confident
 Relations of Involvement
 Move
+
 
 Vehicles
 Relations of Involvement
@@ -183895,6 +186693,7 @@ Serve
 Names
 Festivals
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -183903,8 +186702,10 @@ Quantity; Frequency
 
 Scenery: Constructio
 
+
 Time
 Relations of Description
+
 Festivals
 Relations of Description
 
@@ -183920,6 +186721,7 @@ Serve
 Names of Locations
 Relations of Involvement
 Dead
+
 
 Domestic Animals
 Relations of Description
@@ -183948,9 +186750,11 @@ Quantity; Frequency
 
 Time
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Time
 Relations of Description
@@ -184031,6 +186835,7 @@ Burn
 
 Possess
 
+
 Time
 Identifiers
 Participants
@@ -184107,6 +186912,7 @@ Food
 Identifiers
 Altars
 Relations of Description
+
 Miracles
 Relations of Description
 Possess
@@ -184157,6 +186963,7 @@ Location
 Exist; Happen
 Relations of Description
 
+
 Quantity
 
 Speak
@@ -184202,6 +187009,7 @@ Negators
 Ingest
 Liquids
 
+
 Space
 Identifiers
 Identifiers
@@ -184226,6 +187034,7 @@ Negators
 Direction
 
 
+
 Relations of Description
 Move
 
@@ -184236,6 +187045,7 @@ Identifiers
 
 Negators
 Direction
+
 
 
 Relations of Description
@@ -184379,6 +187189,7 @@ Ingest
 Relations of Association
 Liquids
 
+
 Space
 Identifiers
 Identifiers
@@ -184400,6 +187211,7 @@ Negators
 
 Relations of Involvement
 Move
+
 
 
 Relations of Description
@@ -184499,6 +187311,7 @@ Bread
 Ingest
 Liquids
 
+
 Space
 Relations of Description
 Speak
@@ -184530,6 +187343,7 @@ Cover
 Identifiers
 Domestic Animals
 
+
 Prophets
 Relations of Description
 Move
@@ -184541,11 +187355,13 @@ Search; Know
 
 
 
+
 Dead
 
 Exist; Happen
 Parts: Creatures
 Wild Animals
+
 
 
 
@@ -184573,6 +187389,7 @@ Move
 
 
 
+
 Identifiers
 Identifiers
 
@@ -184584,6 +187401,7 @@ Identifiers
 Move
 
 Speak
+
 
 Towns
 Relations of Description
@@ -184619,6 +187437,7 @@ Names of Supernatural Beings
 
 
 
+
 Impact
 
 Dead
@@ -184648,6 +187467,7 @@ Search; Know
 Identifiers
 Parts: Creatures
 Move
+
 
 
 Wild Animals
@@ -184729,6 +187549,7 @@ Dead
 Space
 Identifiers
 
+
 Space
 Relations of Description
 
@@ -184801,6 +187622,7 @@ Elevations
 
 Exist; Happen
 
+
 Speak
 Identifiers
 Identifiers
@@ -184819,6 +187641,7 @@ Non-Exist
 
 Identifiers
 Land
+
 
 
 Identifiers
@@ -184880,6 +187703,7 @@ Speak
 
 
 Exist; Happen
+
 
 People
 
@@ -184949,6 +187773,7 @@ Identifiers
 Perception; Sounds
 Parts: Creatures
 Move
+
 
 Constructions.Parts
 
@@ -185083,6 +187908,7 @@ Dead
 Relations of Association
 Names
 Participants
+
 Towns
 Ingest
 Identifiers
@@ -185090,6 +187916,7 @@ Domestic Animals
 
 Identifiers
 Dead
+
 
 Land
 Ingest
@@ -185173,6 +188000,7 @@ Involvement.Waver
 Identifiers
 Plants
 
+
 Liquids
 
 Pursue
@@ -185194,6 +188022,7 @@ Kinship
 
 
 Direction
+
 
 Names of Geographical Objects
 
@@ -185381,6 +188210,7 @@ Focus particle
 Prostitutes
 Exist; Happen
 
+
 Land
 Serve
 Relations of Description
@@ -185399,9 +188229,11 @@ Names
 Participants
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Leaders
 Names
@@ -185535,6 +188367,7 @@ Kinship
 
 Time
 Quantity
+
 
 
 Leaders
@@ -185744,6 +188577,7 @@ Relations of Description
 Serve
 Artifacts
 
+
 Deities
 
 Detach
@@ -185837,6 +188671,7 @@ Names of Supernatural Beings
 Identifiers
 Constructions
 Kinship / Construction
+
 Leaders
 
 Possess
@@ -186085,6 +188920,7 @@ Names
 Names of Locations
 Relations of Description
 
+
 Names
 
 Names
@@ -186283,6 +189119,7 @@ Dead
 Relations of Association
 Names
 
+
 Towns
 Ingest
 Identifiers
@@ -186290,6 +189127,7 @@ Domestic Animals
 
 Identifiers
 Dead
+
 
 
 Land
@@ -186544,6 +189382,7 @@ Dwell
 Names of Locations
 Relations of Description
 
+
 Names
 
 Hear
@@ -186572,9 +189411,11 @@ Groups
 
 
 
+
 Time
 Identifiers
 Participants
+
 
 Towns
 
@@ -186612,6 +189453,7 @@ Burn
 Identifiers
 Kinship / Construction
 Leaders
+
 
 
 
@@ -186666,6 +189508,7 @@ Apart
 Identifiers
 Divide
 Divide
+
 
 Divide
 Divide
@@ -186910,6 +189753,7 @@ Scenery: Constructio
 Stance
 Altars
 
+
 Names of Supernatural Beings
 Kinship / Construction
 Identifiers
@@ -186947,6 +189791,7 @@ Names of Groups
 Exist
 Kinship
 Names of People
+
 
 
 Identifiers
@@ -187069,11 +189914,13 @@ Bread
 
 Parts: Creatures
 
+
 Time
 
 
 
 Parts: Creatures
+
 
 Time
 
@@ -187094,6 +189941,7 @@ Water
 Negators
 Exist; Happen
 Rain
+
 
 Land
 
@@ -187148,6 +189996,7 @@ Possess
 Quantity
 Liquids
 
+
 Artifacts
 
 Ingest
@@ -187182,10 +190031,12 @@ Abundant
 Parts: Creatures
 Crops
 
+
 Containers
 
 Quantity
 Liquids
+
 
 Containers
 
@@ -187223,6 +190074,7 @@ Referents of Location
 Food
 Little
 
+
 Quantity
 
 Move
@@ -187233,6 +190085,7 @@ Move
 
 Kinship
 Serve
+
 
 Identifiers
 
@@ -187480,6 +190333,7 @@ Exist; Happen
 Location
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -187543,6 +190397,7 @@ Hide
 Quantity; Frequency
 
 
+
 Elevations
 
 Strong
@@ -187555,6 +190410,7 @@ Names of People
 Location
 Names of People
 Move
+
 
 Land
 Location
@@ -187608,6 +190464,7 @@ Apart
 
 Exist; Happen
 Names of People
+
 
 
 
@@ -187747,6 +190604,7 @@ Quantity; Frequency
 
 Quantity; Frequency
 Quantity; Frequency
+
 
 
 Elevations
@@ -187998,6 +190856,7 @@ Relations of Description
 Utter
 
 
+
 Participants
 Identifiers
 Deities
@@ -188084,6 +190943,7 @@ Serve
 
 Exist; Happen
 
+
 Existence
 
 Mock
@@ -188123,7 +190983,9 @@ Attachment
 Relations of Description
 
 
+
 Weapons
+
 
 
 Weapons
@@ -188214,6 +191076,7 @@ Capacity
 Plants
 Location
 
+
 Altars
 
 Space
@@ -188260,6 +191123,7 @@ Move
 Identifiers
 Liquids
 Location
+
 
 Altars
 
@@ -188355,6 +191219,7 @@ Identifiers
 Identifiers
 Liquids
 Relations of Description
+
 
 Constructions
 Ingest
@@ -188463,6 +191328,7 @@ Time
 
 Exist; Happen
 
+
 Quantity; Frequency
 
 Speak
@@ -188550,6 +191416,7 @@ Modification.Complete
 Identifiers
 Prophets
 
+
 Attribute
 
 Move
@@ -188567,6 +191434,7 @@ Deities
 ?
 
 Relations of Description
+
 
 Referents of Time
 Space
@@ -188587,6 +191455,7 @@ Location
 
 Move
 
+
 Relations of Description
 Relations of Association
 Names of Locations
@@ -188598,6 +191467,7 @@ Referents of Location
 
 Participants
 Move
+
 
 Land
 
@@ -188747,6 +191617,7 @@ Identifiers
 Prophets
 Dead
 
+
 Attribute
 
 Exist
@@ -188764,6 +191635,7 @@ Speak
 Move
 
 Stance//Space
+
 
 Elevations
 
@@ -188788,6 +191660,7 @@ Stone
 Names of Supernatural Beings
 Negators
 
+
 Time
 Names of Supernatural Beings
 
@@ -188798,6 +191671,7 @@ Afraid
 Negators
 
 
+
 Names of Supernatural Beings
 
 Space
@@ -188805,6 +191679,7 @@ Identifiers
 Afraid
 
 Negators
+
 
 
 Names of Supernatural Beings
@@ -188862,6 +191737,7 @@ Impact
 Identifiers
 Prophets
 Dead
+
 
 Attribute
 
@@ -188945,6 +191821,7 @@ Parts: Creatures
 Relations of Description
 Negators
 Stance
+
 
 Names of Supernatural Beings
 
@@ -189039,6 +191916,7 @@ Identifiers
 Parts: Creatures
 
 Possess
+
 
 Groups
 
@@ -189152,6 +192030,7 @@ Possess
 Relations of Occurrence
 Relations of Description
 
+
 Referents of Time
 Move
 Identifiers
@@ -189243,6 +192122,7 @@ Relations of Description
 Location
 Classes; Officials; Serve
 
+
 Quantity
 Serve
 
@@ -189315,6 +192195,7 @@ Participants
 
 Identifiers
 Leaders
+
 
 Tents
 
@@ -189414,11 +192295,13 @@ Quantity; Frequency
 
 Move
 
+
 Existence
 
 Names of People
 Ingest
 Ingest
+
 
 Tents
 Participants
@@ -189437,6 +192320,7 @@ People
 Leaders
 Identifiers
 Scenery
+
 
 Quantity
 
@@ -189565,6 +192449,7 @@ Connective
 Fight
 Relations of Association
 
+
 Scenery
 Relations of Occurrence
 Negators
@@ -189593,6 +192478,7 @@ Estimate
 
 People
 Relations of Description
+
 People
 Identifiers
 Move
@@ -189603,12 +192489,15 @@ Domestic Animals
 Relations of Description
 
 
+
 Vehicles
 Relations of Description
 
 
+
 Fight
 Identifiers
+
 
 Scenery
 Relations of Occurrence
@@ -189636,6 +192525,7 @@ Names of Groups
 
 Move
 Names of Locations
+
 
 Fight
 
@@ -189718,6 +192608,7 @@ Quantity; Frequency
 Time
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -189885,6 +192776,7 @@ Names of Locations
 
 Participant Referents
 
+
 Covenant
 Location
 
@@ -189964,12 +192856,14 @@ Prophets
 
 Stance//Space
 
+
 Leaders
 
 Identifiers
 
 
 Cognition
+
 
 Headgear
 
@@ -190310,6 +193204,7 @@ Names
 Cognition.Write
 
 
+
 Relations of Involvement
 Speak
 Speak
@@ -190367,6 +193262,7 @@ Relations of Description
 Cognition.Write
 
 
+
 Relations of Description
 Location
 Location
@@ -190412,9 +193308,11 @@ Move
 
 Orientation: Attachment
 
+
 Towns
 
 Dead
+
 
 Stone
 
@@ -190635,6 +193533,7 @@ Dead
 Relations of Association
 Names of People
 
+
 Towns
 Ingest
 Identifiers
@@ -190642,6 +193541,7 @@ Domestic Animals
 
 Identifiers
 Dead
+
 
 Land
 Ingest
@@ -190713,6 +193613,7 @@ Stance
 
 
 
+
 Act
 Lax
 
@@ -190766,6 +193667,7 @@ Names
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -190789,6 +193691,7 @@ Relations of Perception
 Relations of Association
 
 
+
 Participant Referents
 Silent; Inactive
 Relations of Involvement
@@ -190806,7 +193709,9 @@ Object Referents
 Move
 Relations of Association
 
+
 Fight
+
 
 
 Speak
@@ -190833,6 +193738,7 @@ Names
 Search; Ask
 
 Relations of Description
+
 Time
 Identifiers
 Speak
@@ -190853,6 +193759,8 @@ Speak
 Location
 Titles
 Move
+
+
 
 
 
@@ -190988,6 +193896,7 @@ Relations of Involvement
 Speak
 Move
 Identifiers
+Identifiers
 
 Happen
 
@@ -191059,6 +193968,8 @@ Move
 Location
 
 
+
+
 Fight
 Relations of Occurrence
 Happen
@@ -191106,6 +194017,7 @@ Location
 Identifiers
 Elevations
 Relations of Description
+
 Domestic Animals
 Relations of Description
 
@@ -191176,6 +194088,7 @@ Names of People
 Move
 
 Move
+
 
 
 
@@ -191275,6 +194188,7 @@ Names
 discourse marker
 Perception
 
+
 Time
 Identifiers
 Participants
@@ -191355,6 +194269,7 @@ Leaders
 Names of Locations
 
 
+
 Speak
 Leaders
 Names
@@ -191363,6 +194278,7 @@ Names of People
 Cognition
 
 Move
+
 
 Fight
 
@@ -191375,6 +194291,7 @@ Leaders
 
 
 Move
+
 
 
 
@@ -191450,6 +194367,7 @@ Space
 
 Move
 
+
 Weapons
 
 Just
@@ -191483,6 +194401,7 @@ Move
 Identifiers
 Fight
 
+
 Time
 Identifiers
 Participants
@@ -191492,11 +194411,13 @@ Leaders
 Exist; Happen
 Space
 
+
 Vehicles
 Location
 Names of Groups
 
 Dead
+
 
 Time
 
@@ -191512,6 +194433,7 @@ Vehicles
 Move
 Identifiers
 Shout
+
 
 Association
 Relations of Description
@@ -191671,6 +194593,7 @@ Dead
 
 Sacrifice
 
+
 Elevations
 
 Peace
@@ -191729,6 +194652,7 @@ Names of Locations
 Relations of Involvement
 Move
 Names of Locations
+
 
 Metal
 
@@ -191871,6 +194795,7 @@ Move
 Search; Ask
 
 
+
 Deities
 Names of Locations
 Relations of Occurrence
@@ -191907,6 +194832,7 @@ Participant Referents
 Move
 Relations of Involvement
 Search; Ask
+
 
 
 Deities
@@ -191976,6 +194902,7 @@ Participant Referents
 
 Relations of Involvement
 Search; Ask
+
 
 
 Deities
@@ -192254,6 +195181,7 @@ Relations of Involvement
 Search; Ask
 
 
+
 Deities
 Names of Locations
 Identifiers
@@ -192330,6 +195258,7 @@ Move
 Names of Supernatural Beings
 Identifiers
 Names of People
+
 
 Wind
 Identifiers
@@ -192518,6 +195447,7 @@ Referents of Location
 Move
 Quantity; Frequency
 
+
 Land
 
 Exist; Happen
@@ -192588,6 +195518,7 @@ Quantity; Frequency
 
 Move
 Names of People
+
 
 Wind
 Identifiers
@@ -192822,6 +195753,7 @@ Speak
 Names of Supernatural Beings
 Well
 
+
 Liquids
 Identifiers
 Identifiers
@@ -192855,6 +195787,7 @@ Names of Locations
 
 
 Move
+
 
 
 
@@ -193007,6 +195940,7 @@ Identifiers
 Leaders
 Names of People
 
+
 Time
 Identifiers
 
@@ -193036,6 +195970,7 @@ Move
 Relations of Association
 Location
 Names of Groups; Names of Locations
+
 
 Fight
 
@@ -193083,7 +196018,9 @@ Negators
 Exist; Happen
 Liquids
 
+
 Association
+
 
 
 Wild Animals
@@ -193316,9 +196253,11 @@ Identifiers
 Good
 Distress
 
+
 Stone
 
 Exist; Happen
+
 
 Time
 Relations of Description
@@ -193366,6 +196305,7 @@ Scenery
 
 Time
 
+
 Time
 
 Identifiers
@@ -193384,6 +196324,7 @@ Identifiers
 Liquids
 
 Relations of Description
+
 Parts: Creatures
 
 Speak
@@ -193400,6 +196341,7 @@ Identifiers
 Friends
 
 Text deictic
+
 
 Possess
 Names of Groups; Names of Locations
@@ -193452,6 +196394,7 @@ Move
 Relations of Occurrence
 Exist
 Parts: Constructions
+
 
 
 
@@ -193513,6 +196456,7 @@ Move
 
 Direction
 
+
 Land
 
 People
@@ -193564,6 +196508,7 @@ Speak
 Markers of Existence
 
 
+
 Kinship / Construction
 
 Speak
@@ -193571,6 +196516,7 @@ Speak
 
 Classes
 Modification.Complete
+
 
 Kinship / Construction
 
@@ -193679,8 +196625,10 @@ Identifiers
 Exchange
 
 Participant Referents
+
 Kinship
 Alive
+
 
 Exist
 
@@ -193772,6 +196720,7 @@ Names of People
 People
 Speak
 
+
 Names of Groups
 Identifiers
 Identifiers
@@ -193848,14 +196797,17 @@ Speak
 
 Stance//Space
 
+
 Constructions.Parts
 Happen
 Speak
 
 
+
 Identifiers
 Identifiers
 Relations of Description
+
 
 Happen
 Participant Referents
@@ -193881,9 +196833,11 @@ Birth
 Kinship
 
 
+
 Identifiers
 Identifiers
 Relations of Description
+
 
 Happen
 Relations of Description
@@ -194040,6 +196994,7 @@ Presentative deictic
 Identifiers
 Names of Groups
 
+
 Text deictic
 Move
 
@@ -194057,6 +197012,7 @@ Intact
 
 
 Intact
+
 
 People
 
@@ -194252,6 +197208,7 @@ Direction
 
 Move
 
+
 Kinship / Construction
 Quantity
 Referents of Location
@@ -194320,6 +197277,7 @@ Object Referents
 
 Identifiers
 Ingest
+
 
 Land
 
@@ -194396,6 +197354,7 @@ Lament
 Speak
 Universe
 
+
 Containers
 
 Identifiers
@@ -194419,6 +197378,7 @@ Containers
 Speak
 Flow
 
+
 Groups
 
 Ingest
@@ -194427,6 +197387,7 @@ Negators
 Exist; Happen
 Speak
 Wrong
+
 
 Containers
 Names of Locations
@@ -194453,6 +197414,7 @@ Crops
 Speak
 Possess
 
+
 Groups
 
 Ingest
@@ -194469,6 +197431,7 @@ Quantity; Frequency
 
 Speak
 Possess
+
 
 Groups
 
@@ -194735,6 +197698,7 @@ Purify
 Quantity; Frequency
 Time
 
+
 Names
 
 Direction
@@ -194826,6 +197790,7 @@ Pure
 Move
 
 Space
+
 
 Names
 Quantity; Frequency
@@ -194930,6 +197895,7 @@ Relations of Occurrence
 
 Names of Supernatural Beings
 
+
 Speak
 Identifiers
 Identifiers
@@ -194962,6 +197928,7 @@ Kinship / Construction
 Names of Supernatural Beings
 
 Classes; Officials; Serve
+
 
 Speak
 Identifiers
@@ -195106,6 +198073,7 @@ Possess
 
 Space
 
+
 Kinship / Construction
 
 Location
@@ -195191,6 +198159,7 @@ Move
 
 Wounds
 Relations of Description
+
 Rain
 
 Speak
@@ -195558,7 +198527,9 @@ People
 Identifiers
 Identifiers
 
+
 Blind
+
 
 
 
@@ -195801,6 +198772,7 @@ Ingest
 Speak
 Location
 
+
 Time
 Identifiers
 Identifiers
@@ -195916,6 +198888,7 @@ Building.Parts
 Press
 Identifiers
 
+
 Building.Parts
 
 Negators
@@ -195957,6 +198930,7 @@ Speak
 Names of Supernatural Beings
 Relations of Description
 
+
 Referents of Time
 Capacity
 Crops
@@ -195976,6 +198950,7 @@ Identifiers
 Soldiers
 Relations of Description
 
+
 Leaders
 Involvement.Support
 
@@ -195990,6 +198965,7 @@ discourse particle
 Names of Supernatural Beings
 Serve
 Parts: Constructions
+
 
 Universe
 
@@ -196037,6 +199013,7 @@ Towns
 Identifiers
 Ingest
 
+
 Towns
 
 Dead
@@ -196065,6 +199042,7 @@ Dead
 Dead
 
 Stance
+
 
 Time
 Relations of Involvement
@@ -196121,6 +199099,7 @@ Move
 Stance
 
 Flee
+
 
 Time
 
@@ -196396,11 +199375,14 @@ Relations of Description
 Move
 Names of Groups
 
+Attitude
+
 Direction
 Identifiers
 Deities
 
 Speak
+
 
 Leaders
 
@@ -196447,6 +199429,7 @@ Groups
 
 
 
+
 Dead
 Relations of Description
 Relations of Description
@@ -196485,6 +199468,7 @@ Crops
 Exist; Happen
 Relations of Description
 
+
 Referents of Time
 
 Parts: Constructions
@@ -196505,10 +199489,12 @@ Names of Supernatural Beings
 Serve
 Parts: Constructions
 
+
 Universe
 
 Exist; Happen
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -196532,6 +199518,7 @@ Impact
 Identifiers
 Identifiers
 Groups
+
 
 Parts: Constructions
 
@@ -196562,6 +199549,7 @@ Fight
 
 Speak
 Names of Supernatural Beings
+
 
 Ingest
 
@@ -196647,6 +199635,7 @@ Exist; Happen
 
 Speak
 
+
 Leaders
 Identifiers
 Relations of Description
@@ -196690,6 +199679,7 @@ Names of People
 Ask
 Identifiers
 Leaders
+
 
 People
 
@@ -196862,7 +199852,9 @@ Occurrence
 
 
 
+
 People
+
 
 Attribute
 Dead
@@ -196929,6 +199921,7 @@ Identifiers
 Cover
 
 Space
+
 
 Liquids
 
@@ -197085,6 +200078,7 @@ Sin
 Names of Locations
 
 
+
 Identifiers
 
 
@@ -197191,11 +200185,13 @@ Object Referents
 Kinship
 Names of People
 
+
 Fight
 
 Names of People
 Leaders
 Names of Groups
+
 
 
 
@@ -197218,6 +200214,7 @@ Wounds
 Relations of Description
 Impact
 Names of People
+
 
 Names
 
@@ -197271,6 +200268,7 @@ Identifiers
 Parts: Creatures
 
 Move
+
 
 
 Move
@@ -197332,6 +200330,7 @@ Identifiers
 
 Identifiers
 Prophets
+
 
 
 Move
@@ -197530,6 +200529,7 @@ Identifiers
 
 Sounds
 
+
 Music
 
 Speak
@@ -197548,6 +200548,7 @@ Location
 
 Exist; Happen
 See
+
 
 
 
@@ -197814,6 +200815,7 @@ Names of People
 Must
 Parts: Creatures
 
+
 Weapons
 Weapons
 Impact
@@ -197881,6 +200883,7 @@ Names of Supernatural Beings
 Exchange
 
 
+
 Possess
 Identifiers
 Identifiers
@@ -197890,6 +200893,7 @@ Names of Supernatural Beings
 Text deictic
 Carry
 Move
+
 
 Possess
 Relations of Description
@@ -197917,6 +200921,7 @@ Location
 Identifiers
 Vehicles
 
+Names of Locations
 Relations of Description
 Relations of Association
 Names of Locations
@@ -197965,6 +200970,7 @@ Hear
 
 Space
 
+
 Paint
 Parts: Body
 
@@ -197979,6 +200985,7 @@ Parts: Constructions
 
 Names of People
 Move
+
 
 Parts: Constructions
 
@@ -198263,6 +201270,7 @@ Move
 Location
 Relations of Description
 
+
 Referents of Time
 Names
 
@@ -198299,6 +201307,7 @@ Space
 Identifiers
 Parts: Creatures; People; Animals
 
+
 Containers
 
 Location
@@ -198332,6 +201341,7 @@ Identifiers
 Time
 
 Exist; Happen
+
 
 Time
 
@@ -198415,6 +201425,7 @@ Move
 
 Move
 Names of Locations
+
 
 
 
@@ -198590,6 +201601,7 @@ Dead
 Great
 
 
+
 Names of Supernatural Beings
 Modification.Complete
 Relations of Description
@@ -198611,6 +201623,7 @@ Identifiers
 Speak
 Names of People
 Pure
+
 
 
 Names of Supernatural Beings
@@ -198712,6 +201725,7 @@ Names of People
 Space
 
 
+
 Orientation: Attachment
 Quantity
 
@@ -198744,7 +201758,9 @@ Sacrifice
 Speak
 Names of People
 
+
 Move
+
 
 
 Soldiers
@@ -198884,6 +201900,7 @@ Names
 Relations of Description
 Sin
 Identifiers
+
 
 
 Time
@@ -199058,6 +202075,7 @@ Identifiers
 Land
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -199070,7 +202088,9 @@ Leaders
 Identifiers
 Quantity; Frequency
 
+
 Names
+
 
 
 Move
@@ -199127,6 +202147,7 @@ Names
 
 Identifiers
 Quantity; Frequency
+
 
 
 Space
@@ -199232,6 +202253,7 @@ Identifiers
 Weapons
 Relations of Description
 
+
 Leaders
 Names of People
 Relations of Description
@@ -199260,7 +202282,9 @@ Kinship / Construction
 Identifiers
 Direction
 
+
 Altars
+
 
 
 Kinship / Construction
@@ -199326,6 +202350,7 @@ Constructions.Parts
 Relations of Description
 
 
+
 Identifiers
 Leaders
 
@@ -199376,10 +202401,12 @@ Kinship / Construction
 
 
 
+
 Identifiers
 Move
 Space
 Dead
+
 
 Attribute
 
@@ -199531,8 +202558,10 @@ Identifiers
 
 Dead
 
+
 Attribute
 Kinship / Construction
+
 Leaders
 Kinship
 Quantity; Frequency
@@ -199557,6 +202586,7 @@ Names
 
 Kinship
 Names of People
+
 
 
 
@@ -199585,6 +202615,7 @@ Groups
 Dead
 
 Sacrifice
+
 
 Elevations
 
@@ -199648,6 +202679,7 @@ Quantity
 Quantity; Frequency
 
 
+
 Leaders
 Names of People
 Negators
@@ -199667,6 +202699,7 @@ Relations of Association
 Names of People
 Identifiers
 Priests
+
 
 
 
@@ -199764,6 +202797,7 @@ Abundant
 Identifiers
 Minerals; Metal
 
+
 Containers
 
 Move
@@ -199810,6 +202844,7 @@ Identifiers
 Trees
 
 
+
 Exist
 Identifiers
 Serve
@@ -199817,6 +202852,7 @@ Kinship / Construction
 Names of Supernatural Beings
 Impact
 Relations of Involvement
+
 People
 
 
@@ -199914,6 +202950,7 @@ Negators
 Move
 Kinship / Construction
 Names of Supernatural Beings
+
 
 Priests
 Exist; Happen
@@ -200013,6 +203050,7 @@ Know
 
 Impact
 Identifiers
+
 
 
 Identifiers
@@ -200194,6 +203232,7 @@ Names of Groups
 
 Space
 Relations of Description
+
 Sand
 Relations of Involvement
 Impact
@@ -200472,6 +203511,7 @@ Space
 Names of Groups; Names of Locations
 Move
 
+
 Land
 Move
 Time
@@ -200579,6 +203619,7 @@ Possess
 Names of People
 Kinship
 
+
 Fight
 Quantity; Frequency
 Time
@@ -200657,6 +203698,7 @@ Dead
 
 Sacrifice
 
+
 Elevations
 
 Exist; Happen
@@ -200685,6 +203727,7 @@ Impact
 Negators
 Dead
 Relations of Description
+
 Cognition.Write
 
 Scrolls
@@ -200719,12 +203762,14 @@ Names of Groups
 
 
 
+
 Quantity; Frequency
 
 Grasp
 Identifiers
 Identifiers
 Names
+
 
 Fight
 
@@ -200769,12 +203814,14 @@ Identifiers
 Plants
 Relations of Description
 
+
 Names of Geographical Objects
 Move
 Location
 Identifiers
 Trees
 Relations of Description
+
 
 Names of Geographical Objects
 Relations of Involvement
@@ -200792,6 +203839,7 @@ Animals
 Identifiers
 Land
 Relations of Description
+
 
 Names of Geographical Objects
 
@@ -201110,6 +204158,7 @@ Scenery
 Speak
 
 
+
 Names of Locations
 
 Water; Direction
@@ -201282,6 +204331,7 @@ Groups
 Dead
 
 Sacrifice
+
 
 Elevations
 
@@ -201628,6 +204678,7 @@ Negators
 Stance//Space
 Referents of Location
 
+
 Land
 
 Happen
@@ -201708,6 +204759,7 @@ Names of Locations
 
 Fortifications
 Kinship / Construction
+
 Leaders
 Relations of Association
 Names of Locations
@@ -201926,6 +204978,7 @@ Dead
 
 Sacrifice
 
+
 Elevations
 
 Exist
@@ -201953,6 +205006,7 @@ Time
 
 Leaders
 Names of Locations
+
 
 Time
 Identifiers
@@ -202042,6 +205096,7 @@ Kinship
 Sacrifice
 
 
+
 Relations of Description
 Sin
 Identifiers
@@ -202058,6 +205113,7 @@ Kinship
 Dead
 
 Sacrifice
+
 
 Elevations
 
@@ -202082,6 +205138,7 @@ Leaders
 Names
 Names
 Relations of Involvement
+
 Fight
 
 Gather
@@ -202092,6 +205149,7 @@ Negators
 ?
 
 Fight
+
 
 
 Identifiers
@@ -202463,6 +205521,7 @@ Time
 Relations of Description
 Exist
 
+
 Kinship / Construction
 
 Identifiers
@@ -202728,6 +205787,7 @@ Referents of Location
 Modification.Complete
 Elevations
 Relations of Description
+
 People
 Relations of Description
 Move
@@ -202888,6 +205948,7 @@ Kinship
 
 Identifiers
 Kinship
+
 
 
 
@@ -203230,6 +206291,7 @@ Identifiers
 Kinship
 
 
+
 Relations of Association
 
 
@@ -203283,6 +206345,7 @@ Participant Referents
 Serve
 Relations of Description
 
+
 Identifiers
 Quantity
 
@@ -203299,9 +206362,11 @@ Relations of Description
 
 
 Relations of Description
+
 Laws
 
 Relations of Description
+
 Laws
 Relations of Description
 Speak
@@ -203618,10 +206683,12 @@ Fortifications
 Names of People
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 Relations of Association
+
 Leaders
 Names of People
 
@@ -203714,6 +206781,7 @@ Quantity; Frequency
 
 Time
 
+
 Leaders
 Names of People
 Move
@@ -203781,6 +206849,7 @@ Constructions
 Kinship / Construction
 Identifiers
 Leaders
+
 
 
 Identifiers
@@ -203905,6 +206974,7 @@ Speak
 Think
 
 Attribute
+
 
 Fight
 Text deictic
@@ -204116,6 +207186,7 @@ Body Products
 Relations of Involvement
 Ingest
 Identifiers
+Body Products
 Body Products
 
 
@@ -204354,6 +207425,7 @@ Clothing
 
 Cover
 
+
 Containers/Cloth
 
 Move
@@ -204377,6 +207449,7 @@ Leaders
 Identifiers
 Priests
 Cover
+
 
 Containers/Cloth
 Location
@@ -204430,6 +207503,7 @@ Deities
 Alive
 
 Correct
+
 
 Speak
 Relations of Description
@@ -204490,6 +207564,7 @@ Direction
 Land
 
 Move
+
 
 Attribute
 
@@ -204605,6 +207680,8 @@ Names of Locations
 
 Leaders
 
+
+
 Names
 Names of Locations
 
@@ -204701,6 +207778,7 @@ Land
 Possess
 Identifiers
 Deities
+
 
 
 
@@ -204913,6 +207991,7 @@ Parts.Edge
 Move
 
 
+
 Relations of Description
 Move
 
@@ -204928,9 +208007,11 @@ Crops
 
 
 
+
 Identifiers
 Quantity; Frequency
 Plants
+
 
 
 
@@ -204972,6 +208053,7 @@ Elevations
 Names of Locations
 Temper
 Names of Supernatural Beings
+
 Serve
 Identifiers
 
@@ -205002,6 +208084,7 @@ Negators
 Flow
 
 Fortifications
+
 
 
 Relations of Description
@@ -205035,6 +208118,7 @@ Classes; Officials; Serve
 
 Exist; Happen
 
+
 Time
 Identifiers
 
@@ -205054,6 +208138,7 @@ Quantity; Frequency
 Quantity; Frequency
 
 Time
+
 
 Time
 
@@ -205085,7 +208170,9 @@ Deities
 
 
 Names of People
+
 Impact
+
 
 Attribute
 
@@ -205099,6 +208186,7 @@ Names of People
 Kinship
 
 Names of People
+
 Time
 Identifiers
 Participant Referents
@@ -205206,6 +208294,7 @@ discourse marker
 Well
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -205272,6 +208361,7 @@ Names of Supernatural Beings
 
 Move
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -205309,6 +208399,7 @@ Speak
 Names
 Trivial
 Relations of Involvement
+
 Attachment
 
 Shape
@@ -205336,6 +208427,7 @@ Identifiers
 Attachment
 
 
+
 Relations of Description
 Move
 
@@ -205345,6 +208437,7 @@ Direction
 
 
 Names of People
+
 
 Identifiers
 
@@ -205636,6 +208729,7 @@ Kinship
 Stance
 Altars
 
+
 Names of Supernatural Beings
 
 Serve
@@ -205690,6 +208784,7 @@ Kinship
 
 
 
+
 See
 
 Divination
@@ -205717,6 +208812,7 @@ Deities
 Relations of Description
 Serve
 
+
 Kinship / Construction
 Relations of Description
 Speak
@@ -205727,6 +208823,7 @@ Names of People
 Location
 Names of People
 Kinship
+
 
 Kinship / Construction
 Identifiers
@@ -206181,6 +209278,7 @@ Quantity
 
 Time
 
+
 Leaders
 Names of People
 Move
@@ -206251,12 +209349,15 @@ Impact
 Identifiers
 Kinship / Construction
 Relations of Involvement
+
 Professions
 Impact
+
 
 Exist
 
 Relations of Involvement
+
 People
 
 
@@ -206337,6 +209438,7 @@ Minerals; Metal
 Identifiers
 Search
 
+
 Kinship / Construction
 
 Possess
@@ -206355,6 +209457,7 @@ Names of People
 Identifiers
 Officials
 Relations of Association
+
 Leaders
 Relations of Involvement
 Speak
@@ -206496,6 +209599,7 @@ Space
 
 Names
 
+
 Quantity
 
 Speak
@@ -206509,6 +209613,7 @@ Names of Supernatural Beings
 Deities
 Names
 Speak
+
 
 
 Relations of Description
@@ -206555,6 +209660,7 @@ Happen
 
 Burn
 Angry
+
 
 Space
 Identifiers
@@ -206775,6 +209881,7 @@ Identifiers
 Groups
 
 
+
 Names of People
 Speak
 Identifiers
@@ -206807,7 +209914,9 @@ Artifacts
 Identifiers
 Serve
 Relations of Association
+
 Names of Supernatural Beings
+
 
 
 Deities
@@ -206843,6 +209952,7 @@ Names of Locations
 
 Sacrifice
 
+
 Elevations
 
 Towns
@@ -206855,12 +209965,16 @@ Identifiers
 Identifiers
 Sacrifice
 
+
 Names of Supernatural Beings
 
+
 Universe
 
 
+
 Universe
+
 
 
 Universe
@@ -206921,6 +210035,7 @@ Exist
 Referents of Location
 Kinship / Construction
 
+
 Deities
 
 Move
@@ -206944,6 +210059,7 @@ Identifiers
 
 Names of Locations
 Relations of Location
+
 
 
 Impact
@@ -206993,6 +210109,7 @@ Relations of Description
 
 
 
+
 Relations of Involvement
 Negators
 
@@ -207003,6 +210120,8 @@ Kinship
 
 Identifiers
 Kinship
+
+
 
 
 
@@ -207017,6 +210136,7 @@ Possess
 Leaders
 Names of Locations
 
+
 Universe
 Relations of Involvement
 Move
@@ -207029,6 +210149,7 @@ Identifiers
 Officials
 Relations of Description
 
+
 Parts: Constructions
 
 Identifiers
@@ -207036,6 +210157,7 @@ Vehicles
 Identifiers
 
 Burn
+
 
 
 Scenery: Constructio
@@ -207184,6 +210306,7 @@ Tombs
 Relations of Description
 Scenery: Constructio
 
+
 Elevations
 
 
@@ -207222,6 +210345,7 @@ Speak
 
 Identifiers
 Monuments
+
 
 Relations of Description
 Participant Referents
@@ -207340,6 +210464,7 @@ Relations of Involvement
 Names of Supernatural Beings
 Deities
 Relations of Description
+
 Cognition.Write
 
 Scrolls
@@ -207351,6 +210476,7 @@ Identifiers
 Negators
 Exist
 Relations of Description
+
 Festivals
 Identifiers
 Identifiers
@@ -207377,6 +210503,7 @@ Quantity
 
 Time
 Relations of Association
+
 Leaders
 Names of People
 Exist
@@ -207948,6 +211075,7 @@ Serve
 Kinship
 
 
+
 Identifiers
 
 Move
@@ -207960,6 +211088,7 @@ Names
 Move
 Identifiers
 Towns
+
 
 Gather
 
@@ -208200,11 +211329,14 @@ Quantity; Frequency
 Relations of Involvement
 Control
 
+
 Time
 Identifiers
 Quantity
 
+
 Quantity
+
 
 Time
 Move
@@ -208230,22 +211362,26 @@ Move
 Identifiers
 Towns
 
+
 Gather
 
 Quantity; Frequency
 
 Time
 
+
 Leaders
 Names of People
 
 Quantity; Frequency
+
 
 Time
 
 Modification (State/Process)
 Identifiers
 Ingest
+
 
 Towns
 
@@ -208338,10 +211474,12 @@ Blind
 
 Bind
 
+
 Metal
 
 Move
 Names of Locations
+
 
 
 Time
@@ -208350,10 +211488,12 @@ Quantity; Frequency
 
 Quantity; Frequency
 
+
 Time
 
 Time
 Quantity; Frequency
+
 
 
 
@@ -208393,6 +211533,7 @@ Great
 
 
 
+
 Identifiers
 Constructions
 Names
@@ -208411,6 +211552,7 @@ Identifiers
 Groups
 Identifiers
 Exist
+
 
 Towns
 
@@ -208577,6 +211719,7 @@ Relations of Description
 Identifiers
 
 
+
 Identifiers
 Quantity; Frequency
 
@@ -208627,6 +211770,7 @@ Leaders
 Relations of Description
 Search
 
+
 Towns
 
 Identifiers
@@ -208649,6 +211793,7 @@ Quantity; Frequency
 Identifiers
 Land
 Identifiers
+
 
 
 Towns
@@ -208767,6 +211912,7 @@ Identifiers
 Names
 Space
 
+
 Land
 
 Serve
@@ -208778,6 +211924,7 @@ Just
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -208813,6 +211960,7 @@ Names
 Relations of Description
 Exist; Happen
 Relations of Association
+
 
 Names
 
@@ -208857,6 +212005,7 @@ Time
 Quantity
 
 Quantity; Frequency
+
 
 Time
 Save
@@ -209026,6 +212175,7 @@ Cover
 Negators
 Small
 
+
 Liquids
 Land
 Impact
@@ -209191,15 +212341,19 @@ Relations of Occurrence
 Exist; Happen
 Sin
 Relations of Description
+
 Color
 Relations of Description
+
 Rain
 Color
 Relations of Occurrence
 Conspicuous
 Relations of Description
+
 Color // Cloth
 Relations of Description
+
 Cloth
 Exist; Happen
 Relations of Occurrence
@@ -209241,6 +212395,7 @@ Exist; Happen
 Unclean
 Liquids
 Mix
+
 
 Liquids
 Leaders
@@ -209286,6 +212441,7 @@ Move
 
 Know
 Relations of Description
+
 Minerals
 Unclean
 
@@ -209297,10 +212453,12 @@ Move
 Leaders
 Relations of Description
 
+
 Quantity
 
 
 Relations of Description
+
 
 Time
 Space
@@ -209493,6 +212651,7 @@ Names
 
 See
 Relations of Description
+
 Names
 
 
@@ -209543,10 +212702,12 @@ Free
 
 Move
 
+
 Stone
 
 Hide
 Great
+
 Sand
 
 
@@ -209569,6 +212730,7 @@ High
 Names of Supernatural Beings
 
 Apart
+
 
 Time
 Identifiers
@@ -209656,6 +212818,7 @@ Names of Supernatural Beings
 
 Apart
 
+
 Time
 Identifiers
 Participants
@@ -209688,6 +212851,7 @@ Afraid
 Identifiers
 Land
 
+
 Time
 Identifiers
 Participants
@@ -209708,6 +212872,8 @@ Relations of Involvement
 Stance
 
 Animals
+Animals
+
 
 
 Birds
@@ -209819,10 +212985,12 @@ Ask
 Identifiers
 People
 
+
 Leaders
 
 Identifiers
 Small; Shame (State/Process) Despise
+
 
 Great
 
@@ -209845,6 +213013,7 @@ Identifiers
 
 
 Speak
+
 
 Time
 Identifiers
@@ -210005,6 +213174,7 @@ Names of Supernatural Beings
 Parts: Creatures
 Non-Exist
 Titles
+
 Time
 Identifiers
 Participants
@@ -210097,10 +213267,12 @@ Wounds
 Beautiful
 Modification
 
+
 Attribute
 Move
 
 Attribute
+
 
 Fight
 
@@ -210108,6 +213280,7 @@ Grief
 
 Grief
 Constructions.Parts
+
 
 
 
@@ -210120,6 +213293,7 @@ People
 
 
 Quantity
+
 
 Time
 Identifiers
@@ -210137,6 +213311,7 @@ Speak
 
 Non-Happen
 Shame
+
 
 Time
 Identifiers
@@ -210178,6 +213353,7 @@ Speak
 Modification.Complete
 Identifiers
 Cognition.Write
+
 
 Alive
 
@@ -210439,10 +213615,12 @@ Capacity
 Judgment
 Time
 
+
 Time
 Liquids; Wine
 Pursue
 Delay
+
 
 Time
 Liquids; Wine; Crops
@@ -210520,6 +213698,7 @@ Deities
 
 
 
+
 Identifiers
 Deities
 Identifiers
@@ -210571,8 +213750,10 @@ Judgment
 Identifiers
 Speak
 
+
 Wrong
 Well
+
 
 
 Well
@@ -210633,11 +213814,13 @@ Fire
 Move
 Foliage
 Relations of Description
+
 Stage
 Exist; Happen
 
 
 Relations of Description
+
 Non-Exist
 Move
 
@@ -210673,6 +213856,7 @@ Elevations
 Exist; Happen
 Parts: Creatures
 Relations of Description
+
 Parts: Creatures Products
 
 Location
@@ -210690,6 +213874,7 @@ existential particle
 
 High
 Banners
+
 
 People
 
@@ -210738,17 +213923,21 @@ Parts: Creatures
 Domestic Animals
 Relations of Description
 
+
 Know
 
 Products
 Relations of Description
+
 Wind
 Sounds
 
 Relations of Description
+
 Wild Animals
 Sounds
 Relations of Description
+
 Wild Animals
 
 Sounds
@@ -210764,6 +213953,7 @@ Move
 Sounds
 
 
+
 Time
 Identifiers
 Participants
@@ -210772,6 +213962,7 @@ Sounds
 Water; Direction
 
 See
+
 
 Land
 
@@ -210945,6 +214136,7 @@ Move
 
 Speak
 
+
 Groups
 Identifiers
 Identifiers
@@ -211037,9 +214229,11 @@ Exist; Happen
 Relations of Involvement
 Impact
 Relations of Description
+
 Trees
 
 Relations of Description
+
 Trees
 Relations of Description
 
@@ -211072,6 +214266,7 @@ Leaders
 Names
 Names
 Relations of Involvement
+
 Fight
 
 
@@ -211302,9 +214497,11 @@ Relations of Involvement
 Know
 
 
+
 Wrong
 
 Apart
+
 
 Well
 
@@ -211315,9 +214512,11 @@ Identifiers
 People
 
 
+
 Wrong
 
 Apart
+
 
 Well
 
@@ -211358,11 +214557,13 @@ Names of Groups
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
 Sounds
 Names of Supernatural Beings
+
 
 Swarming Creatures
 Relations of Description
@@ -211370,6 +214571,7 @@ Relations of Description
 Location
 Names of Geographical Objects
 Names
+
 
 
 Swarming Creatures
@@ -211402,6 +214604,7 @@ Modification.Complete
 Identifiers
 
 Titles
+
 Time
 Identifiers
 Participants
@@ -211432,6 +214635,7 @@ Parts: Creatures
 Move
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -211466,6 +214670,7 @@ Land
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -211481,13 +214686,17 @@ Plants
 Quantity; Frequency
 Minerals; Metal
 
+
 Plants
+
 
 
 Plants
 Exist; Happen
 
+
 Weapons
+
 
 
 Weapons
@@ -211506,6 +214715,7 @@ Modification.Complete
 Identifiers
 Elevations
 Relations of Description
+
 
 Tools
 
@@ -211673,6 +214883,7 @@ Parts: Creatures
 Abundant
 Dimension
 Land
+
 
 Evil
 Groups
@@ -211871,6 +215082,7 @@ Relations of Occurrence
 Negators
 Speak
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -211924,6 +215136,7 @@ Distress
 
 Relations of Description
 
+
 Identifiers
 Quantity
 Despise (Action); Shame
@@ -211950,6 +215163,7 @@ Groups
 Identifiers
 Move
 
+
 Attitude
 
 Light
@@ -211972,6 +215186,7 @@ Joy
 
 
 Relations of Description
+
 
 
 Food
@@ -212236,6 +215451,7 @@ Stance
 Burn
 Relations of Description
 
+
 Sin
 Plants
 High
@@ -212533,6 +215749,7 @@ Space
 
 Search; Know
 Relations of Description
+
 Constructions
 
 
@@ -212649,6 +215866,7 @@ Cognition.Write
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -212723,6 +215941,7 @@ Names of Locations
 
 Names of Groups
 
+
 Tools
 Impact
 
@@ -212767,6 +215986,7 @@ Carry
 Names
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -212859,6 +216079,7 @@ Detach
 Plants
 Identifiers
 Scenery
+
 
 Minerals; Metal
 
@@ -212980,6 +216201,7 @@ People
 
 
 Relations of Description
+
 Domestic Animals
 Ingest
 Foliage
@@ -213013,12 +216235,15 @@ Know
 Identifiers
 Names of Supernatural Beings
 Relations of Description
+
 Liquids
+
 
 Water; Direction
 Cover
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -213039,6 +216264,7 @@ Confident
 
 Titles
 Exist; Happen
+
 
 Time
 Identifiers
@@ -213082,6 +216308,7 @@ Water; Direction
 
 High
 Banners
+
 
 People
 
@@ -213159,6 +216386,7 @@ Water
 
 Move
 
+
 Clothing
 
 Exist; Happen
@@ -213183,6 +216411,7 @@ Land
 Names
 
 Speak
+
 
 Time
 Identifiers
@@ -213226,6 +216455,7 @@ Help
 
 Speak
 
+
 Time
 Identifiers
 Participants
@@ -213236,6 +216466,7 @@ Speak
 
 
 Know
+
 
 Groups
 Serve
@@ -213300,6 +216531,7 @@ Great
 Perception; Sounds
 Groups
 
+
 Elevations
 Description; Compare
 Groups
@@ -213358,6 +216590,7 @@ Spasm
 Spasm
 Grasp
 Relations of Description
+
 Birth
 Distress
 
@@ -213480,6 +216713,7 @@ Modification.Complete
 Identifiers
 Move
 Move
+
 
 Attribute
 
@@ -213697,6 +216931,7 @@ Negators
 
 Control
 
+
 Angry
 People
 Oppress
@@ -213774,6 +217009,7 @@ Kinship
 Time
 Detach
 
+
 Land
 Strong
 
@@ -213832,6 +217068,7 @@ Groups
 Control
 Universe
 Relations of Description
+
 Land
 
 Towns
@@ -214049,6 +217286,7 @@ Secure
 
 Dead
 
+
 Ingest
 Foliage
 
@@ -214135,6 +217373,7 @@ Roads
 Modification.Complete
 Lament
 Move
+
 
 Lament
 
@@ -214262,6 +217501,7 @@ Think
 Space
 Relations of Description
 
+
 Safe
 
 Location
@@ -214292,6 +217532,7 @@ Impact
 
 Identifiers
 Land
+
 
 
 
@@ -214388,12 +217629,14 @@ Identifiers
 Constructions
 
 
+
 Land
 Negators
 Shout
 Negators
 
 Liquids; Wine; Crops
+
 
 Constructions
 Negators
@@ -214408,6 +217651,7 @@ Parts: Creatures
 Relations of Association
 Names of Groups; Names of Locations
 Relations of Description
+
 Music
 Sounds
 
@@ -214516,6 +217760,7 @@ Deities
 
 Exist; Happen
 
+
 Time
 People
 Participants
@@ -214567,6 +217812,7 @@ Names of Supernatural Beings
 Deities
 Names
 
+
 Time
 Identifiers
 Participants
@@ -214601,6 +217847,7 @@ Deities
 
 Identifiers
 Altars
+
 
 Time
 Identifiers
@@ -214646,6 +217893,7 @@ Space
 Time
 
 Stage
+
 
 
 Time
@@ -214731,6 +217979,7 @@ Water
 Names of People
 Identifiers
 Move
+
 
 Water; Direction
 People
@@ -214819,6 +218068,7 @@ Detach
 Identifiers
 Foliage
 
+
 Tools
 
 Identifiers
@@ -214848,6 +218098,7 @@ Identifiers
 Land
 
 Time
+
 
 
 Identifiers
@@ -215018,6 +218269,7 @@ Grief
 Modification.Complete
 Move
 
+
 Names of Geographical Objects
 Traps
 
@@ -215122,12 +218374,14 @@ Great
 
 Classes
 
+
 Time
 Identifiers
 Participants
 Exist; Happen
 Names
 Relations of Description
+
 People
 
 Afraid
@@ -215167,6 +218421,7 @@ Participants
 Laws
 
 
+
 Time
 Identifiers
 Participants
@@ -215191,6 +218446,7 @@ Speak
 
 Quantity
 Scenery: Constructio
+
 Time
 Identifiers
 Participants
@@ -215247,6 +218503,7 @@ Know
 Identifiers
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Participants
@@ -215280,6 +218537,7 @@ Hear
 
 
 
+
 Time
 Identifiers
 Participants
@@ -215302,6 +218560,7 @@ Serve
 
 Identifiers
 Names of Groups
+
 
 Time
 Identifiers
@@ -215352,6 +218611,7 @@ Fight
 Names of Locations
 
 Grasp
+
 
 
 Identifiers
@@ -215448,6 +218708,7 @@ Groups; Land
 Identifiers
 Identifiers
 
+
 Time
 Identifiers
 Participants
@@ -215474,6 +218735,7 @@ Land
 
 Relations of Description
 Wind
+
 
 Names
 Relations of Involvement
@@ -215607,6 +218869,7 @@ Artifacts
 Deities
 Impact
 
+
 Land
 Impact
 
@@ -215651,6 +218914,7 @@ Move
 Speak
 Names of Groups
 Names
+
 
 Scenery
 
@@ -215728,6 +218992,7 @@ Markers of Consequence
 Move
 Modification.Complete
 
+
 Parts
 Shout
 Capacity
@@ -215763,6 +219028,7 @@ Speak
 See
 
 Distress
+
 
 Lament
 Negators
@@ -215826,6 +219092,7 @@ Cover
 Names of Locations
 
 See
+
 
 Time
 Identifiers
@@ -215892,6 +219159,7 @@ Speak
 
 Names of Supernatural Beings
 Deities
+
 
 Time
 Identifiers
@@ -215983,6 +219251,7 @@ High
 Tombs
 Exist
 
+
 Stone
 Dwell
 
@@ -215996,6 +219265,8 @@ Grasp
 Grasp
 Artifacts
 Shape
+
+
 
 
 Location
@@ -216022,6 +219293,7 @@ Impact
 
 Exist; Happen
 Names of People
+
 Time
 Identifiers
 Participants
@@ -216112,6 +219384,7 @@ Modification.Complete
 
 Identifiers
 Containers
+
 
 Time
 Identifiers
@@ -216255,6 +219528,7 @@ Land
 Move
 Land
 Relations of Description
+
 Names of Geographical Objects
 Kinship
 Names of Locations
@@ -216322,6 +219596,7 @@ Impact
 Fortifications
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -216398,6 +219673,7 @@ Negators
 Attachment.Keep
 
 Relations of Involvement
+
 Space
 
 
@@ -216428,26 +219704,36 @@ Space
 
 Exist; Happen
 Relations of Description
+
 Groups
 Relations of Description
+
 Priests
 Relations of Description
+
 Classes; Officials; Serve
 Relations of Description
 Leaders
 Relations of Description
+
 Classes
 Relations of Description
+
 Officials
 Relations of Description
+
 Possess
 Relations of Description
+
 Exchange
 Relations of Description
+
 Possession
 Relations of Description
+
 Possession
 Relations of Description
+
 Exchange
 Relations of Description
 Relations of Description
@@ -216530,6 +219816,7 @@ Joy
 Joy
 Music
 
+
 Sing
 Negators
 Ingest
@@ -216551,6 +219838,7 @@ Shout
 Identifiers
 Liquids; Wine; Crops
 
+
 Scenery
 Dark
 Modification.Complete
@@ -216560,6 +219848,7 @@ Joy
 Identifiers
 Land
 Exist
+
 
 Towns
 Non-Exist
@@ -216599,6 +219888,7 @@ Water; Direction
 
 
 
+
 Universe
 Great
 Names of Supernatural Beings
@@ -216617,6 +219907,7 @@ Land
 Music; Praise
 Hear
 Great
+
 
 Just
 
@@ -216663,6 +219954,7 @@ Identifiers
 Traps
 Grasp
 
+
 Traps
 
 Parts: Constructions
@@ -216687,10 +219979,12 @@ Move
 
 Land
 Relations of Description
+
 Ingest
 
 Shake
 Relations of Description
+
 Tents
 
 Intense
@@ -216705,6 +219999,7 @@ Stance
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -216714,6 +220009,7 @@ Names of Supernatural Beings
 Deities
 Identifiers
 High
+
 
 High
 
@@ -216780,6 +220076,7 @@ Space
 
 Towns
 Modification
+
 Scenery
 Towns
 
@@ -216806,10 +220103,13 @@ Afraid
 Exist; Happen
 Hide
 
+
 Poor
 Fortifications
 
+
 Classes
+
 
 Distress
 
@@ -216848,6 +220148,7 @@ Modification.Complete
 Identifiers
 Groups
 
+
 Elevations
 Identifiers
 Identifiers
@@ -216861,6 +220162,7 @@ Liquids
 Purify
 
 Impact
+
 
 Elevations
 Identifiers
@@ -216912,6 +220214,7 @@ Speak
 
 Speak
 
+
 Time
 Identifiers
 Participants
@@ -216935,6 +220238,7 @@ Help
 Happen
 
 Names of Supernatural Beings
+
 
 Elevations
 Identifiers
@@ -216974,9 +220278,11 @@ Low
 Low
 Touch
 
+
 Land
 
 Sand
+
 
 Time
 Identifiers
@@ -217045,6 +220351,7 @@ Time
 Poor
 Roads; Act
 
+
 Just
 Right
 Just
@@ -217066,6 +220373,7 @@ Wish
 
 Wish
 
+
 Time
 Marker of Addition
 Body.Parts
@@ -217075,6 +220383,7 @@ See
 
 Relations of Description
 Relations of Description
+
 
 
 Land
@@ -217147,8 +220456,10 @@ Cognition
 
 ?
 
+
 People
 Names of Supernatural Beings
+
 
 
 People
@@ -217158,6 +220469,7 @@ Modification.Complete
 Extent
 Land
 Names of Supernatural Beings
+
 
 
 Wish
@@ -217252,6 +220564,7 @@ adverb
 
 Dead
 
+
 Time
 Identifiers
 Participants
@@ -217284,7 +220597,9 @@ Aquatic Animals
 Relations of Description
 
 
+
 Liquids; Wine
+
 Time
 Identifiers
 Participants
@@ -217312,6 +220627,7 @@ Angry
 Possess
 Plants
 Plants
+
 
 Fight
 Move
@@ -217399,6 +220715,7 @@ Location
 
 
 Relations of Description
+
 Land
 Referents of Location
 Ingest
@@ -217434,6 +220751,7 @@ Merciful
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -217456,6 +220774,7 @@ Kinship
 Names
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -217522,6 +220841,7 @@ Great
 Purify
 Space
 
+
 Land
 
 Parts: Creatures
@@ -217559,6 +220879,7 @@ existential particle
 Parts: Creatures
 Ingest
 
+
 Time
 Identifiers
 Participants
@@ -217580,6 +220901,7 @@ Modification
 Body.Parts
 
 
+
 Space
 
 Identifiers
@@ -217594,8 +220916,10 @@ Parts: Constructions
 Focus particle
 Identifiers
 
+
 Liquids; Wine; Crops
 Move
+
 
 
 Liquids; Wine
@@ -217603,6 +220927,7 @@ Move
 Priests
 
 Prophets
+
 
 
 Liquids; Wine
@@ -217614,6 +220939,7 @@ Move
 
 Identifiers
 Liquids; Wine
+
 
 
 Vision
@@ -217680,6 +221006,7 @@ Identifiers
 Identifiers
 Confident
 Confident
+
 
 Weak
 
@@ -217759,6 +221086,7 @@ False
 Act
 
 
+
 False
 Hide
 Titles
@@ -217826,12 +221154,16 @@ Possess
 Identifiers
 
 
-Time
 
 Time
 
 
 Time
+
+
+
+Time
+
 
 
 Time
@@ -217942,10 +221274,12 @@ Location
 Wise
 
 
+
 Deities
 Know
 
 Negators
+
 
 Tools
 Impact
@@ -217958,11 +221292,13 @@ Plants
 
 
 
+
 Tools
 Beat
 Spices
 
 Plants
+
 
 Tools
 Bread
@@ -218021,6 +221357,7 @@ Names of Locations
 
 Dwell
 Relations of Description
+
 Artifacts
 
 
@@ -218337,15 +221674,18 @@ Quantity
 Direction
 Names of Geographical Objects
 
+
 Constructions
 
 Identifiers
+
 
 
 Scenery
 Know
 
 Hear
+
 
 Time
 Identifiers
@@ -218393,12 +221733,15 @@ People
 Speak
 
 
+
 |aREB|a*uke
+
 
 Parts: Constructions
 Control
 
 Stance
+
 
 Non-Exist
 Just
@@ -218616,8 +221959,10 @@ Names of Supernatural Beings
 Relations of Description
 Speak
 
+
 Prophets
 Negators
+
 
 
 
@@ -218648,6 +221993,7 @@ Adverb
 Speak
 Pure
 Names
+
 
 
 
@@ -218764,6 +222110,7 @@ Flee
 Relations of Occurrence
 Space
 Relations of Description
+
 Artifacts
 
 Land; Universe; Water; Elevations; Constructi
@@ -218771,6 +222118,7 @@ Identifiers
 Elevations
 
 Relations of Description
+
 Banners
 
 Identifiers
@@ -218889,6 +222237,7 @@ Fat
 Ingest
 Possess
 
+
 Time
 Identifiers
 Participants
@@ -218909,7 +222258,9 @@ Ingest
 Relations of Description
 
 
+
 Tools
+
 
 
 Tools
@@ -219016,7 +222367,9 @@ Festivals
 Joy
 Parts: Creatures
 Relations of Description
+
 Move
+
 
 Music
 Relations of Involvement
@@ -219057,6 +222410,7 @@ Names of Supernatural Beings
 Afraid
 Names of Groups
 
+
 Chastise
 Impact
 
@@ -219087,6 +222441,7 @@ Space
 Burn
 Focus particle
 Participants
+
 
 Leaders
 
@@ -219247,6 +222602,7 @@ Low
 Rebel
 Kinship
 Names
+
 
 
 Time
@@ -219508,7 +222864,10 @@ High
 Exist; Happen
 Land
 
+
 Constructions
+
+
 
 
 
@@ -219517,10 +222876,12 @@ Know
 
 Dwell
 
+
 Land
 
 
 Just
+
 
 Constructions
 Space
@@ -219559,6 +222920,7 @@ Secure
 Move
 Identifiers
 Scenery
+
 
 
 Low
@@ -219605,6 +222967,7 @@ Merciful
 Occurrence; Wait
 Exist; Happen
 Parts: Creatures
+
 
 Time
 Marker of Affirmation
@@ -219685,6 +223048,7 @@ Exist; Happen
 Identifiers
 Names
 Relations of Description
+
 Land
 
 Shake
@@ -219713,6 +223077,7 @@ Burn
 Sand
 Plants
 Detach
+
 
 
 Burn
@@ -219754,6 +223119,7 @@ Shake
 Parts: Creatures
 Relations of Involvement
 Grasp
+
 
 Exchange
 Close
@@ -219925,6 +223291,7 @@ Groups
 Apart
 Possess
 
+
 Dead
 Smell
 Attribute
@@ -219948,6 +223315,7 @@ Universe
 Move
 Relations of Description
 
+
 Identifiers
 Universe
 
@@ -219966,6 +223334,7 @@ Relations of Description
 Fruits
 
 Satisfaction
+
 
 Universe
 Attribute
@@ -220162,6 +223531,7 @@ Names of Supernatural Beings
 Speak
 Quantity
 
+
 Negators
 
 People
@@ -220184,6 +223554,7 @@ Products
 
 
 Possess
+
 
 
 Cords
@@ -220267,6 +223638,7 @@ Function
 Adverb
 Move
 Relations of Description
+
 Wild Animals
 Handicap
 
@@ -220276,10 +223648,12 @@ Handicap; Silent
 
 Detach
 
+
 Land
 Liquids
 
 Water
+
 
 Land
 
@@ -220370,6 +223744,7 @@ Exist; Happen
 Quantity; Frequency
 
 Time
+
 
 Leaders
 Names of People
@@ -220463,6 +223838,7 @@ Speak
 Think
 
 Attribute
+
 
 Fight
 Text deictic
@@ -220668,6 +224044,7 @@ Body Products
 Relations of Involvement
 Ingest
 Identifiers
+Body Products
 Body Products
 
 
@@ -220886,6 +224263,7 @@ Clothing
 
 Cover
 
+
 Containers/Cloth
 
 Move
@@ -220910,6 +224288,7 @@ Leaders
 Identifiers
 Priests
 Cover
+
 
 Containers/Cloth
 Location
@@ -220962,6 +224341,7 @@ Deities
 Alive
 
 Correct
+
 
 Speak
 Relations of Description
@@ -221022,6 +224402,7 @@ Location
 Land
 
 Move
+
 
 Attribute
 
@@ -221135,6 +224516,8 @@ Names of Locations
 
 Leaders
 
+
+
 Names
 Names of Locations
 
@@ -221233,6 +224616,7 @@ Land
 Possess
 Identifiers
 Deities
+
 
 
 
@@ -221440,6 +224824,7 @@ Parts.Edge
 Move
 
 
+
 Relations of Description
 Move
 
@@ -221455,8 +224840,10 @@ Crops
 
 
 
+
 Identifiers
 Quantity; Frequency
+
 
 
 
@@ -221532,6 +224919,7 @@ Flow
 Fortifications
 
 
+
 Relations of Description
 Move
 
@@ -221578,6 +224966,7 @@ Quantity; Frequency
 
 Time
 
+
 Time
 
 discourse particle
@@ -221611,6 +225000,7 @@ Names of People
 Kinship
 Impact
 
+
 Attribute
 
 Participant Referents
@@ -221623,6 +225013,7 @@ Names of People
 Kinship
 
 Names of People
+
 Time
 Identifiers
 Participant Referents
@@ -221773,6 +225164,7 @@ Move
 
 Names of People
 
+
 Artifacts
 Direction
 
@@ -221780,6 +225172,7 @@ Direction
 
 Move
 Identifiers
+
 
 
 
@@ -221836,6 +225229,7 @@ Tents
 Ingest
 Shape
 Relations of Description
+
 Craftsmen
 Alive
 
@@ -221850,6 +225244,7 @@ Confident
 
 Time
 Relations of Description
+
 Wild Animals
 Adverb
 Impact
@@ -221867,9 +225262,11 @@ Adverb
 Sounds
 Titles
 Relations of Description
+
 Birds
 
 Parts: Body
+
 
 High
 
@@ -221981,6 +225378,7 @@ Know
 Move
 Kinship / Construction
 Names of Supernatural Beings
+
 
 
 Identifiers
@@ -222207,11 +225605,13 @@ Sin
 Perception; Sounds
 Speak
 
+
 Land
 Stance
 
 Names of Supernatural Beings
 Shape
+
 
 Land
 Roads
@@ -222300,6 +225700,7 @@ People
 Names of Groups
 Carry
 
+
 Attribute
 Perception; Sounds
 People
@@ -222352,10 +225753,12 @@ Liquids
 
 Universe
 
+
 Dimension
 Measure
 
 Know
+
 
 Capacity
 Sand
@@ -222363,6 +225766,7 @@ Sand
 Land
 
 Measure
+
 
 Tools
 Elevations
@@ -222410,6 +225814,7 @@ Know
 Presentative deictic
 Groups; Land
 Relations of Description
+
 Thin // Soft
 Carry
 
@@ -222450,6 +225855,7 @@ Attachment.Pour
 Professions
 
 Professions
+
 
 Metal
 Cover
@@ -222505,10 +225911,12 @@ Identifiers
 Shape
 Relations of Description
 
+
 Universe
 
 Shape
 Relations of Description
+
 Tents
 Relations of Involvement
 Space
@@ -222520,6 +225928,7 @@ Leaders; Officials
 Leaders
 Land
 Relations of Description
+
 Non-Exist
 Serve
 Correlative conjunction
@@ -222530,6 +225939,7 @@ Negators
 Exist
 Correlative conjunction
 Negators
+
 
 
 Land
@@ -222543,6 +225953,7 @@ Dry
 
 Wind
 Relations of Description
+
 Parts: Plants
 Carry
 
@@ -222619,6 +226030,7 @@ Know
 Know
 Possess
 
+
 Weak
 Attribute
 
@@ -222644,6 +226056,7 @@ Attribute
 Move
 Strong
 Relations of Description
+
 Birds
 Move
 
@@ -222666,6 +226079,7 @@ Speak
 
 
 
+
 Space
 
 Association.Incite
@@ -222684,6 +226098,7 @@ Leaders
 Control
 Possess
 Relations of Description
+
 Sand
 Attribute
 Relations of Description
@@ -222746,6 +226161,7 @@ Identifiers
 Impact
 Tools
 Speak
+
 
 Artifacts
 Just
@@ -222874,6 +226290,7 @@ Impact
 
 Scenery
 Relations of Description
+
 Foliage
 Space
 
@@ -222903,6 +226320,7 @@ Liquids
 
 
 Parts: Creatures
+
 
 Sense
 
@@ -222935,6 +226353,7 @@ Constructions.Parts
 Liquids
 Possess
 
+
 Land
 Trees
 Plants
@@ -222944,6 +226363,7 @@ Trees
 Trees
 Liquids
 Space
+
 
 Land
 Trees
@@ -223121,6 +226541,7 @@ Body.Parts
 
 
 
+
 People
 Move
 Negators
@@ -223131,6 +226552,7 @@ Speak
 
 Negators
 Hear
+
 
 Orientation: Attachment
 Perception; Sounds
@@ -223154,6 +226576,7 @@ Negators
 Oppress
 
 Space
+
 
 Land
 
@@ -223180,10 +226603,12 @@ Exist
 Possess
 Parts: Creatures.Parts
 
+
 Groups
 
 
 Body.Parts
+
 
 Move
 
@@ -223232,6 +226657,7 @@ Negators
 Possess
 
 Praise
+
 
 Artifacts
 Identifiers
@@ -223286,10 +226712,12 @@ Names of Supernatural Beings
 
 Praise
 
+
 Groups; Land
 Speak
 Soldiers
 Relations of Description
+
 Strong
 Move
 Relations of Description
@@ -223309,6 +226737,7 @@ Time
 Silent; Inactive
 Inactive
 Relations of Description
+
 Birth
 Utter
 Breathe
@@ -223326,6 +226755,7 @@ Dry
 
 Space
 Water
+
 
 Groups; Land
 
@@ -223348,6 +226778,7 @@ Attitude
 
 
 
+
 See
 
 Shape
@@ -223366,6 +226797,7 @@ Shame
 Shame
 Identifiers
 Trust
+
 
 Artifacts
 Identifiers
@@ -223427,6 +226859,7 @@ Possess
 
 Possess
 Association.Entrap
+
 
 Parts: Scenery
 Modification.Complete
@@ -223526,9 +226959,11 @@ Participant Referents
 
 Move
 Positors
+
 Liquids
 Relations of Association
 Participant Referents
+
 
 
 Suffer
@@ -223590,6 +227025,7 @@ People: Community
 Direction
 Gather
 Speak
+
 
 Names of
 Possess
@@ -223752,6 +227188,7 @@ Names of Supernatural Beings
 Identifiers
 Possess
 
+
 Water; Direction
 
 
@@ -223773,6 +227210,7 @@ Negators
 Stance
 Burn
 Relations of Description
+
 Artifacts
 Burn
 Negators
@@ -223793,6 +227231,7 @@ Know
 Marker of Affirmation
 Space
 
+
 Land
 
 
@@ -223808,6 +227247,7 @@ Kinship
 Birds
 
 Possess
+
 
 Land
 Liquids
@@ -223855,6 +227295,7 @@ Negators
 Possess
 
 
+
 Minerals; Metal
 Plants; Spices
 
@@ -223900,6 +227341,7 @@ Leaders
 Shame
 
 Possess
+
 
 Apart
 Names
@@ -224094,7 +227536,9 @@ Tools
 
 Exist; Happen
 
+
 Wood
+
 
 
 Tools
@@ -224120,8 +227564,11 @@ Test.Measure
 Cords
 
 
+
 Tools
 Serve
+
+
 
 
 
@@ -224309,10 +227756,12 @@ Negators
 Think
 Free
 Relations of Description
+
 Clouds
 
 
 Relations of Description
+
 Clouds
 Sin
 Direction
@@ -224398,6 +227847,7 @@ Impact
 Stance
 Identifiers
 Speak
+
 
 
 Dry
@@ -224669,6 +228119,7 @@ Exist; Happen
 Space
 Move
 
+
 Cords
 
 Identifiers
@@ -224698,6 +228149,7 @@ Shame
 Modification.Complete
 
 Move
+
 
 Shame
 Professions
@@ -224745,6 +228197,7 @@ Names of Supernatural Beings
 
 adverb
 Negators
+
 
 Cover
 Speak
@@ -224878,7 +228331,9 @@ Names of Deities
 Exist; Happen
 Artifacts
 
+
 Animals
+
 
 
 Wild Animals
@@ -224894,6 +228349,7 @@ Negators
 ?
 Save
 Carry
+
 
 
 
@@ -224923,6 +228379,7 @@ Participant Referents
 Participants
 
 
+Attribute.Old
 Participant Referents
 Help
 Participant Referents
@@ -224952,6 +228409,7 @@ Containers
 
 Minerals; Metal
 Identifiers
+
 Tools
 Measure
 Exchange
@@ -225074,6 +228532,7 @@ Kinship
 Names of Locations
 Space
 
+
 Land
 
 
@@ -225121,6 +228580,7 @@ Space
 
 
 Move
+
 
 Dark
 Kinship
@@ -225284,8 +228744,10 @@ Universe
 Identifiers
 See
 
+
 Universe
 Know
+
 
 Time
 
@@ -225567,6 +229029,7 @@ Negators
 
 Position; Attribute; Existence
 
+
 Cover
 Titles
 
@@ -225604,6 +229067,7 @@ Laws
 
 Exist; Happen
 Relations of Description
+
 Abundant
 Intact
 
@@ -225615,6 +229079,7 @@ Water; Direction
 
 Exist; Happen
 Relations of Description
+
 Sand
 People: Community
 
@@ -225674,6 +229139,7 @@ Liquids
 Intact
 Speak
 Names of Supernatural Beings
+
 
 Evil
 Hear
@@ -225860,6 +229326,7 @@ Move
 
 Relations of Description
 
+
 Dark
 Uncover
 
@@ -225896,6 +229363,7 @@ Elevations
 
 
 
+
 Roads
 Stance//Space
 Discourse particle
@@ -225921,6 +229389,7 @@ Universe
 
 Joy
 Land
+Utter
 Utter
 Elevations
 Shout
@@ -225984,11 +229453,13 @@ Names of Supernatural Beings
 
 Modification.Complete
 Relations of Description
+
 Jewellery
 Dress
 
 Attach
 Relations of Description
+
 Kinship
 Impact
 Impact
@@ -226136,6 +229607,7 @@ Identifiers
 Parts: Creatures
 
 Relations of Description
+
 Liquids; Wine; Crops
 Parts: Creatures
 Ingest
@@ -226216,6 +229688,7 @@ Liquids
 
 Dead
 
+
 Sense
 Dress
 Universe
@@ -226239,7 +229712,9 @@ Weak
 Speak
 Association.Incite
 
+
 Time
+
 
 Time
 
@@ -226248,6 +229723,7 @@ Parts: Creatures
 
 Hear
 Relations of Description
+
 People
 Titles
 Names of Supernatural Beings
@@ -226290,6 +229766,7 @@ Shame
 Space
 
 Relations of Description
+
 Stone
 
 Know
@@ -226319,6 +229796,7 @@ Evil
 disco
 Modification.Complete
 Relations of Description
+
 Clothing
 Impact
 Swarming Creatures
@@ -226459,6 +229937,7 @@ Parts: Creatures
 Delay
 See
 
+
 Universe
 See
 
@@ -226471,12 +229950,14 @@ Land
 
 Universe
 Relations of Description
+
 Substances.Smoke
 Scatter
 
 Identifiers
 Land
 Relations of Description
+
 Clothing
 Impact
 
@@ -226512,11 +229993,13 @@ Negators
 Afraid
 
 Relations of Description
+
 Clothing
 Ingest
 Swarming Creatures
 
 Relations of Description
+
 Cloth
 Ingest
 Swarming Creatures
@@ -226645,6 +230128,7 @@ Free
 
 Negators
 Dead
+
 
 Tombs
 
@@ -226809,11 +230293,14 @@ Move
 
 Space
 Relations of Description
+
 Land
 Parts
 
 Relations of Description
+
 Scenery
+
 
 
 Awake
@@ -226869,6 +230356,7 @@ Names
 Move
 Groups
 
+
 Quantity
 Relations of Involvement
 Fight
@@ -226903,6 +230391,7 @@ Despise
 
 Know
 Groups
+
 
 
 
@@ -227067,11 +230556,13 @@ Uncover
 
 Move
 Relations of Description
+
 Foliage
 
 
 
 Relations of Description
+
 Foliage
 
 Land
@@ -227140,6 +230631,7 @@ Well
 
 Modification.Complete
 Relations of Description
+
 Domestic Animals
 Act
 
@@ -227162,7 +230654,9 @@ Negators
 Function
 
 Relations of Description
+
 Domestic Animals
+
 
 Dead
 Move
@@ -227247,6 +230741,7 @@ Just
 Just
 Classes; Officials; Serve
 
+
 Abundant
 
 Sin
@@ -227254,6 +230749,7 @@ Participants
 Bear
 
 Possess
+
 
 
 Abundant
@@ -227266,6 +230762,7 @@ Possess
 Relations of Description
 Attachment.Pour
 
+
 Universe
 
 
@@ -227277,6 +230774,7 @@ Participants
 Bear
 Abundant
 Bear
+
 
 
 Sin
@@ -227457,10 +230955,12 @@ discourse marker
 Participant Referents
 
 
+
 Gemstones
 Parts: Constructions
 
 Exist
+
 
 Gemstones
 
@@ -227546,6 +231046,7 @@ Stance
 Relations of Association
 
 
+
 Evil
 Identifiers
 Possess
@@ -227561,6 +231062,7 @@ Encouragement
 Modification.Complete
 Desire
 Move
+
 
 Liquids
 
@@ -227605,6 +231107,7 @@ Ingest
 State
 
 Joy
+
 
 Food
 
@@ -227736,9 +231239,11 @@ Stage
 Possess
 Plants
 
+
 Space
 
 Bread
+
 
 Ingest
 Adverb
@@ -227791,6 +231296,7 @@ Identifiers
 Plants
 Move
 Trees
+
 
 Identifiers
 
@@ -227875,6 +231381,7 @@ Dry
 Adverb
 Speak
 Names of Supernatural Beings
+
 
 Officials
 Relations of Description
@@ -227989,6 +231496,7 @@ Relations of Involvement
 Ingest
 Modification.Complete
 Animals
+
 
 Scenery
 People
@@ -228108,12 +231616,14 @@ Sense
 
 
 
+
 Modification.Complete
 Trees
 Stage
 Dead
 Identifiers
 People
+
 
 Water
 
@@ -228178,7 +231688,9 @@ See
 
 Move
 
+
 Leaders
+
 
 Liquids
 
@@ -228360,7 +231872,9 @@ Parts.Edge
 Intact
 Intact
 
+
 Dimension
+
 
 
 Location
@@ -228372,6 +231886,7 @@ Well
 Identifiers
 Evil
 Relations of Description
+
 Water; Direction
 Pursue
 
@@ -228389,6 +231904,7 @@ Intact
 Speak
 Deities
 
+
 Evil
 Speak
 
@@ -228396,6 +231912,7 @@ Parts
 Negators
 Lax
 Relations of Description
+
 Music
 Carry
 Perception; Sounds
@@ -228469,9 +231986,11 @@ Evil
 Negators
 Ingest
 Relations of Description
+
 Time
 Relations of Involvement
 Hear
+
 
 High
 Perception; Sounds
@@ -228530,6 +232049,7 @@ Negators
 Impact
 
 
+
 Bread
 
 Classes
@@ -228549,6 +232069,7 @@ Hide
 conjunction
 Detach
 Relations of Description
+
 Time
 Abundant
 
@@ -228589,16 +232110,19 @@ Possess
 
 
 
+
 Humble
 Satisfaction
 
 Move
+
 
 Attitude
 Abundant
 
 Time; Dark
 Relations of Description
+
 Existence
 
 Move
@@ -228656,6 +232180,7 @@ Time
 Pure
 
 Speak
+
 
 
 Joy
@@ -228725,9 +232250,11 @@ Hear
 Parts: Creatures
 Impure
 
+
 Parts: Creatures
 
 Parts: Creatures
+
 
 Sin
 Parts.Edge
@@ -228793,6 +232320,7 @@ Oppress
 Parts: Creatures
 People
 Relations of Involvement
+
 Wrong
 Move
 
@@ -228838,6 +232366,7 @@ Pursue; Attain
 Just
 Occurrence; Wait
 
+
 Abundant
 
 Discourse particle
@@ -228845,10 +232374,12 @@ Attitude
 
 Shine
 
+
 Time; Dark
 Act
 Feel
 Relations of Description
+
 Blind
 Parts: Constructions
 
@@ -228858,23 +232389,30 @@ Parts: Body
 Feel
 Involvement.Waver
 
+
 Existence
 Relations of Description
+
 Time
+
 
 People
 Relations of Description
+
 Dead
 Sounds
 Relations of Description
+
 Wild Animals
 Modification.Complete
 
 Relations of Description
+
 Birds
 Groan
 Groan
 Occurrence; Wait
+
 
 
 
@@ -228930,6 +232468,7 @@ Stance//Space
 
 Involvement.Waver
 
+
 Roads
 Faithful
 
@@ -228980,6 +232519,7 @@ Involvement.Support
 Dress
 Conduct
 Relations of Description
+
 Clothing
 
 Clothing; Headgear
@@ -228994,6 +232534,7 @@ Clothing
 
 Dress
 Relations of Description
+
 Clothing
 Temper
 Association
@@ -229008,6 +232549,7 @@ Enemies
 
 
 Hate
+
 
 Groups; Land
 
@@ -229028,6 +232570,7 @@ Identifiers
 
 Move
 Relations of Description
+
 Move
 
 Body.Parts
@@ -229194,10 +232737,12 @@ Great
 
 Identifiers
 Relations of Description
+
 Clouds
 Move
 
 Relations of Description
+
 Birds
 Location
 Parts: Constructions
@@ -229208,6 +232753,7 @@ Occurrence; Wait
 
 Ships
 Names of Locations
+
 
 Quantity
 
@@ -229626,6 +233172,7 @@ Associate
 
 Know
 
+
 People
 People: Community
 
@@ -229658,16 +233205,19 @@ Clothing
 Just
 Dress
 Relations of Description
+
 Kinship
 Priests
 Headgear
 
 Relations of Description
+
 Kinship
 
 Artifacts
 
 Relations of Description
+
 Land
 Move
 Titles
@@ -229699,6 +233249,7 @@ Inactive
 
 Move
 Relations of Description
+
 Shine
 Just
 
@@ -229751,6 +233302,7 @@ Association
 
 
 Speak
+
 
 
 
@@ -229813,6 +233365,7 @@ Identifiers
 Names
 Praise
 
+
 Land
 Vow
 Names of Supernatural Beings
@@ -229853,6 +233406,7 @@ Ingest
 Parts: Constructions
 Pure
 Move
+
 
 
 Parts: Constructions
@@ -230008,6 +233562,7 @@ Angry
 
 Move
 
+
 Land
 Parts: Creatures
 Faithful
@@ -230126,15 +233681,20 @@ Serve
 Time
 Move
 
+
 Water
 Relations of Description
+
 Domestic Animals
+
 
 Land
 Negators
 Involvement.Waver
 Relations of Description
+
 Wild Animals
+
 
 Scenery
 Move
@@ -230201,6 +233761,7 @@ Direction
 Classes; Officials; Serve
 Groups
 Possess
+
 
 Little
 Possess
@@ -230291,6 +233852,7 @@ Help |Save
 Exist; Happen
 Relations of Description
 
+
 Modification.Complete
 
 Relations of Description
@@ -230301,11 +233863,13 @@ Just
 
 Dry
 Relations of Description
+
 Foliage
 Modification.Complete
 
 Sin
 Relations of Description
+
 Body.Parts
 Carry
 
@@ -230438,6 +234002,7 @@ Dead
 
 
 
+
 Sacrifice
 
 Identifiers
@@ -230445,7 +234010,9 @@ Parts: Constructions
 People
 Space
 
+
 Tombs
+
 
 
 
@@ -230522,6 +234089,7 @@ Search
 Identifiers
 Liquids; Wine; Crops
 
+
 Parts: Plants
 
 Speak
@@ -230585,6 +234153,7 @@ Pure
 Identifiers
 Space
 Relations of Association
+
 Occurrence
 Furnishings
 
@@ -230592,14 +234161,17 @@ Identifiers
 Must
 
 
+
 Liquids
 
 Estimate
 Identifiers
 
+
 Attribute
 
 Modification.Complete
+
 
 Dead
 Stance
@@ -230685,6 +234257,7 @@ Relations of Description
 Identifiers
 Praise
 
+
 Land
 Praise
 
@@ -230693,6 +234266,7 @@ True
 
 Identifiers
 Vow
+
 
 Land
 
@@ -230829,10 +234403,12 @@ Apart
 Negators
 Weak
 
+
 Lazy
 
 Negators
 Birth
+
 
 Afraid
 
@@ -230865,6 +234441,7 @@ Quantity
 
 
 Relations of Description
+
 Domestic Animals
 Ingest
 Foliage
@@ -231151,6 +234728,7 @@ Parts: Creatures
 
 Parts: Creatures
 Relations of Description
+
 Plants
 Stage
 
@@ -231168,9 +234746,11 @@ Discourse particle
 Names of Supernatural Beings
 
 
+
 Move
 
 Relations of Description
+
 Wind
 Vehicles
 Relations of Involvement
@@ -231182,6 +234762,7 @@ Angry
 |aREB|a*uke
 
 Fire
+
 
 
 
@@ -231208,6 +234789,7 @@ People
 
 Space
 Quantity
+
 
 Location
 Ingest
@@ -231284,6 +234866,7 @@ Speak
 Identifiers
 
 
+
 People
 
 Move
@@ -231298,16 +234881,21 @@ Give; Sacrifice
 Relations of Association
 Names of Supernatural Beings
 
+
 Domestic Animals
+
 
 
 Vehicles
 
 
+
 Small Animals
 
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -231335,7 +234923,9 @@ Focus particle
 
 Possess
 Relations of Association
+
 Priests
+
 
 Names of Groups
 Speak
@@ -231467,6 +235057,7 @@ Relations of Occurrence
 Uncover
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -231481,6 +235072,7 @@ Speak
 Adverb of time
 
 
+
 Parts: Creatures
 Know
 
@@ -231491,6 +235083,7 @@ Move
 Parts: Creatures
 Holy
 Prophets
+
 
 People
 Possess
@@ -231795,6 +235388,7 @@ Associate
 Move
 Space
 
+
 Land
 
 Land
@@ -231857,6 +235451,7 @@ Names
 Identifiers
 Move
 Identifiers
+
 
 Land
 
@@ -231924,6 +235519,7 @@ Sin
 Identifiers
 Prophets
 Speak
+
 
 Names of Supernatural Beings
 
@@ -232054,6 +235650,7 @@ Move
 
 
 
+
 Text deictic
 
 Relations of Involvement
@@ -232142,6 +235739,7 @@ Modification
 Relations of Occurrence
 Purify
 
+
 Liquids
 Titles
 Abundant
@@ -232164,6 +235762,7 @@ Names of Supernatural Beings
 Negators
 Move
 Perception
+
 
 
 Depressions
@@ -232228,9 +235827,11 @@ Priests
 Prophets
 Speak
 
+
 Trees
 Deities
 Participant Referents
+
 
 
 Stone
@@ -232277,6 +235878,7 @@ Sin
 
 Laws
 Names of Supernatural Beings
+
 
 Worthless
 Impact
@@ -232348,6 +235950,7 @@ Parts: Creatures
 Classes
 Free
 Negators
+
 
 Open
 Search; Know
@@ -232456,6 +236059,7 @@ Sex
 Space
 
 Relations of Description
+
 
 
 Land
@@ -232678,6 +236282,7 @@ Identifiers
 
 
 
+
 Modification.Complete
 Trees
 Stage
@@ -232730,7 +236335,9 @@ Abundant
 
 Good
 
+
 Land
+
 
 Time
 
@@ -232758,6 +236365,7 @@ Wish
 
 Negators
 Exist
+
 
 
 
@@ -232789,6 +236397,7 @@ Parts: Creatures
 Identifiers
 Wrong
 
+
 Time
 Identifiers
 Participant Referents
@@ -232816,6 +236425,7 @@ Participant Referents
 Speak
 Referents of Modification
 Space
+
 
 Kinship
 
@@ -232878,6 +236488,7 @@ Participant Referents
 Names of Supernatural Beings
 Deities
 Modality
+
 
 False
 
@@ -233006,6 +236617,7 @@ Names
 Move
 Relations of Description
 
+
 Angry
 
 Burn
@@ -233027,6 +236639,7 @@ Hear
 Speak
 Sounds
 Music
+
 
 Land
 Speak
@@ -233093,6 +236706,7 @@ Names of Supernatural Beings
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -233123,6 +236737,7 @@ Modality
 False
 
 Relations of Association
+
 Groups
 Identifiers
 Identifiers
@@ -233142,10 +236757,12 @@ Identifiers
 
 
 
+
 Identifiers
 
 Speak
 Relations of Association
+
 Groups
 Identifiers
 Identifiers
@@ -233155,6 +236772,7 @@ Names
 Body.Parts
 Hot
 Elevations
+
 
 Land
 
@@ -233185,6 +236803,7 @@ Clouds
 Move
 
 Relations of Description
+
 Wind
 Vehicles
 Agile
@@ -233221,6 +236840,7 @@ Sin
 Elevations
 Names of People
 Cognition
+
 
 People
 Presentative deictic
@@ -233429,7 +237049,9 @@ Identifiers
 Towns
 Move
 
+
 Plants
+
 
 
 Stone
@@ -233458,8 +237080,10 @@ Metal
 
 Large
 
+
 Paint
 Parts: Body
+
 
 Worthless
 Beautiful
@@ -233520,6 +237144,7 @@ Relations of Occurrence
 Alive
 Names of Supernatural Beings
 Speak
+
 
 
 False
@@ -233798,9 +237423,11 @@ Trust
 
 Participant Referents
 
+
 Attribute
 
 Focus particle
+
 
 Time
 Identifiers
@@ -233889,6 +237516,7 @@ Space
 Sand
 Scenery
 
+
 Water; Direction
 Location
 Time
@@ -233905,6 +237533,7 @@ Sounds
 Parts: Water
 
 Negators
+
 
 
 
@@ -234016,10 +237645,12 @@ Non-Exist
 Wrong
 Exist; Happen
 
+
 Land
 Identifiers
 Prophets
 Speak
+
 
 False
 
@@ -234089,6 +237720,7 @@ Stance
 
 Move
 
+
 Existence
 Grief
 
@@ -234103,6 +237735,7 @@ Time
 Stance
 
 Move
+
 
 Time
 
@@ -234165,6 +237798,7 @@ Deities
 Gather
 
 Relations of Description
+
 Plants
 Exist
 Names
@@ -234209,6 +237843,7 @@ Attachment.Contain
 Cognition
 
 Kinship
+
 
 Orientation: Attachment
 
@@ -234291,6 +237926,7 @@ Negators
 Know
 
 Move
+
 
 
 
@@ -234421,6 +238057,7 @@ Classes
 
 Friends
 Non-Exist; Dead
+Non-Exist; Dead
 Adverb
 Speak
 Names of Supernatural Beings
@@ -234448,6 +238085,7 @@ Negators
 Love; Merciful
 Perception; Sounds
 Relations of Description
+
 Water; Direction
 Sounds
 
@@ -234456,6 +238094,7 @@ Domestic Animals
 Move
 Space
 Relations of Description
+
 
 
 Fight
@@ -234471,11 +238110,13 @@ Distress
 Involvement
 Distress
 Relations of Description
+
 Birth
 Negators
 Move
 Identifiers
 Land
+
 
 
 
@@ -234494,6 +238135,7 @@ Dress
 Containers/Cloth
 
 Move
+
 
 Sand
 Grief
@@ -234534,7 +238176,9 @@ Participant Referents
 
 
 Fire
+Fire
 Metal
+
 
 Worthless
 Know
@@ -234586,6 +238230,7 @@ Identifiers
 Move
 
 
+
 Identifiers
 Identifiers
 Relations of Association
@@ -234605,6 +238250,7 @@ Happen
 
 Dwell
 Identifiers
+
 
 Space
 Identifiers
@@ -234655,6 +238301,7 @@ Free
 Negators
 Wounds
 
+
 Space
 Identifiers
 Identifiers
@@ -234671,9 +238318,11 @@ Wrong
 Dwell
 Identifiers
 
+
 Space
 Identifiers
 Identifiers
+
 
 Land
 Relations of Description
@@ -234705,9 +238354,11 @@ Sin
 
 Vow
 
+
 False
 
 Sacrifice
+
 
 Names of Supernatural Beings
 
@@ -234722,6 +238373,7 @@ Know
 Move
 
 Stance//Space
+
 
 
 
@@ -234776,6 +238428,7 @@ Dwell
 
 Referents of Location
 
+
 Quantity
 
 
@@ -234818,6 +238471,7 @@ Utter
 
 Serve
 
+
 Kinship / Construction
 Relations of Description
 Speak
@@ -234829,6 +238483,7 @@ Trust
 
 
 Relations of Association
+
 Space
 Relations of Description
 Possess
@@ -235185,6 +238840,7 @@ Names of Supernatural Beings
 Space
 Wrong
 
+
 Kinship / Construction
 Relations of Description
 Speak
@@ -235200,6 +238856,7 @@ Names
 Relations of Description
 
 
+
 Relations of Involvement
 Burn
 Identifiers
@@ -235207,6 +238864,7 @@ Kinship
 
 Identifiers
 Kinship
+
 
 
 Relations of Description
@@ -235229,6 +238887,7 @@ Speak
 adverb
 Identifiers
 Names
+
 
 
 
@@ -235291,6 +238950,7 @@ Identifiers
 Land
 
 
+
 Identifiers
 
 Laws
@@ -235324,7 +238984,9 @@ Tombs
 
 Scatter
 
+
 Universe
+
 
 
 Universe
@@ -235419,6 +239081,7 @@ Act
 
 Involvement
 
+
 False
 Reject
 Relations of Involvement
@@ -235446,9 +239109,11 @@ Relations of Description
 Domestic Animals
 Purify
 
+
 Fight
 Focus particle
 Birds
+
 
 Universe
 Know
@@ -235480,6 +239145,7 @@ Names of Supernatural Beings
 Relations of Association
 Modality
 discourse particle
+
 
 False
 Serve
@@ -235559,6 +239225,7 @@ Move
 
 
 
+
 Space
 Involvement.Waver
 Speak
@@ -235570,10 +239237,12 @@ Names of Supernatural Beings
 
 Fruits
 
+
 Plants
 
 
 Fruits
+
 
 Fruits
 
@@ -235743,6 +239412,7 @@ Groups
 
 Possess
 
+
 Land
 Dwell
 Move
@@ -235770,6 +239440,7 @@ Negators
 
 Faithful
 Attribute (State/process)
+
 
 Land
 
@@ -235952,6 +239623,7 @@ Identifiers
 Land
 Non-Exist
 Relations of Description
+
 Land
 
 Negators
@@ -236010,6 +239682,7 @@ Plants
 
 Scatter
 
+
 People
 Relations of Description
 Negators
@@ -236033,6 +239706,7 @@ Deities
 Know
 
 Speak
+
 
 Vocations
 
@@ -236173,6 +239847,7 @@ Faithful
 
 Conduct
 
+
 Land
 
 
@@ -236214,6 +239889,7 @@ Detach
 Parts: People
 Identifiers
 Space
+
 
 Land
 
@@ -236273,6 +239949,7 @@ Detach
 Happen
 
 Professions
+
 
 Tools
 
@@ -236435,13 +240112,16 @@ Possess
 Groups
 Liquids
 
+
 Universe
 
 Move
 Universe
 
 Location
+
 Land
+
 
 
 Rain
@@ -236499,6 +240179,7 @@ Land
 Carry
 Space
 
+
 Gather
 
 Adverb
@@ -236510,6 +240191,7 @@ Identifiers
 Space
 Identifiers
 Land
+
 
 Time
 Identifiers
@@ -236589,6 +240271,7 @@ Know
 Names of Supernatural Beings
 Relations of Perception
 Negators
+
 
 People
 
@@ -236742,6 +240425,7 @@ Liquids
 
 Dairy
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -236943,10 +240627,12 @@ Names
 Space
 Altars
 Relations of Involvement
+
 Deities
 Altars
 
 Sacrifice
+
 
 Names of Supernatural Beings
 
@@ -237036,6 +240722,7 @@ Relations of Involvement
 Angry
 
 Sacrifice
+
 
 Names of Supernatural Beings
 
@@ -237127,11 +240814,13 @@ Identifiers
 People
 Dead
 
+
 Attribute
 Kinship
 
 Kinship
 Dead
+
 
 Ingest
 
@@ -237290,6 +240979,7 @@ Possess
 Relations of Description
 
 
+
 Scenery
 Possess
 
@@ -237350,6 +241040,7 @@ Parts: Creatures
 Modification.Complete
 Elevations
 
+
 Land
 Move
 Impact
@@ -237397,6 +241088,7 @@ Identifiers
 Wrong
 Identifiers
 Touch
+
 
 Possess
 Relations of Description
@@ -237456,6 +241148,7 @@ Identifiers
 Relations of Involvement
 
 
+
 Names of Supernatural Beings
 
 Exist
@@ -237492,6 +241185,7 @@ Cloth
 Space
 
 Parts: Creatures
+
 
 
 Liquids
@@ -237597,6 +241291,7 @@ Clothing
 Negators
 Occurrence
 
+
 Modification.Complete
 
 Exist; Happen
@@ -237650,12 +241345,14 @@ Stance
 
 Exist; Happen
 Relations of Description
+
 Clothing
 Identifiers
 Identifiers
 Relations of Description
 Negators
 Occurrence
+
 
 Modification.Complete
 
@@ -237823,6 +241520,7 @@ Space
 
 Dark
 Space
+Space
 
 Universe
 
@@ -237849,7 +241547,9 @@ Domestic Animals
 Names of Supernatural Beings
 Speak
 
+
 Leaders
+
 
 
 Officials
@@ -237958,6 +241658,7 @@ Relations of Association
 
 Trust
 
+
 False
 
 Focus particle
@@ -237976,6 +241677,7 @@ Wrong
 Attitude.Unfaithful
 
 Scenery
+
 
 Land
 Description
@@ -238005,6 +241707,7 @@ Parts: Constructions
 Dry
 Dress; Grief
 
+
 Land
 
 Shout
@@ -238014,6 +241717,7 @@ Move
 Leaders
 Move
 Little; Young
+
 
 Liquids
 Move
@@ -238041,6 +241745,7 @@ Negators
 Exist; Happen
 Rain
 
+
 Land
 Shame
 Professions
@@ -238049,6 +241754,7 @@ Parts: Creatures; People; Animals
 
 Focus particle
 Wild Animals
+
 
 Land
 Birth
@@ -238066,6 +241772,7 @@ Elevations
 Breathe
 Body.Parts
 Relations of Description
+
 Wild Animals
 Non-Exist
 Parts: Body
@@ -238095,6 +241802,7 @@ Distress
 Exist; Happen
 Relations of Description
 Classes
+
 
 Land
 
@@ -238129,6 +241837,7 @@ Adverb
 Speak
 Names of Supernatural Beings
 Relations of Involvement
+
 Groups
 Identifiers
 Identifiers
@@ -238178,10 +241887,13 @@ Give; Sacrifice
 Joy
 
 
+
 Attribute
 
 
+
 Ingest
+
 
 
 Weak
@@ -238210,6 +241922,7 @@ Exist; Happen
 Intact
 Faithful
 Possess
+
 
 
 Space
@@ -238270,11 +241983,14 @@ Ingest
 Negators
 Exist; Happen
 
+
 Land
 Identifiers
 Identifiers
 
+
 Attribute
+
 
 
 
@@ -238490,25 +242206,33 @@ Speak
 Names of Supernatural Beings
 Relations of Description
 
+
 Universe
+
 
 Universe
 
 Relations of Description
 
+
 Attribute
+
 
 Attribute
 
 Relations of Description
+
 
 Ingest
 
 
 
+
 Relations of Description
 
+
 Submit
+
 
 
 
@@ -238627,6 +242351,7 @@ Kinship
 People
 Impact
 
+
 Existence
 Move
 
@@ -238650,6 +242375,7 @@ Shame
 Shame
 
 Exist
+
 
 Attribute
 Possess
@@ -238845,6 +242571,7 @@ Location
 
 Possess
 
+
 Groups
 Identifiers
 Identifiers
@@ -238898,6 +242625,7 @@ Kinship
 
 Kinship
 
+
 Space
 Identifiers
 Identifiers
@@ -238915,6 +242643,7 @@ Kinship
 Identifiers
 Birth
 
+
 Space
 Identifiers
 Identifiers
@@ -238930,6 +242659,7 @@ Kinship
 Identifiers
 Birth
 Identifiers
+
 
 Land
 Identifiers
@@ -238951,7 +242681,9 @@ Land
 Exist; Happen
 
 
+
 Attribute
+
 
 
 Ingest
@@ -239011,6 +242743,7 @@ Dead
 Great
 
 Quantity
+
 
 Land
 Identifiers
@@ -239095,6 +242828,7 @@ Kinship
 Exist; Happen
 Relations of Occurrence
 Speak
+
 
 Groups
 Identifiers
@@ -239367,6 +243101,7 @@ Deities
 discourse marker
 Modification
 
+
 Time
 Identifiers
 Identifiers
@@ -239413,6 +243148,7 @@ Identifiers
 High
 Elevations
 
+
 Land
 Possession
 Modification.Complete
@@ -239440,6 +243176,7 @@ Possess
 Identifiers
 Hate
 
+
 Land
 Relations of Description
 Negators
@@ -239461,6 +243198,7 @@ People
 Relations of Description
 Trust
 
+
 People
 
 Space
@@ -239476,6 +243214,7 @@ Exist; Happen
 Relations of Description
 Trees
 
+
 Land
 
 Negators
@@ -239486,6 +243225,7 @@ Well
 
 Dwell
 Land
+
 
 Land
 Land
@@ -239599,6 +243339,8 @@ Modification.Complete
 Shame
 
 
+
+
 Land
 Cognition.Write
 
@@ -239686,6 +243428,7 @@ Stance//Space
 
 Parts: Constructions
 Kinship
+
 Groups
 Relations of Description
 Move
@@ -239718,6 +243461,7 @@ Space
 Names
 Identifiers
 Move
+
 
 Parts: Constructions
 Identifiers
@@ -239839,7 +243583,9 @@ Space
 Names of People
 Move
 
+
 Vehicles
+
 
 
 Domestic Animals
@@ -239963,6 +243709,7 @@ Identifiers
 
 
 discourse marker
+discourse marker
 Serve
 Serve
 
@@ -239975,6 +243722,7 @@ Artifacts
 Relations of Description
 Participants
 Serve
+
 
 Sand
 
@@ -240006,6 +243754,7 @@ Speak
 Identifiers
 Relations of Description
 
+
 Identifiers
 Identifiers
 Negators
@@ -240019,6 +243768,7 @@ Laws
 Names of Supernatural Beings
 Discourse particle
 Relations of Description
+
 Sand
 
 Parts: Creatures
@@ -240158,6 +243908,7 @@ Names of Supernatural Beings
 Ask
 
 
+
 People
 
 Hear
@@ -240185,6 +243936,7 @@ Attribute.Flowing
 Know
 Groups
 Relations of Involvement
+
 Worthless
 Sacrifice
 
@@ -240255,6 +244007,7 @@ Move
 
 Impact
 
+
 Parts: Creatures
 
 Negators
@@ -240298,6 +244051,7 @@ Possess
 Identifiers
 Kinship
 
+
 Ingest
 
 Attachment.Pour
@@ -240318,6 +244072,7 @@ Universe
 People
 Impact
 Attribute
+
 
 Fight
 Hear
@@ -240346,6 +244101,7 @@ Know
 Identifiers
 Modification.Complete
 Think
+
 
 
 Universe
@@ -240392,6 +244148,7 @@ Priests
 Names of Geographical Objects
 Move
 Location
+
 
 Relations of Description
 Constructions.Parts
@@ -240482,7 +244239,9 @@ Identifiers
 Kinship
 
 
+
 Sacrifice
+
 
 Names of Supernatural Beings
 Relations of Description
@@ -240506,12 +244265,14 @@ Names of Supernatural Beings
 Negators
 Speak
 
+
 Space
 Identifiers
 Identifiers
 adverb
 Identifiers
 Names
+
 
 
 
@@ -240527,11 +244288,13 @@ Names of Locations
 
 Names
 
+
 Space
 Identifiers
 Identifiers
 
 Move
+
 
 Attribute
 
@@ -240660,6 +244423,7 @@ Space
 Adverb
 Serve
 Relations of Involvement
+
 Space
 Identifiers
 Identifiers
@@ -240875,6 +244639,7 @@ Names of Locations
 
 Impact
 
+
 Attribute
 
 Possess
@@ -240919,6 +244684,7 @@ Space
 Kinship / Construction
 Move
 
+
 Submit
 
 Names of Locations
@@ -240935,6 +244701,7 @@ Modification.Complete
 Love
 Relations of Description
 Speak
+
 
 
 False
@@ -241114,6 +244881,7 @@ Identifiers
 Identifiers
 Participants
 Relations of Description
+
 Towns
 Relations of Description
 Move
@@ -241124,6 +244892,7 @@ Grief
 
 Hear
 Lament
+
 
 Time
 
@@ -241249,6 +245018,7 @@ Gather
 
 Orientation: Attachment
 
+
 Constructions
 
 Gather
@@ -241322,6 +245092,7 @@ Identifiers
 Identifiers
 Exist
 
+
 Towns
 Identifiers
 Identifiers
@@ -241389,15 +245160,19 @@ Universe
 Identifiers
 Space
 
+
 Towns
 Identifiers
 Identifiers
 Dead
 
+
 Attribute
 
 
+
 Ingest
+
 
 
 Weak
@@ -241413,6 +245188,7 @@ Identifiers
 Gather
 
 Alive
+Alive
 
 Exist; Happen
 
@@ -241421,6 +245197,7 @@ Exist; Happen
 Possess
 
 Space
+
 
 
 Towns
@@ -241445,6 +245222,7 @@ Burn
 
 
 
+
 Kinship / Construction
 Leaders
 Names of Locations
@@ -241458,6 +245236,7 @@ Speak
 Names of Supernatural Beings
 Think
 
+
 Time
 
 
@@ -241469,6 +245248,7 @@ Oppress
 
 Move
 Relations of Description
+
 
 Angry
 
@@ -241552,6 +245332,7 @@ Groups
 Identifiers
 Move
 
+
 Parts: Constructions
 Identifiers
 Identifiers
@@ -241583,6 +245364,7 @@ Free
 Negators
 Wounds
 
+
 Space
 Identifiers
 Identifiers
@@ -241611,7 +245393,9 @@ Names of People
 
 Move
 
+
 Vehicles
+
 
 
 Domestic Animals
@@ -241698,6 +245482,7 @@ Serve
 Names of Supernatural Beings
 
 
+
 Towns
 Identifiers
 Great
@@ -241729,6 +245514,7 @@ Involvement.Waver
 
 Lament
 Lament
+
 
 Move
 
@@ -241819,9 +245605,11 @@ Parts: Constructions
 
 Cover
 
+
 Trees
 
 Attachment.Anoint
+
 
 Color
 
@@ -241829,6 +245617,7 @@ Control
 
 Participant Referents
 Zeal
+
 
 Trees
 Kinship
@@ -241930,6 +245719,7 @@ Names of Geographical Objects
 Lament
 
 
+
 Names
 Possess
 Perception; Sounds
@@ -241964,6 +245754,7 @@ Body.Parts
 
 Love
 
+
 Submit
 Move
 
@@ -241976,8 +245767,10 @@ Modification.Complete
 Evil
 Space
 
+
 Names of Geographical Objects
 Exist
+
 
 Trees
 
@@ -241988,6 +245781,7 @@ Move
 Spasm
 Distress
 Relations of Description
+
 Birth
 Alive
 Participant Referents
@@ -242235,6 +246029,7 @@ Serve
 
 Just
 
+
 Land
 
 Time
@@ -242300,6 +246095,7 @@ Referents of Location
 Space
 
 Land
+
 
 Prophets
 Impact
@@ -242369,6 +246165,7 @@ Exist; Happen
 Relations of Description
 
 
+
 Time; Dark
 Move
 
@@ -242390,6 +246187,7 @@ Description
 Reject; Wrong
 Speak
 
+
 Names of Supernatural Beings
 
 Act
@@ -242406,6 +246204,7 @@ Wrong
 Sin
 
 Move
+
 
 False
 
@@ -242594,6 +246393,7 @@ Relations of Occurrence
 Hide
 
 
+
 Hide
 
 Participant Referents
@@ -242665,6 +246465,7 @@ Kinship
 Identifiers
 
 
+
 Names of Supernatural Beings
 Identifiers
 Vision
@@ -242682,6 +246483,7 @@ Speak
 Faithful
 
 
+
 Foliage
 Relations of Association
 Identifiers
@@ -242693,6 +246495,7 @@ Negators
 
 Speak
 Relations of Description
+
 
 Laws
 Names of Supernatural Beings
@@ -242754,6 +246557,7 @@ Speak
 
 Great
 Negators
+
 
 
 
@@ -243024,6 +246828,7 @@ Names of Supernatural Beings
 Deities
 Names
 Relations of Description
+
 Fruits
 Identifiers
 Good
@@ -243097,6 +246902,7 @@ Modification.Complete
 Parts: Creatures
 
 Relations of Description
+
 Fruits
 Identifiers
 
@@ -243124,6 +246930,7 @@ Exist
 Names
 Identifiers
 Exist
+
 
 Land
 Identifiers
@@ -243197,6 +247004,7 @@ Names of People
 Modification.Complete
 Groups
 Names of Locations
+
 
 Time
 Identifiers
@@ -243503,6 +247311,7 @@ Identifiers
 Cognition.Write
 
 
+
 Identifiers
 Identifiers
 Relations of Description
@@ -243617,6 +247426,7 @@ Sounds
 
 Curse
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -243722,6 +247532,7 @@ Classes
 Identifiers
 Dwell
 
+
 Land
 
 Identifiers
@@ -243820,6 +247631,7 @@ Deities
 
 discourse marker
 
+
 Towns
 Relations of Description
 
@@ -243894,6 +247706,7 @@ Involvement.Contend
 Relations of Association
 Names of Supernatural Beings
 
+
 People
 Involvement.Contend
 Participants
@@ -243903,6 +247716,7 @@ Modification.Complete
 Identifiers
 Evil
 Possess
+
 
 Attribute
 Laws
@@ -243929,6 +247743,7 @@ Land
 Exist; Happen
 Attribute
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -244017,6 +247832,7 @@ Angry
 Names of Supernatural Beings
 
 Relations of Description
+
 Wild Animals
 Angry
 
@@ -244302,6 +248118,7 @@ Speak
 Universe
 
 
+
 Identifiers
 Identifiers
 
@@ -244380,9 +248197,11 @@ discourse particle
 Serve
 
 Relations of Description
+
 Well
 
 Relations of Description
+
 Right
 
 
@@ -244440,6 +248259,7 @@ Priests
 Location
 Identifiers
 Prophets
+
 
 
 
@@ -244630,6 +248450,7 @@ Leaders
 Names of People
 
 Impact
+
 
 Attribute
 
@@ -244854,10 +248675,13 @@ Control
 Leaders
 Names of Locations
 
+
 Attribute
 
 
+
 Ingest
+
 
 
 Weak
@@ -244977,9 +248801,12 @@ Participant Referents
 
 Groups
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -245026,6 +248853,7 @@ Names of Supernatural Beings
 
 Participant Referents
 Speak
+
 
 
 
@@ -245156,6 +248984,7 @@ Artifacts
 Identifiers
 Space
 
+
 Towns
 Identifiers
 Identifiers
@@ -245226,6 +249055,7 @@ Identifiers
 
 Exist; Happen
 
+
 Time
 Identifiers
 
@@ -245237,8 +249067,10 @@ Leaders
 Names of Locations
 
 
+
 Identifiers
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -245636,8 +249468,10 @@ Names of People
 Identifiers
 Prophets
 
+
 Time
 Identifiers
+
 
 
 Time
@@ -245974,6 +249808,7 @@ Groups
 Identifiers
 Space
 
+
 Towns
 Identifiers
 Identifiers
@@ -245982,6 +249817,7 @@ Relations of Description
 Negators
 Move
 Relations of Association
+
 
 People
 Adverb
@@ -246005,6 +249841,7 @@ Weak
 Possess
 Identifiers
 Relations of Description
+
 Fruits
 Identifiers
 Stage
@@ -246017,9 +249854,12 @@ Wrong
 Pursue
 Space
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -246146,6 +249986,7 @@ Names of Locations
 
 
 
+
 Relations of Description
 Serve
 Foolish
@@ -246167,6 +250008,8 @@ Negators
 Speak
 
 Participant Referents
+Participants
+Know
 
 Utter
 Laws
@@ -246355,6 +250198,7 @@ Identifiers
 Negators
 
 
+
 Well
 Relations of Description
 Participant Referents
@@ -246464,6 +250308,7 @@ Parts: Creatures
 Relations of Description
 
 
+
 Change
 Modification.Complete
 
@@ -246490,6 +250335,7 @@ Names
 Help |Save
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -246583,6 +250429,7 @@ Chastise
 
 
 
+
 Right
 Negators
 
@@ -246643,6 +250490,7 @@ Ingest
 Modification.Complete
 Enemies
 Modification.Complete
+
 
 Submit
 Move
@@ -246797,6 +250645,7 @@ Know
 
 
 
+
 Identifiers
 
 Laws
@@ -246819,6 +250668,7 @@ Speak
 Names of Supernatural Beings
 Search; Know
 Just; Merciful
+
 
 Land
 Groups
@@ -246961,6 +250811,7 @@ Names of Supernatural Beings
 People
 
 Speak
+
 
 Groups; Land
 
@@ -247184,6 +251035,7 @@ Space
 Space
 Parts: Creatures
 
+
 Roads
 
 Move
@@ -247205,6 +251057,7 @@ Attitude.Unfaithful
 Exist
 Names of Supernatural Beings
 Attain
+
 
 Land
 People
@@ -247251,6 +251104,7 @@ Towns
 Professions
 
 Move
+
 
 Domestic Animals
 
@@ -247321,6 +251175,7 @@ Attachment.Plant
 Laws
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Participant Referents
@@ -247367,6 +251222,7 @@ Covenant
 Attain
 Negators
 Relations of Description
+
 Covenant
 Relations of Description
 Associate
@@ -247544,6 +251400,7 @@ Laws
 Names of Supernatural Beings
 discourse marker
 Time
+
 Laws
 Names of Supernatural Beings
 
@@ -247613,6 +251470,7 @@ Names of People
 
 Relations of Association
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -247832,6 +251690,7 @@ Cognition.Write
 
 
 
+
 Attach
 
 Speak
@@ -247960,6 +251819,7 @@ Land
 
 Land
 
+
 Land
 Identifiers
 Identifiers
@@ -248070,12 +251930,14 @@ Identifiers
 Names
 
 
+
 People
 
 Serve
 
 
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -248205,6 +252067,7 @@ Possess
 Identifiers
 Land
 
+
 Minerals; Metal
 
 Speak
@@ -248280,6 +252143,7 @@ Identifiers
 
 
 
+
 Burn
 
 Identifiers
@@ -248289,6 +252153,7 @@ Relations of Description
 Sacrifice
 
 Parts
+
 
 Names of Supernatural Beings
 
@@ -248402,6 +252267,7 @@ Know
 Space
 Wrong
 
+
 Kinship / Construction
 Relations of Description
 Speak
@@ -248418,6 +252284,7 @@ Names of Supernatural Beings
 Relations of Description
 
 
+
 Relations of Involvement
 Sacrifice
 Identifiers
@@ -248426,6 +252293,7 @@ Kinship
 Identifiers
 Kinship
 Relations of Involvement
+
 Names of Supernatural Beings
 Relations of Description
 Negators
@@ -248467,10 +252335,13 @@ Possess
 Leaders
 Names of Locations
 
+
 Attribute
 
 
+
 Ingest
+
 
 
 Weak
@@ -248568,6 +252439,7 @@ Identifiers
 
 Attachment.Plant
 
+
 Land
 Identifiers
 Identifiers
@@ -248617,6 +252489,7 @@ Possess
 Identifiers
 Land
 
+
 Land
 Identifiers
 Identifiers
@@ -248637,10 +252510,12 @@ Identifiers
 Names
 Land
 
+
 Minerals; Metal
 Possess
 
 Cognition.Write
+
 
 
 
@@ -248806,6 +252681,7 @@ Names
 Exist
 Relations of Description
 
+
 Quantity
 
 Pure
@@ -248875,6 +252751,7 @@ Speak
 Names of Supernatural Beings
 adverb
 Hear
+
 
 Space
 Identifiers
@@ -248946,6 +252823,7 @@ Identifiers
 Land
 Relations of Description
 
+
 Quantity
 Speak
 Names of Supernatural Beings
@@ -248955,6 +252833,7 @@ Names of Supernatural Beings
 Deities
 adverb
 Exist; Happen
+
 
 Space
 Identifiers
@@ -249031,9 +252910,11 @@ Names
 Kinship / Construction
 Names of Groups
 
+
 Time
 Identifiers
 Participant Referents
+
 
 
 
@@ -249050,7 +252931,9 @@ Serve
 
 Just
 
+
 Land
+
 
 Time
 Identifiers
@@ -249083,6 +252966,7 @@ Space
 
 Kinship / Construction
 Names
+
 
 
 Priests
@@ -249326,6 +253210,7 @@ Burn
 
 
 
+
 Participant Referents
 Negators
 Flee
@@ -249366,6 +253251,7 @@ Names of Supernatural Beings
 
 Negators
 Dead
+
 
 Attribute
 
@@ -249502,6 +253388,7 @@ Groups
 Relations of Description
 Move
 Association
+
 Covenant
 Relations of Involvement
 Location
@@ -249631,6 +253518,7 @@ Friends
 
 Associate
 Covenant
+
 
 
 
@@ -249835,6 +253723,7 @@ Fight
 Grasp
 
 Burn
+
 
 
 
@@ -250050,6 +253939,7 @@ Exist; Happen
 
 
 Space
+
 
 Tents
 
@@ -250325,6 +254215,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -250455,6 +254346,7 @@ Participant Referents
 
 Speak
 
+
 Scrolls
 Relations of Description
 Cognition.Write
@@ -250527,12 +254419,14 @@ Relations of Involvement
 Speak
 
 
+
 Speak
 Names of Supernatural Beings
 Kinship / Construction
 Names of Supernatural Beings
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -250543,6 +254437,7 @@ Kinship
 Names of People
 Leaders
 Names of Locations
+
 
 Time
 Identifiers
@@ -250573,6 +254468,7 @@ Speak
 Names
 
 
+
 Identifiers
 Speak
 Names of People
@@ -250585,6 +254481,7 @@ Kinship
 Names of People
 Identifiers
 Officials
+
 
 Parts: Constructions
 Identifiers
@@ -250670,6 +254567,7 @@ Names
 
 
 
+
 Parts: Creatures
 Identifiers
 Groups
@@ -250750,6 +254648,7 @@ Names
 Speak
 
 
+
 Leaders
 Identifiers
 Modification.Complete
@@ -250795,6 +254694,7 @@ Participant Referents
 Cognition.Write
 
 Identifiers
+
 
 
 Tools
@@ -250886,6 +254786,7 @@ Kinship / Construction
 Identifiers
 Time
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -250960,6 +254861,7 @@ Names of People
 
 Names of People
 Ask
+
 
 Leaders
 
@@ -251116,12 +255018,16 @@ Parts: Creatures
 Exist; Happen
 Move
 
+
 Heat
+
 
 Time
 
 
+
 Frost; Rain; Cold
+
 
 Time
 
@@ -251188,11 +255094,13 @@ Names of Locations
 
 
 
+
 conjunctive adverb
 
 
 Speak
 Abundant
+Relations of Description
 Relations of Description
 
 Control
@@ -251352,6 +255260,7 @@ Grasp
 Burn
 
 
+
 Adverb
 Speak
 Names of Supernatural Beings
@@ -251394,6 +255303,7 @@ Identifiers
 Towns
 Identifiers
 Identifiers
+
 
 
 
@@ -251537,6 +255447,7 @@ Leaders
 
 Kinship / Construction
 
+
 Cover
 
 Speak
@@ -251570,6 +255481,7 @@ Sin
 
 
 Classes; Officials; Serve
+
 
 
 Groups
@@ -251643,6 +255555,7 @@ Possess
 Shape
 Bread
 
+
 Time
 
 Scenery
@@ -251698,14 +255611,18 @@ Names of Supernatural Beings
 Identifiers
 Space
 
+
 Towns
 Identifiers
 Identifiers
 Dead
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -251715,6 +255632,7 @@ Move
 Location
 Identifiers
 Names
+Alive
 Alive
 
 Exist; Happen
@@ -251767,6 +255685,7 @@ Fight
 Identifiers
 Exist
 
+
 Towns
 Identifiers
 Identifiers
@@ -251780,6 +255699,7 @@ Relations of Involvement
 Speak
 Location
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -251792,6 +255712,7 @@ Identifiers
 
 
 Intact
+
 
 
 Identifiers
@@ -251843,6 +255764,7 @@ Identifiers
 Cords
 
 
+
 Scenery
 
 Liquids
@@ -251851,6 +255773,7 @@ Relations of Occurrence
 Sand
 
 Move
+
 
 
 Sand
@@ -251929,6 +255852,7 @@ Ingest
 Identifiers
 Bread
 adverb
+
 
 Towns
 
@@ -252100,6 +256024,7 @@ Names of People
 Location
 Names of People
 
+
 Cover
 Relations of Involvement
 Speak
@@ -252160,6 +256085,7 @@ Burn
 
 
 
+
 Alive
 Participant Referents
 
@@ -252184,6 +256110,7 @@ Identifiers
 Names
 
 Burn
+
 
 
 
@@ -252277,6 +256204,7 @@ Attitude.Excited
 Intact
 Move
 
+
 Sand
 People
 Stance
@@ -252314,6 +256242,7 @@ Burn
 
 
 
+
 Speak
 Names of People
 Location
@@ -252321,6 +256250,7 @@ Names of People
 
 Negators
 Know
+
 
 Speak
 Identifiers
@@ -252430,6 +256360,7 @@ Relations of Description
 
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -252437,6 +256368,7 @@ Relations of Association
 Names of People
 Leaders
 Names of Locations
+
 
 Time
 Identifiers
@@ -252460,11 +256392,13 @@ Time
 Relations of Association
 Names of People
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 Quantity; Frequency
+
 
 Time
 Impact
@@ -252587,6 +256521,7 @@ Blind
 
 Bind
 
+
 Metal
 Relations of Involvement
 Move
@@ -252608,6 +256543,7 @@ Names
 
 
 
+
 Identifiers
 Constructions
 Names
@@ -252619,6 +256555,7 @@ Identifiers
 Groups
 Identifiers
 Exist
+
 
 Towns
 
@@ -252661,6 +256598,7 @@ Names of Locations
 Possess
 
 Land
+
 
 
 
@@ -252798,11 +256736,13 @@ Exist; Happen
 
 
 
+
 Time
 Identifiers
 Participants
 
 Move
+
 
 Time
 Identifiers
@@ -252823,6 +256763,7 @@ Afraid
 
 
 Save
+
 
 
 
@@ -252864,6 +256805,7 @@ Relations of Association
 
 Participants
 Bind
+
 
 Cords
 
@@ -252917,6 +256859,7 @@ Hear
 Perception; Sounds
 
 Exist; Happen
+
 
 Speak
 Identifiers
@@ -253040,6 +256983,7 @@ Groups
 Identifiers
 Exist
 
+
 Land
 
 Hear
@@ -253048,6 +256992,7 @@ Leaders
 Identifiers
 People
 Relations of Description
+
 
 Land
 Participant Referents
@@ -253061,6 +257006,7 @@ Identifiers
 Object Referents
 Kinship
 Names of People
+
 
 Land
 
@@ -253136,6 +257082,7 @@ Identifiers
 Names
 Space
 
+
 Land
 
 
@@ -253149,6 +257096,7 @@ Just
 Participant Referents
 discourse marker
 Space
+
 
 Names
 Relations of Involvement
@@ -253255,6 +257203,7 @@ Identifiers
 People
 Relations of Description
 
+
 Land
 Move
 Location
@@ -253295,7 +257244,9 @@ Speak
 Location
 Object Referents
 
+
 Cover
+
 
 Names
 Relations of Involvement
@@ -253351,6 +257302,7 @@ Names of People
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -253386,6 +257338,7 @@ Bread
 
 
 
+
 Stance
 Names of People
 Kinship
@@ -253406,6 +257359,7 @@ Names of People
 Kinship
 Names of People
 
+
 Attribute
 
 Dead
@@ -253414,6 +257368,7 @@ Relations of Description
 Control
 Leaders
 Names of Locations
+
 
 Land
 
@@ -253426,6 +257381,7 @@ Exist; Happen
 Identifiers
 Identifiers
 Object Referents
+
 
 Names
 
@@ -253443,6 +257399,7 @@ Impact
 Names of People
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -253550,6 +257507,7 @@ Markers of Existence
 
 Valuable
 
+
 Land
 Crops
 
@@ -253610,6 +257568,7 @@ Identifiers
 Groups
 Relations of Description
 
+
 Names
 Identifiers
 Kinship
@@ -253622,6 +257581,7 @@ Identifiers
 
 Identifiers
 Exist
+
 
 
 Relations of Description
@@ -253832,6 +257792,7 @@ Control
 Leaders
 Names of Locations
 
+
 Land
 
 Space
@@ -254044,6 +258005,7 @@ Relations of Occurrence
 Direction
 Space
 
+
 Land
 Identifiers
 Identifiers
@@ -254114,6 +258076,7 @@ Participant Referents
 Negators
 Space
 
+
 Land
 Identifiers
 Identifiers
@@ -254140,6 +258103,7 @@ Perception; Sounds
 Music
 Negators
 Hear
+
 
 
 Bread
@@ -254220,9 +258184,12 @@ Fight
 Referents of Location
 Dead
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -254355,13 +258322,17 @@ Know
 Know
 Relations of Perception
 
+
 Attribute
+
 
 Ingest
 
 
+
 Weak
 Dead
+
 
 Space
 Relations of Description
@@ -254578,7 +258549,9 @@ Great
 
 Hide
 
+
 Sand
+
 
 Constructions
 Relations of Description
@@ -254616,6 +258589,7 @@ Space
 
 Direction
 
+
 Stone
 Identifiers
 Identifiers
@@ -254635,19 +258609,25 @@ Land
 Names
 Relations of Description
 
+
 Universe
+
 
 Universe
 
 Relations of Description
+
 
 Submit
 
 
 
+
 Relations of Description
 
+
 Attribute
+
 
 Attribute
 
@@ -254684,6 +258664,7 @@ Impact
 Identifiers
 Constructions
 
+
 Relations of Description
 
 Land
@@ -254694,6 +258675,7 @@ Kinship / Construction
 Deities
 
 Burn
+
 
 
 Identifiers
@@ -254845,6 +258827,7 @@ Impact
 
 Impact
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -255014,7 +258997,9 @@ Land
 
 Move
 
+
 Attribute
+
 
 Ingest
 Dead
@@ -255024,7 +259009,9 @@ Quantity
 
 Great
 
+
 Attribute
+
 
 
 
@@ -255055,9 +259042,12 @@ Remember
 
 Names
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -255211,7 +259201,9 @@ Location
 Modification.Complete
 
 
+
 Attribute
+
 
 
 Ingest
@@ -255369,6 +259361,7 @@ Evil
 Identifiers
 Identifiers
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -255496,7 +259489,9 @@ Relations of Description
 Land
 Names
 
+
 Attribute
+
 
 
 Ingest
@@ -255542,6 +259537,7 @@ Names of Supernatural Beings
 Relations of Perception
 Remember
 Participant Referents
+
 
 
 Space
@@ -255608,6 +259604,7 @@ Identifiers
 Speak
 Identifiers
 Identifiers
+
 
 
 
@@ -255750,6 +259747,7 @@ Artifacts
 
 Space
 
+
 Fight
 Bind
 Identifiers
@@ -255808,18 +259806,22 @@ Move
 
 Identifiers
 Relations of Description
+
 Names of Geographical Objects
 Move
 Relations of Description
+
 Water
 Shake
 Liquids
 Names
 Relations of Description
+
 Names of Geographical Objects
 Move
 
 Relations of Description
+
 Water
 Shake
 Liquids
@@ -255898,6 +259900,7 @@ Spices
 People
 Kinship
 Names
+
 
 Worthless
 Abundant
@@ -256015,10 +260018,12 @@ Deities
 Relations of Description
 Names of Geographical Objects
 
+
 Elevations
 
 Relations of Description
 Names
+
 
 Water; Direction
 Move
@@ -256040,6 +260045,7 @@ Non-Exist
 
 Space
 Domestic Animals
+
 
 Names
 Swarming Creatures
@@ -256071,6 +260077,7 @@ Move
 Space
 Perception; Sounds
 Relations of Description
+
 Small Animals
 Move
 
@@ -256222,6 +260229,7 @@ Serve
 
 
 Chastise
+
 
 
 
@@ -256441,6 +260449,7 @@ Exist; Happen
 Relations of Description
 
 
+
 Land
 
 
@@ -256456,6 +260465,7 @@ Grasp
 
 Move
 Names of Deities
+
 
 People
 Priests
@@ -256528,6 +260538,7 @@ Location
 
 
 
+
 People
 Negators
 Move
@@ -256579,6 +260590,7 @@ Participant Referents
 People
 Strong; Confident
 
+
 Fight
 Impact
 Names of Groups; Names of Locations
@@ -256589,6 +260601,7 @@ Move
 Apart
 People
 Move
+
 
 Dead
 Laws
@@ -256625,6 +260638,8 @@ Move
 
 
 Space
+Space
+
 
 Dry
 Space
@@ -256760,6 +260775,7 @@ Shake
 Towns
 
 Dwell
+
 
 Stone
 Space
@@ -256971,6 +260987,7 @@ Speak
 Names of Supernatural Beings
 Discourse particle
 Relations of Description
+
 Birds
 Move
 
@@ -256990,6 +261007,7 @@ Exist; Happen
 Parts: Creatures
 Strong
 Names of Groups; Names of Locations
+
 
 Time
 Identifiers
@@ -257034,6 +261052,7 @@ Move
 Identifiers
 Traps
 Grasp
+
 
 Traps
 
@@ -257080,9 +261099,11 @@ Names of Deities
 Possess
 Kinship
 
+
 Submit
 
 Kinship
+
 
 Submit
 
@@ -257147,6 +261168,7 @@ Impact
 Kinship
 
 
+
 Burn
 
 Possess
@@ -257169,9 +261191,11 @@ Grief
 
 Move
 
+
 Stalls
 
 Leaders
+
 
 People
 Move
@@ -257181,6 +261205,7 @@ Leaders
 
 Weak
 Praise
+
 
 Depressions
 Flow
@@ -257215,6 +261240,7 @@ Scatter
 
 
 Gather
+
 
 Move
 
@@ -257268,6 +261294,7 @@ Exist
 Crops
 Relations of Occurrence
 People
+
 
 Time
 Impact
@@ -257356,6 +261383,7 @@ Names of Supernatural Beings
 
 People
 
+
 People
 Move
 Gather
@@ -257365,14 +261393,17 @@ Move
 
 Stance
 
+
 Fight
 
 
 Small
 Possess
 
+
 People
 Despise
+
 
 People
 Attitude
@@ -257391,6 +261422,7 @@ Scenery
 
 High
 Relations of Description
+
 Birds
 Constructions
 
@@ -257506,6 +261538,7 @@ Hear
 
 Discourse particle
 Relations of Description
+
 Birds
 Move
 
@@ -257520,6 +261553,7 @@ Exist; Happen
 Parts: Creatures
 Strong
 Names of Groups
+
 
 Time
 Identifiers
@@ -257540,6 +261574,7 @@ Hear
 Hear
 Distress
 
+
 Water; Direction
 Afraid; Distress
 Non-Move
@@ -257558,6 +261593,7 @@ Distress
 Spasm
 Grasp
 Relations of Description
+
 Birth
 Referents of Modification
 Negators
@@ -257577,6 +261613,7 @@ Modification.Complete
 Identifiers
 Fight
 Non-Exist
+
 
 Time
 Identifiers
@@ -257851,6 +261888,7 @@ Identifiers
 Prophets
 Speak
 
+
 People
 
 Hear
@@ -257896,9 +261934,11 @@ Wild Animals
 Involvement.Waver
 Move
 
+
 Time
 Identifiers
 Participant Referents
+
 
 
 
@@ -258038,6 +262078,7 @@ Impact
 
 Sounds
 Relations of Description
+
 Domestic Animals
 Shame
 Kinship
@@ -258193,9 +262234,11 @@ Object Referents
 Satisfaction
 
 
+
 Time
 Identifiers
 Participant Referents
+
 
 
 
@@ -258246,6 +262289,7 @@ Speak
 Perception; Sounds
 Fight
 
+
 Land
 
 Impact
@@ -258263,6 +262307,7 @@ Exist; Happen
 
 Non-Exist
 Names of Locations
+
 
 People
 Control
@@ -258322,6 +262367,7 @@ Modification.Complete
 Domestic Animals
 Move
 
+
 Dead
 Judgment
 
@@ -258359,6 +262405,7 @@ Dwell
 Location
 Negators
 Exist; Happen
+
 Flee
 Exchange
 
@@ -258387,6 +262434,7 @@ Modification.Complete
 Soldiers
 Fight
 Non-Exist
+
 
 Time
 Identifiers
@@ -258520,6 +262568,7 @@ Artifacts
 
 
 
+
 Afraid
 Think
 
@@ -258594,6 +262643,7 @@ Negators
 Love; Merciful
 Perception; Sounds
 Relations of Description
+
 Water; Direction
 Sounds
 
@@ -258602,6 +262652,7 @@ Domestic Animals
 Move
 Space
 Relations of Description
+
 
 
 Fight
@@ -258620,6 +262671,7 @@ Distress
 Involvement
 Distress
 Relations of Description
+
 Birth
 Wild Animals
 discourse particle
@@ -258692,6 +262744,7 @@ Land
 
 Lament
 
+
 People
 Hear
 Adverb
@@ -258704,6 +262757,7 @@ Names of Locations
 
 Location
 Space
+
 
 Body.Parts
 Non-Exist
@@ -258929,6 +262983,7 @@ Relations of Occurrence
 Must
 People
 Relations of Description
+
 Swarming Creatures
 
 Sing
@@ -258953,6 +263008,7 @@ Possess
 Groups
 Liquids
 
+
 Universe
 
 Move
@@ -258960,6 +263016,7 @@ Universe
 
 Location
 Land
+
 
 
 Rain
@@ -259139,9 +263196,11 @@ Names of Supernatural Beings
 High
 Banners
 
+
 Land
 Sounds
 Music
+
 
 People
 Attachment; Fight (Action)
@@ -259209,6 +263268,7 @@ Fight
 Space
 
 
+
 Dry
 Attribute
 Exist; Happen
@@ -259251,6 +263311,7 @@ Burn
 
 
 
+
 Identifiers
 Fight
 Afraid
@@ -259285,6 +263346,7 @@ Artifacts
 Lazy
 Ingest
 Relations of Description
+
 Aquatic Animals
 Must
 Parts: Creatures
@@ -259341,6 +263403,7 @@ Non-Exist
 Space
 
 Relations of Description
+
 Wild Animals
 Sounds
 Sounds
@@ -259388,6 +263451,7 @@ Exist; Happen
 
 Non-Exist
 Names of Locations
+
 
 People
 Move
@@ -259461,13 +263525,16 @@ Parts: Creatures
 
 Afraid
 
+
 Hear
 Identifiers
 Hear
 
+
 Land
 
 Move
+
 
 Time
 Identifiers
@@ -259479,7 +263546,9 @@ Space
 
 
 
+
 Oppress
+
 
 Land
 
@@ -259685,6 +263754,7 @@ Impact
 Parts: Constructions
 Identifiers
 High
+
 
 
 Burn
@@ -259900,17 +263970,21 @@ Names of Locations
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 Relations of Involvement
 Control
 
+
 Time
 Identifiers
 Quantity
 
+
 Quantity
+
 
 Time
 Move
@@ -259936,26 +264010,31 @@ Move
 Identifiers
 Towns
 
+
 Gather
 
 Quantity; Frequency
 
 Time
 
+
 Leaders
 Names of People
+
 
 Time
 Identifiers
 Quantity; Frequency
 
 Quantity; Frequency
+
 
 Time
 
 Modification (State/Process)
 Identifiers
 Ingest
+
 
 Towns
 
@@ -260068,6 +264147,7 @@ Blind
 
 Bind
 
+
 Metal
 
 Move
@@ -260084,16 +264164,20 @@ Time
 Universe
 
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 
 
+
+
 Time
 
 Time
 Quantity; Frequency
+
 
 
 
@@ -260137,6 +264221,7 @@ Great
 
 
 
+
 Identifiers
 Modification.Complete
 Constructions
@@ -260162,6 +264247,7 @@ Identifiers
 
 Identifiers
 Exist
+
 
 Towns
 
@@ -260377,6 +264463,7 @@ Modification.Complete
 Relations of Description
 Identifiers
 
+
 Constructions.Parts
 Identifiers
 Quantity; Frequency
@@ -260443,6 +264530,7 @@ Identifiers
 Leaders
 Relations of Description
 Search
+
 
 Towns
 
@@ -260577,6 +264665,7 @@ Quantity
 
 Quantity; Frequency
 
+
 Time
 Save
 Names of People
@@ -260607,6 +264696,7 @@ Relations of Association
 
 
 Direction
+
 
 
 Leaders
@@ -260654,9 +264744,11 @@ Exist; Happen
 Quantity; Frequency
 Time
 
+
 Quantity; Frequency
 
 Quantity; Frequency
+
 
 Time
 
@@ -260677,6 +264769,7 @@ Vision
 Deities
 
 Quantity; Frequency
+
 
 Time
 
@@ -260898,6 +264991,7 @@ Shine
 
 
 
+
 Identifiers
 
 Move
@@ -260920,6 +265014,7 @@ Animals
 discourse marker
 Parts: Vehicles
 Quantity
+
 
 Land
 Positors
@@ -261025,6 +265120,7 @@ Body.Parts
 Identifiers
 Animals
 
+
 Parts: Vehicles
 
 Move
@@ -261049,6 +265145,7 @@ Location
 Body.Parts
 Identifiers
 Animals
+
 
 Parts: Vehicles
 
@@ -261123,6 +265220,7 @@ Perception; Sounds
 
 
 
+
 Universe
 Relations of Description
 
@@ -261134,6 +265232,7 @@ Parts: Creatures
 
 
 Direction
+
 
 Universe
 Relations of Description
@@ -261196,6 +265295,7 @@ Identifiers
 Universe
 Relations of Description
 Exist; Happen
+
 
 Clouds
 
@@ -261736,6 +265836,7 @@ Identifiers
 
 Speak
 
+
 Evil
 Dead
 Dead
@@ -261875,6 +265976,7 @@ Referents of Location
 Names of Supernatural Beings
 Stance//Space
 Relations of Description
+
 
 Relations of Description
 
@@ -262026,6 +266128,7 @@ Location
 
 Exist; Happen
 
+
 Gather
 
 Gather
@@ -262099,8 +266202,10 @@ Quantity; Frequency
 Time
 Time
 
+
 Time
 Time
+
 
 
 Possess
@@ -262183,6 +266288,7 @@ Weight
 Quantity
 Weight
 
+
 Time
 
 
@@ -262226,6 +266332,7 @@ Names
 Identifiers
 Bread
 Unclean
+
 
 People
 Relations of Description
@@ -262347,6 +266454,7 @@ Weight
 Divide
 Quantity; Frequency
 
+
 Fire
 Burn
 
@@ -262365,11 +266473,13 @@ Identifiers
 Quantity; Frequency
 Impact
 
+
 Weapons
 Location
 
 Identifiers
 Quantity; Frequency
+
 
 
 Body.Parts
@@ -262403,6 +266513,7 @@ Identifiers
 
 Burn
 Identifiers
+
 
 
 
@@ -262573,8 +266684,10 @@ Negators
 Love; Merciful
 Quantity; Frequency
 
+
 Weak
 Dead
+
 
 
 Ingest
@@ -262584,6 +266697,7 @@ Location
 
 Identifiers
 Quantity; Frequency
+
 
 Attribute
 Move
@@ -262628,6 +266742,7 @@ Impact
 
 Shame
 
+
 People
 Relations of Description
 Location
@@ -262643,6 +266758,7 @@ Shame
 Know
 
 Afraid
+
 
 People
 Relations of Description
@@ -262742,10 +266858,14 @@ Speak
 
 Names of Supernatural Beings
 
+
 Elevations
 
 
+
 Scenery
+
+
 
 
 
@@ -262830,7 +266950,9 @@ Exist; Happen
 Flee
 Attribute
 
+
 People
+
 
 
 
@@ -262839,6 +266961,7 @@ Land
 Cognition
 Flee
 Identifiers
+
 
 People
 Relations of Description
@@ -262911,9 +267034,12 @@ Kinship / Construction
 Names
 Relations of Description
 
+
 Attribute
 
+
 Ingest
+
 
 
 Weak
@@ -262921,11 +267047,13 @@ Move
 Identifiers
 Dimension
 
+
 Weak
 Dead
 
 Identifiers
 Location
+
 
 Attribute
 Move
@@ -262935,6 +267063,7 @@ Exist
 
 Identifiers
 Safe
+
 
 Ingest
 Dead
@@ -263217,6 +267346,7 @@ Direction
 
 
 
+
 Alive
 Alive
 Names
@@ -263235,6 +267365,7 @@ Negators
 Involvement
 Sounds
 
+
 Music
 
 Non-Move
@@ -263244,6 +267375,7 @@ Modification.Complete
 
 Move
 
+
 Fight
 
 Angry
@@ -263252,6 +267384,7 @@ Modification.Complete
 Groups
 Identifiers
 Attribute
+
 
 Orientation: Attachment
 
@@ -263264,12 +267397,15 @@ Ingest
 Kinship / Construction
 Relations of Description
 
+
 Land
+
 
 Attribute
 Dead
 
 Relations of Description
+
 
 Towns
 
@@ -263320,6 +267456,7 @@ Modification.Complete
 Parts: Creatures; People; Animals
 Attribute
 Minerals; Metal
+
 
 Scenery
 Move
@@ -263487,13 +267624,16 @@ Names of Supernatural Beings
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 
+
 Quantity; Frequency
 
 Quantity; Frequency
+
 
 Time
 Participant Referents
@@ -263591,8 +267731,10 @@ Referents of Location
 Deities
 Names
 Relations of Description
+
 See
 Relations of Description
+
 
 
 Scenery
@@ -263625,6 +267767,7 @@ Angry
 Identifiers
 Identifiers
 
+
 Parts: Constructions
 
 Speak
@@ -263634,6 +267777,7 @@ People
 
 Participant Referents
 Participant Referents
+
 
 Serve
 Sin
@@ -263668,6 +267812,7 @@ discourse marker
 Parts: Scenery
 Quantity
 
+
 Parts: Constructions
 
 Speak
@@ -263677,9 +267822,11 @@ People
 Impact; Open
 
 
+
 Parts: Constructions
 
 Impact; Open
+
 
 Parts: Constructions
 
@@ -263764,6 +267911,7 @@ Leaders
 Kinship / Construction
 Names
 Serve
+
 
 Dark
 
@@ -263864,6 +268012,7 @@ Direction
 
 Participant Referents
 Stance
+
 
 
 Universe
@@ -264056,6 +268205,7 @@ Speak
 Parts: Creatures
 Move
 
+
 Towns
 Space
 
@@ -264095,6 +268245,7 @@ Occurrence
 Occurrence
 
 
+
 Identifiers
 Leaders
 Relations of Description
@@ -264120,6 +268271,7 @@ Move
 Move
 
 Impact
+
 
 Towns
 
@@ -264217,6 +268369,7 @@ Relations of Involvement
 Speak
 Serve
 Relations of Description
+
 Relations of Description
 Speak
 
@@ -264254,14 +268407,17 @@ Move
 Location
 
 Wood
+
 Products
 Location
+
 
 
 Supernatural Creatures
 
 Must
 Parts: People
+
 
 
 
@@ -264283,6 +268439,7 @@ Supernatural Creatures
 Stance//Space
 
 Direction
+
 
 Kinship / Construction
 
@@ -264359,7 +268516,9 @@ Possess
 
 
 
+
 Products
+
 
 
 
@@ -264377,6 +268536,7 @@ Identifiers
 Supernatural Creatures
 Identifiers
 Parts: Creatures
+
 
 
 
@@ -264403,6 +268563,7 @@ Possess
 Move
 
 Position
+
 
 Supernatural Creatures
 Artifacts
@@ -264496,6 +268657,7 @@ Location
 
 Quantity; Frequency
 Parts: Vehicles
+
 
 Parts: Vehicles
 
@@ -264746,6 +268908,7 @@ Laws
 Think
 Wrong
 
+
 Towns
 Identifiers
 Identifiers
@@ -264792,6 +268955,7 @@ Participant Referents
 Know
 Abundant
 Attribute
+
 
 Towns
 Identifiers
@@ -264846,6 +269010,7 @@ Identifiers
 Serve
 
 Laws
+
 
 Attribute
 Move
@@ -264970,10 +269135,12 @@ Names of Supernatural Beings
 
 Location
 
+
 People
 
 
 Scatter
+
 
 Land
 
@@ -264982,6 +269149,7 @@ Exist; Happen
 
 Buildings
 Frequency
+
 
 Land
 Relations of Description
@@ -265124,6 +269292,7 @@ Relations of Description
 
 Names
 
+
 Towns
 
 Body.Parts
@@ -265134,6 +269303,7 @@ Names
 Location
 Identifiers
 People
+
 
 See
 
@@ -265234,6 +269404,7 @@ Time
 Participant Referents
 Move
 
+
 Time
 
 
@@ -265245,6 +269416,7 @@ People
 Impact; Open
 
 
+
 Parts: Constructions
 
 Move
@@ -265254,6 +269426,7 @@ Move
 
 Parts: Creatures
 Carry
+
 
 Dark
 Move
@@ -265285,13 +269458,16 @@ People
 Time
 
 
+
 Time
 Impact; Open
+
 
 
 Parts: Constructions
 
 Parts: Creatures
+
 
 Dark
 
@@ -265305,6 +269481,7 @@ Exist; Happen
 Speak
 Names of Supernatural Beings
 Location
+
 
 Time
 Relations of Involvement
@@ -265355,7 +269532,9 @@ Adverb
 Exist
 
 
+
 People
+
 
 Submit
 Move
@@ -265369,9 +269548,11 @@ Location
 Parts: Creatures
 Carry
 
+
 Dark
 
 Move
+
 
 Parts: Constructions
 Impact; Open
@@ -265384,6 +269565,7 @@ Cover
 Relations of Description
 Negators
 Position; Connection
+
 
 Parts: Body
 Participants
@@ -265437,10 +269619,12 @@ Names of Supernatural Beings
 Scatter
 Identifiers
 
+
 People
 
 
 Identifiers
+
 
 Land
 
@@ -265460,6 +269644,7 @@ Speak
 Identifiers
 Modification.Complete
 Sin
+
 
 People
 Relations of Description
@@ -265740,6 +269925,7 @@ Exist; Happen
 Negators
 Move
 
+
 Impact
 
 Exist
@@ -265749,6 +269935,7 @@ Kinship / Construction
 Names
 Relations of Involvement
 Stance//Space
+
 
 Fight
 
@@ -265953,7 +270140,9 @@ Non-Happen
 Identifiers
 Angry
 
+
 Parts: Constructions
+
 
 
 Cover
@@ -266332,6 +270521,7 @@ Possess
 
 
 
+
 Identifiers
 Participants
 
@@ -266480,6 +270670,7 @@ Animals
 
 Move
 
+
 Land
 
 Childless
@@ -266532,6 +270723,7 @@ Identifiers
 Speak
 Attribute
 Move
+
 
 Land
 
@@ -266736,6 +270928,7 @@ Artifacts
 discourse particle
 
 
+
 Possess
 
 Food
@@ -266787,6 +270980,7 @@ Identifiers
 Scenery
 Relations of Description
 Possess
+
 
 
 
@@ -266995,6 +271189,7 @@ Exist; Happen
 
 Purify
 
+
 Liquids
 
 Purify
@@ -267003,6 +271198,7 @@ Parts: Creatures
 
 
 Attachment.Anoint
+
 
 Liquids
 
@@ -267013,6 +271209,7 @@ Dress
 Aquatic Animals
 
 Cover
+
 
 Cloth
 
@@ -267075,6 +271272,7 @@ Leaders
 Move
 
 Participants
+
 
 People
 
@@ -267367,6 +271565,7 @@ Roads
 Negators
 Exist; Happen
 Relations of Description
+
 Prostitutes
 Relations of Involvement
 Great; Reject
@@ -267538,6 +271737,7 @@ People
 Dead
 Identifiers
 
+
 Stone
 
 Dead
@@ -267546,6 +271746,7 @@ Weapons
 
 Burn
 Kinship / Construction
+
 
 
 
@@ -267753,6 +271954,7 @@ Sin
 
 Identifiers
 Sin
+
 
 
 Just
@@ -268322,6 +272524,7 @@ Serve
 Identifiers
 Leaders; Titles
 
+
 Fight
 
 Flow
@@ -268396,6 +272599,7 @@ Flee
 
 Modification.Complete
 Groups
+
 
 Attribute
 Move
@@ -268616,6 +272820,7 @@ Strip
 Cover
 Clothing
 
+
 Exchange
 Negators
 Possess
@@ -268698,6 +272903,7 @@ See
 See
 Sin
 Serve
+
 
 Exchange
 Possess
@@ -268872,6 +273078,7 @@ Just
 Exist; Happen
 
 Sin
+
 Evil
 
 Exist; Happen
@@ -269153,6 +273360,7 @@ Grasp
 Move
 
 
+
 Location
 Land
 Names
@@ -269214,7 +273422,9 @@ Grasp
 Traps
 Possess
 
+
 Traps
+
 
 
 
@@ -269223,6 +273433,7 @@ Location
 Leaders
 Names of Locations
 Move
+
 
 
 
@@ -269235,6 +273446,7 @@ Elevations
 Names
 Kinship
 Relations of Description
+
 Plants
 
 Parts: Creatures
@@ -269274,6 +273486,7 @@ Impact
 
 Angry
 
+
 Land
 Move
 
@@ -269292,6 +273505,7 @@ Ingest
 
 Adverb
 Attachment.Plant
+
 
 Land
 
@@ -269325,14 +273539,18 @@ Lament
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
 
+
 Quantity; Frequency
+
 
 Quantity
 Relations of Involvement
+
 Time
 Move
 
@@ -269426,6 +273644,7 @@ Speak
 Participant Referents
 Names of Supernatural Beings
 Deities
+
 
 Time
 Identifiers
@@ -269582,6 +273801,7 @@ Rebel
 Kinship / Construction
 Names
 
+
 Land
 
 
@@ -269612,6 +273832,7 @@ Angry
 
 
 
+
 Relations of Involvement
 Non-Exist
 
@@ -269633,6 +273854,7 @@ Move
 Focus particle
 Participant Referents
 High
+
 
 
 
@@ -269687,11 +273909,13 @@ Serve
 Identifiers
 Non-Exist
 
+
 Land
 
 Speak
 Location
 Kinship
+
 
 Land
 
@@ -269778,6 +274002,7 @@ Non-Happen
 Angry
 
 
+
 Land
 
 Move
@@ -269806,16 +274031,19 @@ Identifiers
 
 Relations of Involvement
 
+
 Land
 Relations of Involvement
 Scatter
 Identifiers
+
 
 People
 
 
 
 Identifiers
+
 
 Land
 
@@ -269980,6 +274208,7 @@ Move
 Kinship
 
 
+
 Participant Referents
 
 
@@ -270015,6 +274244,7 @@ Participant Referents
 Speak
 Exist; Happen
 Relations of Description
+
 People
 Relations of Description
 Groups
@@ -270185,6 +274415,7 @@ Modification.Complete
 Kinship / Construction
 
 Modification.Complete
+
 
 Land
 
@@ -270557,6 +274788,7 @@ Shine
 Relations of Involvement
 Grasp
 
+
 Parts: Creatures
 
 
@@ -270739,11 +274971,14 @@ Divination
 
 Shake
 
+
 Weapons
 Ask
 
+
 Artifacts
 Perception; Description
+
 
 Body
 
@@ -270812,6 +275047,7 @@ Modification.Complete
 Serve
 
 Cognition
+
 
 Parts: Creatures
 Grasp
@@ -270947,6 +275183,7 @@ Happen
 Non-Exist
 
 
+
 Exist; Happen
 
 Food
@@ -271029,6 +275266,7 @@ Time
 Possess
 Shame
 
+
 People
 
 Great; Despise; Mock
@@ -271067,8 +275305,10 @@ Kinship
 Despise (Action); Shame
 
 
+
 Classes
 Serve
+
 
 Oppress
 
@@ -271146,6 +275386,7 @@ Titles
 Wounds
 Friends
 
+
 Oppress
 
 Identifiers
@@ -271175,6 +275416,7 @@ Relations of Occurrence
 Attitude (State/Process)
 
 
+
 Time
 Relations of Description
 Participant Referents
@@ -271189,7 +275431,9 @@ Serve
 Scatter
 Identifiers
 
+
 People
+
 
 
 
@@ -271452,6 +275696,7 @@ Parts: Constructions
 
 Stance//Space
 
+
 Impact
 
 
@@ -271614,10 +275859,12 @@ Possess
 
 Identifiers
 
+
 Attribute
 Dead
 
 Exist; Happen
+
 
 
 People
@@ -271677,6 +275924,7 @@ Parts: Constructions
 Artifacts
 Names
 Write
+
 
 Color
 Dress
@@ -271876,6 +276124,7 @@ Move
 
 Exist
 
+
 Attribute
 Move
 Participant Referents
@@ -271886,6 +276135,7 @@ Possess
 
 Exist
 Ingest
+
 
 
 
@@ -272094,6 +276344,7 @@ Serve
 Identifiers
 Buildings
 
+
 Time
 Identifiers
 Participants
@@ -272112,6 +276363,7 @@ Products
 Move
 Location
 Buildings
+
 
 Time
 Identifiers
@@ -272193,6 +276445,7 @@ Parts: Creatures; People; Animals
 
 Speak
 
+
 Impact
 Sin
 
@@ -272271,6 +276524,7 @@ Dead
 Kinship / Construction
 
 
+
 Burn
 
 Non-Happen
@@ -272308,16 +276562,20 @@ Speak
 Names of Supernatural Beings
 Location
 
+
 Time
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity
 
+
 Quantity
 Relations of Involvement
+
 Time
 
 Speak
@@ -272615,14 +276873,17 @@ Location
 Identifiers
 Groups
 
+
 Time
 
 Dead
 People
 
+
 Time
 
 Serve
+
 
 Time
 Relations of Description
@@ -272676,6 +276937,7 @@ Kinship
 
 Kinship
 Relations of Description
+
 
 
 Attribute
@@ -272760,6 +277022,7 @@ Kinship
 
 Kinship
 
+
 Time
 Identifiers
 Participants
@@ -272770,6 +277033,7 @@ Location
 
 Know
 Parts: Creatures
+
 
 Time
 Identifiers
@@ -272844,6 +277108,7 @@ Kinship / Construction
 Names of Groups
 
 Move
+
 
 People
 
@@ -272921,6 +277186,7 @@ Possess
 
 Possess
 
+
 People
 
 Dead
@@ -272989,6 +277255,7 @@ Cognition
 Kinship
 Names of Groups; Names of Locations
 
+
 People
 
 
@@ -273042,6 +277309,7 @@ Impact
 Names of Locations
 
 Names of People
+
 
 Impact
 Move
@@ -273139,6 +277407,7 @@ Time
 
 Quantity
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -273217,12 +277486,15 @@ Exist; Happen
 
 Possess
 
+
 People
 
 Kinship
 Relations of Description
 
+
 Land
+
 
 Attribute
 Dead
@@ -273262,7 +277534,9 @@ Groups
 Abundant
 Kinship
 
+
 Land
+
 
 Attribute
 Dead
@@ -273320,11 +277594,13 @@ Modification.Complete
 Scenery
 Groups
 
+
 Attribute
 Dead
 
 Constructions
 Attribute
+
 
 Land
 Move
@@ -273455,6 +277731,7 @@ Attribute
 
 
 
+
 Space
 Relations of Description
 Possess
@@ -273474,6 +277751,7 @@ Identifiers
 Groups; Land
 Relations of Description
 
+
 Water; Direction
 
 Move
@@ -273488,6 +277766,7 @@ Identifiers
 Towns
 Impact
 Relations of Description
+
 Towns
 Relations of Description
 Negators
@@ -273999,6 +278278,7 @@ Sand
 
 Parts: Creatures; People; Animals
 
+
 Sand
 Move
 
@@ -274077,6 +278357,7 @@ Shake
 
 
 Exchange
+
 
 Groups
 Sounds
@@ -274193,6 +278474,7 @@ Wise
 
 Attribute
 Great
+
 
 Tombs
 Move
@@ -274390,6 +278672,7 @@ Position; Description
 Modification.Complete
 Know
 
+
 Groups
 Afraid
 
@@ -274551,15 +278834,18 @@ Participant Referents
 Names of Supernatural Beings
 Deities
 
+
 Time
 Identifiers
 Quantity
 
 
 
+
 Quantity; Frequency
 
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -274685,6 +278971,7 @@ Names
 Grasp
 
 
+
 Parts: Creatures
 Impact
 
@@ -274799,7 +279086,9 @@ Scatter
 Identifiers
 
 
+
 People
+
 
 
 
@@ -274858,6 +279147,7 @@ Quantity
 Negators
 Control
 
+
 People
 
 Negators
@@ -274887,10 +279177,12 @@ Quantity
 Quantity; Frequency
 Time
 
+
 Quantity
 
 Quantity
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -274977,6 +279269,7 @@ Laws
 
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Participants
@@ -275014,6 +279307,7 @@ Speak
 
 Names of Supernatural Beings
 Lament
+
 
 
 Time
@@ -275069,6 +279363,7 @@ Identifiers
 Covenant
 Relations of Association
 
+
 Attribute
 Move
 Adverb
@@ -275084,6 +279379,7 @@ Move
 Attribute
 Titles
 Names
+
 
 Attribute
 
@@ -275119,6 +279415,7 @@ Impact
 Modification.Complete
 Help
 
+
 Time
 Identifiers
 Participants
@@ -275128,6 +279425,7 @@ Deities
 Relations of Involvement
 
 Distress
+
 Ships
 
 Afraid
@@ -275277,10 +279575,12 @@ Names of Locations
 People
 
 
+
 Attribute
 Move
 
 Participant Referents
+
 
 Submit
 Move
@@ -275307,6 +279607,7 @@ Cover
 
 Kinship
 
+
 Submit
 Move
 
@@ -275326,10 +279627,12 @@ Quantity
 
 Time
 
+
 Quantity
 
 Quantity; Frequency
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -275361,6 +279664,7 @@ Relations of Involvement
 Attribute
 Relations of Involvement
 Grasp
+
 
 Attribute
 Titles
@@ -275396,7 +279700,9 @@ Scatter
 Identifiers
 Names
 
+
 People
+
 
 
 
@@ -275457,10 +279763,12 @@ Scatter
 Identifiers
 Names
 
+
 People
 
 
 Identifiers
+
 
 Land
 
@@ -275475,10 +279783,12 @@ Quantity
 
 Time
 
+
 Quantity; Frequency
 
 Quantity
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -275504,6 +279814,7 @@ Great
 discourse particle
 
 Trees
+
 
 Names of Geographical Objects
 Beautiful
@@ -275746,6 +280057,7 @@ Liquids
 Modification.Complete
 Possess
 
+
 Universe
 Location
 Land
@@ -275879,6 +280191,7 @@ Time
 
 Quantity
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -275903,7 +280216,9 @@ Compare
 
 Participant Referents
 Relations of Description
+
 Aquatic Animals
+
 
 
 
@@ -275937,6 +280252,7 @@ Move
 Traps
 
 Apart
+
 
 Land
 
@@ -275994,6 +280310,7 @@ Identifiers
 Universe
 Universe
 
+
 Clouds
 Cover
 
@@ -276004,6 +280321,7 @@ Light
 Modification.Complete
 Light
 Universe
+
 
 Universe
 Titles
@@ -276024,6 +280342,7 @@ Abundant
 
 Move
 Impact
+
 
 People
 
@@ -276108,6 +280427,7 @@ Titles
 
 Water
 Relations of Description
+
 Liquids
 Move
 Laws
@@ -276165,6 +280485,7 @@ Time
 Quantity; Frequency
 
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -276238,6 +280559,7 @@ Attribute
 Identifiers
 Move
 
+
 Attribute
 Relations of Description
 Possess
@@ -276253,6 +280575,7 @@ Tombs
 Modification.Complete
 Alive
 Move
+
 
 Attribute
 Relations of Description
@@ -276272,6 +280595,7 @@ Modification.Complete
 Attribute
 Identifiers
 Move
+
 
 Attribute
 Relations of Description
@@ -276519,6 +280843,7 @@ Land
 
 Sounds
 
+
 Music
 
 Know
@@ -276574,6 +280899,7 @@ Move
 Negators
 Sounds
 
+
 Music
 
 Identifiers
@@ -276618,6 +280944,7 @@ Identifiers
 
 
 Speak
+
 
 Evil
 Evil
@@ -276762,6 +281089,7 @@ Sin
 
 Speak
 
+
 Just
 Alive
 Alive
@@ -276787,6 +281115,7 @@ Dead
 
 
 Speak
+
 
 Evil
 Dead
@@ -276889,10 +281218,12 @@ Quantity; Frequency
 
 Time
 
+
 Quantity
 
 Quantity; Frequency
 Relations of Involvement
+
 Time
 
 People
@@ -276913,6 +281244,7 @@ Names of Supernatural Beings
 Exist; Happen
 Location
 
+
 Time
 
 
@@ -276926,6 +281258,7 @@ Identifiers
 Relations of Occurrence
 Move
 Location
+
 
 Time
 
@@ -277023,7 +281356,9 @@ Relations of Occurrence
 Animals
 Relations of Description
 
+
 Impact
+
 
 Impact
 Move
@@ -277034,6 +281369,7 @@ Relations of Description
 
 Land
 Relations of Involvement
+
 Alive
 Possess
 
@@ -277044,7 +281380,10 @@ Relations of Description
 
 
 
+
+
 Elevations
+
 
 Weak
 Dead
@@ -277203,6 +281542,7 @@ Speak
 Location
 
 
+
 Adverb
 Speak
 
@@ -277248,6 +281588,7 @@ Identifiers
 Weak
 Negators
 Well
+
 
 
 Impact
@@ -277470,6 +281811,7 @@ Names
 
 
 
+
 Modification.Complete
 Dwell
 Identifiers
@@ -277518,6 +281860,7 @@ Scatter
 Move
 
 
+
 Impact
 Cover
 
@@ -277551,7 +281894,9 @@ Domestic Animals
 
 
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -277694,11 +282039,13 @@ Land
 
 Space
 
+
 Land
 
 Secure
 
 Asleep
+
 
 Scenery
 
@@ -277758,6 +282105,7 @@ Exist; Happen
 
 Possess
 
+
 People
 
 Animals
@@ -277784,6 +282132,7 @@ Exist; Happen
 adverb
 Gather
 Ingest
+
 
 Land
 
@@ -278139,7 +282488,9 @@ Speak
 Impact
 Names of Supernatural Beings
 
+
 Elevations
+
 
 
 Scenery
@@ -278147,12 +282498,16 @@ Scenery
 
 
 
+
+
 Depressions
 
 
+
 Impact
 
 Impact
+
 
 
 Towns
@@ -278217,10 +282572,14 @@ Names
 Titles
 Speak
 
+
 Elevations
 
 
+
 Scenery
+
+
 
 
 
@@ -278446,7 +282805,9 @@ Products
 Scatter
 Identifiers
 
+
 People
+
 
 
 
@@ -278490,6 +282851,7 @@ Modification
 Kinship / Construction
 Names
 
+
 People
 Relations of Description
 Move
@@ -278517,6 +282879,7 @@ Pure
 Relations of Description
 Modification
 
+
 People
 Relations of Description
 Move
@@ -278529,6 +282892,7 @@ Identifiers
 Great
 Identifiers
 Modification
+
 
 People
 Relations of Description
@@ -278629,6 +282993,7 @@ Serve
 
 Space
 
+
 Land
 Relations of Description
 Possess
@@ -278681,6 +283046,7 @@ Possess
 adverb
 Shame
 Ingest
+
 
 People
 
@@ -278758,6 +283124,7 @@ Speak
 Identifiers
 Land
 
+
 Identifiers
 Impact
 Exist; Happen
@@ -278814,6 +283181,7 @@ Serve
 Abundant
 Identifiers
 Relations of Description
+
 Domestic Animals
 People
 Relations of Description
@@ -278915,6 +283283,7 @@ Speak
 
 Names of Supernatural Beings
 
+
 Parts: Creatures
 Identifiers
 Identifiers
@@ -279014,6 +283383,7 @@ Identifiers
 Body.Parts
 
 ?.Breathe
+
 
 Dead
 Identifiers
@@ -279282,6 +283652,7 @@ Identifiers
 
 People
 Quantity
+
 
 Land
 
@@ -279599,9 +283970,11 @@ Modification.Complete
 
 Move
 Relations of Description
+
 Impact
 Move
 Relations of Description
+
 Clouds
 Relations of Involvement
 Cover
@@ -279622,6 +283995,7 @@ Speak
 Names of Supernatural Beings
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -279737,6 +284111,7 @@ Names of Supernatural Beings
 Identifiers
 Negators
 
+
 Time
 Identifiers
 Participants
@@ -279773,6 +284148,7 @@ Move
 Groups
 Names
 Relations of Description
+
 Clouds
 Relations of Involvement
 Cover
@@ -279818,6 +284194,7 @@ Names
 Identifiers
 Speak
 
+
 Time
 Identifiers
 Participant Referents
@@ -279828,6 +284205,7 @@ Identifiers
 
 Move
 Exist; Happen
+
 
 Time
 Identifiers
@@ -279855,6 +284233,7 @@ Angry
 Speak
 Relations of Occurrence
 Negators
+
 
 Time
 Identifiers
@@ -279909,6 +284288,7 @@ Roads
 
 Modification.Complete
 Constructions
+
 
 Land
 
@@ -280155,6 +284535,7 @@ Identifiers
 Scenery
 Titles
 
+
 Clothing
 Burn
 
@@ -280171,6 +284552,7 @@ Laws
 Names of Supernatural Beings
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -280209,6 +284591,7 @@ Speak
 
 
 
+
 Space
 Kinship / Construction
 Names
@@ -280241,6 +284624,7 @@ Permanent
 Apart
 Move
 
+
 Land
 Space
 Identifiers
@@ -280265,6 +284649,7 @@ Move
 Identifiers
 
 
+
 Land
 
 
@@ -280280,6 +284665,7 @@ Identifiers
 Identifiers
 Space
 Location
+
 
 
 
@@ -280385,6 +284771,7 @@ Possess
 Identifiers
 
 
+
 People
 
 Position; Description
@@ -280441,6 +284828,7 @@ Possess
 Enemies
 
 Move
+
 
 Attribute
 Modification.Complete
@@ -280565,7 +284953,9 @@ Position; Occurrence
 Identifiers
 
 
+
 Quantity
+
 
 Time
 
@@ -280635,6 +285025,7 @@ Dimension
 Participants
 Stance//Space
 
+
 Parts: Constructions
 
 Speak
@@ -280679,6 +285070,7 @@ Constructions
 
 Orientation: Attachment
 
+
 Kinship / Construction
 Location
 Location
@@ -280692,6 +285084,7 @@ Identifiers
 Dimension
 Quantity; Frequency
 Dimension
+
 
 Dimension
 
@@ -280819,6 +285212,7 @@ Quantity; Frequency
 Dimension
 Quantity
 
+
 Parts: Buildings
 
 
@@ -280929,11 +285323,13 @@ Parts: Constructions
 
 
 
+
 Parts: Constructions
 Location
 Location
 Parts: Buildings
 Adverb
+
 
 Parts: Constructions
 
@@ -280959,6 +285355,7 @@ Parts: Constructions
 
 Constructions
 Serve
+
 
 Parts: Constructions
 Location
@@ -281017,6 +285414,7 @@ Relations of Description
 
 Identifiers
 Names of
+
 
 Parts: Constructions
 Identifiers
@@ -281054,6 +285452,7 @@ Quantity; Frequency
 
 Quantity
 
+
 Dimension
 Parts: Constructions
 Parts: Constructions
@@ -281083,6 +285482,7 @@ Parts: Constructions
 
 Parts: Constructions
 
+
 Parts: Constructions
 Identifiers
 Location
@@ -281090,7 +285490,9 @@ Location
 Identifiers
 
 
+
 Direction
+
 
 
 Attribute
@@ -281119,6 +285521,7 @@ Parts: Buildings
 
 Parts: Constructions
 Relations of Description
+
 Dimension
 Identifiers
 Identifiers
@@ -281167,6 +285570,7 @@ Parts: Buildings
 
 Parts: Constructions
 
+
 Parts: Constructions
 Identifiers
 Location
@@ -281203,6 +285607,7 @@ Identifiers
 Identifiers
 Direction
 Relations of Description
+
 Dimension
 Identifiers
 Identifiers
@@ -281213,6 +285618,7 @@ Parts: Buildings
 
 Parts: Constructions
 Parts: Constructions
+
 Dimension
 Identifiers
 Identifiers
@@ -281276,6 +285682,7 @@ Identifiers
 Identifiers
 Parts: Constructions
 Relations of Description
+
 Dimension
 Identifiers
 Identifiers
@@ -281286,6 +285693,7 @@ Parts: Buildings
 
 Parts: Constructions
 Parts: Constructions
+
 Dimension
 Identifiers
 Identifiers
@@ -281308,6 +285716,7 @@ Quantity
 Dimension
 Parts: Constructions
 Parts: Constructions
+
 
 Parts: Constructions
 Identifiers
@@ -281334,6 +285743,7 @@ Direction
 
 Measure
 Relations of Description
+
 Dimension
 Identifiers
 Identifiers
@@ -281357,6 +285767,7 @@ Quantity
 Dimension
 
 Parts: Buildings
+
 
 Parts: Constructions
 Identifiers
@@ -281419,6 +285830,7 @@ Parts: Constructions
 
 Orientation: Attachment
 
+
 Move
 
 Constructions.Parts
@@ -281462,6 +285874,7 @@ Dead
 Quantity; Frequency
 Furnishings
 
+
 Sacrifice
 Modification
 Parts: Constructions
@@ -281502,6 +285915,7 @@ Dimension
 Quantity
 People
 
+
 Kinship / Construction
 Location
 Location
@@ -281516,11 +285930,13 @@ Give; Sacrifice
 
 Orientation: Attachment
 
+
 Parts: Constructions
 Identifiers
 Location
 Parts: Constructions
 Sing
+
 
 Parts: Constructions
 Identifiers
@@ -281558,6 +285974,7 @@ Relations of Description
 Identifiers
 Direction
 
+
 Priests
 Uphold
 Uphold
@@ -281571,6 +285988,7 @@ Relations of Description
 
 Identifiers
 Scenery: Constructio
+
 
 Priests
 Uphold
@@ -281651,6 +286069,7 @@ Dimension
 Quantity; Frequency
 
 Dimension
+
 
 
 
@@ -281780,6 +286199,7 @@ Dimension
 Location
 Location
 
+
 Kinship / Construction
 Location
 
@@ -281795,11 +286215,14 @@ Time
 
 Move
 Grasp
+
 Parts: Constructions
 Relations of Description
 Grasp
+
 Kinship / Construction
 Relations of Involvement
+
 Parts;  Constructions
 Location
 Location
@@ -281823,6 +286246,7 @@ Direction
 
 
 
+
 Parts;  Constructions
 
 Direction
@@ -281835,10 +286259,12 @@ Kinship / Construction
 Location
 Location
 
+
 Kinship / Construction
 
 Adverb
 Dimension
+
 
 Kinship / Construction
 
@@ -281851,6 +286277,8 @@ Move
 
 Identifiers
 High
+
+
 
 
 
@@ -281874,6 +286302,7 @@ Identifiers
 Parts: Constructions
 Relations of Description
 
+
 Parts;  Constructions
 Location
 Identifiers
@@ -281887,6 +286316,7 @@ Kinship / Construction
 Parts;  Constructions
 Relations of Description
 
+
 Kinship / Construction
 
 
@@ -281896,6 +286326,7 @@ Dimension
 Quantity
 Dimension
 Location
+
 
 Kinship / Construction
 Location
@@ -281907,6 +286338,7 @@ Parts;  Constructions
 
 
 
+
 Quantity
 
 Identifiers
@@ -281914,6 +286346,7 @@ Names of
 
 
 Quantity
+
 
 Direction
 
@@ -281980,6 +286413,7 @@ Kinship / Construction
 
 Identifiers
 Parts: Constructions
+
 
 Attribute
 Quantity; Frequency
@@ -282057,6 +286491,7 @@ Identifiers
 Location
 
 
+
 Orientation: Attachment
 
 Location
@@ -282066,7 +286501,9 @@ Parts: Constructions
 Location
 Location
 
+
 Location
+
 
 
 Orientation: Attachment
@@ -282084,6 +286521,7 @@ Decorations
 
 
 Quantity; Frequency
+
 
 
 
@@ -282140,6 +286578,7 @@ Identifiers
 See
 Relations of Description
 
+
 Identifiers
 Scenery: Constructio
 Trees
@@ -282172,13 +286611,16 @@ Names of Supernatural Beings
 Quantity; Frequency
 Building.Parts
 
+
 Buildings
+
 
 
 Pure
 
 Quantity; Frequency
 Building.Parts
+
 
 Building.Parts
 Quantity; Frequency
@@ -282190,6 +286632,7 @@ Quantity; Frequency
 Quantity
 
 Quantity; Frequency
+
 
 
 Identifiers
@@ -282206,6 +286649,7 @@ Decorations
 Parts: Constructions
 Relations of Description
 Serve
+
 
 Parts: Constructions
 
@@ -282287,6 +286731,7 @@ Identifiers
 Quantity
 Relations of Description
 
+
 Parts: Constructions
 Identifiers
 Location
@@ -282295,6 +286740,7 @@ Location
 Constructions
 Relations of Description
 
+
 Parts: Constructions
 Identifiers
 Orientation: Attachment
@@ -282302,6 +286748,7 @@ Parts: Buildings
 Location
 
 Parts: Buildings
+
 
 Quantity; Frequency
 
@@ -282321,6 +286768,7 @@ Dimension
 Quantity
 
 Constructions.Parts
+
 
 Direction
 Participant Referents
@@ -282370,6 +286818,7 @@ Land
 Parts: Constructions
 Relations of Description
 
+
 Orientation: Attachment
 
 Location
@@ -282393,6 +286842,7 @@ Identifiers
 Parts: Constructions
 Relations of Description
 
+
 Parts: Constructions
 Identifiers
 Orientation: Attachment
@@ -282406,6 +286856,7 @@ Identifiers
 Buildings
 Quantity; Frequency
 Dimension
+
 
 
 
@@ -282567,12 +287018,14 @@ Serve
 
 
 Dress
+Dress
 Clothing
 Identifiers
 
 Space
 Location
 Relations of Description
+
 
 Groups
 
@@ -282714,6 +287167,7 @@ Relations of Description
 
 Relations of Description
 
+
 Relations of Description
 
 
@@ -282726,6 +287180,7 @@ Towns
 
 Vision
 Relations of Description
+
 
 Relations of Description
 
@@ -282769,6 +287224,7 @@ Identifiers
 Kinship / Construction
 
 Hear
+Speak
 Speak
 Location
 
@@ -282905,6 +287361,7 @@ Modification.Complete
 
 
 Modification.Complete
+Designs
 
 Modification.Complete
 Laws
@@ -282950,6 +287407,7 @@ Identifiers
 Dimension
 Identifiers
 Altars
+
 
 Dimension
 Dimension
@@ -283160,7 +287618,9 @@ Kinship / Construction
 
 Orientation: Attachment
 
+
 Buildings
+
 
 
 Time
@@ -283180,6 +287640,7 @@ Altars
 Relations of Description
 Relations of Description
 Purify
+
 
 Domestic Animals
 
@@ -283220,6 +287681,7 @@ Serve
 Domestic Animals
 Sacrifice
 
+
 Time
 
 Domestic Animals
@@ -283251,6 +287713,7 @@ Identifiers
 Time
 Scenery: Constructio
 Exist; Happen
+
 
 Time
 Identifiers
@@ -283537,6 +288000,7 @@ Identifiers
 Identifiers
 Products: Food
 Relations of Involvement
+
 Groups
 
 Participant Referents
@@ -283703,6 +288167,7 @@ Exist; Happen
 Parts: Creatures
 Negators
 Dress
+
 
 Parts: Creatures Products
 
@@ -283890,6 +288355,7 @@ Relations of Involvement
 Serve
 
 
+
 Space
 Sacrifice
 Laws
@@ -283941,12 +288407,14 @@ Modification.Complete
 Modification.Complete
 Sacrifice
 Relations of Involvement
+
 Priests
 Exist; Happen
 
 Time
 Bread
 Possess
+
 
 
 
@@ -284049,6 +288517,7 @@ Identifiers
 Land
 Participants
 Relations of Involvement
+
 Priests
 Serve
 Identifiers
@@ -284069,6 +288538,7 @@ Kinship / Construction
 
 Buildings
 
+
 Buildings
 
 Quantity; Frequency
@@ -284081,7 +288551,9 @@ Dimension
 Quantity; Frequency
 Dimension
 Exist; Happen
+Exist; Happen
 Relations of Association
+
 Names of Groups
 Serve
 Identifiers
@@ -284115,6 +288587,7 @@ Modification.Complete
 Kinship / Construction
 Names
 Exist; Happen
+
 
 
 Leaders
@@ -284164,6 +288637,7 @@ Scenery
 
 Location
 Scenery
+
 
 
 Land
@@ -284350,6 +288824,7 @@ Sacrifice
 Identifiers
 Identifiers
 
+
 Leaders
 
 Names
@@ -284367,10 +288842,13 @@ Give; Sacrifice
 Identifiers
 Sacrifice
 
+
 Festivals
 
 
+
 Festivals
+
 
 
 Time
@@ -284406,9 +288884,11 @@ Speak
 
 Names of Supernatural Beings
 
+
 Quantity
 
 Quantity
+
 
 Time
 Possess
@@ -284442,6 +288922,7 @@ Parts: Constructions
 Identifiers
 Furnishings
 
+
 Altars
 
 
@@ -284457,6 +288938,7 @@ Serve
 
 Quantity; Frequency
 
+
 Time
 
 
@@ -284470,11 +288952,13 @@ Identifiers
 Identifiers
 Kinship / Construction
 
+
 Quantity
 
 Quantity; Frequency
 
 Time
+
 
 Time
 Exist; Happen
@@ -284490,6 +288974,7 @@ Ingest
 Serve
 Identifiers
 Leaders
+
 
 Time
 Identifiers
@@ -284519,6 +289004,7 @@ Quantity; Frequency
 Domestic Animals
 Just
 
+
 Time
 Quantity; Frequency
 Identifiers
@@ -284528,14 +289014,17 @@ Sacrifice
 Domestic Animals
 Domestic Animals
 
+
 Time
 
 Give; Sacrifice
 Capacity
 
+
 Domestic Animals
 
 Capacity
+
 
 Domestic Animals
 Serve
@@ -284543,15 +289032,19 @@ Serve
 Liquids
 Capacity
 
+
 Capacity
 
+
 Quantity; Frequency
 
 Quantity; Frequency
 
 Time
 
+
 Time
+
 
 Festivals
 Serve
@@ -284561,14 +289054,18 @@ Quantity; Frequency
 
 Time
 Relations of Description
+
 Sacrifice
 Relations of Description
+
 Sacrifice
 
 Relations of Description
+
 Give; Sacrifice
 
 Relations of Description
+
 Liquids
 Titles
 Speak
@@ -284652,7 +289149,9 @@ Parts: Constructions
 Identifiers
 Participants
 
+
 Time
+
 
 
 Festivals
@@ -284682,7 +289181,9 @@ Domestic Animals
 Give; Sacrifice
 Capacity
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -284692,6 +289193,7 @@ Possess
 
 Liquids
 Capacity
+
 
 Capacity
 
@@ -284713,13 +289215,16 @@ Exist; Happen
 
 Capacity
 
+
 Domestic Animals
 
 Capacity
 
+
 Domestic Animals
 Serve
 Give; Sacrifice
+
 
 
 Domestic Animals
@@ -284730,6 +289235,7 @@ Pursue; Attain
 
 Liquids
 Capacity
+
 
 Capacity
 Parts: Constructions
@@ -284755,6 +289261,7 @@ Land
 Relations of Involvement
 
 Names of Supernatural Beings
+
 
 Festivals
 Identifiers
@@ -284803,7 +289310,9 @@ Move
 Move
 
 
+
 Festivals
+
 
 
 Festivals
@@ -284812,11 +289321,14 @@ Exist; Happen
 Give; Sacrifice
 Capacity
 
+
 Domestic Animals
 
 Capacity
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -284825,6 +289337,7 @@ Possess
 
 Liquids
 Capacity
+
 
 Capacity
 
@@ -284879,11 +289392,14 @@ Just
 Serve
 Sacrifice
 Relations of Association
+
 Time
 
 Names of Supernatural Beings
 
+
 Time
+
 
 Time
 Serve
@@ -284893,7 +289409,9 @@ Give; Sacrifice
 Serve
 
 
+
 Time
+
 
 Time
 Quantity; Frequency
@@ -284928,7 +289446,9 @@ Identifiers
 Identifiers
 Liquids
 
+
 Time
+
 
 Time
 Sacrifice
@@ -284975,6 +289495,7 @@ Free
 
 Direction
 
+
 Leaders
 restrictor>conjunctive adverb
 Possess
@@ -285010,6 +289531,7 @@ Possess
 
 Move
 
+
 Constructions.Parts
 Relations of Description
 
@@ -285031,6 +289553,7 @@ Direction
 discourse marker
 Referents of Location
 Space
+
 
 Location
 Water; Direction
@@ -285181,6 +289704,7 @@ Direction
 
 Names
 
+
 Altars
 
 Move
@@ -285221,9 +289745,11 @@ Parts: Creatures
 Measure
 Quantity; Frequency
 
+
 Dimension
 
 Move
+
 
 Liquids
 Liquids
@@ -285233,6 +289759,7 @@ Measure
 Quantity; Frequency
 
 Move
+
 
 Liquids
 Liquids
@@ -285495,6 +290022,7 @@ Identifiers
 
 Names of Locations
 
+
 Names of Locations
 Names of Locations
 Names
@@ -285507,6 +290035,7 @@ Names of Locations
 
 Scenery
 Names of Locations
+
 
 
 Relations of Description
@@ -285599,6 +290128,7 @@ Scenery
 
 Location
 
+
 Names of Locations
 Identifiers
 Parts: Objects
@@ -285653,6 +290183,7 @@ Groups
 
 Exist; Happen
 
+
 Groups
 Relations of Description
 Fight
@@ -285677,6 +290208,7 @@ Location
 Object Relations
 
 Names of Locations
+
 
 Names of Locations
 
@@ -285830,6 +290362,7 @@ Sacrifice
 Identifiers
 Pure
 
+
 Priests
 Direction
 Quantity; Frequency
@@ -285859,6 +290392,7 @@ Buildings
 Names of Supernatural Beings
 
 Location
+
 
 Priests
 Identifiers
@@ -285945,6 +290479,7 @@ Quantity; Frequency
 Identifiers
 Exist
 
+
 Dimension
 
 
@@ -285954,6 +290489,7 @@ Quantity
 Quantity; Frequency
 Attitude
 Participants
+
 
 Towns
 
@@ -286006,6 +290542,7 @@ Quantity; Frequency
 Exist; Happen
 Land
 
+
 Towns
 Direction
 Quantity; Frequency
@@ -286029,6 +290566,7 @@ Quantity; Frequency
 
 Identifiers
 Exist
+
 
 Dimension
 
@@ -286095,6 +290633,7 @@ Towns
 Identifiers
 Exist
 
+
 Leaders
 
 Identifiers
@@ -286137,6 +290676,7 @@ Divide
 
 
 
+
 Exist; Happen
 Sacrifice
 Identifiers
@@ -286161,6 +290701,7 @@ Towns
 Location
 Relations of Description
 
+
 Leaders
 Exist; Happen
 
@@ -286170,6 +290711,7 @@ Names of Groups
 
 Scenery
 Names of People
+
 
 
 Exist; Happen
@@ -286467,6 +291009,7 @@ Kinship / Construction
 Names
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -286645,6 +291188,7 @@ Birth
 
 Space
 Relations of Description
+
 Land
 
 Space
@@ -286653,6 +291197,7 @@ Land
 Land
 
 Dead
+
 
 Sense
 
@@ -286688,6 +291233,7 @@ Liquids
 discourse marker
 
 Identifiers
+
 
 
 Plants
@@ -286750,6 +291296,7 @@ Abundant
 
 Metal
 Serve
+
 
 Names of Supernatural Beings
 
@@ -286886,6 +291433,7 @@ Names
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -286917,6 +291465,7 @@ adverb
 Associate
 
 Covenant
+
 
 Time
 Identifiers
@@ -286979,6 +291528,7 @@ Names of Supernatural Beings
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -287017,6 +291567,7 @@ Identifiers
 Names
 
 Space
+
 
 
 Land
@@ -287163,6 +291714,7 @@ Faithful
 Know
 Deities
 
+
 Land
 Curse
 
@@ -287274,8 +291826,10 @@ Wish
 
 Exist; Happen
 Relations of Description
+
 Groups
 Relations of Description
+
 Priests
 
 Remember
@@ -287409,6 +291963,7 @@ Ingest
 Names of Supernatural Beings
 Relations of Description
 Domestic Animals
+
 
 Large
 Control
@@ -287547,8 +292102,10 @@ Possess
 Sounds
 Names of Locations
 
+
 Names of Locations
 Tools
+
 
 Names
 Shout
@@ -287576,6 +292133,7 @@ Scenery
 
 Cognition
 Relations of Description
+
 Liquids
 Angry
 
@@ -287590,11 +292148,13 @@ Worthless
 
 Participant Referents
 Relations of Description
+
 Swarming Creatures
 Relations of Association
 Names of People
 
 Relations of Description
+
 Stage
 
 Kinship / Construction
@@ -287633,11 +292193,13 @@ Wounds
 
 Participant Referents
 Relations of Description
+
 Wild Animals
 Relations of Association
 Names of People
 
 Relations of Description
+
 Wild Animals
 
 Kinship / Construction
@@ -287662,6 +292224,7 @@ Know
 Search; Ask
 
 
+
 Distress
 
 See
@@ -287681,6 +292244,7 @@ Cover
 Alive
 
 Time
+
 
 Time
 Identifiers
@@ -287704,6 +292268,7 @@ Constructions.Parts
 
 Move
 Relations of Description
+
 Rain
 
 Relations of Description
@@ -287725,12 +292290,14 @@ Clouds
 Time
 
 Relations of Description
+
 Rain
 Time
 Move
 Non-Exist
 
 Attitude
+
 
 Prophets
 Dead
@@ -287821,6 +292388,7 @@ Move
 
 
 
+
 Orientation: Attachment
 
 Negators
@@ -287872,6 +292440,7 @@ Taunt
 
 Space
 Relations of Description
+
 Constructions
 Parts: Creatures
 
@@ -287890,6 +292459,7 @@ Fire
 Modification.Complete
 Angry
 Relations of Description
+
 Constructions
 
 Ingest
@@ -287903,6 +292473,7 @@ Speak
 
 Location
 Names of People
+
 
 Groups
 Participants
@@ -288026,6 +292597,7 @@ Weapons
 Bad
 Move
 
+
 Attribute
 Leaders
 
@@ -288040,6 +292612,7 @@ Location
 Parts: Creatures
 Music
 Relations of Description
+
 Birds
 
 Kinship / Construction
@@ -288127,6 +292700,7 @@ Names
 Text deictic
 Exist; Happen
 
+
 People
 Relations of Description
 Artifacts
@@ -288146,6 +292720,7 @@ Love
 Focus particle
 
 Serve
+
 
 People
 Adverb
@@ -288220,6 +292795,7 @@ Names
 Location
 Joy
 Relations of Description
+
 Groups
 
 Sin
@@ -288357,6 +292933,7 @@ Sin
 Relations of Description
 Fruits
 
+
 Land
 Search; Know
 Names
@@ -288374,6 +292951,7 @@ Move
 
 Apart
 
+
 Deities
 
 Exist; Happen
@@ -288382,6 +292960,7 @@ Relations of Description
 Love
 Names of People
 Relations of Description
+
 Birds
 Move
 
@@ -288440,6 +293019,7 @@ Dry
 Modification.Complete
 Evil
 
+
 Object Referents
 
 Referents of Location
@@ -288480,6 +293060,7 @@ Hear
 Exist; Happen
 Move
 
+
 People
 Plants
 Impact
@@ -288492,6 +293073,7 @@ Abundant
 
 Fruits
 Abundant
+
 
 Altars
 Relations of Description
@@ -288535,6 +293117,7 @@ Covenant
 
 Stage
 Relations of Description
+
 Plants
 
 
@@ -288599,8 +293182,10 @@ Altars
 
 Speak
 
+
 Elevations
 Cover
+
 
 
 Scenery
@@ -288616,6 +293201,7 @@ Referents of Location
 Stance//Space
 Negators
 Pursue; Attain
+
 
 Names of Locations
 Fight
@@ -288721,6 +293307,7 @@ Names of Locations
 Evil
 
 
+
 Time
 Non-Exist
 Non-Exist
@@ -288744,8 +293331,10 @@ Move
 
 
 
+
 Names of Supernatural Beings
 Dead
+
 
 
 Artifacts
@@ -288951,6 +293540,7 @@ Happen
 Move
 
 
+
 Parts: Creatures
 False
 Identifiers
@@ -289058,6 +293648,7 @@ restrictor>modal word
 Scenery: Constructio
 Exist; Happen
 
+
 Object Referents
 Domestic Animals
 Dead
@@ -289118,6 +293709,7 @@ Names
 
 Bear
 
+
 Names of Supernatural Beings
 
 Dead
@@ -289152,6 +293744,7 @@ Clouds
 Time
 
 Relations of Description
+
 Rain
 Time
 Move
@@ -289183,6 +293776,7 @@ Know
 Negators
 Participant Referents
 Know
+
 
 Land
 
@@ -289326,6 +293920,7 @@ Rebel
 People
 Deities
 
+
 Attribute
 Move
 Kinship
@@ -289390,6 +293985,7 @@ Angry
 
 Exist; Happen
 Relations of Description
+
 Rain
 Relations of Association
 Names
@@ -289397,21 +293993,25 @@ Stage
 Relations of Description
 
 
+
 Impact
 Foliage
 Relations of Description
+
 Names of Geographical Objects
 Move
 Foliage
 
 Exist; Happen
 Relations of Description
+
 Trees
 Great
 
 Smell
 
 Relations of Description
+
 Names of Geographical Objects
 Direction
 Space
@@ -289422,6 +294022,7 @@ Crops
 
 Stage
 Relations of Description
+
 Plants
 Cognition
 Relations of Description
@@ -289431,6 +294032,7 @@ Names of People
 
 
 adverb
+
 
 Artifacts
 Participant Referents
@@ -289648,6 +294250,7 @@ Altars
 Move
 Dwell
 
+
 Containers/Cloth
 
 Deities
@@ -289677,6 +294280,7 @@ Lament
 Location
 Names of Supernatural Beings
 Exclamations
+
 
 Time
 
@@ -289905,11 +294509,14 @@ Move
 Negators
 Detach
 
+
 Towns
 Move.Run
 
+
 Constructions
 Move
+
 
 Kinship / Construction
 Move
@@ -289918,6 +294525,7 @@ Move
 Parts: Constructions
 Move
 Relations of Description
+
 People
 
 
@@ -290050,6 +294658,7 @@ Parts: Constructions
 Scenery: Constructio
 
 
+
 Altars
 Lament
 Identifiers
@@ -290074,6 +294683,7 @@ Shame
 People
 
 Speak
+
 
 
 Referents of Existence
@@ -290115,6 +294725,7 @@ Possess
 Identifiers
 adverb
 Shame
+
 
 People
 
@@ -290207,6 +294818,7 @@ Rain
 
 
 Rain
+
 
 Quantity
 
@@ -290318,6 +294930,7 @@ Classes; Officials; Serve
 Identifiers
 Classes
 
+
 Time
 Identifiers
 Participant Referents
@@ -290328,7 +294941,9 @@ Body.Parts
 Possess
 Miracles
 
+
 Universe
+
 
 
 Land
@@ -290382,6 +294997,7 @@ Speak
 Names of Supernatural Beings
 
 
+
 Exist
 Relations of Description
 Names of Supernatural Beings
@@ -290389,9 +295005,11 @@ Speak
 
 Discourse particle
 
+
 Time
 Identifiers
 Participant Referents
+
 
 
 
@@ -290427,6 +295045,7 @@ Names
 Relations of Description
 Scatter
 
+
 People
 
 Identifiers
@@ -290442,11 +295061,13 @@ Possess
 Identifiers
 People
 
+
 Prostitutes
 
 Identifiers
 People
 Exchange
+
 
 Liquids; Wine; Crops
 
@@ -290544,6 +295165,7 @@ Names of Supernatural Beings
 Speak
 Speak
 Identifiers
+
 
 People
 Attachment; Fight (Action)
@@ -290690,6 +295312,7 @@ adverb
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -290765,6 +295388,7 @@ Speak
 Names
 Relations of Description
 Exist; Happen
+
 
 Professions
 
@@ -290962,6 +295586,7 @@ Move
 
 Pursue
 
+
 Attribute
 Kinship
 
@@ -291030,6 +295655,7 @@ Wind
 Move
 Leaders
 
+
 People
 Participants
 
@@ -291054,6 +295680,7 @@ Burn
 Parts: Creatures
 Leaders
 Names of Groups
+
 
 Sand
 
@@ -291140,6 +295767,7 @@ Move
 
 Exchange
 
+
 Minerals; Metal
 Just
 
@@ -291203,6 +295831,7 @@ Proud
 Attribute
 Participants
 Relations of Description
+
 Trees
 
 Non-Exist
@@ -291223,6 +295852,7 @@ Names
 
 Move
 Identifiers
+
 
 Land
 Quantity; Frequency
@@ -291318,9 +295948,11 @@ Negators
 Strong
 Parts: Creatures
 
+
 Strong
 Strip
 Flee
+
 
 Time
 
@@ -291374,6 +296006,7 @@ Relations of Occurrence
 Gather
 Wild Animals
 Sounds
+
 
 
 Scenery
@@ -291576,6 +296209,7 @@ Altars
 
 Move
 
+
 Land
 
 Impact
@@ -291665,6 +296299,7 @@ Sin
 
 Move
 
+
 Time
 Products: Food
 
@@ -291723,6 +296358,7 @@ adverb
 Quantity; Frequency
 Time
 
+
 Food
 
 Attribute.Wet
@@ -291768,7 +296404,9 @@ Names of Supernatural Beings
 Impact
 Identifiers
 
+
 Impact
+
 
 
 Impact
@@ -291796,6 +296434,7 @@ People
 
 Names
 Dead
+
 
 Attribute
 Smell
@@ -291944,6 +296583,7 @@ Negators
 Move
 
 
+
 Negators
 Move
 
@@ -291965,6 +296605,7 @@ Alive
 Strong
 Relations of Description
 
+
 Kinship / Construction
 Names of People
 
@@ -291982,6 +296623,7 @@ Plants
 
 Just
 
+
 Land
 Space
 Serve
@@ -291990,6 +296632,7 @@ Names of Geographical Objects
 Universe; Names of Constellations
 
 Move
+
 
 Time
 Dark
@@ -292022,6 +296665,7 @@ Strong
 Fortifications
 Move
 Hate
+
 
 Parts: Constructions
 |aREB|a*uke
@@ -292068,11 +296712,13 @@ Exchange
 
 Classes
 
+
 Parts: Constructions
 Stance
 
 Identifiers
 Wise
+
 
 
 Identifiers
@@ -292106,6 +296752,7 @@ Love
 Well
 
 Space
+
 
 Parts: Constructions
 
@@ -292246,6 +296893,7 @@ Hear
 
 Move
 Relations of Description
+
 Liquids
 
 
@@ -292258,6 +296906,7 @@ Products: Food
 
 Give; Sacrifice
 Space
+
 
 
 Land
@@ -292319,6 +296968,7 @@ Perception; Description
 Move
 
 Referents of Location
+
 
 
 Move
@@ -292489,10 +297139,12 @@ Little
 Identifiers
 Move
 
+
 Stone
 Domestic Animals
 Relations of Occurrence
 Impact
+
 
 Domestic Animals
 
@@ -292603,6 +297255,7 @@ Fight
 
 
 
+
 Names of Supernatural Beings
 
 Ingest
@@ -292690,6 +297343,7 @@ Impact
 Kinship / Construction
 Names
 
+
 Attribute
 
 
@@ -292722,6 +297376,7 @@ Speak
 Adverb
 Speak
 Names
+
 
 Attribute
 Dead
@@ -292827,6 +297482,7 @@ Speak
 Names of Supernatural Beings
 People
 
+
 Towns
 Sin
 
@@ -292834,10 +297490,12 @@ Kinship
 
 Kinship
 
+
 Attribute
 Move
 
 Land
+
 
 Cords
 Possess
@@ -292891,6 +297549,7 @@ Move
 Lament
 Titles
 Buildings
+
 
 Time
 Identifiers
@@ -292946,6 +297605,7 @@ False
 
 Possess
 
+
 Minerals; Metal
 Poor
 
@@ -292984,6 +297644,7 @@ Space
 Move
 Relations of Description
 
+
 Modification.Complete
 
 Pursue
@@ -292994,6 +297655,7 @@ Names of Geographical Objects
 Names
 Titles
 Exist; Happen
+
 
 Time
 Identifiers
@@ -293006,9 +297668,11 @@ Move
 Identifiers
 Universe
 
+
 Existence
 
 Dark
+
 
 Land
 
@@ -293055,14 +297719,17 @@ Names of Supernatural Beings
 Occurrence
 Ingest
 
+
 Land
 Negators
 
 Relations of Involvement
+
 Bread
 
 Negators
 Sense
+
 
 Liquids
 
@@ -293094,6 +297761,7 @@ Names of Supernatural Beings
 Negators
 Search; Know
 
+
 Time
 Identifiers
 Participants
@@ -293105,6 +297773,7 @@ Beautiful
 
 Identifiers
 People
+
 
 Sense
 Names of Deities
@@ -293119,6 +297788,7 @@ Deities
 Names
 
 Alive
+
 
 
 
@@ -293150,6 +297820,7 @@ Parts: Creatures; People; Animals
 Modification.Complete
 
 Exist
+
 
 Attribute
 Dead
@@ -293212,6 +297883,7 @@ Attachment
 Relations of Occurrence
 Move
 
+
 Submit
 
 
@@ -293242,6 +297914,7 @@ Deities
 Identifiers
 Touch
 
+
 Land
 
 Weak
@@ -293253,6 +297926,7 @@ Space
 
 Move
 Relations of Description
+
 Names of Geographical Objects
 Modification.Complete
 
@@ -293262,6 +297936,7 @@ Names of Geographical Objects
 Names
 Identifiers
 Exist
+
 
 Universe
 
@@ -293316,6 +297991,7 @@ Discourse particle
 
 Names of Supernatural Beings
 
+
 Groups
 Identifiers
 Sin
@@ -293354,12 +298030,14 @@ Relations of Description
 Relations of Description
 Shake
 
+
 Tools
 
 Negators
 Move
 Stone
 Land
+
 
 Attribute
 Dead
@@ -293375,6 +298053,7 @@ Happen
 
 Identifiers
 Evil
+
 
 Time
 Identifiers
@@ -293422,6 +298101,7 @@ Names of Supernatural Beings
 
 Time
 Impact
+
 
 Detach
 
@@ -293500,6 +298180,7 @@ Names of Supernatural Beings
 
 People
 
+
 People
 Move
 
@@ -293507,10 +298188,12 @@ Move
 Stance
 
 
+
 Fight
 discourse particle
 Small
 Possess
+
 
 People
 Despise
@@ -293534,6 +298217,7 @@ Land
 Relations of Occurrence
 High
 Relations of Description
+
 Birds
 
 Relations of Occurrence
@@ -293593,6 +298277,7 @@ Know
 
 Identifiers
 Negators
+
 
 Time
 Identifiers
@@ -293944,6 +298629,7 @@ Great
 
 
 
+
 Identifiers
 Ships
 Think
@@ -293964,6 +298650,7 @@ Identifiers
 Identifiers
 Artifacts
 Relations of Description
+
 
 Ships
 Location
@@ -294380,6 +299067,7 @@ Names of Supernatural Beings
 Speak
 Names of Supernatural Beings
 
+
 Aquatic Animals
 
 Excrete
@@ -294440,6 +299128,7 @@ Occurrence
 Names of People
 Relations of Involvement
 Move
+
 
 Towns
 Move
@@ -294679,6 +299368,7 @@ Space
 
 Names
 
+
 Towns
 
 Serve
@@ -294689,12 +299379,14 @@ Tents
 Space
 
 
+
 Attachment
 Relations of Occurrence
 Relations of Description
 Position; Description
 
 Exist; Happen
+
 
 Towns
 
@@ -294735,6 +299427,7 @@ Deities
 Move
 Identifiers
 Time
+
 
 Time
 
@@ -294910,6 +299603,7 @@ Identifiers
 Depressions
 Impact
 Relations of Description
+
 Parts: Creatures Products
 
 
@@ -294956,6 +299650,7 @@ Land
 
 Attachment.Pour
 
+
 Depressions
 Parts: Constructions
 
@@ -294969,6 +299664,7 @@ Impact
 Modification.Complete
 Possess
 Burn
+
 
 Fire
 
@@ -294998,6 +299694,7 @@ Strip
 Serve
 Grief
 Relations of Description
+
 Wild Animals
 
 Grief
@@ -295024,6 +299721,7 @@ Speak
 Lament
 Negators
 Lament
+
 
 
 
@@ -295062,6 +299760,7 @@ Names
 Bind
 Identifiers
 Vehicles
+
 
 Domestic Animals
 Space
@@ -295110,6 +299809,7 @@ Involvement.Comfort
 Large
 Attribute
 Relations of Description
+
 Birds
 
 Uncover
@@ -295172,6 +299872,7 @@ Parts: Creatures
 Negators
 Move
 Proud
+
 
 
 
@@ -295294,7 +299995,9 @@ False
 Speak
 
 
+
 Liquids; Wine; Crops
+
 
 
 Liquids; Wine
@@ -295399,6 +300102,7 @@ Impact
 Relations of Description
 Relations of Description
 
+
 Containers
 
 Relations of Description
@@ -295416,6 +300120,7 @@ Utter
 Identifiers
 
 Hide
+
 
 
 
@@ -295714,6 +300419,7 @@ Time
 
 Time
 
+
 Time
 Identifiers
 Participants
@@ -295787,6 +300493,7 @@ Non-Exist; Dead
 Involvement
 Distress
 Relations of Description
+
 Birth
 Distress
 
@@ -295794,6 +300501,7 @@ Location
 Kinship
 Names of Groups
 Relations of Description
+
 Birth
 
 Adverb
@@ -295802,6 +300510,7 @@ Move
 Towns
 
 Dwell
+
 
 Land
 
@@ -295843,6 +300552,7 @@ Think
 
 Gather
 Relations of Description
+
 Crops
 Scenery
 Stance
@@ -295880,6 +300590,7 @@ Kinship
 
 Gather
 Space
+
 
 
 Tools
@@ -295977,6 +300688,7 @@ Identifiers
 Land
 Names of Groups
 
+
 Attribute
 
 Identifiers
@@ -296030,6 +300742,7 @@ Exist; Happen
 Exist
 Wild Animals
 
+
 People
 
 Association
@@ -296065,6 +300778,7 @@ Hate
 Dead
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -296281,6 +300995,7 @@ Deities
 Perception; Sounds
 Names of Supernatural Beings
 
+
 Towns
 Speak
 
@@ -296350,6 +301065,7 @@ Negators
 Save
 
 Relations of Description
+
 
 
 Attribute
@@ -296423,6 +301139,7 @@ Land
 
 Just
 
+
 People
 
 Modification.Complete
@@ -296446,6 +301163,7 @@ Ask
 
 Identifiers
 Leaders
+
 
 Involvement.Retribution
 
@@ -296520,6 +301238,7 @@ Stance
 
 Space
 
+
 Attitude
 Names of Supernatural Beings
 Abundant
@@ -296538,6 +301257,7 @@ Involvement.Contend
 Serve
 
 Move
+
 
 Abundant
 Position; Description
@@ -296655,6 +301375,7 @@ Handicap
 Ingest
 Sand
 Relations of Description
+
 Small Animals
 Relations of Description
 Move
@@ -296764,6 +301485,7 @@ Sand
 Parts: Creatures
 |aREB|a*uke
 
+
 Water; Direction
 
 Dry
@@ -296813,6 +301535,7 @@ Angry
 Angry
 Attachment.Pour
 Relations of Description
+
 Fire
 
 Identifiers
@@ -296990,17 +301713,21 @@ Identifiers
 Trees
 Shake
 
+
 Scenery
 Think
 Identifiers
 Vehicles
 Move.Run
 
+
 Roads
 See
 Relations of Description
+
 Lamps
 Relations of Description
+
 
 Move
 Occurrence
@@ -297059,6 +301786,7 @@ Metal
 
 Extent
 
+
 Designs
 
 
@@ -297092,6 +301820,7 @@ Wild Animals
 Wild Animals
 Move
 Participants
+
 
 Wild Animals
 Relations of Description
@@ -297127,6 +301856,7 @@ Names of Supernatural Beings
 Deities
 
 Burn
+
 
 Substances.Smoke
 Vehicles
@@ -297185,7 +301915,9 @@ Parts: Creatures
 
 Extent
 
+
 Parts
+Involvement.Waver
 Involvement.Waver
 
 Parts
@@ -297258,6 +301990,7 @@ Names of Deities
 
 Space
 
+
 Names of Geographical Objects
 Liquids
 Location
@@ -297284,8 +302017,10 @@ Help
 Focus particle
 
 
+
 People
 Move
+
 
 Submit
 Focus particle
@@ -297304,6 +302039,7 @@ Products
 Modification.Complete
 Great
 Bind
+
 
 Cords
 Focus particle
@@ -297351,9 +302087,11 @@ Attribute (Causative action)
 Fortifications
 Move
 
+
 Sand
 
 Impact
+
 
 Sand
 Attachment (Action)
@@ -297365,12 +302103,15 @@ Dead
 Attribute
 Ingest
 Relations of Description
+
 Swarming Creatures
 Quantity
 Relations of Description
+
 Swarming Creatures
 Quantity
 Relations of Description
+
 Swarming Creatures
 Abundant
 Exchange
@@ -297384,6 +302125,7 @@ Swarming Creatures
 Move
 
 Relations of Description
+
 Swarming Creatures
 
 Officials
@@ -297392,6 +302134,7 @@ Relations of Description
 Swarming Creatures
 Identifiers
 Dwell
+
 
 Fortifications
 
@@ -297500,6 +302243,7 @@ Move
 Wrong
 
 
+
 People
 
 See
@@ -297581,10 +302325,12 @@ Location; Space
 
 Gather
 Relations of Description
+
 Sand
 Submit
 
 Participants
+
 
 Leaders
 Great; Despise; Mock
@@ -297750,7 +302496,9 @@ Vision
 
 
 
+
 ?.Breathe
+
 
 Non-Happen
 
@@ -297795,6 +302543,7 @@ Universe
 
 Participants
 Relations of Description
+
 Universe
 
 Negators
@@ -297877,6 +302626,7 @@ Kinship / Construction
 Relations of Involvement
 Space
 
+
 High
 Constructions
 
@@ -297943,6 +302693,7 @@ Identifiers
 
 Names of Supernatural Beings
 Relations of Description
+
 Liquids
 Cover
 
@@ -298017,6 +302768,7 @@ Artifacts
 Handicap; Silent
 Judgment
 Speak
+
 
 Trees
 Awake
@@ -298095,6 +302847,7 @@ Land
 
 Shine
 Relations of Description
+
 Universe
 Exist; Happen
 Light
@@ -298148,9 +302901,11 @@ Angry
 Names of Supernatural Beings
 Relations of Occurrence
 
+
 Water
 Angry
 Relations of Occurrence
+
 
 Water; Direction
 Angry
@@ -298234,8 +302989,10 @@ Relations of Involvement
 Ingest
 Classes
 
+
 Hide
 Move
+
 
 Water; Direction
 Domestic Animals
@@ -298275,6 +303032,7 @@ Stage
 
 Crops
 
+
 Plants
 False
 Happen
@@ -298291,6 +303049,7 @@ Domestic Animals
 
 
 Domestic Animals
+
 
 Stalls
 
@@ -298309,11 +303068,13 @@ Strong; Confident
 Space
 Speed
 Relations of Description
+
 Wild Animals
 
 
 Elevations
 Move
+
 
 Move
 
@@ -298495,6 +303256,7 @@ Move
 Identifiers
 Constructions.Parts
 
+
 Time
 Identifiers
 Participants
@@ -298507,6 +303269,7 @@ Possess
 False
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -298547,11 +303310,13 @@ Minerals; Metal
 Exist; Happen
 
 
+
 Identifiers
 
 Sensation
 Identifiers
 Names
+
 
 Lamps
 
@@ -298652,10 +303417,12 @@ High
 
 Space
 Relations of Association
+
 People
 
 Move
 Relations of Description
+
 Blind
 
 
@@ -298665,10 +303432,12 @@ Sin
 
 Parts: Creatures
 Relations of Description
+
 Sand
 
 Parts: Creatures
 Relations of Description
+
 Body Products
 correlative conjunction
 Minerals; Metal
@@ -298761,6 +303530,7 @@ Names of Locations
 Impact
 Names of Locations
 
+
 Existence
 Pursue
 
@@ -298807,6 +303577,7 @@ Ingest
 
 Kinship / Construction
 Names of Locations
+
 
 Time
 Secure
@@ -298921,6 +303692,7 @@ Names
 Impact
 Land
 Relations of Description
+
 Land
 
 Stance
@@ -298940,8 +303712,10 @@ Dwell
 Perception; Sounds
 Sing
 
+
 Parts: Constructions
 Impact
+
 
 Parts: Constructions
 
@@ -298969,6 +303743,7 @@ Exist; Happen
 
 Non-Exist
 Space
+
 
 Animals
 Modification.Complete
@@ -299011,6 +303786,7 @@ Time
 Negators
 Space
 
+
 Time
 Prophets
 Proud
@@ -299029,11 +303805,14 @@ Negators
 Serve
 Wrong
 
+
 Time
+
 
 Time
 
 Possess
+
 
 
 Negators
@@ -299140,6 +303919,7 @@ Scatter
 Move
 Give; Sacrifice
 
+
 Time
 Identifiers
 Participants
@@ -299232,6 +304012,7 @@ Afraid
 Wrong
 adverb
 
+
 Time
 Identifiers
 Participants
@@ -299277,6 +304058,7 @@ Modification.Complete
 Oppress
 
 
+
 Identifiers
 
 
@@ -299302,10 +304084,12 @@ Land
 Shame
 
 
+
 Identifiers
 
 Move
 Identifiers
+
 
 
 
@@ -299340,12 +304124,14 @@ Names
 Identifiers
 Leaders
 
+
 Time
 Identifiers
 Quantity; Frequency
 
 Time
 Quantity
+
 
 Time
 Exist; Happen
@@ -299613,6 +304399,7 @@ Names of Supernatural Beings
 Know
 Names of Supernatural Beings
 Relations of Involvement
+
 Groups
 
 Speak
@@ -299663,7 +304450,9 @@ Quantity
 
 Quantity; Frequency
 Relations of Association
+
 Time
+
 
 Quantity; Frequency
 
@@ -299674,12 +304463,14 @@ Names
 
 Leaders
 
+
 Quantity; Frequency
 
 Quantity
 
 Quantity
 Relations of Involvement
+
 Time
 Exist; Happen
 Speak
@@ -299868,6 +304659,7 @@ Names of Supernatural Beings
 Deities
 
 
+
 Space
 Identifiers
 Identifiers
@@ -299881,6 +304673,7 @@ Quantity
 
 Quantity; Frequency
 Relations of Association
+
 Quantity; Frequency
 
 Time
@@ -300041,10 +304834,13 @@ Quantity
 Impact
 Identifiers
 
+
 Impact
 
 
+
 Impact
+
 
 
 Rain
@@ -300074,6 +304870,7 @@ Quantity
 
 Quantity; Frequency
 
+
 Quantity; Frequency
 
 
@@ -300089,6 +304886,7 @@ Identifiers
 existential particle
 Identifiers
 Plants
+
 
 Buildings
 
@@ -300125,6 +304923,7 @@ Quantity
 
 Quantity; Frequency
 Relations of Involvement
+
 Time
 
 Speak
@@ -300169,6 +304968,7 @@ Domestic Animals
 Attribute
 Identifiers
 
+
 Time
 Identifiers
 Participants
@@ -300185,6 +304985,7 @@ Names of Supernatural Beings
 
 Space
 Relations of Description
+
 Jewellery
 
 
@@ -300192,6 +304993,7 @@ Apart
 
 Names of Supernatural Beings
 Deities
+
 
 Time
 Identifiers
@@ -300365,6 +305167,7 @@ Identifiers
 Trees
 Relations of Description
 
+
 Water
 
 Space
@@ -300409,6 +305212,7 @@ Names of Supernatural Beings
 Relations of Involvement
 Act
 
+
 Land
 
 Utter
@@ -300423,6 +305227,7 @@ Trees
 
 Speak
 Act
+
 
 Land
 
@@ -300696,6 +305501,7 @@ Location
 Identifiers
 People
 
+
 Relations of Involvement
 Speak
 Towns
@@ -300807,6 +305613,7 @@ People
 Abundant
 Location
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -301061,6 +305868,7 @@ Identifiers
 Time
 Quantity
 
+
 Time
 Identifiers
 Participants
@@ -301119,6 +305927,7 @@ Quantity; Frequency
 
 Quantity; Frequency
 Parts: Furnishings
+
 
 
 Relations of Description
@@ -301369,9 +306178,11 @@ Move
 Dimension
 Quantity
 
+
 Dimension
 
 Dimension
+
 
 
 Dimension
@@ -301419,6 +306230,7 @@ Location
 Kinship / Construction
 Identifiers
 Vow
+
 
 
 
@@ -301597,6 +306409,7 @@ Elevations
 Elevations
 Metal
 
+
 Vehicles
 Identifiers
 Quantity
@@ -301605,10 +306418,12 @@ Domestic Animals
 
 
 
+
 Identifiers
 Quantity; Frequency
 
 Color
+
 
 
 Vehicles
@@ -301616,6 +306431,7 @@ Identifiers
 Quantity; Frequency
 Domestic Animals
 Color
+
 
 
 
@@ -301692,15 +306508,18 @@ Move
 Relations of Involvement
 Move
 
+
 Land
 
 Speak
 Act
 Act
 
+
 Land
 
 Act
+
 
 Land
 
@@ -301748,6 +306567,7 @@ Names of People
 
 Move
 Participant Referents
+
 
 Time
 Identifiers
@@ -301895,6 +306715,7 @@ Names
 
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -301932,6 +306753,7 @@ Speak
 Identifiers
 Lament
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -301968,7 +306790,9 @@ Ingest
 
 Grief
 
+
 Quantity; Frequency
+
 
 
 Quantity; Frequency
@@ -302244,6 +307068,7 @@ Groups
 Identifiers
 Identifiers
 
+
 Time
 Identifiers
 Participant Referents
@@ -302304,6 +307129,7 @@ Attitude (State/Process)
 Identifiers
 Hear
 
+
 Time
 Identifiers
 Identifiers
@@ -302346,7 +307172,9 @@ Wild Animals
 
 
 
+
 Move
+
 
 
 Move
@@ -302368,6 +307196,7 @@ Friends
 Adverb
 Negators
 Relations of Description
+
 Time
 Identifiers
 Quantity
@@ -302418,6 +307247,7 @@ Relations of Description
 Exist; Happen
 Despise (Action); Shame
 
+
 People
 Kinship / Construction
 Names of Groups
@@ -302458,6 +307288,7 @@ Grief
 Adverb
 Direction
 Think
+
 
 Time
 Identifiers
@@ -302619,6 +307450,7 @@ Speak
 Names of Supernatural Beings
 Deities
 
+
 Time
 Identifiers
 Participant Referents
@@ -302683,6 +307515,7 @@ Fortifications
 Gather
 Minerals; Metal
 Relations of Description
+
 Sand
 
 Metal
@@ -302695,8 +307528,10 @@ Possess
 
 Impact
 
+
 Water; Direction
 Possession
+
 
 
 
@@ -302765,6 +307600,7 @@ Dwell
 
 Kinship / Construction
 Safe
+Safe
 Relations of Involvement
 Move
 
@@ -302822,6 +307658,7 @@ Fight
 
 Speak
 Intact
+
 
 People
 
@@ -302888,10 +307725,12 @@ Position
 Move
 Relations of Description
 
+
 Substances
 
 
 Names of Supernatural Beings
+
 
 Music
 Sounds
@@ -302918,6 +307757,7 @@ Liquids; Wine; Crops
 
 Space
 Relations of Description
+
 Containers
 Relations of Description
 Parts: Constructions
@@ -302926,6 +307766,7 @@ Altars
 Help |Save
 Names of Supernatural Beings
 Deities
+
 
 Time
 Identifiers
@@ -302969,6 +307810,7 @@ Possess
 
 
 Crops
+
 
 Land
 
@@ -303023,6 +307865,7 @@ Relations of Description
 Domestic Animals
 Great
 
+
 Fight
 
 Parts: Constructions
@@ -303044,6 +307887,7 @@ Impact
 
 Sand
 Scenery
+
 
 Fight
 
@@ -303113,7 +307957,9 @@ Abundant
 
 Space
 
+
 Groups
+
 
 
 Dimension
@@ -303147,10 +307993,12 @@ Search
 
 Move
 
+
 Water; Direction
 Distress
 
 Impact
+
 
 
 Parts: Water
@@ -303367,6 +308215,7 @@ Groups
 
 Impact
 
+
 Time
 Identifiers
 Participants
@@ -303465,6 +308314,7 @@ Participant Referents
 Stance
 Ingest
 
+
 Land
 Identifiers
 Hide
@@ -303549,11 +308399,13 @@ Focus particle
 Names of Locations
 Exist; Happen
 
+
 Gather
 
 Names
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -303579,6 +308431,7 @@ People
 Identifiers
 Land
 
+
 Time
 Identifiers
 Participants
@@ -303588,9 +308441,11 @@ Impact
 Modification.Complete
 Domestic Animals
 
+
 Distress
 
 Move
+
 
 Foolish
 
@@ -303605,6 +308460,7 @@ Modification.Complete
 
 Identifiers
 Groups
+
 
 
 Blind
@@ -303622,6 +308478,7 @@ Names
 Names of Supernatural Beings
 Deities
 Deities
+
 
 Time
 Identifiers
@@ -303667,6 +308524,7 @@ Identifiers
 Groups
 Names of Locations
 
+
 Quantity
 
 Negators
@@ -303680,6 +308538,7 @@ Space
 Names
 
 Names of Locations
+
 
 Time
 Identifiers
@@ -303695,6 +308554,7 @@ Identifiers
 Involvement.Waver
 
 
+
 Time
 Identifiers
 Participants
@@ -303712,6 +308572,7 @@ Names of Supernatural Beings
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -303763,6 +308624,7 @@ Relations of Description
 Identifiers
 Kinship
 Participants
+
 Time
 Identifiers
 Names of Locations
@@ -303835,6 +308697,7 @@ People
 
 Apart
 
+
 Time
 Identifiers
 Participants
@@ -303855,6 +308718,7 @@ Sin
 Sin
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -303919,6 +308783,7 @@ Kinship
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -304017,6 +308882,7 @@ Identifiers
 Identifiers
 Quantity; Frequency
 
+
 Fire
 
 Know
@@ -304067,6 +308933,7 @@ People
 Location
 Names
 
+
 Fight
 Divide
 Grasp
@@ -304086,6 +308953,7 @@ Divide
 Identifiers
 Towns
 
+
 People
 
 Exist
@@ -304102,6 +308970,7 @@ Names of Supernatural Beings
 
 Fight
 
+
 People
 Identifiers
 Participant Referents
@@ -304114,6 +308983,7 @@ Fight
 
 Stance//Space
 Parts: Creatures
+
 
 Time
 Identifiers
@@ -304184,6 +309054,7 @@ Apart
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -304191,6 +309062,7 @@ Negators
 Exist; Happen
 
 Valuable
+Solid
 Solid
 
 Exist; Happen
@@ -304215,6 +309087,7 @@ Light
 Stage
 Exist; Happen
 Divide
+
 Time
 Identifiers
 Participants
@@ -304237,7 +309110,9 @@ Identifiers
 Identifiers
 Names of Geographical Objects
 
+
 Time
+
 
 
 Time
@@ -304251,6 +309126,7 @@ Leaders
 Modification.Complete
 Identifiers
 Land
+
 
 Time
 Identifiers
@@ -304266,6 +309142,7 @@ Modification.Complete
 Identifiers
 Land
 Relations of Description
+
 Land
 
 Names of Locations
@@ -304347,6 +309224,7 @@ Stage
 
 Exist; Happen
 
+
 Time
 Identifiers
 Participants
@@ -304407,10 +309285,12 @@ Wild Animals
 Relations of Description
 Exist; Happen
 
+
 Towns
 Identifiers
 Participant Referents
 Relations of Description
+
 Impact
 Identifiers
 Identifiers
@@ -304520,6 +309400,7 @@ Festivals
 Identifiers
 Tents
 
+
 Time
 Identifiers
 Participants
@@ -304539,6 +309420,7 @@ Containers
 Kinship / Construction
 Names of Supernatural Beings
 Relations of Description
+
 Containers
 
 
@@ -304577,6 +309459,7 @@ adverb
 Kinship / Construction
 Names of Supernatural Beings
 Deities
+
 
 Time
 Identifiers
@@ -304800,6 +309683,7 @@ Constructions.Parts
 Great
 
 
+
 People
 
 
@@ -304814,6 +309698,7 @@ Give; Sacrifice
 Pure
 
 Great
+
 
 
 People
@@ -304893,6 +309778,7 @@ Deities
 
 
 Afraid
+
 
 People
 
@@ -305041,6 +309927,7 @@ Identifiers
 Sin
 Abundant
 
+
 Laws
 Impact
 Covenant
@@ -305070,6 +309957,7 @@ Identifiers
 
 
 Merciful
+
 
 
 Laws
@@ -305117,6 +310005,7 @@ Deities
 Modification
 Dead
 Names of Supernatural Beings
+
 
 
 Relations of Description
@@ -305321,9 +310210,11 @@ Names of Groups
 Purify
 Identifiers
 Relations of Description
+
 Metal
 
 Relations of Description
+
 
 
 Exist; Happen
@@ -305354,17 +310245,22 @@ Location
 
 
 
+
 Exist; Happen
 Utter
+
 
 
 Divination
 
 
+
 Sin
 
 
+
 Vow
+
 
 False
 
@@ -305437,6 +310333,7 @@ Quantity
 Identifiers
 Sacrifice
 Curse
+
 Curse
 Participant Referents
 Curse
@@ -305488,6 +310385,7 @@ Quantity
 |aREB|a*uke
 
 
+
 Ingest
 
 Negators
@@ -305503,6 +310401,7 @@ Birth
 
 Identifiers
 Plants
+
 
 Land
 Speak
@@ -305596,6 +310495,7 @@ Speak
 Names of Supernatural Beings
 Deities
 
+
 Time
 Relations of Description
 Participant Referents
@@ -305635,6 +310535,7 @@ Attitude
 Move
 Burn
 Relations of Description
+
 Constructions
 
 Exist; Happen
@@ -305689,6 +310590,7 @@ Sand
 
 Parts: Creatures
 Parts: Creatures
+
 
 Time
 Relations of Description
@@ -305812,6 +310714,7 @@ Evil
 
 Relations of Occurrence
 Relations of Description
+
 Foliage
 Relations of Description
 Apart
@@ -305821,6 +310724,7 @@ Body.Parts
 Negators
 Modification; Permanent
 Evil
+
 
 
 
@@ -305864,6 +310768,7 @@ Move
 
 Cords
 Titles
+
 
 Universe
 Utter
@@ -306033,6 +310938,7 @@ Groups
 Praise
 Music
 Relations of Association
+
 Move
 
 Music
@@ -306044,6 +310950,7 @@ Speak
 Utter
 Deities
 Just
+
 
 Distress
 Large
@@ -306130,6 +311037,7 @@ Apart
 Secure
 Dwell
 Relations of Association
+
 Move
 Location
 Identifiers
@@ -306258,10 +311166,12 @@ Praise
 Just
 Names of Supernatural Beings
 Relations of Description
+
 Artifacts
 Satisfaction
 Space
 Relations of Association
+
 Move
 
 Music
@@ -306307,6 +311217,7 @@ Safe
 Help |Save
 
 Faithful
+
 
 
 
@@ -306419,8 +311330,10 @@ Pursue; Attain
 
 Impact
 
+
 Land
 Alive
+
 
 
 
@@ -306443,6 +311356,7 @@ Speak
 
 Groups
 Groups
+
 
 
 
@@ -306544,6 +311458,7 @@ Praise
 Names of Supernatural Beings
 High
 Relations of Association
+
 Move
 
 Identifiers
@@ -306644,7 +311559,10 @@ Modification.Complete
 Identifiers
 Land
 Relations of Association
+
 Move
+
+Names
 
 Names
 Music
@@ -306716,6 +311634,7 @@ Exist
 
 
 
+
 Participants
 Think
 Universe
@@ -306730,9 +311649,12 @@ Exist; Happen
 Names of Supernatural Beings
 Fortifications
 
+
 Oppress
 Fortifications
 
+
+Dry
 
 Dry
 
@@ -306751,6 +311673,7 @@ Names of Supernatural Beings
 Space
 Names of Locations
 Speak
+
 
 Groups
 Serve
@@ -306852,6 +311775,8 @@ Hide
 
 
 Dry
+
+Dry
 Proud
 Proud
 Evil
@@ -306926,6 +311851,7 @@ Space
 Hide
 Towns
 
+
 Hide
 Dead
 Free
@@ -306935,6 +311861,7 @@ Attain
 Hide
 Hide
 Wild Animals
+
 Hide
 Relations of Description
 
@@ -306956,6 +311883,7 @@ Stance
 Move
 
 Strong
+Attain
 Attain
 Identifiers
 Speak
@@ -307045,6 +311973,7 @@ People
 Identifiers
 Land
 Hide
+
 Move
 Relations of Association
 Names of People
@@ -307088,6 +312017,7 @@ Buildings
 Pure
 Names of Supernatural Beings
 
+
 Universe
 
 Parts: Body
@@ -307127,6 +312057,7 @@ Just
 See
 
 Relations of Association
+
 Move
 
 Identifiers
@@ -307199,6 +312130,7 @@ Right
 
 Constructions.Parts
 
+
 Land
 Purify
 Quantity; Frequency
@@ -307222,6 +312154,7 @@ Evil
 Kinship
 People
 Relations of Association
+
 Move
 Music
 
@@ -307286,6 +312219,7 @@ Names of Supernatural Beings
 Association
 
 Relations of Association
+
 Move
 
 Names of People
@@ -307459,6 +312393,7 @@ Negators
 Apart
 Relations of Description
 
+
 Land
 Participant Referents
 
@@ -307492,6 +312427,7 @@ Grasp
 Products
 Cords
 Move
+
 
 
 Beautiful
@@ -307653,6 +312589,7 @@ Space
 Relations of Involvement
 
 
+
 Land
 Wild Animals
 Description; Compare
@@ -307686,6 +312623,7 @@ People
 
 Attain
 
+
 Alive
 
 
@@ -307708,6 +312646,7 @@ Satisfaction
 Awake
 Designs
 Relations of Association
+
 Move
 Relations of Association
 Classes; Officials; Serve
@@ -307777,6 +312716,7 @@ Universe
 Happen
 Control
 Universe
+
 
 Distress
 
@@ -307865,6 +312805,7 @@ Rain
 Participants
 Wind
 
+
 Universe
 Wood
 
@@ -307930,6 +312871,7 @@ Involvement.Support
 
 
 Move
+
 
 Large
 Safe
@@ -308061,12 +313003,14 @@ Act
 Compare
 Speed
 Relations of Description
+
 Wild Animals
 
 
 Elevations
 Space
 Know
+
 
 
 Fight
@@ -308113,6 +313057,7 @@ Parts: Creatures
 
 Dress
 Strong; Confident
+
 
 Fight
 Stance
@@ -308208,6 +313153,7 @@ Move
 
 Praise
 
+
 People
 Names of Supernatural Beings
 
@@ -308230,6 +313176,7 @@ People: Community
 
 Time
 Relations of Association
+
 Move
 Music
 
@@ -308275,6 +313222,7 @@ Move
 Location
 Universe
 Speak
+
 
 Universe
 Space
@@ -308397,6 +313345,7 @@ Deities
 
 Deities; Free; Safe
 Relations of Association
+
 Move
 Music
 
@@ -308461,9 +313410,11 @@ Save
 Direction
 Identifiers
 
+
 Vehicles
 
 Identifiers
+
 
 Domestic Animals
 
@@ -308491,6 +313442,7 @@ Utter
 Time
 Speak
 Relations of Association
+
 Move
 Music
 
@@ -308622,6 +313574,7 @@ Sing
 Praise
 Attribute
 Relations of Association
+
 Move
 
 Wild Animals
@@ -308741,6 +313694,7 @@ Impact; Dead
 
 Sounds
 Relations of Description
+
 Liquids
 
 
@@ -308750,6 +313704,7 @@ Parts: Creatures
 Exist; Happen
 Parts: Creatures
 Relations of Description
+
 Parts: Creatures Products
 Weak
 
@@ -308757,6 +313712,7 @@ Location
 Parts: Creatures
 Dry
 Relations of Description
+
 Parts: Containers
 
 
@@ -308775,6 +313731,7 @@ Groups
 Evil
 Space
 Relations of Description
+
 Wild Animals
 Parts: Creatures
 
@@ -308903,6 +313860,7 @@ Leaders
 
 Control
 
+
 People
 Ingest
 
@@ -308924,6 +313882,7 @@ Titles
 People: Community
 Association.Advise
 Relations of Association
+
 
 
 Groups; Kinship
@@ -308983,6 +313942,7 @@ Furnishings
 Location
 Enemies
 Fat
+
 
 Liquids
 Parts: Creatures; People; Animals
@@ -309045,6 +314005,7 @@ Parts: Creatures
 Relations of Description
 Negators
 High
+
 
 Worthless
 
@@ -309194,9 +314155,11 @@ Names of Supernatural Beings
 Know
 Sin
 
+
 Act
 Move
 Participants
+
 
 
 
@@ -309774,9 +314737,11 @@ Abundant
 Perception; Sounds
 Names of Supernatural Beings
 
+
 Attribute
 
 Names of Supernatural Beings
+
 
 Great
 Perception; Sounds
@@ -309828,6 +314793,7 @@ Speak
 Great
 Names of Supernatural Beings
 
+
 Water
 Space
 
@@ -309844,6 +314810,7 @@ Possess
 Names of Supernatural Beings
 Praise
 Identifiers
+
 
 
 Intact
@@ -309895,9 +314862,11 @@ Alive
 
 Satisfaction
 
+
 Time
 Dwell
 Lament
+
 
 
 Time
@@ -309973,6 +314942,7 @@ Deities
 Time
 Praise
 Relations of Association
+
 Move
 Music
 
@@ -310062,6 +315032,7 @@ Negators
 Hate
 Space
 
+
 Large
 People
 Merciful
@@ -310106,6 +315077,7 @@ Intense
 
 Know
 Connection
+
 
 Orientation: Attachment
 Move
@@ -310189,6 +315161,7 @@ Hide
 
 Afraid
 Exist; Happen
+
 
 Trust
 
@@ -310374,6 +315347,7 @@ Location
 Abundant
 Weak; Distress
 
+
 Evil
 
 Identifiers
@@ -310397,6 +315371,7 @@ Utter
 Just
 
 Names of Supernatural Beings
+
 
 Just
 Well
@@ -310450,6 +315425,7 @@ Modification.Complete
 Universe
 
 Relations of Description
+
 Water
 Liquids
 Identifiers
@@ -310566,6 +315542,7 @@ Names of Supernatural Beings
 Location
 Afraid
 
+
 Delay
 
 Faithful
@@ -310577,6 +315554,7 @@ Universe
 
 Relations of Involvement
 Alive
+
 
 Ingest
 
@@ -310949,6 +315927,7 @@ Clothing
 Containers/Cloth
 Oppress
 
+
 Ingest
 
 
@@ -311110,6 +316089,7 @@ Identifiers
 Time
 Praise
 Relations of Association
+
 Move
 
 Classes; Officials; Serve
@@ -311117,6 +316097,7 @@ Names of Supernatural Beings
 
 Names of People
 Laws
+
 
 
 Evil
@@ -311240,6 +316221,7 @@ Names of People
 Negators
 Angry
 
+
 Evil
 Negators
 Angry
@@ -311248,6 +316230,7 @@ Serve
 Wrong
 
 Relations of Description
+
 Plants
 Speed
 Dry
@@ -311289,11 +316272,13 @@ Serve
 
 Move
 Relations of Description
+
 Light
 Just
 
 
 Relations of Description
+
 Existence
 Silent; Inactive
 Delay
@@ -311354,6 +316339,7 @@ Intact
 Think
 Evil
 
+
 Just
 
 Stance
@@ -311391,6 +316377,7 @@ Weapons
 Impact
 Just
 Quantity
+
 
 Just
 
@@ -311434,6 +316421,7 @@ Relations of Description
 Valuable
 Land
 Non-Exist
+
 
 Substances.Smoke
 Non-Exist
@@ -311545,6 +316533,7 @@ Act
 See
 Evil
 Relations of Involvement
+
 Just
 
 Search; Ask
@@ -311844,6 +316833,7 @@ Help
 
 Save
 Relations of Association
+
 Move
 Relations of Association
 Names of People
@@ -311968,6 +316958,7 @@ Chastise
 
 Weak
 Relations of Description
+
 Swarming Creatures
 Wish
 restrictor
@@ -312003,6 +316994,7 @@ Move
 
 
 Relations of Association
+
 Move
 
 Names of People
@@ -312235,6 +317227,7 @@ Deities
 Negators
 Delay
 Relations of Association
+
 Move
 Music
 
@@ -312253,6 +317246,8 @@ Safe
 
 Alive
 Praise
+Praise
+
 
 Land
 
@@ -312301,6 +317296,7 @@ Compile
 Sin
 
 Move
+
 
 Orientation: Attachment
 Speak
@@ -312382,6 +317378,7 @@ True
 
 True
 
+
 Move
 Music
 
@@ -312434,6 +317431,7 @@ Cognition
 
 
 Move
+
 
 Groups
 Move
@@ -312494,6 +317492,7 @@ Speak
 Names of Supernatural Beings
 Faithful
 Identifiers
+
 
 Time
 Alive
@@ -312618,6 +317617,7 @@ Help
 
 Deities
 
+
 Move
 
 Kinship
@@ -312732,6 +317732,7 @@ Domestic Animals
 Food
 
 
+
 People
 
 Exchange
@@ -312755,6 +317756,7 @@ Great; Despise; Mock
 Location
 Space
 Compare
+
 
 People
 Shake
@@ -312859,9 +317861,11 @@ Oppress
 
 Distress
 
+
 Sand
 
 Attach
+
 
 Land
 Parts: Creatures
@@ -312872,6 +317876,7 @@ Help
 Exchange
 
 Faithful
+
 
 Move
 
@@ -313032,6 +318037,7 @@ Clothing
 Cloth
 Move
 
+
 Leaders
 People
 Space
@@ -313073,6 +318079,7 @@ Praise
 Time
 
 Time
+
 
 Move
 
@@ -313156,6 +318163,7 @@ Relations of Description
 Space
 Non-Exist
 
+
 Land
 Non-Happen
 Fight
@@ -313172,6 +318180,7 @@ Vehicles
 Burn
 
 
+
 Apart
 
 Know
@@ -313180,7 +318189,9 @@ Participant Referents
 Deities
 Stance//Space
 
+
 People
+
 
 
 Land
@@ -313192,6 +318203,7 @@ Fortifications
 Deities
 Names
 Music
+
 
 Move
 
@@ -313333,6 +318345,7 @@ Grasp
 Referents of Location
 Distress
 Relations of Description
+
 Birth
 Ships
 Body.Parts
@@ -313408,6 +318421,7 @@ Time
 Time
 Participants
 Move
+
 
 
 
@@ -313530,6 +318544,7 @@ Negators
 Dwell
 Compare
 Relations of Description
+
 Wild Animals
 Non-Exist
 Identifiers
@@ -313543,6 +318558,7 @@ Space
 Joy
 Music
 Relations of Description
+
 Domestic Animals
 
 Universe
@@ -313554,6 +318570,7 @@ Control
 
 Just
 Relations of Involvement
+
 Time
 
 People
@@ -313620,6 +318637,7 @@ Negators
 Know
 Compare
 Relations of Description
+
 Wild Animals
 Non-Exist
 Identifiers
@@ -313767,6 +318785,7 @@ Safe
 Great
 
 Relations of Involvement
+
 Evil
 Speak
 Deities
@@ -313849,6 +318868,7 @@ Description
 Save
 Deities
 Relations of Association
+
 Move
 Music
 
@@ -313918,6 +318938,7 @@ Kinship
 disco
 Faithful
 Involvement
+
 
 Parts: Creatures
 
@@ -314044,6 +319065,7 @@ conjunction
 Altars
 Domestic Animals
 Relations of Association
+
 Move
 Music
 
@@ -314166,6 +319188,7 @@ Just
 Location
 Faithful
 Relations of Association
+
 Move
 
 Music
@@ -314253,6 +319276,7 @@ Names
 Joy
 
 Relations of Association
+
 Move
 
 Music
@@ -314337,6 +319361,7 @@ Hate
 
 Parts: Body
 Relations of Association
+
 Move
 
 Music
@@ -314399,6 +319424,7 @@ Possess
 
 Parts: Creatures
 Relations of Description
+
 Birds
 Move
 
@@ -314407,6 +319433,7 @@ Discourse particle
 Location
 Move
 Dwell
+
 
 Land
 Music
@@ -314427,6 +319454,7 @@ Parts: Creatures
 Oppress
 
 Involvement.Contend
+
 
 Towns
 Time
@@ -314483,6 +319511,7 @@ Deities
 Act
 
 Association; Sacrifice
+
 
 
 Move
@@ -314572,6 +319601,7 @@ Possess
 Time
 Involvement.Waver
 
+
 Just
 
 Participant Referents
@@ -314592,6 +319622,7 @@ Participant Referents
 Trust
 
 Relations of Association
+
 Move
 
 Birds
@@ -314652,6 +319683,7 @@ Grief
 
 Modification.Complete
 Think
+
 
 Wrong
 Fight
@@ -314738,6 +319770,7 @@ Light
 Identifiers
 Alive
 Relations of Association
+
 Move
 Negators
 
@@ -314749,6 +319782,7 @@ Flee
 
 
 Names of People
+
 
 Elevations
 Merciful
@@ -314770,6 +319804,7 @@ Identifiers
 
 Deities
 High
+
 
 Deities
 Complete
@@ -314846,6 +319881,7 @@ Music
 Time
 Titles
 
+
 Groups
 
 Praise
@@ -314870,6 +319906,7 @@ Identifiers
 Land
 Great
 Relations of Association
+
 Move
 Negators
 Impact
@@ -314890,6 +319927,7 @@ People
 Parts: Creatures
 Wrong
 Exist; Happen
+
 
 Land
 Oppress
@@ -314978,14 +320016,17 @@ People
 restrictor>modal word
 Result
 
+
 Just
 restrictor>modal word
 Markers of Existence
 Deities
 Think
 
+
 Land
 Relations of Association
+
 Move
 Negators
 Impact
@@ -315063,9 +320104,11 @@ Sin
 Music
 Direction
 
+
 Time
 Sounds
 Relations of Description
+
 Domestic Animals
 
 
@@ -315150,9 +320193,11 @@ Music
 
 Direction
 
+
 Time
 Sounds
 Relations of Description
+
 Domestic Animals
 
 
@@ -315172,6 +320217,7 @@ Sing
 Attribute
 
 Utter
+
 
 Time
 Faithful
@@ -315194,6 +320240,7 @@ Fortifications
 Deities
 Faithful
 Relations of Association
+
 Move
 
 
@@ -315208,6 +320255,7 @@ Names of Groups
 Names of Geographical Objects
 Identifiers
 Names of Geographical Objects
+Identifiers
 Identifiers
 Identifiers
 
@@ -315327,6 +320375,7 @@ Participants
 Impact
 Enemies
 Relations of Association
+
 Move
 
 Music
@@ -315410,6 +320459,7 @@ Vow
 Time
 Time
 Relations of Association
+
 Move
 
 Names of People
@@ -315579,6 +320629,7 @@ Negators
 Liquids
 
 
+
 Pure
 See
 Relations of Involvement
@@ -315670,6 +320721,7 @@ Close
 Speak
 False
 Relations of Association
+
 Move
 Music
 
@@ -315695,6 +320747,7 @@ Sin
 Relations of Description
 Shape
 Relations of Description
+
 Attitude
 Parts: Creatures
 Move
@@ -315703,6 +320756,7 @@ Speak
 Ingest
 Relations of Involvement
 Move
+
 
 Hide
 Just
@@ -315773,6 +320827,7 @@ Modification.Complete
 Just
 Parts: Creatures
 Relations of Association
+
 Move
 Music
 
@@ -315903,6 +320958,7 @@ Shout
 Coordinating conjunction
 Sing
 
+
 Move
 Sing
 Music
@@ -315956,6 +321012,7 @@ Water; Direction
 
 Land
 
+
 Names of Geographical Objects
 Move
 
@@ -315968,6 +321025,7 @@ Modification
 Attribute
 Time
 Parts: Body
+
 
 People
 See
@@ -315988,10 +321046,12 @@ Identifiers
 Alive
 
 
+
 Alive
 
 Negators
 Possess
+
 
 Involvement.Waver
 People
@@ -316003,6 +321063,7 @@ Relations of Description
 
 Minerals; Metal
 Move
+
 
 
 Space
@@ -316018,9 +321079,12 @@ Move
 
 
 
+
+
 Liquids
 
 Move
+
 
 
 Move
@@ -316035,6 +321099,7 @@ Open
 Parts.Edge
 
 Speak
+
 
 
 Distress
@@ -316095,6 +321160,7 @@ Faithful
 
 Relations of Association
 
+
 Move
 
 Music
@@ -316110,6 +321176,7 @@ Relations of Association
 Music
 Relations of Involvement
 Know
+
 
 Land
 Act
@@ -316131,6 +321198,7 @@ Groups
 Think
 Groups
 Right
+
 
 
 
@@ -316158,6 +321226,7 @@ Modification.Complete
 Groups
 Land
 Relations of Association
+
 Move
 
 Names of People
@@ -316205,7 +321274,9 @@ Praise
 
 Exist
 
+
 Move
+
 
 Land
 
@@ -316230,6 +321301,7 @@ Apart
 Kinship / Construction
 Move
 Control
+
 
 
 restrictor>conjunctive adverb
@@ -316278,6 +321350,7 @@ Non-Move
 
 Well
 
+
 Classes
 Deities
 Titles
@@ -316303,6 +321376,7 @@ Artifacts
 Parts: Creatures
 Birds
 Cover
+
 
 Minerals; Metal
 
@@ -316350,14 +321424,17 @@ High
 
 Names
 
+
 Pure
 Move
+
 
 High
 Control
 Submit
 Possess
 Possess
+
 
 People
 
@@ -316386,6 +321463,7 @@ Safe
 
 Relations of Association
 Names of Supernatural Beings
+
 
 
 Universe
@@ -316425,6 +321503,7 @@ Deities
 Direction
 Deities
 Leaders
+
 
 Pure
 Space
@@ -316505,6 +321584,7 @@ Praise
 
 Music
 
+
 Move
 
 Universe
@@ -316526,6 +321606,7 @@ Great
 
 
 
+
 Clouds
 Identifiers
 Deities
@@ -316539,10 +321620,12 @@ Attribute
 
 
 
+
 Groups
 Praise
 Deities
 Relations of Association
+
 Move
 
 
@@ -316644,6 +321727,7 @@ Move
 
 
 Lament
+
 
 Ingest
 
@@ -316758,6 +321842,7 @@ Weak
 Occurrence; Wait
 Relations of Involvement
 Involvement.Waver
+
 
 
 
@@ -316914,6 +321999,7 @@ Love
 Dwell
 
 Relations of Association
+
 Move
 Relations of Involvement
 Names of People
@@ -317246,6 +322332,7 @@ Accept
 Elevations
 Intact
 
+
 Groups
 
 Scenery
@@ -317380,12 +322467,14 @@ Exist; Happen
 Quantity
 Crops
 
+
 Land
 
 Land; Universe; Water; Elevations; Constructi
 Elevations
 Quantity
 Relations of Description
+
 Names of Geographical Objects
 Crops
 
@@ -317465,6 +322554,7 @@ Act
 
 Angry
 
+
 Know
 Intact
 Evil
@@ -317511,11 +322601,13 @@ High
 Speak
 
 
+
 Universe
 
 
 Parts: Creatures
 Move
+
 
 Land
 
@@ -317562,6 +322654,7 @@ Identifiers
 Time
 
 Correct
+
 
 Time
 Relations of Occurrence
@@ -317649,11 +322742,13 @@ Possess
 
 
 
+
 Universe
 
 
 Negators
 Association
+
 
 Land
 Non-Exist
@@ -317724,6 +322819,7 @@ Modification.Complete
 Sin
 Hate
 
+
 Pure
 Sounds
 Enemies
@@ -317754,7 +322850,9 @@ Impact
 Occurrence
 
 
+
 Buildings
+
 
 Land
 Attitude
@@ -317769,6 +322867,7 @@ Burn
 Modification.Complete
 
 Deities
+
 
 Land
 Banners
@@ -317887,6 +322986,7 @@ Know
 Time
 Dark
 
+
 Covenant
 
 Happen
@@ -317923,6 +323023,7 @@ Sounds
 Move
 Permanent
 Relations of Association
+
 Move
 Negators
 Impact
@@ -317956,9 +323057,11 @@ Universe
 Music
 Speak
 
+
 Know
 Negators
 Know
+
 
 
 Evil
@@ -317967,6 +323070,7 @@ Carry
 Parts: Animals
 Negators
 Carry
+
 
 High
 Parts: Animals
@@ -318033,6 +323137,7 @@ High
 Parts: Animals
 Just
 Relations of Association
+
 Move
 
 Music
@@ -318117,6 +323222,7 @@ Inactive
 Stance
 Relations of Involvement
 
+
 Deities
 
 Help |Save
@@ -318142,6 +323248,7 @@ Location
 Move
 Possess; Sacrifice
 
+
 Afraid
 Humble
 Body.Parts
@@ -318151,6 +323258,7 @@ Afraid
 Leaders
 Land
 Relations of Association
+
 Move
 
 Names of People
@@ -318206,6 +323314,7 @@ Time
 Time
 Cognition
 Music
+
 
 Time
 
@@ -318272,6 +323381,7 @@ Serve
 Think
 Identifiers
 Deities
+
 Pure
 Act
 
@@ -318285,6 +323395,7 @@ Deities
 Serve
 Know
 Know
+
 
 Groups
 Attribute
@@ -318318,6 +323429,7 @@ Act
 Perception; Sounds
 Utter
 
+
 Products
 Light
 
@@ -318327,6 +323439,7 @@ Shake
 Shake
 Identifiers
 Land
+
 
 Water; Direction
 
@@ -318341,6 +323454,7 @@ Negators
 Know
 Move
 Relations of Description
+
 Domestic Animals
 Groups
 
@@ -318499,6 +323613,7 @@ Water
 
 Move
 
+
 Clouds
 Time
 
@@ -318510,6 +323625,7 @@ Light
 
 Detach
 Elevations
+
 
 Land
 
@@ -318525,6 +323641,7 @@ Stone
 
 Move
 Relations of Description
+
 Water
 Liquids
 
@@ -318536,6 +323653,7 @@ Relations of Involvement
 
 Rebel
 High
+
 
 Land
 Identifiers
@@ -318559,6 +323677,7 @@ Deities
 Relations of Involvement
 Space
 Furnishings
+
 
 Land
 disco
@@ -318638,6 +323757,7 @@ Satisfaction
 Move
 Wind
 
+
 Universe
 
 Move
@@ -318648,6 +323768,7 @@ Wind
 Attribute.Wet
 
 Relations of Description
+
 Sand
 Food
 
@@ -318707,10 +323828,12 @@ Good
 
 
 
+
 Ephemeral
 Time
 
 Time
+
 
 Afraid
 Identifiers
@@ -318782,6 +323905,7 @@ Relations of Description
 
 Rebel
 
+
 Land
 
 
@@ -318835,20 +323959,25 @@ Impact
 
 Possess
 
+
 Swarming Creatures
 Crops
 
 Possess
 
+
 Swarming Creatures
 Dead
+
 
 Rain
 Plants
 
 Trees
 
+
 Rain
+
 
 
 
@@ -318856,6 +323985,7 @@ Rain
 Domestic Animals
 
 Possess
+
 
 Fire
 Angry
@@ -318882,6 +324012,7 @@ Universe
 
 Names
 
+
 Weak
 
 Kinship
@@ -318898,12 +324029,15 @@ Names of People
 
 Move
 Relations of Description
+
 Domestic Animals
 Groups
 
 Move
 Relations of Description
+
 Domestic Animals
+
 
 Land
 
@@ -318989,9 +324123,11 @@ Tents
 Tents
 Dwell
 
+
 People
 
 Possess
+
 
 Submit
 Attribute
@@ -319000,6 +324136,7 @@ Great
 
 
 Enemies
+
 
 
 
@@ -319017,6 +324154,7 @@ People
 Negators
 Praise
 Priests
+
 
 Attribute
 Move
@@ -319140,6 +324278,7 @@ Land
 Wounds
 Parts: Creatures
 Relations of Description
+
 Liquids
 Location
 Names
@@ -319223,6 +324362,7 @@ Referents of Existence
 Deities
 Know
 
+
 People
 
 
@@ -319270,6 +324410,7 @@ Groups; Kinship
 Speak
 Praise
 Relations of Association
+
 Move
 Location
 
@@ -319282,6 +324423,7 @@ Names
 Hear
 Move
 Relations of Description
+
 Domestic Animals
 Names of People
 Space
@@ -319417,6 +324559,7 @@ Strong
 Non-Exist; Dead
 
 
+
 Detach
 
 |aREB|a*uke
@@ -319450,6 +324593,7 @@ Light
 
 Help |Save
 Relations of Association
+
 Move
 
 Identifiers
@@ -319475,8 +324619,10 @@ Beautiful
 Music
 Sounds
 
+
 Festivals
 Music
+
 
 Time
 
@@ -319512,6 +324658,7 @@ Parts: Creatures
 
 Containers
 Move
+
 
 Distress
 Speak
@@ -319784,6 +324931,7 @@ Non-Exist
 Exist; Happen
 Parts: Creatures Products
 
+
 Land
 Space
 Generous
@@ -319810,6 +324958,7 @@ Deities
 Deities
 Space
 Relations of Description
+
 Plants
 Relations of Description
 Parts: Plants
@@ -319862,6 +325011,7 @@ High
 Modification.Complete
 Identifiers
 Land
+
 
 Move
 
@@ -319992,6 +325142,7 @@ Negators
 Reject
 Well
 
+
 Move
 
 Just
@@ -320000,6 +325151,7 @@ Deities
 Praise
 People
 Trust
+
 
 
 Move
@@ -320192,6 +325344,7 @@ Speak
 
 Utter
 Titles
+
 
 
 Deities
@@ -320387,6 +325540,7 @@ Relations of Involvement
 Kinship
 Names of People
 Relations of Association
+
 Move
 
 Music
@@ -320402,6 +325556,7 @@ Deities
 Help
 Time
 Lament
+
 
 Time
 Location
@@ -320433,6 +325588,7 @@ People
 
 Strong
 Involvement
+
 Dead
 Involvement
 
@@ -320488,6 +325644,7 @@ Location
 Parts: Creatures
 
 
+
 Dead
 Serve
 Know
@@ -320499,13 +325656,16 @@ Music
 Identifiers
 Association.Advise
 
+
 Universe
 Faithful
 Faithful
+
 
 Universe
 
 Know
+
 
 Dark
 Know
@@ -320519,6 +325679,7 @@ Participant Referents
 Location
 Names of Supernatural Beings
 Shout
+
 
 
 Time
@@ -320547,6 +325708,7 @@ Afraid
 Non-Exist
 
 Relations of Description
+
 Liquids
 Modification.Complete
 Identifiers
@@ -320620,6 +325782,7 @@ Apart
 
 
 
+
 Clouds
 Identifiers
 Relations of Association
@@ -320665,6 +325828,7 @@ Non-Move
 Participant Referents
 Impact
 Relations of Description
+
 Attribute
 Deities
 
@@ -320809,7 +325973,9 @@ Parts: Animals
 
 Space
 
+
 Water; Direction
+
 
 
 
@@ -320909,6 +326075,7 @@ Exist; Happen
 
 
 Relations of Description
+
 Universe
 Location
 Relations of Description
@@ -320917,6 +326084,7 @@ Faithful
 Time
 
 Utter
+
 
 Clouds
 Faithful
@@ -320933,6 +326101,7 @@ Apart
 Covenant
 Classes; Officials; Serve
 Attitude
+
 
 Land
 Control
@@ -320964,8 +326133,10 @@ Attribute
 Negators
 Stance
 
+
 Fight
 Non-Happen
+
 
 
 
@@ -321102,20 +326273,25 @@ Move
 
 Time
 
+
 Time
 
 Asleep
 Exist; Happen
 
+
 Time
 Relations of Description
+
 Plants
 Space
+
 
 Time
 Stage
 
 Space
+
 
 Time
 Dry
@@ -321194,6 +326370,7 @@ Grief
 
 Classes; Officials; Serve
 Satisfaction
+
 
 Time
 Faithful
@@ -321284,6 +326461,7 @@ Time
 
 Foliage
 
+
 Dark
 Move
 
@@ -321340,6 +326518,7 @@ Parts: Creatures
 Carry
 
 Impact
+
 
 Stone
 Parts: Creatures
@@ -321398,10 +326577,12 @@ High
 Relations of Involvement
 Speak
 
+
 Time
 Faithful
 
 Faithful
+
 
 Time
 
@@ -321488,15 +326669,18 @@ Enemies
 
 
 
+
 Evil
 Hear
 Parts: Creatures
 Just
 Relations of Description
+
 Trees
 Stage
 Relations of Description
 Trees
+
 
 Names of Geographical Objects
 Stage
@@ -321563,6 +326747,7 @@ Great
 Water
 Water; Direction
 Great
+
 
 High
 Names of Supernatural Beings
@@ -321632,6 +326817,7 @@ Names
 Know
 Foolish
 
+
 Groups
 
 Foolish
@@ -321682,6 +326868,7 @@ Confident
 
 Time
 Wrong
+
 
 
 
@@ -321860,6 +327047,7 @@ Relations of Description
 Time
 
 
+
 Land
 Kinship
 Relations of Description
@@ -321915,6 +327103,7 @@ Time
 
 Help
 Speak
+
 
 People
 Great
@@ -321989,6 +327178,7 @@ Modification.Complete
 Identifiers
 Land
 Speak
+
 
 People
 Names of Supernatural Beings
@@ -322079,6 +327269,7 @@ Identifiers
 Land
 Elevations
 Relations of Description
+
 Parts: Creatures Products
 Weak
 
@@ -322108,6 +327299,7 @@ Serve
 Artifacts
 Identifiers
 Praise
+
 
 Artifacts
 Stance
@@ -322151,6 +327343,7 @@ Evil
 Move
 Light
 Space
+
 
 Just
 
@@ -322474,6 +327667,7 @@ Negators
 Know
 False
 
+
 Cover
 Friends
 Identifiers
@@ -322514,6 +327708,7 @@ Faithful
 Location
 Parts: Body
 Relations of Involvement
+
 Time
 Non-Exist
 Modification.Complete
@@ -322568,9 +327763,12 @@ Substances.Smoke
 Time
 
 Parts: Creatures
+Relations of Description
+
 Impact
 Impact
 Relations of Description
+
 Crops
 
 Dry
@@ -322614,6 +327812,7 @@ Vow
 
 Sand
 Relations of Description
+
 Bread
 Ingest
 
@@ -322637,6 +327836,7 @@ Stance
 
 Participant Referents
 Relations of Description
+
 Crops
 Dry
 
@@ -322753,6 +327953,7 @@ Names of Supernatural Beings
 Oppress
 
 
+
 Attribute
 Small
 Time
@@ -322784,9 +327985,11 @@ Stance//Space
 
 Modification.Complete
 Relations of Description
+
 Clothing
 Impact
 Relations of Description
+
 Clothing
 Exist
 
@@ -322850,10 +328053,12 @@ Merciful
 Identifiers
 Satisfaction
 
+
 Well
 Jewellery
 Change
 Relations of Description
+
 Birds
 Attribute.Young
 Serve
@@ -322940,6 +328145,7 @@ Sand
 Participant Referents
 People
 Relations of Description
+
 Plants
 Time
 Relations of Description
@@ -322985,11 +328191,13 @@ Laws
 Serve
 Names of Supernatural Beings
 
+
 Universe
 Non-Move
 
 
 Leaders
+
 
 Modification.Complete
 Control
@@ -323039,13 +328247,16 @@ Dress
 Dress
 Light
 Relations of Description
+
 Clothing
 Shape
 Universe
 Relations of Description
+
 Furnishings
 Identifiers
 Produce
+
 
 Liquids
 Building.Parts
@@ -323075,6 +328286,7 @@ Time
 Time
 Water
 Relations of Description
+
 Clothing
 Cover
 
@@ -323111,6 +328323,7 @@ Identifiers
 Location
 Water
 
+
 Water
 
 Elevations
@@ -323145,6 +328358,7 @@ Land
 Stage
 Plants
 Relations of Involvement
+
 Wild Animals
 
 Crops
@@ -323191,9 +328405,11 @@ Elevations
 Identifiers
 High
 Hide
+
 Wild Animals
 Stone
 Hide
+
 
 Wild Animals
 Serve
@@ -323217,6 +328433,7 @@ Identifiers
 Wild Animals
 Sounds
 Relations of Involvement
+
 Impact; Dead
 
 
@@ -323322,10 +328539,12 @@ Happen
 Identifiers
 See
 
+
 Land
 
 Shake
 Touch
+
 
 Elevations
 
@@ -323369,6 +328588,7 @@ Speak
 
 
 Know
+
 
 Groups
 Serve
@@ -323510,6 +328730,7 @@ Classes; Officials; Serve
 Exchange
 Names of People
 Oppress
+
 
 Cords
 Parts: Creatures
@@ -323712,6 +328933,7 @@ Flow
 Liquids
 Move
 
+
 Land
 Water
 
@@ -323838,8 +329060,10 @@ Dry
 
 Move
 
+
 Water
 Relations of Description
+
 Land
 
 Help |Save
@@ -323876,6 +329100,7 @@ Desire
 Desire
 Identifiers
 
+
 Land
 
 Know
@@ -323895,6 +329120,7 @@ Occurrence
 Angry
 Relations of Association
 Names
+
 
 Towns
 Relations of Association
@@ -323960,6 +329186,7 @@ Names
 Apart
 Stance//Space
 
+
 Impact
 Relations of Involvement
 
@@ -323994,15 +329221,18 @@ Relations of Involvement
 Move
 Identifiers
 
+
 Land
 
 Relations of Involvement
 Move
 People: Community
 
+
 People
 
 Relations of Involvement
+
 
 
 Land
@@ -324073,6 +329303,7 @@ Names of Supernatural Beings
 
 Mix
 
+
 People
 
 Know
@@ -324094,6 +329325,7 @@ Kinship
 Identifiers
 Kinship
 
+
 Deities
 
 Wounds
@@ -324112,6 +329344,7 @@ Names
 Attribute
 Identifiers
 Land
+
 
 Parts: Creatures
 
@@ -324162,6 +329395,7 @@ Move
 Sin
 
 Description
+
 
 Distress
 
@@ -324256,6 +329490,7 @@ Direction
 Water; Direction
 Move
 
+
 Land
 
 Land
@@ -324274,6 +329509,7 @@ Weak
 Lament
 Location
 Names of Supernatural Beings
+
 
 Distress
 
@@ -324327,6 +329563,7 @@ Reject
 
 Humble
 
+
 Heavy
 Parts: Creatures
 Involvement.Waver
@@ -324337,6 +329574,7 @@ Help
 Lament
 Location
 Names of Supernatural Beings
+
 
 Distress
 
@@ -324389,6 +329627,7 @@ Universe
 Lament
 Location
 Names of Supernatural Beings
+
 
 Distress
 
@@ -324460,6 +329699,7 @@ Move
 
 Move
 Relations of Description
+
 Ingest
 
 Modification.Complete
@@ -324469,6 +329709,7 @@ Think
 Lament
 Location
 Names of Supernatural Beings
+
 
 Distress
 
@@ -324593,6 +329834,7 @@ Distress
 
 Space
 Relations of Description
+
 Domestic Animals
 Groups
 
@@ -324633,6 +329875,7 @@ Music
 Association.Incite
 Time
 Praise
+
 
 Groups
 Names of Supernatural Beings
@@ -324734,6 +329977,7 @@ Strong; Confident
 Impact
 Enemies
 Relations of Association
+
 Move
 
 Names of People
@@ -324903,11 +330147,13 @@ Clothing
 
 Move
 Relations of Description
+
 Liquids
 
 Body
 
 Relations of Description
+
 Liquids
 
 Parts: Creatures
@@ -324962,6 +330208,7 @@ Shape
 Exist
 Shake
 
+
 Swarming Creatures
 Parts: Creatures
 People
@@ -325011,6 +330258,7 @@ Shame
 
 Dress
 Relations of Description
+
 Clothing
 Shame
 Praise
@@ -325095,6 +330343,7 @@ Angry
 Leaders
 Think
 
+
 People
 Space
 Parts
@@ -325105,6 +330354,7 @@ Land
 Abundant
 
 Water
+
 
 
 Ingest
@@ -325222,6 +330472,7 @@ Involvement
 Intense
 Strong
 
+
 Land
 Exist; Happen
 People: Community
@@ -325240,7 +330491,9 @@ Stance//Space
 Time
 Move
 Merciful
+
 Attitude
+
 
 
 Just
@@ -325289,6 +330542,7 @@ Relations of Description
 Enemies
 Scatter
 Possess
+
 
 Classes
 Just
@@ -325358,7 +330612,9 @@ Low
 Relations of Involvement
 Description
 
+
 Universe
+
 
 
 Land
@@ -325486,6 +330742,7 @@ Referents of Existence
 Deities
 
 Deities
+
 
 Universe
 Modification.Complete
@@ -325853,6 +331110,7 @@ Speak
 Names
 Utter
 
+
 Large
 Names
 Names of Supernatural Beings
@@ -325879,6 +331137,7 @@ Trust
 Names of Supernatural Beings
 Relations of Involvement
 Trust
+
 
 People
 Hide
@@ -325963,6 +331222,7 @@ Names
 Chastise
 Chastise
 Names
+
 
 
 Universe
@@ -326195,6 +331455,7 @@ Laws
 Classes
 Participant Referents
 
+
 Land
 Negators
 Hide
@@ -326239,6 +331500,7 @@ sentence adverbial/modal word
 Joy
 
 Think
+
 
 
 Sand
@@ -326389,6 +331651,7 @@ Time
 
 Act
 
+
 Dimension
 
 Laws
@@ -326462,6 +331725,7 @@ Exist; Happen
 Kinship / Construction
 Dwell
 Cognition
+
 
 Time
 
@@ -326577,6 +331841,7 @@ Safe
 Laws
 Fat
 Relations of Description
+
 Parts: Creatures
 Parts: Creatures
 Participant Referents
@@ -326712,6 +331977,7 @@ Relations of Description
 Frequency
 Non-Exist
 
+
 Land
 
 Participant Referents
@@ -326730,6 +331996,7 @@ Time
 Names of Supernatural Beings
 Speak
 Permanent
+
 
 Universe
 
@@ -327165,6 +332432,7 @@ Uphold
 
 Space
 
+
 Time
 
 Shout
@@ -327293,6 +332561,7 @@ Laws
 Love
 Quantity; Frequency
 
+
 Time
 Praise
 
@@ -327393,6 +332662,7 @@ Identifiers
 Location
 Names of Supernatural Beings
 
+
 Distress
 
 Speak
@@ -327445,8 +332715,10 @@ Intact
 Speak
 Participant Referents
 
+
 Fight
 Sing
+
 
 
 See
@@ -327468,6 +332740,7 @@ Universe
 Land
 Negators
 Possess
+
 
 Involvement.Waver
 Parts: Creatures
@@ -327496,6 +332769,7 @@ Negators
 Impact
 
 Universe
+
 
 Time
 Names of Supernatural Beings
@@ -327604,6 +332878,7 @@ See
 Identifiers
 Space
 
+
 Universe
 discourse particle
 Relations of Description
@@ -327643,6 +332918,7 @@ Identifiers
 Secure
 Identifiers
 Despise
+
 
 
 Sing
@@ -327769,6 +333045,7 @@ Wrong
 Right
 Names of Supernatural Beings
 
+
 Just
 
 
@@ -327810,6 +333087,7 @@ Shout
 Adverb
 Speak
 
+
 People
 Great
 Names of Supernatural Beings
@@ -327829,6 +333107,7 @@ Names of Supernatural Beings
 Identifiers
 
 Relations of Description
+
 
 
 Names
@@ -327921,6 +333200,7 @@ Shame
 Speak
 Relations of Association
 Hate
+
 
 Parts: Constructions
 Sing
@@ -328093,8 +333373,10 @@ Relations of Association
 
 Safe
 
+
 Time
 Safe
+
 
 Time
 
@@ -328151,6 +333433,7 @@ People
 
 Kinship
 Relations of Description
+
 People
 
 
@@ -328339,6 +333622,7 @@ Kinship
 Problematic cases
 
 Relations of Description
+
 Liquids
 Identifiers
 Just
@@ -328390,6 +333674,7 @@ Stance//Space
 
 Kinship / Construction
 Names of Supernatural Beings
+
 
 Time
 High
@@ -328460,10 +333745,13 @@ Involvement
 Names of Supernatural Beings
 Serve
 
+
 Universe
 
 
+
 Land
+
 
 Water; Direction
 
@@ -328475,6 +333763,7 @@ Universe
 Location
 Identifiers
 Land
+
 
 
 Rain
@@ -328692,6 +333981,7 @@ Universe
 
 Control
 
+
 Time
 
 
@@ -328704,6 +333994,7 @@ Universe
 Universe
 
 Control
+
 
 Time
 
@@ -328773,6 +334064,7 @@ Faithful
 
 Move
 Groups
+
 
 Land
 
@@ -329056,6 +334348,7 @@ Happen
 Negators
 Apart
 Relations of Association
+
 Move
 
 Names of People
@@ -329155,11 +334448,14 @@ Dark
 
 Time
 Relations of Description
+
 Time
 Light
 Relations of Description
+
 Dark
 Relations of Description
+
 
 
 Participant Referents
@@ -329186,6 +334482,7 @@ Strong
 
 Relations of Description
 Exist
+
 
 Cover
 Exist
@@ -329238,6 +334535,7 @@ Speak
 Think
 Speak
 
+
 Worthless
 Enemies
 
@@ -329277,6 +334575,7 @@ Move
 Act
 Time
 Relations of Association
+
 Move
 Music
 
@@ -329376,6 +334675,7 @@ Wood
 
 
 
+
 Move
 
 Containers
@@ -329385,6 +334685,7 @@ Stance
 Parts: Creatures
 Negators
 Faithful
+
 
 Land
 
@@ -329491,6 +334792,7 @@ Detach
 
 Detach
 
+
 Land
 Scatter
 Parts: Creatures
@@ -329530,6 +334832,7 @@ Relations of Association
 Names of People
 
 Exist; Happen
+
 
 Elevations
 Ask
@@ -329650,6 +334953,7 @@ Hate
 Dark
 Impact
 
+
 Land
 Names
 Dwell
@@ -329702,6 +335006,7 @@ Compare
 Move
 
 Hear
+
 
 Time
 Faithful
@@ -329767,8 +335072,10 @@ Identifiers
 Know
 
 
+
 Fight
 Parts: Creatures
+
 
 Fight
 Faithful
@@ -329797,6 +335104,7 @@ People
 Accept
 People
 
+
 Ephemeral
 Description; Compare
 Time
@@ -329809,6 +335117,7 @@ Universe
 
 Move
 Touch
+
 
 Elevations
 
@@ -329856,6 +335165,7 @@ Praise
 Identifiers
 Possess
 Save
+
 
 Leaders
 Identifiers
@@ -330005,6 +335315,7 @@ Great
 Faithful
 Just
 Names of Supernatural Beings
+
 
 Modification.Complete
 
@@ -330167,6 +335478,7 @@ Direction
 
 Land
 
+
 Time
 Identifiers
 
@@ -330202,9 +335514,11 @@ Time
 Serve
 
 
+
 Oppress
 Possess
 Bread
+
 
 Sense
 Names of Supernatural Beings
@@ -330271,6 +335585,7 @@ Impact//Grief
 Estimate
 Quantity
 
+
 Universe
 
 Modification.Complete
@@ -330309,6 +335624,7 @@ Universe
 Clouds
 Identifiers
 Non-Move
+
 
 Land
 Rain
@@ -330380,9 +335696,11 @@ Identifiers
 Possess
 Rain
 Relations of Description
+
 Cloth
 Frost
 Relations of Description
+
 Sand
 Scatter
 Move
@@ -330431,6 +335749,7 @@ Names of Supernatural Beings
 
 Identifiers
 Universe
+
 
 
 High
@@ -330625,6 +335944,7 @@ Relations of Involvement
 Serve
 Involvement.Retribution
 
+
 People
 
 Negators
@@ -330804,6 +336124,7 @@ Pure
 
 Time
 
+
 Time
 
 Move
@@ -330867,6 +336188,7 @@ Speak
 
 Move
 
+
 Land
 
 
@@ -330884,6 +336206,7 @@ Parts: Creatures
 
 Classes; Officials; Serve
 Names of People
+
 
 
 
@@ -330933,6 +336256,7 @@ Praise
 
 Possess
 Space; Quantity
+
 
 Land
 
@@ -331049,7 +336373,9 @@ Universe
 
 Burn
 
+
 Domestic Animals
+
 
 
 People
@@ -331245,6 +336571,7 @@ Speak
 
 Move
 
+
 Land
 
 
@@ -331262,6 +336589,7 @@ Parts: Creatures
 Location
 Classes; Officials; Serve
 Names of People
+
 
 
 
@@ -331302,6 +336630,7 @@ Parts: Creatures
 
 Modification.Complete
 Relations of Description
+
 
 
 Possess
@@ -331354,6 +336683,7 @@ Wrong
 
 Parts: Creatures
 Parts: Creatures
+
 
 Parts: People
 
@@ -331483,6 +336813,7 @@ Universe
 
 Space
 Relations of Association
+
 
 Land
 Quantity; Frequency
@@ -331706,6 +337037,7 @@ Ingest
 Identifiers
 Non-Act
 
+
 Universe
 
 
@@ -331739,6 +337071,7 @@ Move
 
 Attachment.Pour
 Relations of Description
+
 Liquids
 Sounds
 
@@ -331932,6 +337265,7 @@ Kinship / Construction
 Sand
 Relations of Description
 
+
 Sand
 Constructions.Parts
 Impact
@@ -331940,6 +337274,7 @@ Impact
 Swarming Creatures
 
 Time
+
 
 Time
 Impact
@@ -331993,6 +337328,7 @@ Kinship
 Save
 
 Humble
+
 
 Parts: Constructions
 
@@ -332094,8 +337430,10 @@ Happen
 Cognition
 
 Relations of Description
+
 Time
 Touch
+
 
 Existence
 
@@ -332111,6 +337449,7 @@ Attribute
 Classes
 
 Exist; Happen
+
 
 Poor
 Hope
@@ -332362,7 +337701,9 @@ Know
 Scatter
 
 
+
 Distress
+Friends
 Friends
 Faithful
 
@@ -332397,6 +337738,7 @@ Change
 Roads; Act
 
 Move
+
 
 Non-Exist
 
@@ -332720,6 +338062,7 @@ Sin
 
 Adverb
 
+
 Sand
 Stance
 
@@ -332987,6 +338330,7 @@ Shake
 Identifiers
 Speak
 
+
 Universe
 
 Negators
@@ -333189,6 +338533,7 @@ Weak
 Relations of Occurrence
 Purify
 Positors
+Positors
 Rain
 
 Good
@@ -333196,6 +338541,7 @@ Good
 Minerals
 Parts: Creatures
 conjunction
+
 
 Tombs
 Space
@@ -333208,6 +338554,7 @@ Negators
 
 Utter
 Move
+
 
 
 
@@ -333319,6 +338666,7 @@ Cognition
 
 
 Relations of Description
+
 Sand
 Serve
 
@@ -333328,10 +338676,12 @@ Move
 
 Negators
 Relations of Description
+
 Liquids
 Attachment.Pour
 
 Relations of Description
+
 Dairy
 Solid
 People
@@ -333388,6 +338738,7 @@ Distress
 
 Stance
 Relations of Description
+
 Wild Animals
 Control
 
@@ -333423,6 +338774,7 @@ Exist; Happen
 
 Parts: Creatures
 
+
 Tombs
 Move
 
@@ -333430,6 +338782,8 @@ Negators
 Frequency
 Time
 Happen
+Happen
+Space
 Space
 
 
@@ -333620,6 +338974,7 @@ Modification; Permanent
 
 
 Relations of Description
+
 Time
 Exist; Happen
 
@@ -333694,6 +339049,7 @@ Just
 Just
 
 
+
 Despise
 
 Think
@@ -333733,6 +339089,7 @@ Speak
 
 
 Think
+
 
 Land
 
@@ -333804,6 +339161,7 @@ Free
 disco
 Attachment.Restrain
 
+
 Liquids
 
 Dry
@@ -333863,14 +339221,17 @@ Dark
 
 Move
 
+
 Light
 Dark
 Praise
+
 
 People
 
 Non-Exist; Dead
 Scatter
+
 
 People
 
@@ -333895,6 +339256,7 @@ See
 
 Move
 Relations of Description
+
 Ingest
 disco
 Modification.Complete
@@ -333962,6 +339324,7 @@ Identifiers
 Merciful
 Relations of Occurrence
 
+
 Deities
 
 Identifiers
@@ -333980,6 +339343,7 @@ Correct
 
 Identifiers
 Relations of Occurrence
+
 
 Cover
 
@@ -334129,6 +339493,7 @@ Attribute.Young
 
 Space
 
+
 Artifacts
 Parts: Creatures
 
@@ -334164,6 +339529,7 @@ Dry
 
 Flee
 Relations of Description
+
 Ephemeral
 
 Negators
@@ -334210,6 +339576,7 @@ Time
 
 Markers of Existence
 
+
 Trees
 Hope
 Relations of Occurrence
@@ -334224,8 +339591,10 @@ Non-Exist
 Relations of Occurrence
 Old
 
+
 Land
 Foliage
+
 
 
 Sand
@@ -334472,6 +339841,7 @@ Deities
 
 Speak
 
+
 Lax
 
 
@@ -334519,6 +339889,7 @@ Evil
 
 Ingest
 Relations of Description
+
 Liquids
 Wrong
 Know
@@ -334559,11 +339930,13 @@ Quantity
 Time
 Happen
 
+
 Ferocious
 Perception; Sounds
 
 
 Parts: Creatures
+
 
 Intact
 Impact
@@ -334580,6 +339953,7 @@ Location
 Attribute
 Move
 Participants
+
 
 Bread
 Referents of Existence
@@ -334598,6 +339972,7 @@ Control
 Relations of Description
 Leaders
 Happen
+
 
 Fight
 Identifiers
@@ -334649,6 +340024,7 @@ Rich
 Negators
 Happen
 
+
 Land
 Rich
 Negators
@@ -334666,6 +340042,7 @@ Body.Parts
 Negators
 Trust
 
+
 Worthless
 Act
 
@@ -334682,11 +340059,13 @@ Negators
 Stage
 Detach
 Relations of Description
+
 Plants
 Fruits
 
 Move
 Relations of Description
+
 Trees
 Parts: Plants
 
@@ -334839,6 +340218,7 @@ Negators
 Love; Merciful
 Wounds
 
+
 Land
 Parts: Creatures Products
 Impact
@@ -334854,6 +340234,7 @@ Containers/Cloth
 Bind
 
 Parts
+
 
 
 
@@ -334889,10 +340270,12 @@ Focus particle
 Adverb
 Discourse particle
 
+
 Universe
 Utter
 
 Utter
+
 
 High
 
@@ -334980,6 +340363,7 @@ Parts: Body
 
 Parts: Creatures
 Relations of Description
+
 Ephemeral
 Modification.Complete
 Afraid
@@ -335032,9 +340416,11 @@ Occurrence; Wait
 Universe
 Kinship / Construction
 
+
 Dark
 Scatter
 Dwell
+
 
 Tombs
 Speak
@@ -335043,6 +340429,7 @@ Participant Referents
 Kinship
 
 Kinship
+
 
 Swarming Creatures
 
@@ -335081,6 +340468,7 @@ Speak
 
 Know
 Relations of Description
+
 Wild Animals
 Foolish
 
@@ -335139,6 +340527,7 @@ Attachment (Action)
 
 Traps
 Hide
+
 
 Land
 Traps
@@ -335327,6 +340716,7 @@ Move
 
 Move
 Relations of Description
+
 Trees
 Hope
 
@@ -335452,6 +340842,7 @@ Possess
 
 
 
+
 Write
 
 Tools
@@ -335460,6 +340851,7 @@ Minerals; Metal
 Metal
 
 Time
+
 
 Stone
 Impact
@@ -335565,10 +340957,12 @@ Time
 Relations of Occurrence
 Move
 
+
 Universe
 
 
 Land; Universe; Water; Elevations; Constructi
+
 
 Clouds
 Touch
@@ -335869,6 +341263,7 @@ Negators
 Birth
 Location
 Relations of Description
+
 Domestic Animals
 People
 
@@ -335886,6 +341281,7 @@ Perception; Sounds
 Music
 Satisfaction
 
+
 Well
 Time
 
@@ -335895,6 +341291,7 @@ Universe
 Move
 Identifiers
 Speak
+
 
 Deities
 Stance
@@ -336008,6 +341405,7 @@ Ingest
 
 Negators
 Ingest
+
 
 
 
@@ -336133,6 +341531,7 @@ Move
 
 
 
+
 Negators
 Evil
 Abundant
@@ -336241,6 +341640,7 @@ Constructions.Parts
 Identifiers
 Speak
 Identifiers
+
 Deities
 Stance
 
@@ -336452,6 +341852,7 @@ Act
 
 Know
 Relations of Description
+
 Metal
 Move
 
@@ -336554,18 +341955,22 @@ Land
 
 Wild Animals
 
+
 Land
 Move
 
 Serve
 See
 
+
 Food
 Land
 
 Bread
 
+
 People
+
 
 Land
 Food
@@ -336582,6 +341987,7 @@ Clothing
 
 
 Clothing
+
 
 Cold
 Hide
@@ -336644,6 +342050,7 @@ Space
 
 Roads
 
+
 Light
 Stance
 Dead
@@ -336653,9 +342060,11 @@ Classes
 Classes
 
 
+
 Time
 Exist; Happen
 Relations of Description
+
 People
 
 Parts: Body
@@ -336672,6 +342081,7 @@ Cover
 
 Space
 Impact; Open
+
 
 Dark
 Kinship / Construction
@@ -336698,6 +342108,7 @@ Liquids
 Curse
 Possess
 
+
 Land
 Negators
 Move
@@ -336721,6 +342132,7 @@ Cognition
 
 Impact
 Relations of Description
+
 Trees
 Wrong
 
@@ -336741,6 +342153,7 @@ Modification; Permanent
 Negators
 Trust
 
+
 Alive
 Possess
 
@@ -336759,6 +342172,7 @@ Frequency
 
 Humble
 Relations of Description
+
 Modification.Complete
 Non-Exist
 
@@ -336881,6 +342295,7 @@ Location
 
 
 Clothing
+
 
 Universe
 Shape
@@ -337091,6 +342506,7 @@ Satisfaction
 Bread
 Exist
 
+
 Universe
 Dead
 
@@ -337100,10 +342516,12 @@ Lament
 Relations of Occurrence
 Gather
 Relations of Description
+
 Sand
 Minerals; Metal
 
 Relations of Description
+
 Sand
 Non-Move
 Clothing
@@ -337117,6 +342535,7 @@ Free
 Possess
 Exist
 Relations of Description
+
 Swarming Creatures
 Kinship / Construction
 
@@ -337135,6 +342554,7 @@ Open
 
 Pursue; Attain
 Relations of Description
+
 Liquids
 Afraid
 Time
@@ -337169,10 +342589,12 @@ Space
 
 Markers of Existence
 
+
 Minerals; Metal
 Constructions.Parts
 
 Space
+
 
 Metal
 Purify
@@ -337186,6 +342608,7 @@ Exist
 Metal
 Non-Happen
 Space
+
 
 Dark
 
@@ -337245,6 +342668,7 @@ Move
 
 Wild Animals
 
+
 Stone
 Location
 Parts: Creatures
@@ -337252,6 +342676,7 @@ Move
 
 Foliage
 Elevations
+
 
 Stone
 Roads
@@ -337402,6 +342827,7 @@ Perception; Description
 Relations of Involvement
 Serve
 
+
 Time
 Weight
 
@@ -337411,6 +342837,7 @@ Measure
 Dimension
 
 Serve
+
 
 Rain
 Laws
@@ -337429,6 +342856,7 @@ conjunctive adverb
 Know
 Titles
 Speak
+
 
 People
 disco
@@ -337500,6 +342928,7 @@ Parts: Constructions
 
 Towns
 
+
 Roads
 Non-Move
 Space
@@ -337568,14 +342997,17 @@ Headgear
 Parts: Body
 Exist; Happen
 
+
 Blind
 
 Parts: Creatures
+
 
 Handicap
 Participant Referents
 Safe
 Participant Referents
+
 
 Classes
 
@@ -337599,6 +343031,7 @@ Constructions
 Attribute
 
 Relations of Description
+
 Sand
 Abundant
 Time
@@ -337638,6 +343071,7 @@ Speak
 
 Delay
 Relations of Description
+
 Rain
 
 
@@ -337663,6 +343097,7 @@ Groups; Leaders
 Dwell
 Relations of Description
 Leaders
+
 
 
 Relations of Description
@@ -337721,6 +343156,7 @@ Pursue
 Shout
 
 Relations of Description
+
 People
 
 Water
@@ -337806,6 +343242,7 @@ Move
 Afraid
 Pursue
 Relations of Description
+
 Time
 Respect
 
@@ -337841,10 +343278,12 @@ Clothing
 Dress
 Move
 
+
 Sand
 
 Compare
 Relations of Description
+
 Sand
 
 Sand
@@ -337902,6 +343341,7 @@ Time
 Grief (State/Process); Lament (Action)
 
 
+
 Classes
 
 Well
@@ -337930,6 +343370,7 @@ Act
 Negators
 Universe
 Stance
+
 
 People
 Shout
@@ -338099,11 +343540,13 @@ Move
 Identifiers
 Negators
 
+
 Parts: Creatures
 Serve
 Serve
 
 Exist
+
 
 Parts: Creatures
 Quantity
@@ -338147,6 +343590,7 @@ Clothing
 
 Clothing
 
+
 Classes
 Relations of Occurrence
 Negators
@@ -338164,6 +343608,7 @@ Classes
 
 
 Perception
+
 
 Parts: Constructions
 Help
@@ -338192,6 +343637,7 @@ Metal
 Trust
 
 
+
 Minerals; Metal
 Speak
 Trust
@@ -338217,6 +343663,7 @@ Move
 
 Wish
 
+
 Cover
 Parts: Creatures
 
@@ -338230,6 +343677,7 @@ Participants
 Laws
 
 Reject
+
 
 Deities
 
@@ -338267,11 +343715,13 @@ Parts: Creatures
 Negators
 Satisfaction
 
+
 Orientation: Attachment
 Negators
 Dwell
 Classes
 Building.Parts
+
 
 Roads; Act
 Open
@@ -338641,6 +344091,7 @@ Participant Referents
 disco
 
 
+
 Deities
 
 Sand
@@ -338683,6 +344134,7 @@ Know
 Hate
 
 Space
+
 
 Artifacts
 Parts: Creatures
@@ -338756,6 +344208,7 @@ Names
 
 Move
 
+
 Weapons
 
 Correct
@@ -338787,10 +344240,12 @@ Negators
 
 Space
 
+
 Tombs
 
 
 Names
+
 
 Dead
 Relations of Occurrence
@@ -338857,9 +344312,11 @@ Exchange
 Relations of Involvement
 Move
 
+
 Tombs
 
 Names
+
 
 Light
 
@@ -338958,6 +344415,7 @@ Names of People
 Ingest
 Despise
 Relations of Description
+
 Liquids
 
 Associate
@@ -338985,6 +344443,7 @@ Event Markers
 
 Identifiers
 Hear
+
 
 
 
@@ -339131,6 +344590,7 @@ Location
 Deities
 
 
+
 Impact
 Great
 Negators
@@ -339272,6 +344732,7 @@ Impact
 Abundant
 Speak
 
+
 Deities
 Names of People
 Utter
@@ -339359,6 +344820,7 @@ Serve
 Possess
 Music; Praise
 
+
 Time
 Know
 
@@ -339408,6 +344870,7 @@ Angry
 
 Negators
 Know
+
 
 Foolish
 Intense
@@ -339479,6 +344942,7 @@ Parts: Body
 Identifiers
 Leaders
 
+
 Control
 
 
@@ -339489,6 +344953,7 @@ Proud
 
 Relations of Occurrence
 Control
+
 
 Cords
 Grasp
@@ -339507,6 +344972,7 @@ Attribute
 Uncover
 Parts: Creatures
 
+
 Know
 
 Speak
@@ -339521,9 +344987,11 @@ Hear
 
 Time
 
+
 Well
 
 Time
+
 
 Beautiful
 
@@ -339549,10 +345017,12 @@ Shout
 Control
 Dead
 
+
 Attribute.Young
 
 
 Names
+
 
 Prostitutes
 Safe
@@ -339561,6 +345031,7 @@ Classes
 Distress
 
 Uncover
+
 
 Oppress
 Parts: Creatures
@@ -339780,6 +345251,7 @@ Negators
 Know
 
 
+
 Rain
 Speak
 
@@ -339931,6 +345403,7 @@ Universe
 Shine
 Participants
 
+
 Clouds
 
 Body.Parts
@@ -340076,6 +345549,7 @@ Time
 Modification
 Time
 Know
+Know
 Time
 Space
 Relations of Involvement
@@ -340192,6 +345666,7 @@ Land
 
 
 
+
 Water
 Constructions
 
@@ -340222,6 +345697,7 @@ Plants
 
 Markers of Existence
 
+
 Rain
 Exist
 
@@ -340241,6 +345717,7 @@ Universe
 
 Birth
 Relations of Description
+
 Stone
 Liquids
 Solid
@@ -340274,9 +345751,11 @@ Relations of Occurrence
 Space
 Scrolls
 
+
 Land
 
 Carry
+
 
 Clouds
 Perception; Sounds
@@ -340296,11 +345775,13 @@ Presentative deictic
 
 Space
 
+
 Creatures
 Wise
 
 
 Possess
+
 
 Birds
 Know
@@ -340320,6 +345801,7 @@ Sand
 
 
 
+
 Sand
 Attach
 
@@ -340334,14 +345816,17 @@ Must
 
 Stance
 
+
 Dwell
 Space
+
 
 
 
 Hide
 
 Identifiers
+
 
 Birds
 Animals
@@ -340378,6 +345863,7 @@ Occurrence
 Strong
 Kinship
 Abundant
+
 
 Land
 Move
@@ -340465,6 +345951,7 @@ Birds
 
 
 
+
 Land
 Food
 
@@ -340500,13 +345987,17 @@ Negators
 Attain
 
 
+
 Know
 Relations of Description
+
+
 
 
 High
 Move
 Utter
+
 
 Domestic Animals
 
@@ -340514,6 +346005,7 @@ Domestic Animals
 Move
 Modification
 Possess
+
 
 Domestic Animals
 Attribute
@@ -340524,11 +346016,13 @@ Parts: Creatures
 Identifiers
 Leap
 Relations of Description
+
 Swarming Creatures
 Great
 Sounds
 Afraid
 Attribute
+
 
 Depressions
 
@@ -340698,6 +346192,7 @@ Identifiers
 Relations of Occurrence
 Parts: Creatures
 Relations of Description
+
 Deities
 
 
@@ -340734,10 +346229,12 @@ Evil
 
 Hide
 
+
 Sand
 
 
 Cover
+
 
 Hide
 
@@ -340756,6 +346253,7 @@ Serve
 
 Plants
 Relations of Description
+
 Domestic Animals
 Ingest
 discourse particle
@@ -340873,6 +346371,7 @@ Identifiers
 Leap
 
 Relations of Description
+
 Birds
 
 Bind
@@ -341085,11 +346584,13 @@ Tools
 Sand
 Hot
 Relations of Description
+
 Containers
 Water
 Water; Direction
 Space
 Relations of Description
+
 Containers
 Space
 Light
@@ -341568,6 +347069,7 @@ Roads
 
 People
 Relations of Involvement
+
 Wrong
 Move
 
@@ -341604,8 +347106,10 @@ Leaders
 Possess
 Wise
 
+
 Scenery
 Shout
+
 
 Roads
 Possess
@@ -341617,6 +347121,7 @@ Speak
 
 Constructions.Parts
 Parts: Constructions
+
 
 Towns
 Speak
@@ -341750,17 +347255,21 @@ Relations of Association
 Relations of Involvement
 Hear
 
+
 Wise
 Parts: Creatures
 Stance
 Parts: Creatures
 
+
 Know
 
 Relations of Occurrence
 
+
 Know
 Speak
+
 
 Know
 Possess
@@ -341768,9 +347277,11 @@ Perception; Sounds
 Relations of Occurrence
 Search; Ask
 Relations of Description
+
 Minerals; Metal
 
 Relations of Description
+
 Valuable
 Cognition
 conjunction
@@ -341791,6 +347302,7 @@ Know
 
 Know
 Think
+
 
 Just
 Know
@@ -342095,6 +347607,7 @@ Alive
 Alive
 
 
+
 Involvement
 
 
@@ -342250,6 +347763,7 @@ Praise
 Relations of Occurrence
 
 
+
 Participants
 Taunt
 
@@ -342377,6 +347891,7 @@ Negators
 Involvement.Waver
 Involvement
 Alive
+
 Know
 Negators
 Apart
@@ -342440,6 +347955,7 @@ Time
 Act
 Evil
 Relations of Description
+
 Time; Dark
 Negators
 Know
@@ -342543,6 +348059,7 @@ Speak
 Identifiers
 Ingest
 Relations of Description
+
 Plants
 Shape
 Relations of Description
@@ -342655,6 +348172,7 @@ Attribute.Flowing
 Parts: Creatures Products
 Scenery
 
+
 Roads
 
 Liquids
@@ -342737,6 +348255,7 @@ Friends
 Impact
 
 
+
 Parts: Creatures
 Control
 
@@ -342799,9 +348318,11 @@ Leaders; Officials
 Control
 Non-Move
 
+
 Time
 Bread
 Gather
+
 
 Food
 Food
@@ -342841,6 +348362,7 @@ Wrong
 
 Attachment.Press
 
+Parts: Body
 Know
 
 Parts: Creatures
@@ -342892,6 +348414,7 @@ People
 
 Relations of Involvement
 Move
+
 
 Evil
 ?.Breathe
@@ -343009,6 +348532,7 @@ Touch
 Negators
 Despise
 Relations of Involvement
+
 People
 
 Oppress
@@ -343088,9 +348612,11 @@ Scrolls
 Parts: Creatures
 Speak
 
+
 Wise
 Kinship
 Participant Referents
+
 
 
 
@@ -343115,14 +348641,17 @@ See
 
 
 
+
 Foolish
 Know
+
 
 Kinship
 People
 Involvement
 Parts: Creatures
 Move
+
 
 Roads
 Positors
@@ -343162,8 +348691,10 @@ Dwell
 People
 Time
 
+
 Scenery
 Time
+
 
 Roads
 
@@ -343384,6 +348915,7 @@ False
 Modification.Complete
 Right
 
+
 Know
 
 Right
@@ -343562,6 +349094,7 @@ Parts: Body
 Water
 
 Space
+
 
 Water; Direction
 Location
@@ -343840,10 +349373,12 @@ Diligent
 Rich
 Gather
 
+
 Time
 Kinship
 Wise
 Asleep
+
 
 Food
 Kinship
@@ -343874,6 +349409,7 @@ People
 Parts.Edge
 Impact
 Move
+
 
 Just
 Move
@@ -344027,12 +349563,16 @@ Just
 Constructions.Parts
 Time
 Relations of Description
+
 Liquids; Wine
+
 
 Parts: Creatures.Parts
 
 Relations of Description
+
 Substances.Smoke
+
 
 Parts: Body
 Adverb
@@ -344056,6 +349596,7 @@ Hope
 Evil
 Non-Happen
 Fortifications
+
 
 Just
 Act
@@ -344341,6 +349882,7 @@ Participants
 Move
 
 Relations of Description
+
 Foliage
 Just
 Stage
@@ -344364,6 +349906,7 @@ Possess
 Wise
 disco
 Just
+
 
 Land
 Exchange
@@ -344511,6 +350054,7 @@ Think
 Wise
 People
 
+
 Time
 Know
 Angry
@@ -344557,6 +350101,7 @@ Intact
 Joy
 Negators
 Happen
+
 
 Just
 Modification.Complete
@@ -344816,6 +350361,7 @@ Kinship
 Kinship
 
 Hide
+
 
 Just
 Possession
@@ -345373,6 +350919,7 @@ Joy
 
 
 
+
 Utter
 
 
@@ -345497,6 +351044,7 @@ Think
 Modification.Complete
 Exist; Happen
 Names of Supernatural Beings
+
 
 Think
 
@@ -345695,7 +351243,9 @@ Ingest
 
 
 
+
 Strong
+
 
 Parts: Creatures
 Markers of Existence
@@ -345773,6 +351323,7 @@ Body.Parts
 Grasp
 Towns
 
+
 Parts: People
 Move
 Identifiers
@@ -345808,9 +351359,11 @@ Possess
 Possess
 Containers
 
+
 Minerals; Metal
 
 Constructions
+
 
 Metal
 
@@ -345828,6 +351381,7 @@ Hear
 Parts: Creatures
 Non-Exist
 Despise
+
 
 Humble|Meek
 Shame
@@ -346038,6 +351592,7 @@ Birth
 Problematic cases
 Exchange
 Relations of Involvement
+
 Just
 Negators
 Well
@@ -346107,6 +351662,7 @@ Well
 Relations of Involvement
 Stance
 Just
+
 
 
 Parts.Edge
@@ -346218,6 +351774,7 @@ Quantity
 
 Involvement.Contend
 Move
+Move
 Friends
 
 Know
@@ -346323,6 +351880,7 @@ Abundant
 
 Poor
 
+
 Apart
 Utter
 False
@@ -346397,6 +351955,7 @@ Move
 
 Sounds
 Relations of Description
+
 Wild Animals
 Angry
 Leaders
@@ -346511,6 +352070,7 @@ Hide
 Lazy
 Parts: Creatures
 
+
 Containers
 Focus particle
 Location
@@ -346558,6 +352118,7 @@ Sin
 Faithful
 
 
+
 Laws
 
 
@@ -346577,11 +352138,13 @@ Negators
 Wise
 Sounds
 Relations of Description
+
 Wild Animals
 Afraid
 Leaders
 Angry
 Non-Happen
+
 
 
 
@@ -346599,6 +352162,8 @@ Lazy
 Negators
 Impact
 Ask
+Ask
+
 
 Food
 
@@ -346718,6 +352283,7 @@ Possess
 Ingest
 
 
+
 Bread
 False
 
@@ -346755,6 +352321,7 @@ Referents of Time
 Dark
 Possess
 Hate
+
 
 Quantity
 
@@ -346822,6 +352389,7 @@ Safe
 Leaders
 
 Involvement.Support
+
 
 Faithful
 
@@ -346957,6 +352525,7 @@ Evil
 Conduct
 Evil
 
+
 Wrong
 Close
 Parts: Creatures
@@ -346971,16 +352540,19 @@ Negators
 
 Possess
 
+
 Cover
 Merciful
 Angry
 
 Exchange
 
+
 Parts: People
 Angry
 Strong
 Joy
+
 
 Just
 Serve
@@ -347010,6 +352582,7 @@ Liquids
 Negators
 Rich
 Exchange
+
 
 Just
 Evil
@@ -347187,6 +352760,7 @@ Location
 
 Know
 
+
 People
 
 
@@ -347224,6 +352798,7 @@ Possess
 
 Bread
 
+
 Poor
 Pursue
 
@@ -347253,6 +352828,7 @@ Sin
 Speak
 Lazy
 Wild Animals
+
 
 Scenery
 
@@ -347349,6 +352925,7 @@ Negators
 Impact
 Classes
 
+
 Parts: Constructions
 
 Names of Supernatural Beings
@@ -347383,6 +352960,7 @@ Exist; Happen
 
 Impact
 Parts: Creatures
+
 
 Exchange
 Exchange
@@ -347534,6 +353112,7 @@ Involvement.Contend
 Relations of Association
 Move
 
+
 Know
 Parts: Creatures
 
@@ -347549,10 +353128,12 @@ Know
 
 Impact
 
+
 Tools
 Negators
 Dead
 Participant Referents
+
 
 Tools
 Impact
@@ -347580,6 +353161,7 @@ Negators
 Angry
 Parts: Creatures
 
+
 Sin
 
 Relations of Occurrence
@@ -347604,6 +353186,7 @@ Kinship
 Wise
 
 Wise
+
 
 
 Parts: Creatures
@@ -347650,6 +353233,7 @@ Joy
 Joy
 Kinship
 Just
+
 Birth
 Wise
 Joy
@@ -347708,10 +353292,12 @@ Cognition
 
 Parts: Body
 Relations of Involvement
+
 Delay
 
 Identifiers
 Liquids; Wine; Crops
+
 
 Move
 
@@ -347724,6 +353310,7 @@ Relations of Perception
 Color
 
 Possess
+
 
 
 Parts: Body
@@ -347809,6 +353396,7 @@ Beautiful
 People
 Wise
 
+
 Attribute
 
 
@@ -347829,6 +353417,7 @@ Abundant
 Wise
 
 People
+
 
 
 Parts: Constructions
@@ -347859,9 +353448,11 @@ Attribute
 Move
 Possess
 
+
 Universe
 
 Involvement.Waver
+
 
 
 Relations of Occurrence
@@ -347959,15 +353550,18 @@ Angry
 Negators
 Angry
 
+
 Evil
 Negators
 Angry
+
 
 Evil
 
 Negators
 Exist; Happen
 Identifiers
+
 
 Wrong
 Lamps
@@ -348013,6 +353607,7 @@ Curse
 Groups
 
 
+
 Correct
 Beautiful
 
@@ -348027,10 +353622,12 @@ Speak
 Right
 Non-Move
 
+
 Scenery
 Serve
 
 Happen
+
 
 Land
 
@@ -348059,6 +353656,7 @@ Adverb
 Serve
 
 Move
+
 
 
 Relations of Description
@@ -348133,9 +353731,11 @@ Know
 Speak
 Universe
 
+
 Proud
 
 Land
+
 
 
 
@@ -348150,6 +353750,7 @@ Minerals; Metal
 
 Move
 
+
 Professions
 Artifacts
 Detach
@@ -348159,6 +353760,7 @@ Evil
 Leaders
 
 Faithful
+
 
 Just
 
@@ -348321,6 +353923,7 @@ Liquids
 
 Sing
 
+
 Sing
 
 Parts: Creatures
@@ -348406,12 +354009,16 @@ Relations of Description
 
 Body.Parts
 Relations of Description
+
 Rain
+
 
 Time
 
 Relations of Description
+
 Rain
+
 
 Food
 Adverb
@@ -348421,10 +354028,12 @@ Well
 Foolish
 
 Relations of Description
+
 Birds
 Relations of Involvement
 Involvement.Waver
 Relations of Description
+
 Birds
 Relations of Involvement
 Move
@@ -348435,8 +354044,10 @@ Negators
 Move
 Weapons
 
+
 Domestic Animals
 Tools
+
 
 Domestic Animals
 
@@ -348533,6 +354144,7 @@ Lazy
 Wild Animals
 
 
+
 Wild Animals
 
 Identifiers
@@ -348549,6 +354161,7 @@ Furnishings
 Hide
 Lazy
 Parts: Creatures
+
 
 Containers
 Serve
@@ -348820,6 +354433,7 @@ Friends
 Perception; Sounds
 Great
 
+
 Time
 Time
 Curse
@@ -348859,8 +354473,10 @@ Safe
 Leaders
 Great
 Relations of Description
+
 Liquids
 Identifiers
+
 
 
 
@@ -348868,6 +354484,7 @@ Adverb
 Parts: Creatures
 Identifiers
 People
+
 
 People
 Universe
@@ -348883,9 +354500,11 @@ Negators
 
 Containers
 
+
 Minerals; Metal
 
 Constructions
+
 
 Metal
 
@@ -348899,11 +354518,13 @@ Identifiers
 Identifiers
 People
 
+
 Constructions.Parts
 
 Location
 Identifiers
 Crops
+
 
 Tools
 Negators
@@ -348929,6 +354550,7 @@ Relations of Occurrence
 Control
 
 Groups; Kinship
+
 Groups; Kinship
 Uncover
 Plants
@@ -349171,6 +354793,7 @@ Sin
 People
 Speed
 
+
 Valuable
 
 Wrong
@@ -349223,6 +354846,7 @@ Wise
 Participants
 Flee
 Location
+
 
 Humble|Meek
 
@@ -349538,6 +355162,7 @@ Parts: People
 Bind
 Liquids
 
+
 Clothing
 
 Stance
@@ -349558,6 +355183,7 @@ Deities
 Right
 Safe
 Participants
+
 
 Trust
 
@@ -349715,6 +355341,7 @@ Know
 Identifiers
 Birds
 
+
 Universe
 
 Small Animals
@@ -349787,6 +355414,7 @@ Strong
 
 Non-Move
 
+
 Time
 Bread
 Wild Animals
@@ -349796,9 +355424,11 @@ Strong
 
 Space
 
+
 Stone
 Kinship / Construction
 Leaders
+
 
 
 Swarming Creatures
@@ -349825,6 +355455,7 @@ Quantity; Frequency
 Move
 Wild Animals
 Strong
+
 
 Wild Animals
 
@@ -349886,6 +355517,7 @@ Vow
 Negators
 Possess
 Relations of Involvement
+
 People
 Strong; Confident
 
@@ -349895,9 +355527,11 @@ Non-Exist
 Leaders
 Negators
 
+
 Leaders
 Names
 Negators
+
 
 Leaders
 Ingest
@@ -350034,9 +355668,11 @@ Negators
 Burn
 
 
+
 Lamps
 Parts: Creatures
 Location
+
 
 Tools
 
@@ -350046,10 +355682,12 @@ Tools
 Parts: Creatures
 Stance
 
+
 Classes
 
 Parts: Creatures
 Location
+
 
 Classes
 Negators
@@ -350072,6 +355710,7 @@ Cloth
 Clothing
 Know
 
+
 Parts: Constructions
 Leaders
 
@@ -350086,6 +355725,7 @@ Exchange
 
 Clothing
 Possess
+
 
 Exchange
 Attribute
@@ -350150,6 +355790,7 @@ Result
 
 Praise
 
+
 Parts: Constructions
 Happen
 
@@ -350162,6 +355803,7 @@ Leaders
 Names of Locations
 Exist; Happen
 Ingest
+
 
 Land
 
@@ -350294,6 +355936,7 @@ Kinship
 
 
 Move
+
 
 
 Relations of Involvement
@@ -350616,6 +356259,7 @@ Land
 Gather
 
 
+
 Space
 Relations of Description
 Search; Know
@@ -350633,6 +356277,7 @@ Move
 Move
 
 Gather
+
 
 Land
 Space
@@ -350658,6 +356303,7 @@ Move
 
 
 Speak
+
 
 Detach
 Names of Supernatural Beings
@@ -350711,6 +356357,7 @@ Gather
 
 Gather
 
+
 Bind
 Space
 Identifiers
@@ -350759,6 +356406,7 @@ Space
 
 People
 Parts: Body
+
 
 Land
 Relations of Description
@@ -350902,6 +356550,7 @@ Bread
 Space
 Quantity
 
+
 Liquids; Wine
 
 Space
@@ -350956,6 +356605,7 @@ Negators
 
 
 Gather
+
 
 Land
 
@@ -351169,6 +356819,7 @@ Negators
 Know
 Relations of Involvement
 
+
 Relations of Occurrence
 Non-Happen
 Relations of Involvement
@@ -351208,6 +356859,7 @@ Location
 Modification.Complete
 Relations of Description
 Speak
+
 Serve
 
 Move
@@ -351238,6 +356890,7 @@ Identifiers
 Scenery
 
 Move
+
 
 Hide
 
@@ -351342,6 +356995,7 @@ Time
 
 Exist; Happen
 
+
 Time
 Relations of Occurrence
 Free
@@ -351440,6 +357094,7 @@ Possess
 
 
 Speak
+
 Negators
 Move
 
@@ -351511,6 +357166,7 @@ Space
 
 Speak
 Relations of Association
+
 Kinship; Free
 Possess
 Identifiers
@@ -351661,6 +357317,7 @@ Clothing
 Speak
 Names of People
 
+
 Leaders
 
 Modification.Complete
@@ -351730,6 +357387,7 @@ Modification.Complete
 Identifiers
 Groups
 Relations of Description
+
 
 Parts: Constructions
 
@@ -352025,6 +357683,7 @@ Ingest
 Referents of Location
 Stance
 
+
 Existence
 Relations of Description
 
@@ -352040,6 +357699,7 @@ Know
 
 Animals
 Beautiful
+
 
 People
 Move
@@ -352066,8 +357726,10 @@ Friends
 Beautiful
 Parts: Creatures
 
+
 Jewellery
 Parts: Creatures
+
 
 Jewellery
 Jewellery
@@ -352172,7 +357834,9 @@ Artifacts
 Love
 
 
+
 Food
+
 
 
 Fruits
@@ -352270,6 +357934,7 @@ Identifiers
 Parts: Plants
 Position
 
+
 Land
 
 Identifiers
@@ -352340,6 +358005,7 @@ Ingest
 
 
 
+
 Relations of Description
 ?.Breathe
 Love
@@ -352365,6 +358031,7 @@ Detach
 
 Furnishings
 
+
 Time
 Search; Ask
 Identifiers
@@ -352380,9 +358047,12 @@ Stance
 
 
 
+
 Towns
 
+
 Roads
+
 
 
 Roads
@@ -352399,6 +358069,7 @@ Search; Know
 Identifiers
 Safe
 Identifiers
+
 
 
 Towns
@@ -352496,6 +358167,7 @@ Parts: Creatures
 
 
 
+
 Time
 Vehicles
 Serve
@@ -352526,8 +358198,10 @@ Position; Connection
 Kinship
 Names of Groups
 
+
 Leaders
 Names of People
+
 
 Headgear
 Relations of Description
@@ -352622,6 +358296,7 @@ Quantity
 Wild Animals
 Identifiers
 Ingest
+
 
 
 
@@ -352886,6 +358561,7 @@ Safe
 Identifiers
 
 
+
 Towns
 Impact
 Wounds
@@ -352919,6 +358595,7 @@ Love
 Identifiers
 Beautiful
 
+
 People
 
 
@@ -352941,6 +358618,7 @@ Parts: Creatures
 Shape
 Color
 Relations of Description
+
 Birds
 Water
 Relations of Description
@@ -352949,6 +358627,7 @@ Birds
 
 Liquids
 Purify
+
 
 Liquids
 Space
@@ -352971,6 +358650,7 @@ Artifacts
 Metal
 
 
+
 Gemstones
 Parts: Creatures
 Artifacts
@@ -352986,9 +358666,11 @@ Parts: Constructions
 Minerals; Metal
 See
 Relations of Description
+
 Names of Geographical Objects
 Apart
 Relations of Description
+
 Trees
 Speak
 Press
@@ -353008,6 +358690,7 @@ Love
 Identifiers
 Beautiful
 
+
 People
 Referents of Location
 Move
@@ -353026,6 +358709,7 @@ Trees
 
 Ingest
 
+
 Products
 
 
@@ -353041,6 +358725,7 @@ Identifiers
 Ingest
 
 
+
 Beautiful
 Participant Referents
 Friends
@@ -353051,6 +358736,7 @@ Relations of Description
 Names
 Afraid
 Relations of Description
+
 Space
 
 Parts: Body
@@ -353134,12 +358820,15 @@ See
 Time
 Beautiful
 Relations of Description
+
 Universe
 Good
 Relations of Description
+
 Universe
 Afraid
 Relations of Description
+
 Space
 Location
 
@@ -353166,6 +358855,7 @@ Know
 Space
 Vehicles
 
+
 Direction
 
 Identifiers
@@ -353179,6 +358869,7 @@ See
 See
 
 
+
 Relations of Description
 Turn
 Identifiers
@@ -353186,6 +358877,7 @@ Association
 
 Beautiful
 Time
+
 
 Clothing
 Kinship
@@ -353208,6 +358900,7 @@ Liquids; Wine
 Parts: Creatures
 Scenery
 Crops
+
 
 
 
@@ -353241,14 +358934,17 @@ Names
 Parts: Creatures; People; Animals
 
 Relations of Description
+
 Names
 
 Attribute
 Parts: Creatures; People; Animals
 Relations of Description
+
 Cloth
 Leaders
 Control
+
 
 Parts: Creatures
 
@@ -353257,6 +358953,7 @@ Beautiful
 
 Beautiful
 Love
+
 
 Involvement.Comfort
 Identifiers
@@ -353287,6 +358984,7 @@ Plants
 Smell
 Parts: Creatures
 Relations of Description
+
 Fruits
 Press
 Speak
@@ -353315,8 +359013,10 @@ Identifiers
 Land
 Dwell
 
+
 Towns
 Time
+
 
 Land
 Perception; Description
@@ -353359,6 +359059,7 @@ Kinship
 Parts: Creatures
 Kinship
 Search; Know
+
 
 Orientation: Attachment
 Embrace
@@ -353422,16 +359123,19 @@ Birth
 Birth
 Space
 Relations of Description
+
 Jewellery
 
 Parts: Creatures
 Relations of Description
+
 Jewellery
 
 Parts: Creatures
 
 Strong
 Relations of Description
+
 Universe
 Love
 Hard
@@ -353463,6 +359167,7 @@ Modification.Complete
 Valuable
 Kinship / Construction
 
+
 Love
 Despise
 Despise
@@ -353478,6 +359183,7 @@ Parts: Creatures
 Serve
 
 Kinship
+
 
 Time
 Relations of Description
@@ -353503,6 +359209,7 @@ Confident
 
 Parts: Creatures
 Relations of Description
+
 Constructions; Fortifications
 conjunction
 Exist; Happen
@@ -353521,6 +359228,7 @@ Possess
 Identifiers
 Identifiers
 Land
+
 
 Safe
 
@@ -353546,6 +359254,7 @@ Identifiers
 Fruits
 Identifiers
 Space
+
 
 Products
 Friends
@@ -353586,6 +359295,7 @@ Modification.Complete
 Ephemeral
 
 Well
+
 
 People
 
@@ -353723,9 +359433,11 @@ Exist; Happen
 
 Cognition
 
+
 Quantity
 
 Focus particle
+
 
 Identifiers
 Relations of Description
@@ -353737,6 +359449,7 @@ Think
 
 Relations of Description
 Exist; Happen
+
 
 Identifiers
 Participant Referents
@@ -353756,6 +359469,7 @@ Relations of Involvement
 
 Relations of Involvement
 Search
+
 
 Wise
 
@@ -353896,12 +359610,14 @@ Parts: Creatures
 Relations of Involvement
 Delay
 
+
 Liquids; Wine; Crops
 Identifiers
 Parts: Creatures
 
 
 Move
+
 
 Wise
 
@@ -354061,6 +359777,7 @@ Serve
 
 
 
+
 Heavy
 Relations of Description
 Serve
@@ -354110,6 +359827,7 @@ Relations of Description
 Markers of Existence
 Well
 
+
 Wise
 
 Identifiers
@@ -354129,6 +359847,7 @@ Parts: Creatures; People; Animals
 
 Identifiers
 Foolish
+
 
 Cognition
 Move
@@ -354171,6 +359890,7 @@ Ephemeral
 Cognition
 
 Think
+
 
 Wise
 
@@ -354232,6 +359952,7 @@ Identifiers
 Universe
 Relations of Description
 Space
+
 
 People
 Relations of Description
@@ -354309,6 +360030,7 @@ Abundant
 
 Exist
 
+
 People
 
 Modification.Complete
@@ -354332,6 +360054,7 @@ Angry
 
 Focus particle
 
+
 Time
 Negators
 Non-Happen
@@ -354342,6 +360065,7 @@ Ephemeral
 Participants
 
 Well
+
 
 People
 Relations of Description
@@ -354388,6 +360112,7 @@ Know
 Joy
 
 Relations of Involvement
+
 Sin
 Possess
 
@@ -354410,6 +360135,7 @@ Ephemeral
 
 Wish
 Body.Parts
+
 
 Modification.Complete
 Time
@@ -354741,6 +360467,7 @@ Identifiers
 Body.Parts
 Quantity
 
+
 Modification.Complete
 
 Well
@@ -354793,6 +360520,7 @@ Move
 
 
 Direction
+
 
 Land
 
@@ -355162,6 +360890,7 @@ Deities
 Identifiers
 Deities
 
+
 Universe
 
 Participant Referents
@@ -355199,6 +360928,7 @@ Exchange
 
 
 Association
+
 
 Foolish
 Identifiers
@@ -355268,6 +360998,7 @@ Humble|Meek
 Just
 
 
+
 Scenery
 Negators
 Afraid
@@ -355287,6 +361018,7 @@ High
 Well
 Land
 
+
 Modification.Complete
 
 Leaders
@@ -355301,6 +361033,7 @@ Satisfaction
 
 
 Love
+
 
 Groups
 Negators
@@ -355337,6 +361070,7 @@ Ingest
 Identifiers
 Quantity
 Relations of Involvement
+
 Valuable
 
 Space
@@ -355414,10 +361148,12 @@ Well
 Relations of Description
 Serve
 
+
 Body.Parts
 conjunctive adverb
 Modification.Complete
 Time
+
 
 Attitude
 Ingest
@@ -355593,12 +361329,15 @@ Identifiers
 Birth
 
 
+
 Ephemeral
 Move
 
 
+
 Cognition
 Move
+
 
 
 Cognition
@@ -355650,12 +361389,14 @@ Satisfaction
 
 Well
 Alive
+
 Wise
 
 Identifiers
 Foolish
 
 Relations of Involvement
+
 Classes
 Know
 
@@ -355692,6 +361433,8 @@ Negators
 Relations of Involvement
 Think
 
+Relations of Description
+Strong
 
 
 
@@ -355702,6 +361445,7 @@ Ephemeral
 
 Well
 
+
 People
 Alive
 Alive
@@ -355709,7 +361453,9 @@ Know
 
 
 
+
 People
+
 
 Alive
 Quantity
@@ -355719,10 +361465,12 @@ Ephemeral
 
 Serve
 Relations of Description
+
 Ephemeral
 Relations of Description
 
 Speak
+
 
 People
 
@@ -355998,6 +361746,7 @@ Identifiers
 Wise
 Strong
 
+
 Wise
 
 
@@ -356005,11 +361754,13 @@ Leaders
 Relations of Description
 Exist; Happen
 
+
 Towns
 
 People
 
 Just
+
 
 Land
 Relations of Description
@@ -356048,6 +361799,7 @@ Identifiers
 Modification.Complete
 Identifiers
 Know
+
 
 Wise
 Speak
@@ -356260,6 +362012,7 @@ Speak
 People
 Leaders
 
+
 Body.Parts
 Relations of Involvement
 Attachment.Restrain
@@ -356276,6 +362029,7 @@ Universe
 
 
 Body Products
+
 
 Fight
 
@@ -356325,6 +362079,7 @@ Apart
 Act
 
 Know
+
 
 Towns
 Relations of Description
@@ -356381,12 +362136,14 @@ Well
 Negators
 Exist; Happen
 
+
 Evil
 
 Negators
 Extent
 Time
 Relations of Description
+
 Ephemeral
 Relations of Description
 
@@ -356437,6 +362194,7 @@ Relations of Description
 
 Well
 Relations of Involvement
+
 People
 
 Identifiers
@@ -356488,7 +362246,9 @@ Land
 
 
 
+
 Time
+
 
 
 Time
@@ -356585,24 +362345,31 @@ Modification.Complete
 Relations of Description
 Relations of Description
 
+
 Modification.Complete
 Happen
 Quantity
 
+
 Just
+
 
 
 Evil
 
+
 Just
+
 
 
 Pure
 
 
+
 Unclean
 
 
+
 Dead
 
 
@@ -356610,8 +362377,10 @@ Relations of Description
 
 Dead
 Relations of Description
+
 Just
 Relations of Description
+
 Sin
 
 Vow
@@ -356632,6 +362401,7 @@ Universe
 Happen
 Quantity
 Alive
+
 Modification.Complete
 
 conjunctive adverb>macro-syntactive
@@ -356768,6 +362538,7 @@ Ephemeral
 Participants
 Attain
 
+
 Alive
 
 
@@ -356811,11 +362582,13 @@ Universe
 
 Negators
 
+
 Agile
 Identifiers
 Move
 
 Negators
+
 
 Strong
 Identifiers
@@ -356824,17 +362597,20 @@ Fight
 correlative conjunction
 Negators
 
+
 Wise
 Bread
 
 correlative conjunction
 Negators
 
+
 Know
 Abundant
 
 correlative conjunction
 Negators
+
 
 Know
 Just; Merciful
@@ -356854,6 +362630,7 @@ People
 Identifiers
 
 Relations of Description
+
 Aquatic Animals
 Relations of Description
 Grasp
@@ -356862,9 +362639,11 @@ Grasp
 
 
 Relations of Description
+
 Birds
 Identifiers
 Grasp
+
 
 Traps
 Relations of Description
@@ -356960,6 +362739,7 @@ Hear
 Lament
 Control
 
+
 Foolish
 Just
 Wise
@@ -356998,6 +362778,7 @@ Direction
 Focus particle
 
 
+
 Relations of Description
 Relations of Description
 Know
@@ -357006,6 +362787,7 @@ Parts: Creatures
 Involvement
 
 Speak
+
 
 Modification.Complete
 
@@ -357043,10 +362825,12 @@ Possess
 Identifiers
 Foolish
 
+
 High
 
 
 Valuable
+
 
 Low
 Space
@@ -357166,6 +362950,7 @@ People
 
 Leaders
 
+
 Time
 Ingest
 Praise
@@ -357178,11 +362963,13 @@ Leaders
 Leaders
 
 
+
 Ingest
 
 Attribute
 
 Negators
+
 
 Ingest
 
@@ -357281,9 +363068,11 @@ Relations of Occurrence
 Move
 Trees
 
+
 Direction
 
 Relations of Occurrence
+
 
 Names of
 Space
@@ -357297,6 +363086,7 @@ See
 Body.Parts
 Negators
 Space
+
 
 
 
@@ -357330,10 +363120,12 @@ Identifiers
 Identifiers
 Modification.Complete
 
+
 Time
 Space
 Identifiers
 Plants
+
 
 
 Time
@@ -357363,6 +363155,7 @@ Light
 
 
 Relations of Involvement
+
 Parts: Body
 
 
@@ -357420,6 +363213,7 @@ Identifiers
 Move
 Identifiers
 Deities
+
 
 
 People
@@ -357485,6 +363279,7 @@ Space
 Identifiers
 Rain
 
+
 Time
 Relations of Description
 Shake
@@ -357507,10 +363302,12 @@ See
 Identifiers
 Description
 
+
 Parts: Constructions
 
 
 Building.Parts
+
 
 Roads
 
@@ -357539,6 +363336,7 @@ Afraid
 
 
 
+
 Stage
 Identifiers
 Trees
@@ -357557,6 +363355,7 @@ People
 Location
 Kinship / Construction
 Time
+
 
 
 
@@ -357648,6 +363447,7 @@ Faithful
 Speak
 Wise
 Relations of Description
+
 Tools
 
 Relations of Description
@@ -357722,8 +363522,10 @@ Relations of Description
 Classes
 Abundant
 
+
 People
 Kinship
+
 
 Scenery
 Exist; Happen
@@ -357731,6 +363533,7 @@ Exist; Happen
 Serve
 Lament
 Lament
+
 
 Time
 
@@ -357761,6 +363564,7 @@ Abundant
 Serve
 
 Space
+
 
 People
 Negators
@@ -357913,6 +363717,7 @@ Speak
 Negators
 Move
 
+
 People
 
 Modification.Complete
@@ -358061,6 +363866,7 @@ Rebel
 Hear
 
 Modification.Complete
+
 Groups
 
 Description
@@ -358070,8 +363876,10 @@ People
 People
 Move
 
+
 Submit
 Speak
+
 
 Love
 Participant Referents
@@ -358079,6 +363887,7 @@ False
 Priests
 
 Leaders
+
 
 Towns
 Attribute
@@ -358109,8 +363918,10 @@ Orientation: Attachment
 Childless
 Attribute
 
+
 Kinship / Construction
 Relations of Description
+
 Universe
 Hear
 Relations of Perception
@@ -358178,6 +363989,7 @@ Time
 Angry
 Titles
 Impact
+
 Negators
 Love; Merciful
 Identifiers
@@ -358191,6 +364003,7 @@ Fortifications
 Kinship
 Names of Locations
 Touch
+
 
 Land
 Attitude
@@ -358239,6 +364052,7 @@ Names of Locations
 Cognition
 Relations of Description
 
+
 Angry
 Titles
 Fortifications
@@ -358262,6 +364076,7 @@ Lament
 
 Apart
 Relations of Description
+
 Products
 Constructions
 Impact
@@ -358323,6 +364138,7 @@ Constructions
 Dry
 Move
 
+
 Land
 Parts: Constructions
 Non-Exist; Dead
@@ -358332,6 +364148,7 @@ Constructions.Parts
 Leaders
 
 Leaders
+
 
 People
 
@@ -358344,6 +364161,7 @@ Vision
 
 Names of Supernatural Beings
 Space
+
 
 Land
 Silent; Inactive
@@ -358358,16 +364176,19 @@ Dress
 Containers/Cloth
 Move
 
+
 Land
 Parts: Creatures; People; Animals
 People
 Names
 Non-Exist
 
+
 Parts: Creatures Products
 Parts: Body
 Distress
 Parts: Creatures
+
 
 
 Land
@@ -358394,6 +364215,7 @@ Liquids; Wine; Crops
 
 Weak
 Relations of Description
+
 Attribute
 
 Roads
@@ -358423,6 +364245,7 @@ Names of Locations
 
 Great
 Relations of Description
+
 Water; Direction
 Impact
 
@@ -358525,6 +364348,7 @@ Kinship
 Names of Locations
 Move
 Relations of Description
+
 Water
 Parts: Creatures Products
 Time
@@ -358543,10 +364367,12 @@ Utter
 
 
 
+
 Position; Occurrence
 Time
 Titles
 Relations of Description
+
 Liquids
 Parts: Creatures
 Location
@@ -358590,6 +364416,7 @@ Priests
 Prophets
 Stance
 
+
 Land
 Scenery
 People
@@ -358599,6 +364426,7 @@ People
 
 People
 Move
+
 
 Attribute
 Dead
@@ -358712,7 +364540,9 @@ Weapons
 
 Stance; Space
 Relations of Description
+
 Artifacts
+
 
 Impact
 Move
@@ -358731,15 +364561,18 @@ Identifiers
 Time
 Satisfaction
 
+
 Food
 Ingest
 Plants
 
 Attribute
 
+
 Stone; Sand
 Parts: Creatures.Parts
 Afraid
+
 
 Sand
 
@@ -358788,6 +364621,7 @@ Non-Exist
 Merciful
 Attain
 
+
 Time
 Abundant
 Faithful
@@ -358816,6 +364650,7 @@ Save
 Names of Supernatural Beings
 Well
 
+
 People
 
 Carry
@@ -358830,6 +364665,7 @@ Silent; Inactive
 Bear
 
 Possess
+
 
 Sand
 
@@ -358928,6 +364764,7 @@ Parts: Creatures
 Location
 Deities
 
+
 Universe
 Participant Referents
 Sin
@@ -358938,6 +364775,7 @@ Negators
 Forgive
 Fight
 
+
 Angry
 
 Pursue
@@ -358945,6 +364783,7 @@ Dead
 Negators
 Love; Merciful
 Cover
+
 
 Clouds
 
@@ -359008,10 +364847,12 @@ Towns
 Control
 Control
 Relations of Description
+
 Birds
 Hate
 Cognition
 Alive
+
 
 Scenery
 Alive
@@ -359128,6 +364969,7 @@ Valuable
 Identifiers
 Exchange
 
+
 Minerals; Metal
 Referents of Modification
 Know
@@ -359148,7 +364990,9 @@ Groups
 
 Cruel
 
+
 Birds
+
 
 Land
 Attach
@@ -359156,6 +365000,7 @@ Parts: Creatures
 People
 Location
 Parts: Creatures
+
 
 Sense
 Kinship
@@ -359169,6 +365014,7 @@ Ingest
 
 Joy
 Impact
+
 
 Scenery
 Identifiers
@@ -359214,6 +365060,7 @@ Attribute
 Negators
 Know
 
+
 Scenery
 Shape
 Parts: Creatures
@@ -359222,6 +365069,7 @@ Parts: Creatures
 Dry
 Exist; Happen
 Relations of Description
+
 Trees
 
 Exist; Happen
@@ -359294,8 +365142,10 @@ Just
 Move
 Blind
 
+
 Scenery
 Impure
+
 
 Parts: Creatures
 
@@ -359318,6 +365168,7 @@ conjunctive adverb
 Move
 Speak
 
+
 People
 Negators
 ?
@@ -359334,6 +365185,7 @@ See
 Priests
 Negators
 Merciful
+
 Leaders
 Negators
 Merciful
@@ -359374,6 +365226,7 @@ Identifiers
 Elevations
 Pursue
 
+
 Land
 Hide
 
@@ -359389,6 +365242,7 @@ Speak
 
 Safe
 Dwell
+
 
 People
 Joy
@@ -359442,6 +365296,7 @@ Modification
 Classes
 Exist; Happen
 
+
 Kinship
 Kinship
 Relations of Description
@@ -359458,6 +365313,7 @@ Move
 Parts: Creatures
 Pursue
 Weak
+
 Negators
 Confident
 
@@ -359470,6 +365326,8 @@ Satisfaction
 Bread
 Kinship
 Sin
+
+
 
 Participant Referents
 Sin
@@ -359519,6 +365377,7 @@ Products
 Carry
 
 People
+
 
 Trees
 Involvement.Waver
@@ -359616,6 +365475,7 @@ Quantity
 
 Quantity; Frequency
 Scenery
+
 
 Time
 Identifiers
@@ -359760,6 +365620,7 @@ Leaders
 Identifiers
 Ingest
 Relations of Description
+
 Laws
 
 Urge
@@ -359791,8 +365652,10 @@ Identifiers
 Leaders
 Relations of Description
 
+
 Leaders
 Names of People
+
 
 Time
 Identifiers
@@ -359802,6 +365665,7 @@ Good
 Parts: Creatures
 Identifiers
 Leaders
+
 
 Liquids; Wine; Crops
 Speak
@@ -359881,6 +365745,7 @@ Speak
 Identifiers
 Leaders
 
+
 Wise
 Know
 Identifiers
@@ -359921,12 +365786,14 @@ Identifiers
 Space
 Quantity
 
+
 Leaders
 Relations of Description
 Laws
 
 Relations of Involvement
 Serve
+
 
 Leaders
 Names of People
@@ -360186,6 +366053,7 @@ Identifiers
 Leaders
 Serve
 Search; Ask
+
 
 Leaders
 People
@@ -360478,6 +366346,7 @@ Spices
 Quantity; Frequency
 Time
 
+
 Trees
 
 
@@ -360511,9 +366380,11 @@ Kinship / Construction
 Identifiers
 Leaders
 
+
 Time
 
 Move
+
 
 
 Time
@@ -360603,6 +366474,7 @@ Location
 Kinship / Construction
 Leaders
 
+
 Time
 Identifiers
 Quantity
@@ -360662,6 +366534,7 @@ Names of People
 
 Free
 
+
 Scenery
 Serve
 
@@ -360708,6 +366581,7 @@ Exist; Happen
 Help
 Relations of Association
 
+
 Time
 Identifiers
 Participant Referents
@@ -360736,6 +366610,7 @@ Relations of Involvement
 Location
 
 
+
 Leaders
 Names of People
 
@@ -360753,6 +366628,7 @@ Leaders
 
 Speak
 Names of People
+
 
 Leaders
 
@@ -360931,6 +366807,7 @@ Names of People
 
 Names of People
 
+
 Time
 Identifiers
 Quantity
@@ -360940,6 +366817,7 @@ Names of Times
 
 Time
 Quantity; Frequency
+
 
 
 Leaders
@@ -360969,6 +366847,7 @@ Names of Times
 
 Speak
 Names of People
+
 
 Leaders
 Names of People
@@ -361000,6 +366879,7 @@ Leaders
 Serve
 
 Relations of Involvement
+
 Leaders
 
 Well
@@ -361067,6 +366947,7 @@ Groups
 Serve
 
 Relations of Description
+
 Well
 
 
@@ -361075,6 +366956,7 @@ Speak
 Officials
 Identifiers
 Leaders
+
 
 Time
 Identifiers
@@ -361201,6 +367083,7 @@ Groups
 Exist; Happen
 Happen
 
+
 Time
 Identifiers
 Identifiers
@@ -361298,6 +367181,7 @@ Move
 Grief
 Great
 
+
 Names of Groups
 
 Ingest
@@ -361309,6 +367193,7 @@ Containers/Cloth
 
 Sand
 Scatter
+
 
 Abundant
 
@@ -361403,6 +367288,7 @@ Measure
 Constructions
 Identifiers
 Leaders
+
 
 Names of Groups
 Relations of Involvement
@@ -361559,12 +367445,14 @@ Silent; Inactive
 Silent; Inactive
 
 
+
 Identifiers
 Identifiers
 Confident
 
 Help
 Stance//Space
+
 
 Names of Groups
 
@@ -361585,6 +367473,7 @@ Relations of Occurrence
 Relations of Description
 Identifiers
 Touch
+
 
 Leaders
 
@@ -361634,6 +367523,7 @@ Leaders
 Relations of Description
 Negators
 Relations of Description
+
 Laws
 
 Relations of Description
@@ -361653,6 +367543,7 @@ Speak
 Names of People
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -361700,6 +367591,7 @@ Names of People
 Identifiers
 Leaders
 Stance//Space
+
 
 Parts: Constructions
 Accept
@@ -361869,6 +367761,7 @@ Leaders
 Move
 Names of People
 
+
 Time
 Identifiers
 Participants
@@ -362010,8 +367903,10 @@ Quantity; Frequency
 Dimension
 
 
+
 Time
 Speak
+
 
 Leaders
 
@@ -362038,6 +367933,7 @@ Names of People
 
 Serve
 Identifiers
+
 
 
 Time
@@ -362089,6 +367985,7 @@ Relations of Involvement
 Location
 
 
+
 Leaders
 Names of People
 
@@ -362120,6 +368017,7 @@ Identifiers
 Leaders
 
 
+
 Parts: Constructions
 
 Names of People
@@ -362133,6 +368031,7 @@ Identifiers
 Orientation: Attachment
 Relations of Involvement
 Speak
+
 
 Leaders
 
@@ -362155,6 +368054,7 @@ discourse particle
 Names of People
 Stance//Space
 
+
 Parts: Constructions
 
 Speak
@@ -362172,6 +368072,7 @@ Leaders
 
 
 Serve
+
 
 
 Relations of Description
@@ -362274,6 +368175,7 @@ Speak
 Exist
 
 
+
 Relations of Description
 Identifiers
 Leaders
@@ -362344,6 +368246,7 @@ Speak
 
 
 Exist
+
 
 
 Relations of Description
@@ -362448,6 +368351,7 @@ Leaders
 Relations of Association
 Names of People
 Focus particle
+
 
 Time
 Identifiers
@@ -362650,6 +368554,7 @@ Identifiers
 Leaders
 
 
+
 Kinship / Construction
 Identifiers
 Speak
@@ -362717,6 +368622,7 @@ Angry
 Identifiers
 Leaders
 Lax
+
 
 Time
 Identifiers
@@ -362880,6 +368786,7 @@ Referents of Modification
 
 
 
+
 Evil
 Relations of Description
 Search; Know
@@ -362924,6 +368831,7 @@ Relations of Description
 Location
 
 
+
 Names of Groups
 
 Participant Referents
@@ -362932,6 +368840,7 @@ Cognition.Write
 Identifiers
 Names of Groups
 Relations of Description
+
 Well
 
 
@@ -362969,7 +368878,9 @@ Identifiers
 Leaders
 
 
+
 Identifiers
+
 
 
 Time
@@ -363057,6 +368968,7 @@ Location
 Identifiers
 Move
 
+
 Domestic Animals
 Move
 Identifiers
@@ -363071,6 +368983,7 @@ Possess
 Identifiers
 Leaders
 Relations of Involvement
+
 Names of Groups
 Relations of Description
 
@@ -363151,6 +369064,7 @@ Identifiers
 Names of Groups
 Valuable
 
+
 Time
 Identifiers
 Identifiers
@@ -363212,6 +369126,7 @@ Shout
 
 Joy
 
+
 Names of Groups
 Exist; Happen
 Joy
@@ -363244,6 +369159,7 @@ Move
 Joy
 
 Joy
+
 
 Names of Groups
 Ingest
@@ -363285,6 +369201,7 @@ Leaders
 Laws
 Relations of Involvement
 Exist
+
 
 Time
 Relations of Description
@@ -363351,6 +369268,7 @@ Serve
 Identifiers
 Serve
 Relations of Description
+
 
 Leaders
 
@@ -363456,11 +369374,13 @@ Names of Groups
 Dead
 
 
+
 Possess
 Negators
 Location
 Identifiers
 Parts: Creatures
+
 
 Time
 Identifiers
@@ -363533,6 +369453,7 @@ Possess
 Focus particle
 Referents of Time
 Relations of Involvement
+
 Names of Groups
 Relations of Description
 
@@ -363594,6 +369515,7 @@ Quantity; Frequency
 
 
 
+
 Possess
 Negators
 Location
@@ -363625,6 +369547,7 @@ Quantity; Frequency
 
 Quantity; Frequency
 Quantity; Frequency
+
 
 
 Possess
@@ -363765,6 +369688,7 @@ Time
 
 
 Relations of Description
+
 Time
 Relations of Description
 Confident
@@ -363804,6 +369728,7 @@ Parts
 Friends
 
 Possess
+
 
 Classes
 
@@ -363882,6 +369807,7 @@ Trees
 
 
 Speak
+
 
 Time
 Identifiers
@@ -364080,6 +370006,7 @@ Cognition.Write
 
 
 
+
 Space
 Identifiers
 Leaders
@@ -364126,10 +370053,12 @@ Identifiers
 Names of Groups
 Quantity
 
+
 Leaders
 Names of People
 
 Great
+
 
 Names of Groups
 
@@ -364395,6 +370324,7 @@ Possess
 Identifiers
 Parts: Creatures; People; Animals
 
+
 Leaders
 
 Speak
@@ -364455,6 +370385,7 @@ Serve
 Classes; Officials; Serve
 
 Hear
+
 
 
 Speak
@@ -364625,18 +370556,23 @@ Leaders
 Relations of Involvement
 Speak
 Relations of Involvement
+
 Priests; Magicians
 Vision
 
+
 Magicians
+
 
 
 Divination
 
 
+
 Magicians
 
 Speak
+
 
 Leaders
 Vision
@@ -364668,6 +370604,7 @@ Speak
 Identifiers
 Magicians
 
+
 Leaders
 
 
@@ -365386,6 +371323,7 @@ Participants
 
 
 Participants
+
 
 
 
@@ -369247,7 +375185,9 @@ Identifiers
 Occurrence
 Location
 
+
 Time
+
 
 
 
@@ -369267,6 +375207,7 @@ Relations of Description
 Names of Groups
 Water
 Scenery
+
 
 
 
@@ -369309,6 +375250,7 @@ Quantity; Frequency
 Identifiers
 High
 Move
+
 
 Identifiers
 
@@ -369360,6 +375302,7 @@ Land
 
 
 Touch
+
 
 Land
 
@@ -369414,6 +375357,7 @@ Negators
 Exist; Happen
 Attribute
 
+
 Domestic Animals
 Relations of Involvement
 Stance//Space
@@ -369428,6 +375372,7 @@ Impact
 Negators
 Exist; Happen
 Move
+
 
 Domestic Animals
 
@@ -369541,6 +375486,7 @@ Quantity
 Apart
 
 
+
 Identifiers
 Speak
 
@@ -369604,6 +375550,7 @@ Speak
 Speak
 Object Referents
 Know
+
 
 
 Identifiers
@@ -369840,6 +375787,7 @@ Names
 Know
 
 
+
 Quantity
 Identifiers
 
@@ -369952,6 +375900,7 @@ Shame
 Identifiers
 
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -370162,6 +376111,7 @@ Serve
 
 
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -370295,6 +376245,7 @@ existential particle
 Participant Referents
 Speak
 
+
 Ask
 Occurrence
 Identifiers
@@ -370303,7 +376254,9 @@ Object Referents
 Relations of Description
 Connection
 
+
 Vision
+
 
 Time
 
@@ -370344,9 +376297,11 @@ Participant Referents
 
 Know
 
+
 Speak
 
 Know
+
 
 See
 Time
@@ -370446,6 +376401,7 @@ Move
 
 Non-Happen
 
+
 Water
 
 
@@ -370456,6 +376412,7 @@ Impact
 Modification
 Events
 Covenant
+
 
 Abundant
 Time
@@ -370512,7 +376469,9 @@ Identifiers
 Know
 
 
+
 See
+
 
 Time
 Identifiers
@@ -370551,6 +376510,7 @@ Time
 Quantity
 
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -370710,6 +376670,7 @@ Names
 Great
 Know
 
+
 Speak
 Relations of Description
 Participant Referents
@@ -370811,12 +376772,14 @@ Time
 adverb
 Vision
 
+
 Time
 
 
 Speak
 
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -370847,6 +376810,7 @@ Stance//Space
 
 Location
 Leaders
+
 
 Vision
 Change
@@ -370901,6 +376865,7 @@ Intact
 Attitude (State/Process)
 
 Attitude (State/Process)
+
 
 Speak
 
@@ -371103,6 +377068,7 @@ Attribute (Causative action)
 
 
 
+
 Stance//Space
 
 Foliage
@@ -371136,6 +377102,7 @@ Good
 Minerals; Metal
 
 Metal
+
 
 Submit
 Move
@@ -371209,6 +377176,7 @@ Carry
 Identifiers
 Groups
 Stance//Space
+Stance//Space
 Parts: Creatures
 
 Move
@@ -371243,6 +377211,7 @@ Great
 
 Possess
 Abundant
+
 
 
 
@@ -371488,6 +377457,7 @@ Identifiers
 Names
 Involvement.Contend
 
+
 Fight
 
 People
@@ -371536,6 +377506,7 @@ Non-Happen
 
 
 
+
 Direction
 Land
 
@@ -371554,18 +377525,22 @@ Serve
 Land
 
 
+
 Direction
 
 Move
+
 
 Names
 
 Negators
 Exist; Happen
 Relations of Description
+
 Quantity
 
 Relations of Description
+
 Identifiers
 
 Move
@@ -371628,6 +377603,7 @@ Wise
 Groups
 Know
 
+
 Abundant
 
 Involvement.Waver
@@ -371673,6 +377649,7 @@ Color
 Non-Happen
 
 existential particle
+
 
 
 Identifiers
@@ -371763,6 +377740,7 @@ Abundant
 
 
 Control
+
 
 Abundant
 
@@ -371895,6 +377873,7 @@ Help
 
 
 
+
 Identifiers
 
 Stance//Space
@@ -371926,6 +377905,7 @@ Identifiers
 
 
 
+
 Identifiers
 
 Flee
@@ -371934,6 +377914,7 @@ Modification.Complete
 Identifiers
 Search
 Cognition.Write
+
 
 
 Alive
@@ -371967,6 +377948,7 @@ Just
 Identifiers
 Abundant
 Relations of Description
+
 Universe
 
 Time
@@ -372015,6 +377997,7 @@ Identifiers
 Names of Geographical Objects
 
 Speak
+
 
 
 
@@ -372152,6 +378135,7 @@ Quantity; Frequency
 
 Participant Referents
 Move
+
 
 Non-Happen
 
@@ -372332,12 +378316,16 @@ Attitude (Causative action)
 Artifacts
 Minerals; Metal
 
+
 Metal
+
 
 Possess
 
 
+
 Wild Animals
+
 
 
 Good
@@ -372412,7 +378400,9 @@ Quantity; Frequency
 Modification.Complete
 Artifacts
 
+
 Metal
+
 
 
 Minerals; Metal
@@ -372936,6 +378926,7 @@ Kinship
 Names of People
 Kinship
 
+
 Kinship
 Names
 Relations of Description
@@ -373119,6 +379110,7 @@ Quantity; Frequency
 Kinship
 Names
 
+
 Towns
 
 Gather
@@ -373155,6 +379147,7 @@ Move
 
 Sacrifice
 Relations of Description
+
 Cognition.Write
 
 Laws
@@ -373184,7 +379177,9 @@ Relations of Association
 Names of Supernatural Beings
 Sacrifice
 
+
 Time
+
 
 
 Time
@@ -373195,6 +379190,7 @@ Festivals
 Identifiers
 Tents
 Relations of Description
+
 Cognition.Write
 
 Sacrifice
@@ -373211,8 +379207,10 @@ Time
 Time
 Space
 
+
 Sacrifice
 Permanent
+
 
 
 Festivals
@@ -373234,6 +379232,7 @@ Names of Supernatural Beings
 Time
 Quantity
 Relations of Association
+
 Time
 Identifiers
 Quantity; Frequency
@@ -373252,9 +379251,11 @@ Exist
 Possess
 Minerals; Metal
 
+
 Impact
 
 Relations of Involvement
+
 Professions
 
 Food
@@ -373263,7 +379264,9 @@ Ingest
 
 Liquids
 
+
 Names of Groups
+
 
 
 Names of Groups
@@ -373285,6 +379288,7 @@ Names
 
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -373296,6 +379300,7 @@ Identifiers
 Deities
 Relations of Involvement
 Names
+
 
 Time
 Identifiers
@@ -373384,12 +379389,14 @@ Identifiers
 Priests
 Dress
 
+
 Tools
 
 Identifiers
 Names of Groups
 Kinship
 Names of People
+
 
 Music
 Relations of Involvement
@@ -374857,6 +380864,7 @@ Festivals
 Quantity; Frequency
 
 
+
 Time
 Identifiers
 Quantity
@@ -375050,6 +381058,7 @@ Leaders
 Move
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -375057,11 +381066,13 @@ Quantity; Frequency
 Time
 Identifiers
 Quantity; Frequency
+
 
 Leaders
 
 
 Quantity
+
 
 Time
 Identifiers
@@ -375075,6 +381086,7 @@ Names of Locations
 
 
 Quantity
+
 
 Time
 Identifiers
@@ -375725,7 +381737,9 @@ Quantity; Frequency
 
 Know
 
+
 Groups
+
 
 
 Priests
@@ -375908,8 +381922,10 @@ Hate
 
 
 
+
 Speak
 Relations of Involvement
+
 Leaders
 
 Speak
@@ -376018,6 +382034,7 @@ Just
 Quantity; Frequency
 Good
 Relations of Description
+
 Metal
 
 Speak
@@ -376098,6 +382115,7 @@ Names of Geographical Objects
 Quantity; Frequency
 
 Relations of Involvement
+
 Time
 Identifiers
 Quantity
@@ -376127,6 +382145,7 @@ Space
 Referents of Location
 Time
 Quantity; Frequency
+
 
 
 Time
@@ -376172,11 +382191,13 @@ Quantity
 
 Weight
 
+
 Modification.Complete
 
 Cognition.Write
 Modification.Complete
 Identifiers
+
 
 
 
@@ -376271,6 +382292,7 @@ Land
 Relations of Description
 Sin
 
+
 Names
 Identifiers
 Names of Groups
@@ -376312,6 +382334,7 @@ Leaders
 Identifiers
 Leaders; Officials
 Exist; Happen
+
 
 Sin
 Identifiers
@@ -376408,6 +382431,7 @@ Bear
 Great
 
 
+
 Universe
 
 Time
@@ -376434,9 +382458,12 @@ Leaders
 Identifiers
 Land
 
+
 Attribute
 
+
 Submit
+
 
 
 Possess
@@ -376773,6 +382800,7 @@ Laws
 Deities
 
 Relations of Description
+
 Laws
 Exist
 Stance
@@ -376803,6 +382831,7 @@ Names
 Relations of Involvement
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -376900,6 +382929,7 @@ Quantity; Frequency
 
 Quantity
 
+
 Time
 
 Space
@@ -376990,6 +383020,7 @@ Attribute
 Relations of Involvement
 Stance//Space
 
+
 Orientation: Attachment
 
 Identifiers
@@ -377007,6 +383038,7 @@ Abundant
 
 Sin
 
+
 Speak
 Identifiers
 Identifiers
@@ -377020,6 +383052,7 @@ People
 
 Modification.Complete
 Relations of Description
+
 
 Towns
 Identifiers
@@ -377044,6 +383077,7 @@ Move
 Angry
 Angry
 Deities
+
 
 
 
@@ -377096,6 +383130,7 @@ Space
 Time
 Quantity
 Relations of Involvement
+
 Time
 Identifiers
 Quantity
@@ -377106,6 +383141,7 @@ Speak
 
 Non-Happen
 
+
 Modification.Complete
 
 Identifiers
@@ -377115,6 +383151,7 @@ Modification
 
 Time
 Quantity
+
 
 Time
 Identifiers
@@ -377281,6 +383318,7 @@ Names of People
 
 Names of People
 
+
 Names of People
 
 Kinship
@@ -377434,6 +383472,7 @@ Identifiers
 Submit
 Referents of Location
 
+
 Scenery
 
 Evil
@@ -377448,6 +383487,7 @@ Impact
 
 Parts: Constructions
 Burn
+
 
 
 
@@ -377581,6 +383621,7 @@ Participant Referents
 Scatter
 Identifiers
 
+
 Groups
 
 Direction
@@ -377670,6 +383711,7 @@ Participant Referents
 Exist; Happen
 Officials
 
+
 Leaders
 
 Exist; Happen
@@ -377692,6 +383734,7 @@ Identifiers
 Liquids; Wine; Crops
 
 Possess
+
 
 Leaders
 
@@ -377725,6 +383768,7 @@ Intense
 
 Speak
 
+
 Leaders
 Identifiers
 Leaders
@@ -377748,6 +383792,7 @@ Ingest
 
 
 
+
 Speak
 
 Identifiers
@@ -377765,6 +383810,7 @@ Identifiers
 Universe
 
 Speak
+
 
 Leaders
 Relations of Occurrence
@@ -377820,6 +383866,7 @@ Time
 
 Speak
 
+
 Leaders
 Relations of Occurrence
 
@@ -377850,6 +383897,7 @@ Identifiers
 Land
 Relations of Description
 Relations of Involvement
+
 Leaders
 Relations of Description
 Possess
@@ -377863,12 +383911,14 @@ Identifiers
 Buildings
 Relations of Description
 
+
 Kinship / Construction
 
 
 Constructions
 Identifiers
 Towns
+
 
 
 Kinship / Construction
@@ -378000,9 +384050,12 @@ See
 Constructions
 Names
 Relations of Description
+Identifiers
+Impact
 
 
 Ingest
+
 
 
 
@@ -378020,6 +384073,7 @@ Leaders
 
 Space
 Relations of Involvement
+
 Wild Animals
 
 
@@ -378028,11 +384082,13 @@ Wild Animals
 Exist; Happen
 Move
 
+
 Water
 Time
 
 Exist; Happen
 See
+
 
 Constructions
 
@@ -378058,13 +384114,17 @@ Participant Referents
 Serve
 
 
+
 Names of Groups
+
 
 
 Priests
 
 
+
 Leaders
+
 
 
 
@@ -378094,6 +384154,7 @@ Impact
 
 Parts: Constructions
 Burn
+
 
 
 Move
@@ -378132,6 +384193,7 @@ Stance
 Exist
 
 Attitude (Causative action)
+
 
 
 
@@ -378273,6 +384335,7 @@ Kinship
 
 
 
+
 Names of People
 Attribute (Causative action)
 Names
@@ -378303,6 +384366,7 @@ Serve
 Leaders
 
 Identifiers
+Names of Constructions
 Names of Constructions
 Names of Constructions
 Attribute (Causative action)
@@ -378417,6 +384481,7 @@ Attribute (Causative action)
 Names of People
 Kinship
 
+
 Leaders
 Divide
 Scenery
@@ -378444,6 +384509,7 @@ Constructions.Parts
 
 Quantity; Frequency
 Dimension
+
 
 Constructions
 
@@ -378608,6 +384674,7 @@ Kinship
 Names of People
 Kinship
 
+
 Dimension
 Quantity; Frequency
 
@@ -378693,12 +384760,14 @@ Priests
 Exist; Happen
 Space
 
+
 Elevations
 
 Location
 Parts: Constructions
 Identifiers
 Liquids
+
 
 Direction
 
@@ -378858,6 +384927,7 @@ Dead
 Identifiers
 Stage
 
+
 Time
 
 Strong
@@ -378940,6 +385010,7 @@ Event Relations: Attribute
 Exist; Happen
 Parts: Creatures
 Relations of Involvement
+
 Groups
 
 Serve
@@ -379022,6 +385093,7 @@ Negators
 Relations of Involvement
 Exist
 
+
 Constructions
 
 Speak
@@ -379070,11 +385142,14 @@ Space
 
 Low
 
+
 Space
 
 Space
+
 
 Constructions
+
 
 
 
@@ -379164,6 +385239,7 @@ Divide
 People
 Serve
 
+
 Serve
 
 Divide
@@ -379189,10 +385265,12 @@ Names of Groups
 Identifiers
 Exist
 
+
 Constructions
 
 Identifiers
 Carry
+
 
 Carry
 Carry
@@ -379200,6 +385278,7 @@ Carry
 Quantity
 Parts: Creatures
 Serve
+
 
 Serve
 
@@ -379220,6 +385299,7 @@ Exist
 
 Identifiers
 Sounds
+
 
 Music
 Positors
@@ -379270,10 +385350,12 @@ Divide
 Participant Referents
 Serve
 
+
 Serve
 
 Divide
 Attachment (Action)
+
 
 Weapons
 Relations of Involvement
@@ -379287,9 +385369,11 @@ Universe
 conjunctive adverb
 
 
+
 Identifiers
 
 Speak
+
 
 Groups
 
@@ -379372,6 +385456,7 @@ Exchange
 
 Possess
 Crops
+
 
 Ingest
 
@@ -379476,6 +385561,7 @@ Identifiers
 Names of Groups
 Identifiers
 Exchange
+
 
 People
 Relations of Description
@@ -379584,6 +385670,7 @@ Vow
 Relations of Involvement
 Serve
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379634,6 +385721,7 @@ Serve
 Identifiers
 Groups
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379846,6 +385934,7 @@ Building.Parts
 Negators
 Space
 
+
 Parts: Constructions
 
 
@@ -379858,6 +385947,7 @@ Speak
 Move
 
 Gather
+
 
 
 Towns
@@ -379900,6 +385990,7 @@ Location
 
 Location
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379909,6 +386000,7 @@ Time
 Move
 Identifiers
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379917,6 +386009,7 @@ Move
 Location
 Names
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379930,6 +386023,7 @@ Open
 
 Parts: Creatures
 Cognition.Write
+
 
 
 People
@@ -379957,6 +386051,7 @@ Happen
 
 Leaders
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -379978,8 +386073,10 @@ Names of Locations
 Text deictic
 Hear
 
+
 Leaders
 Relations of Description
+
 Speak
 
 Identifiers
@@ -379997,6 +386094,7 @@ Speak
 Negators
 Exist; Happen
 Relations of Description
+
 Speak
 Identifiers
 Identifiers
@@ -380189,6 +386287,7 @@ Identifiers
 Identifiers
 conjunctive adverb
 
+
 Time
 Identifiers
 Participant Referents
@@ -380366,6 +386465,7 @@ Identifiers
 Book
 Identifiers
 Move
+
 
 Quantity
 
@@ -380859,6 +386959,7 @@ Kinship
 Names of People
 Kinship
 
+
 Kinship
 Names
 Relations of Description
@@ -380963,10 +387064,12 @@ Identifiers
 Communities
 Possess
 Weight
+
 Serve
 Identifiers
 Titles; Leaders
 Possess
+
 
 Constructions
 Metal
@@ -381116,6 +387219,7 @@ Hear
 Time
 Quantity
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -381167,6 +387271,7 @@ Constructions
 Trees
 Relations of Description
 Serve
+
 
 Speak
 
@@ -381274,6 +387379,7 @@ Identifiers
 Identifiers
 Groups
 
+
 Laws
 
 Identifiers
@@ -381282,6 +387388,7 @@ Identifiers
 Location
 
 Speak
+
 
 
 
@@ -381294,6 +387401,7 @@ Space
 Know
 
 Know
+
 
 Speak
 
@@ -381413,9 +387521,11 @@ Great
 
 Know
 
+
 Speak
 Relations of Description
 Know
+
 
 
 
@@ -381450,6 +387560,7 @@ Laws
 Search; Know
 Cognition.Write
 
+
 Laws
 Relations of Description
 Speak
@@ -381462,9 +387573,12 @@ Space
 Kinship
 Names
 
+
 Tents
 
+
 Festivals
+
 
 Time
 
@@ -381508,6 +387622,7 @@ Relations of Involvement
 Serve
 Tents
 Relations of Description
+
 Cognition.Write
 
 Move
@@ -381558,6 +387673,7 @@ Space
 
 
 
+
 Negators
 Serve
 
@@ -381605,6 +387721,7 @@ Quantity; Frequency
 Time
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -381613,10 +387730,12 @@ Relations of Description
 
 
 
+
 Time
 Quantity
 
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -381885,6 +388004,7 @@ Location
 Identifiers
 
 
+
 Land
 
 Identifiers
@@ -382070,6 +388190,7 @@ Abundant
 Negators
 
 
+
 Land
 Identifiers
 Shape
@@ -382126,6 +388247,7 @@ Sense
 Quantity; Frequency
 Time
 Strong
+
 
 Land
 Negators
@@ -382570,6 +388692,7 @@ Classes; Officials; Serve
 Crops
 Abundant
 
+
 Leaders
 Relations of Description
 Possess
@@ -382705,6 +388828,7 @@ Names of People
 Names of People
 Names of People
 
+
 Names
 Names of People
 Names of People
@@ -382831,6 +388955,7 @@ Possess
 
 
 
+
 Time
 Pure
 
@@ -382855,6 +388980,7 @@ Quantity; Frequency
 Identifiers
 Weight
 
+
 Time
 
 Serve
@@ -382878,10 +389004,13 @@ Time
 Identifiers
 Festivals
 Relations of Involvement
+
 Festivals
 
 
+
 Pure
+
 
 
 Sacrifice
@@ -382930,7 +389059,9 @@ Altars
 Names of Supernatural Beings
 Deities
 Relations of Description
+
 Cognition.Write
+
 
 Laws
 
@@ -382958,7 +389089,9 @@ Kinship
 
 Wild Animals
 Relations of Description
+
 Cognition.Write
+
 
 Laws
 
@@ -382972,6 +389105,7 @@ Move
 
 Kinship / Construction
 Deities
+
 
 Priests
 Identifiers
@@ -382994,6 +389128,7 @@ Liquids; Wine; Crops
 Liquids
 Move
 Relations of Association
+
 Priests
 Location
 Parts: Constructions
@@ -383002,6 +389137,7 @@ Deities
 
 Quantity
 Land
+
 
 Names of Groups
 
@@ -383117,6 +389253,7 @@ Pure
 Quantity; Frequency
 Identifiers
 Quantity
+
 
 Towns
 
@@ -383295,6 +389432,7 @@ Serve
 Identifiers
 Serve
 
+
 Kinship / Construction
 Quantity
 Quantity; Frequency
@@ -383392,6 +389530,7 @@ Identifiers
 Time
 Praise
 
+
 Ask
 
 Names of People
@@ -383427,6 +389566,7 @@ Kinship
 Identifiers
 Safe
 
+
 Parts: Constructions
 Quantity; Frequency
 Quantity; Frequency
@@ -383450,6 +389590,7 @@ Possess
 Identifiers
 Priests
 Space
+
 
 Elevations
 
@@ -383516,6 +389657,7 @@ Leaders
 Modification.Complete
 Speak
 
+
 Groups
 
 Location
@@ -383557,6 +389699,7 @@ Names of Locations
 
 
 
+
 Kinship
 
 
@@ -383590,7 +389733,9 @@ Kinship
 Dwell
 
 
+
 Relations of Location
+
 
 
 Kinship
@@ -383616,6 +389761,7 @@ Names of Locations
 Names of Geographical Objects; Names of Locat
 
 Names of Locations
+
 
 
 
@@ -383984,6 +390130,7 @@ Names of Locations
 
 
 
+
 Constructions
 
 Space
@@ -383993,7 +390140,9 @@ Great
 
 
 
+
 Direction
+
 
 
 
@@ -384080,7 +390229,9 @@ Move
 Parts: Towns
 Names of People
 
+
 Elevations
+
 
 Constructions
 
@@ -384135,6 +390286,7 @@ Parts: Constructions
 Names of People
 
 
+Names of Constructions
 Names of Constructions
 Names of Constructions
 
@@ -384215,6 +390367,7 @@ Leaders; Officials
 
 Dead
 
+
 Time
 Identifiers
 Participants
@@ -384245,6 +390398,7 @@ Dimension
 
 Control
 
+
 Time
 Identifiers
 Participants
@@ -384253,11 +390407,15 @@ Participants
 Identifiers
 
 Relations of Involvement
+
 Constructions
+
 
 Sacrifice
 
+
 Time
+
 
 
 Quantity
@@ -384272,7 +390430,9 @@ Parts
 Identifiers
 Laws
 
+
 Priests
+
 
 
 Names of Groups
@@ -384349,6 +390509,7 @@ Time
 
 Holy
 Relations of Association
+
 Names of Groups
 
 Identifiers
@@ -384357,6 +390518,7 @@ Names of Groups
 
 Kinship
 Names of People
+
 
 Time
 Identifiers
@@ -384392,7 +390554,9 @@ Identifiers
 Kinship
 Names
 
+
 Bread
+
 
 
 Liquids
@@ -384517,6 +390681,7 @@ Names
 
 Know
 
+
 Evil
 Relations of Description
 Serve
@@ -384620,6 +390785,7 @@ Liquids; Wine; Crops
 Identifiers
 Liquids
 
+
 Constructions
 
 Control
@@ -384672,6 +390838,7 @@ Deities
 
 
 
+
 Time
 Identifiers
 Participant Referents
@@ -384680,6 +390847,7 @@ Participant Referents
 Names of Locations
 Move
 Constructions
+
 
 Time
 
@@ -384725,6 +390893,7 @@ Modification.Complete
 
 
 Exchange
+
 
 Time
 
@@ -384869,10 +391038,12 @@ Identifiers
 Negators
 Move
 
+
 Time
 
 Speak
 Relations of Association
+
 Names of Groups
 Relations of Description
 Exist; Happen
@@ -384900,6 +391071,7 @@ Relations of Description
 Deities
 Faithful
 conjunctive adverb
+
 
 Time
 Identifiers
@@ -384967,6 +391139,7 @@ Sin
 Names of People
 Leaders
 Names
+
 
 
 People
@@ -385059,7 +391232,9 @@ Modification
 Space
 Uphold
 Relations of Association
+
 Priests
+
 
 
 Names of Groups
@@ -385071,6 +391246,7 @@ Serve
 Give; Sacrifice
 Identifiers
 Trees
+
 
 
 
@@ -385164,6 +391340,7 @@ Occurrence
 Relations of Involvement
 Exist; Happen
 Strong
+
 
 Land
 
@@ -385698,6 +391875,7 @@ Birth
 Kinship
 
 Names
+Names
 Identifiers
 Names
 
@@ -385752,6 +391930,7 @@ Distress
 Names
 Relations of Description
 Sin
+
 
 Apart
 
@@ -385968,6 +392147,7 @@ Names of People
 
 
 
+
 People
 Names of People
 Names of People
@@ -386722,6 +392902,7 @@ Kinship
 Names of People
 Names of People
 Names of People
+Names of People
 
 Names of People
 
@@ -386802,6 +392983,7 @@ Birth
 Identifiers
 
 
+
 Identifiers
 Names of People
 
@@ -386833,6 +393015,7 @@ Professions
 Identifiers
 Names of People
 Kinship
+
 
 
 Professions
@@ -387041,6 +393224,7 @@ Kinship
 Names of People
 Names of Locations
 Names of Locations
+
 
 
 
@@ -387309,6 +393493,7 @@ Negators
 
 
 
+
 Possess
 
 Names of People
@@ -387360,6 +393545,7 @@ Leaders
 Relations of Association
 
 
+
 Kinship
 
 Groups
@@ -387391,8 +393577,10 @@ Names of Locations
 
 Move
 Relations of Involvement
+
 Direction
 Space
+
 
 
 Land
@@ -387429,6 +393617,7 @@ Modification.Complete
 
 Direction
 
+
 Object Referents
 
 Kinship
@@ -387453,6 +393642,7 @@ Quantity
 Names of People
 
 Names of People
+
 
 Names
 
@@ -387503,7 +393693,9 @@ Communities
 
 Space
 
+
 Object Referents
+
 
 Names
 
@@ -387592,6 +393784,7 @@ Relations of Description
 Deities
 Lament
 
+
 Fight
 
 Hear
@@ -387641,6 +393834,7 @@ Divide
 Names of Locations
 Names
 Space
+
 
 Land
 
@@ -387719,7 +393913,9 @@ Move
 Relations of Association
 
 
+
 Relations of Association
+
 Names of Groups
 
 
@@ -387839,6 +394035,7 @@ Names of People
 Participants
 Relations of Description
 Priests
+
 
 Kinship / Construction
 Relations of Description
@@ -388041,6 +394238,7 @@ Serve
 Tents
 Tents
 Tents
+
 
 Sing
 Relations of Occurrence
@@ -388392,6 +394590,7 @@ Groups
 Divide
 Names
 
+
 Products
 Towns
 
@@ -388417,6 +394616,7 @@ Names of Groups; Names of Locations
 Groups
 Names
 
+
 Names
 Towns
 Quantity; Frequency
@@ -388437,6 +394637,7 @@ Names of Groups; Names of Locations
 
 Groups
 Names of Groups
+
 
 Products
 Towns
@@ -388447,6 +394648,7 @@ Possess
 Kinship
 Names
 Relations of Association
+
 Names of Groups
 Identifiers
 Identifiers
@@ -388456,6 +394658,7 @@ Identifiers
 Land
 
 Possess
+
 
 Products
 
@@ -388573,6 +394776,7 @@ Names
 Identifiers
 Names of Locations
 
+
 Names
 
 Identifiers
@@ -388642,6 +394846,7 @@ Groups
 Names of Groups; Names of Locations
 Identifiers
 Names of Locations
+
 
 Object Referents
 
@@ -388693,6 +394898,7 @@ Names of Groups; Names of Locations
 Identifiers
 Names of Locations
 
+
 Land
 
 Identifiers
@@ -388721,6 +394927,7 @@ Groups
 Names of Groups; Names of Locations
 Identifiers
 Names of Locations
+
 
 Object Referents
 
@@ -388839,6 +395046,7 @@ Quantity; Frequency
 Quantity; Frequency
 
 
+
 Modification.Complete
 Names of People
 Names of People
@@ -388949,6 +395157,7 @@ Quantity; Frequency
 Quantity; Frequency
 Move
 Soldiers
+
 
 Fight
 Names of People
@@ -389094,6 +395303,7 @@ Names of Locations
 Identifiers
 Birth
 
+
 Land
 
 Move
@@ -389178,8 +395388,10 @@ Names of Locations
 Kinship
 
 
+
 Direction
 Names
+
 
 
 Direction
@@ -389273,6 +395485,7 @@ Names of People
 Names
 
 
+
 Names of People
 
 Kinship
@@ -389340,7 +395553,9 @@ Leaders
 
 
 
+
 Serve
+
 
 Fight
 Quantity
@@ -389848,6 +396063,7 @@ Kinship
 Names of People
 Kinship
 Names of People
+Names of People
 Kinship
 Names of People
 Kinship
@@ -390083,6 +396299,7 @@ Safe
 Identifiers
 Parts: Constructions
 
+
 Tents
 
 Communities
@@ -390116,6 +396333,7 @@ Identifiers
 Know
 
 People
+
 
 Parts: Constructions
 Quantity; Frequency
@@ -390217,7 +396435,9 @@ Identifiers
 Tools
 
 
+
 Time
+
 
 Time
 
@@ -390271,6 +396491,7 @@ Mix
 Identifiers
 Spices
 
+
 Trees
 Kinship
 Names of People
@@ -390312,7 +396533,9 @@ Sing
 Groups; Leaders
 Communities
 Relations of Association
+
 Names of Groups
+
 
 Parts: Constructions
 
@@ -390322,12 +396545,14 @@ Time
 Time
 
 
+
 Serve
 Identifiers
 Groups; Leaders
 Identifiers
 Communities
 Relations of Association
+
 Names of Groups
 
 Kinship
@@ -390530,6 +396755,7 @@ Search; Know
 Identifiers
 People
 
+
 Weapons
 
 
@@ -390606,6 +396832,7 @@ Modification.Complete
 
 Names
 Relations of Description
+
 
 Depressions
 
@@ -390689,6 +396916,7 @@ Names of Deities
 Hear
 Modification.Complete
 
+
 Identifiers
 Modification.Complete
 Relations of Description
@@ -390744,6 +396972,7 @@ Uphold
 
 conjunctive adverb
 Relations of Involvement
+
 
 
 Deities
@@ -390888,6 +397117,7 @@ Modification.Complete
 Impact
 Names of Groups
 
+
 Quantity
 Exist; Happen
 
@@ -390897,6 +397127,7 @@ Groups; Leaders
 Leaders
 
 Move
+
 
 Quantity
 Names of People
@@ -390909,6 +397140,7 @@ Groups; Leaders
 
 Space
 Names of People
+
 
 
 
@@ -391014,10 +397246,12 @@ Names of People
 Possess
 
 
+
 Identifiers
 Names
 Gather
 Referents of Location
+
 
 Fight
 
@@ -391079,6 +397313,7 @@ Adverb
 Names of Locations
 
 
+
 Soldiers
 Names
 Adverb
@@ -391097,6 +397332,7 @@ Constructions
 
 Relations of Description
 
+
 Parts: Constructions
 
 Detach
@@ -391112,6 +397348,7 @@ Liquids
 Constructions
 
 Relations of Description
+
 
 Parts: Constructions
 
@@ -391185,10 +397422,12 @@ Attribute
 Negators
 
 
+
 Quantity; Frequency
 
 Identifiers
 Quantity; Frequency
+
 
 Quantity; Frequency
 Great
@@ -391247,6 +397486,7 @@ Names
 Dimension
 Quantity; Frequency
 
+
 Dimension
 
 
@@ -391260,6 +397500,7 @@ Craftsmen
 
 Move
 Location
+
 
 Weapons
 
@@ -391435,6 +397676,7 @@ Relations of Association
 
 
 
+
 Quantity; Frequency
 Names of People
 Kinship
@@ -391499,6 +397741,7 @@ Names of People
 
 Participant Referents
 
+
 Strong
 Help
 Identifiers
@@ -391509,10 +397752,13 @@ Direction
 
 
 
+
 Stone
 
 
+
 Weapons
+
 
 
 
@@ -391547,6 +397793,7 @@ Names of People
 Identifiers
 Object Referents
 Strong
+
 
 Quantity; Frequency
 
@@ -391603,12 +397850,14 @@ Location
 Names of People
 
 
+
 Land
 
 Identifiers
 Strong; Confident
 Soldiers
 Wild Animals
+
 
 Fight
 Space
@@ -391685,6 +397934,7 @@ Identifiers
 Parts
 Names
 
+
 Time
 Identifiers
 Quantity
@@ -391701,7 +397951,9 @@ Modification.Complete
 Identifiers
 Depressions
 
+
 Direction
+
 
 
 Direction
@@ -391714,6 +397966,7 @@ Names of People
 Names of Groups
 
 Relations of Association
+
 
 
 Names of People
@@ -391802,6 +398055,7 @@ Names
 
 Names of People
 Relations of Involvement
+
 Fight
 
 Negators
@@ -391863,6 +398117,7 @@ Modification.Complete
 Exist; Happen
 Leaders
 
+
 Groups
 
 Relations of Involvement
@@ -391889,6 +398144,7 @@ Groups; Leaders
 Identifiers
 Strong
 Relations of Involvement
+
 Fight
 Move
 
@@ -391920,6 +398176,7 @@ Kinship
 Names of People
 Strong
 Strong; Confident
+
 
 Serve
 Quantity; Frequency
@@ -392019,6 +398276,7 @@ Know
 Relations of Involvement
 
 
+
 Involvement
 
 Serve
@@ -392091,6 +398349,7 @@ Quantity; Frequency
 Divide
 
 Direction
+
 
 Names
 
@@ -392169,13 +398428,17 @@ Names of Groups; Names of Locations
 Move
 Bread
 
+
 Domestic Animals
+
 
 
 Animals
 
 
+
 Domestic Animals
+
 
 
 Domestic Animals
@@ -392289,6 +398552,7 @@ Names
 
 
 
+
 Names of Locations
 Relations of Involvement
 Move
@@ -392343,6 +398607,7 @@ Names
 Names of People
 Move
 
+
 Vehicles
 
 Names of People
@@ -392378,6 +398643,7 @@ Tools
 Names of Geographical Objects
 Move
 Relations of Location
+
 
 
 Location
@@ -392427,6 +398693,7 @@ Names
 
 Speak
 
+
 Space
 Identifiers
 Participants
@@ -392442,6 +398709,7 @@ Names of People
 Identifiers
 Identifiers
 Deities
+
 
 Time
 Identifiers
@@ -392685,9 +398953,11 @@ Burn
 
 
 
+
 ?
 adverb
 Names
+
 
 
 
@@ -392730,6 +399000,7 @@ Identifiers
 Trees
 Adverb
 Move
+
 
 Fight
 
@@ -392927,6 +399198,7 @@ Identifiers
 Priests
 
 Relations of Association
+
 Names of Groups
 Relations of Association
 Names of People
@@ -392945,6 +399217,7 @@ Participant Referents
 Groups; Leaders
 Identifiers
 Communities
+
 
 Names of Groups
 Holy
@@ -392965,6 +399238,7 @@ Non-Move
 
 
 
+
 Quantity
 Negators
 Participant Referents
@@ -392976,6 +399250,7 @@ Deities
 Negators
 Search; Ask
 Relations of Description
+
 
 
 Holy
@@ -393009,6 +399284,7 @@ Speak
 Names of Supernatural Beings
 
 Parts: Creatures
+
 
 
 
@@ -393156,6 +399432,7 @@ Carry
 
 
 
+
 Know
 Participants
 
@@ -393163,6 +399440,7 @@ Names of People
 
 Names of People
 People
+
 
 Containers
 
@@ -393194,6 +399472,7 @@ Names of People
 
 Names
 People
+
 
 Containers
 
@@ -393442,6 +399721,7 @@ Music
 
 Names of People
 
+
 Music
 Hear
 
@@ -393460,12 +399740,14 @@ Covenant
 Identifiers
 Deities
 
+
 Time
 Identifiers
 Participants
 Adverb
 Possess
 Names of People
+
 
 Position; Attribute; Existence
 Relations of Association
@@ -393484,6 +399766,7 @@ Speak
 
 
 Know
+
 
 Groups
 Serve
@@ -393621,6 +399904,7 @@ Location
 Help
 Speak
 
+
 People
 Identifiers
 Great
@@ -393710,6 +399994,7 @@ Identifiers
 Land
 
 Speak
+
 
 People
 Names of Supernatural Beings
@@ -393847,6 +400132,7 @@ Identifiers
 Tents
 Names of Supernatural Beings
 
+
 Elevations
 Relations of Description
 
@@ -393862,7 +400148,9 @@ Identifiers
 Sacrifice
 Permanent
 Relations of Involvement
+
 Time
+
 
 
 Time
@@ -393917,6 +400205,7 @@ Deities
 
 Kinship
 Names of People
+
 
 Parts: Constructions
 
@@ -393978,6 +400267,7 @@ Deities
 
 
 Exist; Happen
+
 
 Time
 Identifiers
@@ -394112,6 +400402,7 @@ Identifiers
 Great
 Relations of Description
 
+
 Land
 
 Space
@@ -394137,6 +400428,7 @@ Relations of Involvement
 Oppress
 Relations of Description
 Relations of Description
+
 
 Quantity
 
@@ -394354,6 +400646,7 @@ Groups
 Names
 People
 Quantity
+
 
 Land
 Relations of Description
@@ -394575,6 +400868,7 @@ Quantity; Frequency
 Names of Locations
 Move
 
+
 Relations of Association
 Help
 Relations of Involvement
@@ -394594,6 +400888,7 @@ Quantity; Frequency
 Names of Groups
 Space
 Names of People
+
 
 
 
@@ -394751,6 +401046,7 @@ Names of Geographical Objects
 Impact
 Identifiers
 Names of Groups
+
 
 
 
@@ -394932,6 +401228,7 @@ Detach
 Identifiers
 Clothing
 
+
 Event Relations: Attribute
 
 Identifiers
@@ -395032,6 +401329,7 @@ Towns
 
 Move
 
+
 Fight
 
 Hear
@@ -395063,6 +401361,7 @@ Relations of Description
 Move
 
 Apart
+
 
 Land
 
@@ -395151,6 +401450,7 @@ Relations of Description
 
 
 Names of Groups
+
 
 Fight
 
@@ -395371,12 +401671,14 @@ Move
 
 Detach
 
+
 Tools
 
 
 Tools
 Identifiers
 Minerals; Metal
+
 
 
 Tools
@@ -395399,6 +401701,7 @@ Identifiers
 Names
 Space
 Exist; Happen
+
 
 
 Stance//Space
@@ -395522,6 +401825,7 @@ Move
 Estimate
 Identifiers
 Names
+
 
 
 
@@ -395697,6 +402001,7 @@ Apart
 Quantity
 
 
+
 Serve
 
 Participants
@@ -395737,6 +402042,7 @@ Attribute
 Names of Supernatural Beings
 
 Weak
+
 
 Land
 
@@ -395814,6 +402120,7 @@ Evil
 Speak
 
 
+
 Identifiers
 
 Abundant
@@ -395863,6 +402170,7 @@ Identifiers
 Leaders
 Cover
 
+
 Containers/Cloth
 
 
@@ -395878,6 +402186,7 @@ Participant Referents
 Speak
 Relations of Involvement
 Estimate
+
 
 Groups
 
@@ -396034,15 +402343,18 @@ Possess
 Identifiers
 Domestic Animals
 
+
 Sacrifice
 
 Identifiers
 Tools
 
+
 Trees
 
 Identifiers
 Crops
+
 
 Give; Sacrifice
 Identifiers
@@ -396079,6 +402391,7 @@ Names of People
 Relations of Association
 Names of People
 
+
 Space
 Weight
 Metal
@@ -396106,6 +402419,7 @@ Utter
 
 
 
+
 Identifiers
 Universe
 
@@ -396116,12 +402430,14 @@ Sacrifice
 Speak
 Names of Supernatural Beings
 
+
 Deities
 
 Move
 Weapons
 Location
 Containers
+
 
 
 Identifiers
@@ -396147,6 +402463,7 @@ Relations of Description
 Serve
 Names
 
+
 Land
 
 Altars
@@ -396154,7 +402471,9 @@ Identifiers
 Sacrifice
 
 
+
 Identifiers
+
 
 
 Elevations
@@ -396223,11 +402542,13 @@ Minerals; Metal
 
 Abundant
 
+
 Tools
 
 Building.Parts
 Identifiers
 Parts: Constructions
+
 
 
 Parts: Buildings
@@ -396489,7 +402810,9 @@ Quantity; Frequency
 
 
 
+
 Metal
+
 
 
 Minerals; Metal
@@ -396526,12 +402849,16 @@ Wise
 Modification.Complete
 
 
+
 Metal
+
 
 Minerals; Metal
 
 
+
 Metal
+
 
 
 Minerals; Metal
@@ -396616,6 +402943,7 @@ Pure
 Identifiers
 Deities
 
+
 Kinship / Construction
 Identifiers
 Exist
@@ -396697,6 +403025,7 @@ Praise
 Relations of Association
 Names of Supernatural Beings
 
+
 Artifacts
 Relations of Description
 Serve
@@ -396714,6 +403043,7 @@ Object Referents
 Names of People
 
 Names
+
 
 Object Referents
 Names of People
@@ -396971,6 +403301,7 @@ Time
 
 
 Relations of Association
+
 Names of Groups
 
 Relations of Involvement
@@ -397047,7 +403378,9 @@ Identifiers
 Bread
 
 
+
 Containers
+
 
 
 Mix
@@ -397061,7 +403394,9 @@ Dimension
 Relations of Association
 Stance//Space
 
+
 Time
+
 
 Time
 Relations of Involvement
@@ -397074,6 +403409,7 @@ Names of Supernatural Beings
 
 Adverb
 
+
 Time
 
 Relations of Association
@@ -397083,9 +403419,12 @@ Sacrifice
 
 Names of Supernatural Beings
 
+
 Time
 
+
 Festivals
+
 
 
 Festivals
@@ -397251,7 +403590,9 @@ Communities
 Relations of Association
 
 
+
 Relations of Association
+
 Names of Groups
 Kinship / Construction
 Communities
@@ -397293,6 +403634,7 @@ Names
 Identifiers
 Quantity; Frequency
 Relations of Association
+Names of People
 Names of People
 Identifiers
 Quantity; Frequency
@@ -397413,6 +403755,7 @@ Groups; Leaders
 Names of People
 
 
+
 Names of People
 
 Kinship
@@ -397515,7 +403858,9 @@ Groups; Leaders
 Identifiers
 Communities
 Relations of Association
+
 Priests
+
 
 
 Names of Groups
@@ -397598,6 +403943,7 @@ Quantity; Frequency
 Kinship
 Names of People
 
+
 Music
 Identifiers
 Speak
@@ -397660,6 +404006,7 @@ Identifiers
 
 Kinship
 
+
 Sing
 Kinship / Construction
 Names of Supernatural Beings
@@ -397705,8 +404052,10 @@ Uphold
 
 Location
 Relations of Description
+
 Quantity
 Relations of Description
+
 Great
 Know
 
@@ -397741,6 +404090,7 @@ Quantity; Frequency
 
 Identifiers
 Quantity; Frequency
+
 
 
 Kinship
@@ -397939,6 +404289,7 @@ Participants
 Apart
 
 People
+
 
 Names of Groups
 Names
@@ -398047,6 +404398,7 @@ Kinship
 People
 Strong; Confident
 
+
 Attribute
 Relations of Association
 Serve
@@ -398123,8 +404475,10 @@ Names of Supernatural Beings
 Move
 Products
 Relations of Description
+
 Quantity
 Relations of Description
+
 Great
 
 Kinship / Construction
@@ -398167,10 +404521,12 @@ Names
 Relations of Association
 Names of People
 
+
 Direction
 
 Parts: Constructions
 Names
+
 
 Roads
 
@@ -398180,33 +404536,43 @@ Move
 Location
 
 
+
 Direction
 Identifiers
 Names of Groups
 Quantity; Frequency
 
+
 Direction
+
 
 Time
 Quantity; Frequency
+
 
 Names
 
+
 Time
 Quantity; Frequency
+
 
 
 Constructions
 Quantity; Frequency
 Quantity; Frequency
 
+
 Parts: Constructions
+
 
 Direction
 Quantity; Frequency
 
+
 Roads
 Quantity; Frequency
+
 
 
 Identifiers
@@ -398262,10 +404628,14 @@ Kinship / Construction
 Names of Supernatural Beings
 Relations of Association
 
-Relations of Association
 
 Relations of Association
+
+
+Relations of Association
+
 Names of Groups
+
 
 
 
@@ -398369,7 +404739,9 @@ Kinship
 
 
 
+
 Kinship
+
 
 Serve
 
@@ -398382,6 +404754,7 @@ Leaders; Officials
 
 Leaders
 Relations of Association
+
 Names of Groups
 Names of People
 
@@ -398398,6 +404771,7 @@ Names
 
 Direction
 
+
 Names
 Direction
 
@@ -398410,11 +404784,13 @@ Serve
 Identifiers
 Leaders
 Relations of Association
+
 Names of Groups
 Names
 Identifiers
 Groups; Leaders
 Relations of Association
+
 Names of Groups
 
 Kinship
@@ -398526,6 +404902,7 @@ Apart
 Identifiers
 Quantity
 
+
 Time
 Identifiers
 Quantity
@@ -398549,6 +404926,7 @@ Modification.Complete
 Leaders
 Identifiers
 Groups
+
 
 Time
 Identifiers
@@ -398581,6 +404959,7 @@ Identifiers
 Groups
 Identifiers
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -398614,6 +404993,7 @@ Kinship
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -398634,6 +405014,7 @@ Quantity; Frequency
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -398652,6 +405033,7 @@ Quantity; Frequency
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -398670,6 +405052,7 @@ Quantity; Frequency
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -398689,12 +405072,14 @@ Quantity; Frequency
 Identifiers
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
 Names of People
 Identifiers
 Names of Groups
+
 
 Names
 
@@ -398707,6 +405092,7 @@ Quantity; Frequency
 Names of Groups
 Quantity; Frequency
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -398714,6 +405100,8 @@ Names of People
 Identifiers
 Names of Groups
 
+
+Names of Groups
 Names of Groups
 
 
@@ -398725,12 +405113,14 @@ Quantity; Frequency
 Identifiers
 Quantity
 
+
 Time
 Identifiers
 
 Names of People
 Identifiers
 Names of Groups
+
 
 Names
 
@@ -398786,10 +405176,12 @@ Groups
 Names
 Relations of Association
 
+
 Leaders
 Names of People
 Kinship
 Names
+
 
 Names of Groups
 Names
@@ -398910,6 +405302,7 @@ Speak
 Identifiers
 Time
 
+
 Leaders
 Names of People
 
@@ -398925,12 +405318,16 @@ Names of People
 Identifiers
 Constructions
 
+
 Land
 
+
 Towns
 
 
+
 Towns
+
 
 
 Towns
@@ -398960,6 +405357,7 @@ Names
 
 
 Relations of Description
+
 
 Land
 
@@ -398978,6 +405376,7 @@ Identifiers
 Trees
 Relations of Description
 
+
 Elevations
 
 Identifiers
@@ -398995,6 +405394,7 @@ Domestic Animals
 Identifiers
 Ingest
 
+
 Names
 Names of People
 Identifiers
@@ -399003,6 +405403,7 @@ Names
 
 Identifiers
 Domestic Animals
+
 
 Depressions
 Names of People
@@ -399036,6 +405437,7 @@ Identifiers
 Possess
 Relations of Description
 
+
 Leaders
 Names of People
 
@@ -399060,6 +405462,7 @@ Leaders
 Names of People
 
 
+
 Leaders
 
 Names of People
@@ -399079,6 +405482,7 @@ Names of People
 
 Leaders
 Groups
+
 
 Leaders
 Names of People
@@ -399115,6 +405519,7 @@ Modification.Complete
 Possess
 
 Possess
+
 
 Leaders
 
@@ -399284,6 +405689,7 @@ Laws
 
 
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -399367,6 +405773,7 @@ Relations of Involvement
 Exist
 Kinship / Construction
 
+
 Buildings
 Attitude (State/Process)
 
@@ -399401,6 +405808,7 @@ Artifacts
 Modification.Complete
 Relations of Description
 Exist; Happen
+
 
 Cognition
 
@@ -399447,9 +405855,12 @@ Serve
 Kinship / Construction
 Names of Supernatural Beings
 
+
 Metal
 
+
 Weight
+
 
 Metal
 
@@ -399563,6 +405974,7 @@ Spices
 Metal
 Purify
 
+
 Weight
 
 
@@ -399650,6 +406062,7 @@ Serve
 Modification.Complete
 Accept
 
+
 Wise
 
 Modification.Complete
@@ -399707,6 +406120,7 @@ Deities
 Identifiers
 Metal
 
+
 Metal
 
 Identifiers
@@ -399714,17 +406128,21 @@ Minerals; Metal
 
 
 
+
 Identifiers
 Metal
 
 
+
 Identifiers
 Minerals; Metal
+
 
 Minerals; Metal
 
 Identifiers
 Trees
+
 
 
 Gemstones
@@ -399789,12 +406207,16 @@ Parts: Constructions
 Identifiers
 Kinship / Construction
 
-Metal
 
 Metal
+
+
+Metal
+
 
 
 Minerals; Metal
+
 
 
 
@@ -399946,7 +406368,9 @@ Great
 
 Modification.Complete
 
+
 Universe
+
 
 
 Land
@@ -399974,6 +406398,7 @@ Modification
 Participant Referents
 Control
 
+
 Modification.Complete
 
 
@@ -399989,6 +406414,7 @@ Great
 
 Relations of Involvement
 Attribute (Causative action)
+
 
 Modification.Complete
 
@@ -400036,6 +406462,7 @@ Relations of Description
 Modification.Complete
 Kinship
 Relations of Description
+
 Ephemeral
 Time
 
@@ -400170,6 +406597,7 @@ Relations of Association
 Names of Supernatural Beings
 
 
+
 Leaders
 
 Dead
@@ -400209,6 +406637,7 @@ Ingest
 
 
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -400421,6 +406850,7 @@ Identifiers
 Quantity; Frequency
 
 
+
 Leaders
 
 
@@ -400441,6 +406871,7 @@ Identifiers
 People
 
 
+
 Elevations
 Relations of Description
 
@@ -400458,6 +406889,7 @@ Names
 Classes; Officials; Serve
 Names of Supernatural Beings
 
+
 Land
 Connective
 Containers
@@ -400467,6 +406899,7 @@ Move
 Names of People
 
 Names of Locations
+
 
 Non-Move
 Relations of Association
@@ -400519,6 +406952,7 @@ Move
 
 Sacrifice
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -400653,6 +407087,7 @@ Negators
 Exist; Happen
 Adverb
 
+
 Leaders
 Relations of Description
 
@@ -400665,6 +407100,7 @@ Adverb
 
 Move
 Names of People
+
 
 Elevations
 Relations of Description
@@ -400725,6 +407161,7 @@ Metal
 
 Names
 Relations of Description
+
 Stone
 
 Identifiers
@@ -400732,8 +407169,10 @@ Identifiers
 Trees
 Possess
 Relations of Description
+
 Trees
 Relations of Description
+
 
 Elevations
 
@@ -400814,6 +407253,7 @@ Quantity; Frequency
 
 Impact
 
+
 Elevations
 
 Move
@@ -400872,12 +407312,16 @@ Permanent
 
 Sacrifice
 
+
 Time
+
 
 
 Time
 
+
 Time
+
 
 
 Festivals
@@ -400944,16 +407388,21 @@ Cloth
 
 Serve
 
+
 Metal
 
 
+
 Minerals; Metal
+
 
 
 Metal
 Wise
 
+
 Minerals; Metal
+
 
 
 Cloth
@@ -401022,6 +407471,7 @@ Exist
 Great
 
 Good
+
 
 
 
@@ -401118,6 +407568,7 @@ Involvement
 Know
 Relations of Association
 
+
 Kinship
 People
 
@@ -401131,26 +407582,36 @@ Know
 Relations of Involvement
 Serve
 
+
+Metal
+
+
+
+Minerals; Metal
+
+
 Metal
 
 
 Minerals; Metal
 
-Metal
-
-Minerals; Metal
 
 Gemstones
 
 
+
 Trees
 
-Cloth
 
 Cloth
 
 
 Cloth
+
+
+
+Cloth
+
 
 
 Cloth
@@ -401256,6 +407717,7 @@ Quantity
 Quantity; Frequency
 Impact
 
+
 Elevations
 
 Quantity; Frequency
@@ -401303,9 +407765,11 @@ Occurrence
 Relations of Involvement
 Exist
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 
 
@@ -401326,6 +407790,7 @@ Deities
 Identifiers
 Dimension
 Dimension
+
 
 Dimension
 Identifiers
@@ -401546,6 +408011,7 @@ Furnishings
 
 
 
+
 Kinship / Construction
 
 Serve
@@ -401588,6 +408054,7 @@ Quantity; Frequency
 Serve
 Cords
 
+
 Parts: Buildings
 
 Possess
@@ -401601,6 +408068,7 @@ Trees/Fruit
 Quantity; Frequency
 
 Possess
+
 
 
 
@@ -401654,6 +408122,7 @@ Water
 Exist
 
 
+
 Dimension
 
 Parts.Edge
@@ -401664,11 +408133,13 @@ Location
 
 Quantity; Frequency
 
+
 Dimension
 Dimension
 
 Cords
 Quantity; Frequency
+
 
 Dimension
 
@@ -401683,6 +408154,7 @@ Location
 Location
 
 Identifiers
+
 
 
 Dimension
@@ -401773,6 +408245,7 @@ Water
 Relations of Involvement
 
 
+
 Priests
 
 
@@ -401786,6 +408259,7 @@ Relations of Description
 
 
 Possess
+
 
 Buildings
 Quantity; Frequency
@@ -401801,6 +408275,7 @@ Furnishings
 
 
 Space
+
 
 Buildings
 Quantity; Frequency
@@ -401827,6 +408302,7 @@ Identifiers
 Great
 
 Building.Parts
+
 
 
 
@@ -401870,6 +408346,7 @@ Identifiers
 Serve
 Relations of Description
 Serve
+
 
 Leaders
 Names of People
@@ -401920,6 +408397,7 @@ Quantity; Frequency
 Arrange
 
 Relations of Involvement
+
 Traps
 Identifiers
 Quantity
@@ -401976,6 +408454,8 @@ Identifiers
 Modification.Complete
 Artifacts
 Serve
+
+
 
 
 Leaders
@@ -402055,6 +408535,7 @@ Relations of Description
 
 
 
+
 Identifiers
 Parts: Buildings
 Metal
@@ -402101,6 +408582,7 @@ Identifiers
 Building.Parts
 Identifiers
 Kinship / Construction
+
 
 Buildings
 Metal
@@ -402181,6 +408663,7 @@ Modification.Complete
 
 Names
 
+
 Festivals
 
 Identifiers
@@ -402215,6 +408698,7 @@ Artifacts
 Identifiers
 Pure
 Relations of Description
+
 
 Tents
 
@@ -402327,6 +408811,7 @@ Identifiers
 Identifiers
 
 
+
 Containers
 Focus particle
 Quantity; Frequency
@@ -402399,6 +408884,7 @@ Music
 Stance//Space
 Direction
 
+
 Altars
 
 
@@ -402415,9 +408901,11 @@ Exist; Happen
 Relations of Description
 Quantity
 Relations of Involvement
+
 Tools
 
 Relations of Association
+
 Sing
 Relations of Involvement
 Hear
@@ -402490,6 +408978,7 @@ Names of Supernatural Beings
 Speak
 Relations of Involvement
 Dwell
+
 
 Universe
 
@@ -402750,7 +409239,9 @@ Names
 
 Deities
 
+
 Universe
+
 
 
 Land
@@ -402788,6 +409279,7 @@ Speak
 
 Must
 Relations of Description
+
 Time
 Identifiers
 Identifiers
@@ -402977,6 +409469,7 @@ Curse
 
 Altars
 
+
 Kinship / Construction
 Identifiers
 Identifiers
@@ -403031,6 +409524,7 @@ Identifiers
 Ask
 
 Merciful
+
 
 
 
@@ -403125,6 +409619,7 @@ Ingest
 
 Exist; Happen
 
+
 Land
 Weak
 
@@ -403190,6 +409685,7 @@ Space
 Forgive
 
 Possess
+
 
 
 Relations of Description
@@ -403316,9 +409812,11 @@ Exist
 Move
 Groups
 
+
 Fight
 
 Hate
+
 
 
 Relations of Description
@@ -403384,6 +409882,7 @@ Direction
 Location
 Parts: Creatures
 
+
 Land
 Relations of Description
 Control
@@ -403431,6 +409930,7 @@ Identifiers
 Towns
 Relations of Description
 Apart
+
 
 
 Kinship / Construction
@@ -403495,6 +409995,7 @@ Save
 
 Faithful
 Joy
+
 
 State
 Names of Supernatural Beings
@@ -403721,6 +410222,7 @@ Identifiers
 Festivals
 
 
+
 Identifiers
 
 Quantity; Frequency
@@ -403734,6 +410236,7 @@ Great
 Intense
 
 
+
 Names of Locations
 
 Water
@@ -403741,6 +410244,7 @@ Names
 Pure
 Serve
 Scenery: Constructio
+
 Time
 Identifiers
 Quantity; Frequency
@@ -403763,6 +410267,7 @@ Time
 Quantity
 
 Quantity; Frequency
+
 
 Time
 Identifiers
@@ -403826,6 +410331,7 @@ Names of Supernatural Beings
 Location
 Names of People
 
+
 Time
 
 Speak
@@ -403835,6 +410341,7 @@ Identifiers
 Ask
 
 Apart
+
 
 Space
 Identifiers
@@ -404055,9 +410562,11 @@ Serve
 Names of Supernatural Beings
 
 
+
 Land
 Identifiers
 Identifiers
+
 
 
 Kinship / Construction
@@ -404141,6 +410650,7 @@ Exist
 Identifiers
 Names
 
+
 Land
 
 Identifiers
@@ -404206,6 +410716,7 @@ Exist
 Names
 
 
+
 Names of Geographical Objects
 
 
@@ -404242,6 +410753,7 @@ Kinship
 Relations of Description
 Exist
 Space
+
 
 Land
 Relations of Description
@@ -404290,6 +410802,7 @@ Identifiers
 
 Relations of Description
 
+
 Leaders
 Names of People
 Quantity; Frequency
@@ -404297,6 +410810,7 @@ Quantity; Frequency
 Quantity; Frequency
 Identifiers
 Control
+
 
 Groups
 
@@ -404308,6 +410822,7 @@ Names of People
 
 Parts: Towns
 Names of People
+
 
 Kinship / Construction
 Relations of Description
@@ -404359,15 +410874,19 @@ Relations of Description
 Laws
 Names
 
+
 Time
 
 
+
 Festivals
+
 
 
 Festivals
 Quantity; Frequency
 Time
+
 
 Time
 
@@ -404445,6 +410964,7 @@ Names of Groups
 
 Modification.Complete
 Speak
+
 
 
 Constructions
@@ -404710,6 +411230,7 @@ Just
 
 Possess
 
+
 Leaders
 Quantity; Frequency
 
@@ -404728,6 +411249,7 @@ Valuable
 Negators
 Exist; Happen
 Relations of Description
+
 Trees
 Identifiers
 
@@ -404735,6 +411257,7 @@ Relations of Description
 Possess
 Leaders
 Names
+
 
 Leaders
 Names of People
@@ -404777,6 +411300,7 @@ Leaders
 Music
 
 Music
+
 
 Sing
 
@@ -404920,11 +411444,14 @@ Good
 Quantity; Frequency
 
 
+
 Furnishings
 
 Furnishings
+
 
 Metal
+
 
 Furnishings
 Attach
@@ -404994,6 +411521,7 @@ Time
 
 
 Ships
+
 
 Leaders
 Move
@@ -405127,6 +411655,7 @@ Minerals; Metal
 
 Names
 Relations of Description
+
 Stone
 
 Identifiers
@@ -405134,8 +411663,10 @@ Identifiers
 Trees
 Possess
 Relations of Description
+
 Trees
 Relations of Description
+
 
 Elevations
 
@@ -405325,6 +411856,7 @@ Participant Referents
 
 Move
 
+
 Groups
 Identifiers
 Identifiers
@@ -405417,6 +411949,7 @@ Speak
 Adverb
 Speak
 Relations of Involvement
+
 Groups
 Relations of Description
 Speak
@@ -405456,9 +411989,11 @@ Kinship
 Control; Oppress
 Identifiers
 
+
 Weapons
 
 Participant Referents
+
 
 Swarming Creatures
 
@@ -405470,6 +412005,7 @@ Identifiers
 Groups
 Location
 Names
+
 
 Time
 Identifiers
@@ -405483,6 +412019,7 @@ Relations of Involvement
 Speak
 Direction
 Location
+
 
 Time
 Identifiers
@@ -405521,9 +412058,11 @@ Kinship
 Control; Oppress
 Identifiers
 
+
 Weapons
 
 Participant Referents
+
 
 Swarming Creatures
 
@@ -405638,6 +412177,7 @@ Names
 Confident
 Relations of Involvement
 Move
+
 
 Vehicles
 Relations of Involvement
@@ -405890,10 +412430,13 @@ Space
 
 Priests
 
+
 Elevations
 
 
+
 Deities
+
 
 
 Domestic Animals
@@ -406028,6 +412571,7 @@ Kinship
 
 Space
 
+
 Groups; Leaders
 Names
 Identifiers
@@ -406090,9 +412634,11 @@ Names
 
 Exist; Happen
 
+
 Time
 Identifiers
 Quantity; Frequency
+
 
 Leaders
 Names
@@ -406119,6 +412665,7 @@ Soldiers
 
 
 Quantity
+
 
 Groups
 Relations of Description
@@ -406434,6 +412981,7 @@ Time
 Quantity
 
 
+
 Leaders
 Names
 
@@ -406655,6 +413203,7 @@ Names of People
 Identifiers
 Names of Groups
 
+
 Serve
 
 Sacrifice
@@ -406662,12 +413211,16 @@ Relations of Association
 Names of Supernatural Beings
 Sacrifice
 
-Time
 
 Time
 
 
 Time
+
+
+
+Time
+
 
 
 
@@ -406694,6 +413247,8 @@ Burn
 
 
 
+
+
 Uphold
 Participant Referents
 Identifiers
@@ -406706,6 +413261,7 @@ Participant Referents
 Identifiers
 
 Discourse particle
+
 
 
 Groups; Leaders
@@ -406830,6 +413386,7 @@ Apart
 Humble
 Kinship
 Names
+
 
 
 Identifiers
@@ -407022,6 +413579,7 @@ Land
 
 Fight
 
+
 Time
 Identifiers
 Identifiers
@@ -407123,6 +413681,7 @@ Relations of Association
 
 Space
 Fight
+
 
 
 
@@ -407315,6 +413874,7 @@ Laws
 
 Direction
 
+
 Distress
 
 
@@ -407329,12 +413889,15 @@ Search
 
 
 
+
 Identifiers
 Participant Referents
 
 Intact
 
+
 Move
+
 
 
 Move
@@ -407452,6 +414015,7 @@ Deities
 Gather
 Names
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -407466,6 +414030,7 @@ Names of People
 Dead
 Relations of Association
 Names of Supernatural Beings
+
 
 Time
 Identifiers
@@ -407483,6 +414048,7 @@ Quantity; Frequency
 Quantity; Frequency
 
 Move
+
 
 Covenant
 Relations of Involvement
@@ -407794,6 +414360,7 @@ Names
 
 
 
+
 Identifiers
 
 Move
@@ -407902,6 +414469,7 @@ Identifiers
 Groups
 
 
+
 Identifiers
 
 
@@ -407949,6 +414517,7 @@ Identifiers
 Names of Supernatural Beings
 
 
+
 People
 
 Dead
@@ -407976,6 +414545,7 @@ Parts: Towns
 Names of People
 
 Stance
+
 
 Furnishings
 Relations of Description
@@ -408042,6 +414612,7 @@ Identifiers
 Quantity
 
 Negators
+
 
 
 Names of Supernatural Beings
@@ -408173,6 +414744,7 @@ Names of Supernatural Beings
 Modification.Complete
 Towns
 Names of Locations
+
 
 
 
@@ -408382,6 +414954,7 @@ Object Referents
 Abundant
 
 Relations of Involvement
+
 Groups
 Relations of Description
 
@@ -408390,6 +414963,7 @@ Attitude.Excited
 
 Move
 Location
+
 
 
 Speak
@@ -408405,6 +414979,7 @@ Move
 
 
 
+
 Speak
 
 
@@ -408412,6 +414987,7 @@ Speak
 
 Relations of Description
 Groups
+
 
 
 
@@ -408426,6 +415002,7 @@ Names
 
 
 Relations of Description
+
 Time
 Identifiers
 Speak
@@ -408446,6 +415023,8 @@ Location
 
 Move
 Location
+
+
 
 
 Fight
@@ -408587,6 +415166,7 @@ Relations of Involvement
 Speak
 Move
 Identifiers
+Identifiers
 
 Happen
 
@@ -408657,6 +415237,8 @@ Move
 Location
 
 
+
+
 Fight
 Relations of Occurrence
 Happen
@@ -408700,6 +415282,7 @@ Scatter
 Identifiers
 Elevations
 Relations of Description
+
 Domestic Animals
 Relations of Description
 
@@ -408771,6 +415354,7 @@ Names
 Move
 
 Move
+
 
 
 
@@ -408871,6 +415455,7 @@ Names
 discourse marker
 
 
+
 Time
 Identifiers
 
@@ -408951,6 +415536,7 @@ Names of Locations
 Location
 
 
+
 Speak
 Leaders
 Names
@@ -408959,6 +415545,7 @@ Names of People
 Cognition
 
 Move
+
 
 Fight
 
@@ -408971,6 +415558,7 @@ Leaders
 
 
 Move
+
 
 
 
@@ -409050,6 +415638,7 @@ Space
 
 Move
 
+
 Weapons
 
 Just
@@ -409068,6 +415657,7 @@ Clothing
 
 Speak
 
+
 People
 Move
 
@@ -409083,6 +415673,7 @@ Move
 Identifiers
 Fight
 
+
 Time
 Identifiers
 
@@ -409091,6 +415682,7 @@ Leaders
 Names
 Exist; Happen
 Space
+
 
 Vehicles
 Location
@@ -409133,6 +415725,7 @@ Leaders
 Names of People
 
 Relations of Involvement
+
 Evil
 
 Help
@@ -409179,7 +415772,9 @@ Move
 
 Move
 
+
 Groups
+
 
 
 
@@ -409194,6 +415789,7 @@ Kinship
 
 Space
 Leaders
+
 
 Land
 
@@ -409271,6 +415867,7 @@ Names
 
 
 Names of Supernatural Beings
+
 
 
 Involvement.Contend
@@ -409381,6 +415978,7 @@ Just
 Space
 Exist; Happen
 
+
 Move
 Kinship
 Names of Groups; Names of Locations
@@ -409394,6 +415992,7 @@ Identifiers
 Names of Groups
 
 Names of People
+
 
 Fight
 
@@ -409410,6 +416009,7 @@ Groups
 Names of Locations
 
 Direction
+
 
 Water; Direction
 
@@ -409481,6 +416081,7 @@ Negators
 Participant Referents
 
 Deities
+
 
 Universe
 
@@ -409555,6 +416156,7 @@ Identifiers
 Kinship / Construction
 Identifiers
 Identifiers
+
 
 
 
@@ -409812,6 +416414,7 @@ Direction
 
 Time
 
+
 Time
 
 Move
@@ -409929,6 +416532,7 @@ Move
 Identifiers
 Fortifications
 
+
 Land
 
 Move
@@ -409980,6 +416584,7 @@ Identifiers
 
 
 Abundant
+
 
 
 
@@ -410154,6 +416759,7 @@ Leaders
 Names
 Space
 
+
 Associate
 Names of People
 Leaders
@@ -410292,6 +416898,7 @@ Identifiers
 Modification.Complete
 Kinship
 
+
 Attribute
 
 Focus particle
@@ -410419,6 +417026,7 @@ Identifiers
 
 Sin
 Names of Locations
+
 
 
 Identifiers
@@ -410684,7 +417292,9 @@ Identifiers
 Identifiers
 Move
 
+
 Names
+
 
 Association
 
@@ -410761,11 +417371,13 @@ Names of People
 Object Referents
 Names
 
+
 Fight
 
 Names of People
 Leaders
 Names of Groups
+
 
 
 
@@ -410785,6 +417397,7 @@ Identifiers
 Wounds
 Relations of Description
 Impact
+
 
 Names
 
@@ -410992,6 +417605,7 @@ Identifiers
 Land
 
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -411027,6 +417641,7 @@ Identifiers
 Names of People
 Kinship
 Names
+
 
 
 Covenant
@@ -411093,7 +417708,9 @@ Move
 Identifiers
 Time
 Relations of Association
+
 Priests
+
 
 
 Names of Groups
@@ -411136,6 +417753,7 @@ Priests
 Identifiers
 Serve
 Relations of Association
+
 Names of Groups
 Participant Referents
 Move
@@ -411236,6 +417854,7 @@ Identifiers
 Weapons
 Relations of Description
 
+
 Leaders
 Names of People
 Relations of Description
@@ -411266,7 +417885,9 @@ Kinship / Construction
 Identifiers
 Direction
 
+
 Altars
+
 
 
 Kinship / Construction
@@ -411335,6 +417956,7 @@ Stance//Space
 
 Constructions.Parts
 
+
 Constructions.Parts
 
 Identifiers
@@ -411401,6 +418023,7 @@ Identifiers
 Move
 Space
 Dead
+
 
 Attribute
 
@@ -411499,6 +418122,7 @@ Move
 Sacrifice
 Names of Supernatural Beings
 Relations of Description
+
 Cognition.Write
 
 Laws
@@ -411540,6 +418164,7 @@ Leaders
 Identifiers
 Identifiers
 Control
+
 
 Groups
 
@@ -411590,6 +418215,7 @@ Identifiers
 
 Dead
 
+
 Attribute
 Kinship
 Quantity; Frequency
@@ -411607,6 +418233,7 @@ Names
 
 Kinship
 Names of People
+
 
 
 
@@ -411635,6 +418262,7 @@ Kinship
 Kinship
 Space
 Exist; Happen
+
 
 Exist; Happen
 
@@ -411678,6 +418306,7 @@ Time
 
 
 Participant Referents
+
 
 
 Speak
@@ -411742,6 +418371,7 @@ Kinship / Construction
 Names of Supernatural Beings
 Serve
 
+
 Names of Supernatural Beings
 
 Speak
@@ -411778,6 +418408,7 @@ Deities
 
 Names
 
+
 Land
 
 Joy
@@ -411793,6 +418424,7 @@ Move
 
 Move
 Relations of Involvement
+
 Containers
 
 
@@ -411899,6 +418531,7 @@ Good
 
 
 
+
 Space
 Identifiers
 Kinship / Construction
@@ -411994,6 +418627,7 @@ Names of Locations
 
 Stance
 
+
 Leaders
 adverbial conjunct
 Hear
@@ -412052,6 +418686,7 @@ Identifiers
 Priests
 
 Stance//Space
+
 
 
 
@@ -412311,7 +418946,9 @@ Negators
 Dead
 
 Relations of Description
+
 Cognition.Write
+
 
 Laws
 
@@ -412425,6 +419062,7 @@ Participant Referents
 Serve
 
 
+
 Fight
 Sin
 Identifiers
@@ -412516,6 +419154,7 @@ Move
 
 
 
+
 Impact
 Identifiers
 Kinship
@@ -412555,6 +419194,7 @@ Relations of Involvement
 Move
 
 Names of Locations
+
 Fight
 Names of Locations
 
@@ -412640,6 +419280,7 @@ Identifiers
 
 
 
+
 Leaders
 Possess
 Happen
@@ -412701,12 +419342,14 @@ Identifiers
 Plants
 Relations of Description
 
+
 Names of Geographical Objects
 Move
 Location
 Identifiers
 Trees
 Relations of Description
+
 
 Names of Geographical Objects
 Relations of Involvement
@@ -412724,6 +419367,7 @@ Animals
 Identifiers
 Land
 Relations of Description
+
 
 Names of Geographical Objects
 
@@ -413038,6 +419682,7 @@ Move
 
 Fight
 
+
 Names
 
 Impact
@@ -413057,6 +419702,7 @@ Exist
 Towns
 
 Names of Locations
+
 
 
 Names
@@ -413086,6 +419732,7 @@ Relations of Association
 
 
 Move
+
 
 
 
@@ -413120,6 +419767,7 @@ Attribute (Causative action)
 Exist
 Constructions; Fortifications
 
+
 Land
 
 Impact
@@ -413132,7 +419780,9 @@ Exist; Happen
 
 
 
+
 Elevations
+
 
 
 Scenery
@@ -413140,7 +419790,9 @@ Professions
 
 
 
+
 Elevations
+
 
 
 Constructions
@@ -413212,6 +419864,7 @@ Strong; Confident
 Relations of Involvement
 Help
 
+
 Leaders
 
 Identifiers
@@ -413256,7 +419909,9 @@ Parts: Constructions
 Relations of Involvement
 Move
 
+
 Weapons
+
 
 
 Stone
@@ -413329,6 +419984,7 @@ Relations of Involvement
 Sacrifice
 Relations of Involvement
 Names of Supernatural Beings
+
 
 
 Priests
@@ -413479,6 +420135,7 @@ Identifiers
 Space
 Relations of Description
 
+
 Leaders
 
 Speak
@@ -413558,6 +420215,7 @@ Elevations
 Names of Locations
 
 
+
 Scenery
 Exist
 Buildings
@@ -413579,6 +420237,7 @@ Possess
 Kinship
 Names of Groups; Names of Locations
 
+
 Time
 Identifiers
 
@@ -413599,6 +420258,7 @@ Move
 
 Kinship
 Names of Groups; Names of Locations
+
 
 
 
@@ -413700,6 +420360,7 @@ Focus particle
 Artifacts
 Serve
 
+
 Names of Supernatural Beings
 Names of Geographical Objects
 
@@ -413707,9 +420368,11 @@ Sacrifice
 
 
 
+
 Burn
 Identifiers
 Kinship
+
 
 
 Relations of Description
@@ -413727,6 +420390,7 @@ Names
 Dead
 
 Sacrifice
+
 
 Elevations
 
@@ -413879,6 +420543,7 @@ Dead
 Angry
 
 
+
 Universe
 Touch
 
@@ -414011,6 +420676,7 @@ Know
 
 Attachment (Action)
 
+
 Submit
 
 Modification.Complete
@@ -414047,6 +420713,7 @@ Kinship
 
 Direction
 Names of Locations
+
 
 
 Identifiers
@@ -414293,6 +420960,7 @@ Kinship
 
 Space
 
+
 Towns
 
 Names
@@ -414344,11 +421012,13 @@ Names of People
 Kinship
 
 
+
 Time
 Identifiers
 Quantity
 Relations of Involvement
 Control
+
 
 Time
 Identifiers
@@ -414439,6 +421109,7 @@ Sacrifice
 Negators
 Move
 
+
 Pure
 
 Deities
@@ -414471,6 +421142,7 @@ Discourse particle
 Move
 Kinship
 
+
 Attribute
 
 Kinship
@@ -414478,6 +421150,7 @@ Kinship
 Kinship
 
 People
+
 
 Submit
 
@@ -414642,6 +421315,7 @@ Occurrence
 
 Quantity
 Relations of Involvement
+
 Time
 Identifiers
 Quantity
@@ -414651,6 +421325,7 @@ Pure
 
 Time
 Quantity
+
 
 Time
 Move
@@ -414669,6 +421344,7 @@ Quantity
 
 Time
 Quantity; Frequency
+
 
 
 Time
@@ -414981,6 +421657,7 @@ Leaders
 Identifiers
 Leaders
 Relations of Association
+
 Names of Groups
 Relations of Association
 Praise
@@ -415114,7 +421791,9 @@ Identifiers
 Sacrifice
 
 
+
 Sacrifice
+
 
 Sacrifice
 
@@ -415134,6 +421813,7 @@ Identifiers
 Non-Move
 Identifiers
 Deities
+
 
 
 
@@ -415189,6 +421869,7 @@ Serve
 Identifiers
 Festivals
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -415197,6 +421878,7 @@ Negators
 ?
 Relations of Involvement
 Serve
+
 
 
 Identifiers
@@ -415242,6 +421924,7 @@ Names
 
 
 
+
 Relations of Location
 Names
 Relations of Association
@@ -415261,11 +421944,13 @@ Negators
 Abundant
 Serve
 Relations of Description
+
 Cognition.Write
 
 Move
 Identifiers
 Move
+
 
 Scrolls
 
@@ -415375,6 +422060,7 @@ Control
 
 
 
+
 Land
 Identifiers
 Identifiers
@@ -415465,6 +422151,7 @@ Festivals
 Identifiers
 Bread
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -415499,6 +422186,7 @@ Identifiers
 Sacrifice
 
 Quantity; Frequency
+
 
 
 Time
@@ -415543,6 +422231,7 @@ Names of Groups
 
 Abundant
 
+
 People
 Relations of Description
 Negators
@@ -415584,6 +422273,7 @@ Sacrifice
 
 Negators
 Relations of Description
+
 Cognition.Write
 
 Ask
@@ -415708,6 +422398,7 @@ Leaders
 Names of Locations
 Carry
 
+
 People
 Quantity; Frequency
 Domestic Animals
@@ -415718,6 +422409,7 @@ Domestic Animals
 
 Identifiers
 Leaders
+
 
 
 
@@ -415805,6 +422497,7 @@ Ask
 Dwell
 Pure
 
+
 Universe
 
 Relations of Description
@@ -415878,7 +422571,9 @@ Serve
 Relations of Association
 
 
+
 Relations of Involvement
+
 Names of Groups
 Relations of Involvement
 Sacrifice
@@ -415904,6 +422599,7 @@ Leaders
 
 Possess
 
+
 Sacrifice
 
 Sacrifice
@@ -415916,14 +422612,18 @@ Time
 Identifiers
 Sacrifice
 
+
 Time
+
 
 
 Festivals
+
 
 
 Festivals
 Relations of Description
+
 Cognition.Write
 
 Laws
@@ -415931,6 +422631,7 @@ Names of Supernatural Beings
 
 Speak
 Relations of Involvement
+
 Groups
 
 Space
@@ -416004,6 +422705,7 @@ Possess
 Scenery
 Scenery
 
+
 Time
 Identifiers
 Quantity; Frequency
@@ -416012,6 +422714,7 @@ Identifiers
 Scenery
 Relations of Involvement
 Exist
+
 
 
 Time
@@ -416172,6 +422875,7 @@ Names of Groups
 Identifiers
 People
 Relations of Involvement
+
 Direction
 
 Sacrifice
@@ -416211,8 +422915,10 @@ Kinship
 
 Apart
 Relations of Description
+
 Great
 Relations of Description
+
 Quantity
 
 
@@ -416316,7 +423022,9 @@ People
 
 
 
+
 Modification.Complete
+
 
 
 Names of Groups
@@ -416355,7 +423063,9 @@ Identifiers
 Deities
 
 
+
 Laws
+
 
 
 Laws
@@ -416406,6 +423116,7 @@ Names
 
 
 
+
 Fight
 
 Names
@@ -416424,6 +423135,7 @@ Water
 Relations of Description
 
 Orientation: Attachment
+
 
 Towns
 
@@ -416473,6 +423185,7 @@ Impact
 
 Identifiers
 Constructions; Fortifications
+
 
 
 Orientation: Attachment
@@ -416887,6 +423600,7 @@ Parts: Creatures
 Referents of Location
 Move
 
+
 Attribute
 
 Help |Save
@@ -416933,6 +423647,7 @@ Identifiers
 People
 
 Space
+
 
 
 Time
@@ -417044,6 +423759,7 @@ Wild Animals
 
 Domestic Animals
 
+
 Stalls
 
 Towns
@@ -417102,6 +423818,7 @@ Identifiers
 Miracles
 Relations of Description
 Exist; Happen
+
 
 Land
 
@@ -417211,6 +423928,7 @@ Kinship
 Stance
 Altars
 
+
 Names of Supernatural Beings
 
 Serve
@@ -417263,6 +423981,8 @@ Kinship
 
 
 
+
+
 See
 
 Divination
@@ -417304,6 +424024,7 @@ Names of People
 Location
 Names of People
 Kinship
+
 
 Kinship / Construction
 Identifiers
@@ -417409,9 +424130,11 @@ Grasp
 Identifiers
 Names
 
+
 Traps
 
 Bind
+
 
 Metal
 
@@ -417469,6 +424192,7 @@ Direction
 Relations of Involvement
 Names of Geographical Objects
 
+
 Water
 
 
@@ -417477,6 +424201,7 @@ Move
 Parts: Constructions
 Identifiers
 Aquatic Animals
+
 
 
 
@@ -417526,6 +424251,7 @@ Names
 Move
 Orientation: Attachment
 
+
 Towns
 Scenery: Constructio
 Non-Move
@@ -417554,6 +424280,7 @@ existential particle
 Identifiers
 Groups
 Dead
+
 
 Elevations
 Focus particle
@@ -417996,7 +424723,9 @@ Kinship / Construction
 Impact
 Possess
 Relations of Involvement
+
 Professions
+
 
 
 Exist
@@ -418006,6 +424735,7 @@ Parts: Constructions
 Detach
 
 Trees
+
 
 Parts: Buildings
 
@@ -418024,6 +424754,7 @@ Identifiers
 Serve
 
 Faithful
+
 
 Serve
 
@@ -418177,6 +424908,7 @@ Names of People
 Identifiers
 Officials
 Names of People
+
 Leaders
 Relations of Association
 Speak
@@ -418309,6 +425041,7 @@ Space
 
 Names
 
+
 Quantity
 
 Speak
@@ -418324,6 +425057,7 @@ Names of Supernatural Beings
 Deities
 Names
 Speak
+
 
 
 Relations of Description
@@ -418376,6 +425110,7 @@ Happen
 
 Attachment.Pour
 Angry
+
 
 Space
 Identifiers
@@ -418653,6 +425388,7 @@ Identifiers
 Quantity; Frequency
 
 
+
 Time
 Identifiers
 Quantity
@@ -418671,6 +425407,7 @@ Names of Supernatural Beings
 
 Speak
 Relations of Association
+
 Names of Groups
 Identifiers
 Know
@@ -418687,6 +425424,7 @@ Containers
 Identifiers
 Pure
 
+
 Kinship / Construction
 Relations of Description
 Exist
@@ -418698,6 +425436,7 @@ Leaders
 
 
 Carry
+
 
 Parts: Creatures
 Text deictic
@@ -418729,6 +425468,7 @@ Kinship
 
 Stance//Space
 
+
 Pure
 
 Groups
@@ -418744,6 +425484,7 @@ Groups
 Apart
 Kinship / Construction
 Communities
+
 
 Names of Groups
 
@@ -418779,6 +425520,7 @@ Domestic Animals
 Identifiers
 Modification.Complete
 
+
 Sacrifice
 
 Modification.Complete
@@ -418802,9 +425544,12 @@ Leaders
 Relations of Association
 Attitude
 
+
 Groups
 
+
 Priests
+
 
 
 Names of Groups
@@ -418820,7 +425565,9 @@ Identifiers
 Deities
 
 
+
 Possess
+
 
 Sacrifice
 Quantity; Frequency
@@ -418849,7 +425596,9 @@ Identifiers
 Names of Groups
 Carry
 Relations of Association
+
 Names of Groups
+
 
 Sacrifice
 Quantity; Frequency
@@ -418911,12 +425660,14 @@ Space
 
 Names of Supernatural Beings
 Relations of Description
+
 Cognition.Write
 
 
 Names
 
 Adverb
+
 
 Domestic Animals
 
@@ -418925,17 +425676,22 @@ Identifiers
 Sacrifice
 
 
+
 Relations of Description
+
 
 
 Identifiers
 Pure
 Hot
 
+
 Containers
 
 
+
 Containers
+
 
 
 Containers
@@ -418949,6 +425705,7 @@ Groups
 
 Space
 Non-Move
+
 
 
 
@@ -418971,6 +425728,7 @@ Time
 Identifiers
 Names of Groups
 Non-Move
+
 
 
 
@@ -419022,6 +425780,7 @@ Modification.Complete
 Serve
 Names of Supernatural Beings
 
+
 Time
 Identifiers
 Scenery: Constructio
@@ -419049,6 +425808,7 @@ Search
 Identifiers
 Identifiers
 Festivals
+
 
 
 Identifiers
@@ -419079,6 +425839,7 @@ Leaders
 Negators
 Serve
 Relations of Description
+
 
 Relations of Description
 Serve
@@ -419202,6 +425963,7 @@ People
 Identifiers
 
 
+
 Leaders
 Names of People
 
@@ -419285,6 +426047,7 @@ Names of People
 
 Faithful
 Relations of Description
+
 Cognition.Write
 
 Laws
@@ -419405,6 +426168,7 @@ Leaders
 Names of Locations
 
 Bind
+
 
 Metal
 Relations of Involvement
@@ -419535,6 +426299,7 @@ Names of Supernatural Beings
 
 Focus particle
 
+
 Leaders
 Names of People
 Rebel
@@ -419635,6 +426400,7 @@ Names
 Dead
 People
 
+
 Attribute
 
 Kinship / Construction
@@ -419697,6 +426463,7 @@ Fortifications
 
 
 
+
 Modification.Complete
 Artifacts
 Wish
@@ -419738,6 +426505,7 @@ Identifiers
 Time
 Modification.Complete
 Time
+Impact
 Impact
 Non-Happen
 Relations of Involvement
