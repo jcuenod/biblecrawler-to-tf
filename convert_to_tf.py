@@ -15,50 +15,10 @@ qere = 0
 rafe = 0
 line = ""
 sdbh_contents = []
-sdbh_books = [
-	"Gen",
-	"Exod",
-	"Lev",
-	"Num",
-	"Deut",
-	"Josh",
-	"Judg",
-	"1Sam",
-	"2Sam",
-	"1Kgs",
-	"2Kgs",
-	"Isa",
-	"Jer",
-	"Ezek",
-	"Hos",
-	"Joel",
-	"Amos",
-	"Obad",
-	"Jonah",
-	"Mic",
-	"Nah",
-	"Hab",
-	"Zeph",
-	"Hag",
-	"Zech",
-	"Mal",
-	"Ps",
-	"Job",
-	"Prov",
-	"Ruth",
-	"Song",
-	"Eccl",
-	"Lam",
-	"Esth",
-	"Dan",
-	"Ezra",
-	"Neh",
-	"1Chr",
-	"2Chr",
-]
+sdbh_books = [ "Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "1Sam", "2Sam", "1Kgs", "2Kgs", "Isa", "Jer", "Ezek", "Hos", "Joel", "Amos", "Obad", "Jonah", "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal", "Ps", "Job", "Prov", "Ruth", "Song", "Eccl", "Lam", "Esth", "Dan", "Ezra", "Neh", "1Chr", "2Chr" ]
 
 print("Reading csv ...")
-with open('sdbh.csv') as csvfile:
+with open('processed_tfdata.csv') as csvfile:
 	reader = csv.DictReader(csvfile)
 	for row in reader:
 		if rule_affected(row["RecordId"]):
@@ -85,9 +45,19 @@ with open('sdbh.csv') as csvfile:
 			"betacode": row["HebrewText"],
 			"hebrew": decode(to_decode),
 			"domain": row["LexDomain"],
-			"sdbh": row["SDBH"]
+			"sdbh": row["SDBH"],
+			"glemma": row["GLemma"]
 		})
 print("Completed csv prep")
+
+glemma_missing_counter = 0
+def get_glemma(obj):
+	if "glemma" in obj:
+		return obj["glemma"]
+	else:
+		global glemma_missing_counter
+		glemma_missing_counter += 1
+		return ""
 
 # Get words from SDBH
 def get_sdbh(book_abbreviation):
@@ -163,11 +133,11 @@ for book_abbreviation in sdbh_books:
 		if normalised_compare(sdbh_words[i + offset_sdbh], tf_words[i + offset_tf]):
 			# if write_to_file:
 				# write to file
-			node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
+			node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh]])))
 			continue
 		elif sdbh_words[i + offset_sdbh] == "ישׂשכר" and tf_words[i + offset_tf] == "ישׂשׂכר":
 			# variant spelling of Issachar
-			node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
+			node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh]])))
 			continue
 		elif len(sdbh_words[i + offset_sdbh]) > len(tf_words[i + offset_tf]):
 			# data from sdbh for one word goes to two...
@@ -179,9 +149,9 @@ for book_abbreviation in sdbh_books:
 			if normalised_compare(sdbh_words[i + offset_sdbh], to_test):
 				for j in range(temp_offset - offset_tf + 1):
 					if tf_words[i + offset_tf + j] == "":
-						node_data.append(("","",""))
+						node_data.append(("","","",""))
 					else:
-						node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
+						node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh]])))
 				offset_tf = temp_offset
 				# if do_print:
 				# 	print("  tf fix:", sdbh_references[i + offset_sdbh], ":SD: ", sdbh_words[i + offset_sdbh], "==", to_test, " :TF:", tf_references[i + offset_tf], "OFFSETS (tf, sdbh):", offset_tf, offset_sdbh)
@@ -203,11 +173,11 @@ for book_abbreviation in sdbh_books:
 						continue
 					if sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"] in domains_to_ignore:
 						# ignore certain domains
-						last_resort.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j]))
+						last_resort.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh+j]])))
 						continue
 					if len(_norm(sdbh_words[i+offset_sdbh+j])) == 1:
 						# ignore certain domains
-						last_resort.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j]))
+						last_resort.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh+j]])))
 						continue
 					if sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"] in map(lambda x: x[1], possibles):
 						# if we already have this category, ignore it a second time
@@ -215,9 +185,9 @@ for book_abbreviation in sdbh_books:
 						continue
 					if sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"] == "Names of Locations":
 						# ignore names of locations -- maybe we will just end up using this value
-						prefer_me.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j]))
+						prefer_me.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh+j]])))
 						continue
-					possibles.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j]))
+					possibles.append((_norm(sdbh_words[i+offset_sdbh+j]), sdbh_contents[sdbh_ids[i+offset_sdbh+j]]["domain"], sdbh_references[i+offset_sdbh+j], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh+j]])))
 
 				if len(possibles) > 1:
 					print("POSSIBLES:", possibles)
@@ -234,7 +204,7 @@ for book_abbreviation in sdbh_books:
 							print("LAST RESORT:", last_resort)
 					else:
 						# print("LAST RESORT/PREFER: not enough options...")
-						node_data.append(("","",""))
+						node_data.append(("","","",""))
 				else:
 					if len(prefer_me) > 1:
 						if len(prefer_me) == 1:
@@ -253,7 +223,7 @@ for book_abbreviation in sdbh_books:
 			print(sdbh_references[i + offset_sdbh], ":SD: ", sdbh_words[i + offset_sdbh], "=!=", tf_words[i + offset_tf], " :TF:", tf_references[i + offset_tf], "OFFSETS (tf, sdbh):", offset_tf, offset_sdbh)
 		# Having tested, I'm fairly confident that there aren't any of these that mess up alignment:
 		print("Guess I'll just append whatever...")
-		node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh]))
+		node_data.append((_norm(sdbh_words[i+offset_sdbh]), sdbh_contents[sdbh_ids[i+offset_sdbh]]["domain"], sdbh_references[i+offset_sdbh], get_glemma(sdbh_contents[sdbh_ids[i+offset_sdbh]])))
 
 		counter += 1
 		if counter > 10:
@@ -270,15 +240,29 @@ for book_abbreviation in sdbh_books:
 			print("success ({0} nodes)".format(str(len(node_data))))
 
 
-filename = "sdbh.tf"
-fileheader = '''@node
+sdbh_filename = "sdbh.tf"
+sdbh_fileheader = '''@node
 @valueType=str
 @writtenBy=James Cuénod & SDBH
 @dateWritten={0}
 
 '''.format(datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"))
-print("writing file:", filename)
+print("writing file:", sdbh_filename)
 
-with open(filename, mode='wt', encoding='utf-8') as out:
-	out.write(fileheader)
+with open(sdbh_filename, mode='wt', encoding='utf-8') as out:
+	out.write(sdbh_fileheader)
 	out.write('\n'.join(map(lambda x: x[1], node_data)))
+
+
+lxx_filename = "lxxlexeme.tf"
+lxx_fileheader = '''@node
+@valueType=str
+@writtenBy=James Cuénod & CCAT
+@dateWritten={0}
+
+'''.format(datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"))
+print("writing file:", lxx_filename)
+
+with open(lxx_filename, mode='wt', encoding='utf-8') as out:
+	out.write(lxx_fileheader)
+	out.write('\n'.join(map(lambda x: x[3], node_data)))
