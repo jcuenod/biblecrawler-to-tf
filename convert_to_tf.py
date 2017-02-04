@@ -5,6 +5,7 @@ from tf.fabric import Fabric
 import csv
 import unicodedata
 from betacode import decode
+from greekbeta_to_unicode import gk_decode
 from rules import rule_affected, solution_for_rule
 
 
@@ -265,4 +266,4 @@ print("writing file:", lxx_filename)
 
 with open(lxx_filename, mode='wt', encoding='utf-8') as out:
 	out.write(lxx_fileheader)
-	out.write('\n'.join(map(lambda x: x[3], node_data)))
+	out.write('\n'.join(map(lambda x: gk_decode(x[3]), node_data)))
